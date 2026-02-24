@@ -1,0 +1,119 @@
+IHR_01: Nacionalno zakonodavstvo, politika i financiranje
+IHR_02: Koordinacija i nacionalna kontakt točka za komunikaciju
+IHR_03: Nadzor
+IHR_04: Odgovor
+IHR_05: Spremnost
+IHR_06: Komunikacija o riziku
+IHR_07: Ljudski resursi
+IHR_08: Laboratorija
+IHR_09: Točke ulaska
+IHR_10: Zoonotski događaji
+IHR_11: Sigurnost hrane
+IHR_12: Kemijski događaji
+IHR_13: Izvanredne situacije u vezi sa zračenjem
+IO_ECOSOC: Ekonomsko i socijalno vijeće UN-a
+IO_IBRD: Međunarodna banka za obnovu i razvitak
+IO_IFC: Međunarodna financijska korporacija
+IO_IMF: Međunarodni monetarni fond
+IO_UNGA: Generalna skupština UN-a
+IO_UNSC: Vijeće sigurnosti UN-a
+256KT2MBPS: 256 kbit/s do manje od 2 Mbit/s
+2MT10MBPS: 2 Mbit/s do manje od 10 Mbit/s
+10MBPS: 10 Mbit/s ili više
+ANYS: Bilo koja brzina
+MOT_IWW: Unutarnji plovni put
+MOT_RAI: Željeznički 
+MOT_ROA: Cestovni
+MOT_SEA: Pomorski
+MOT_AIR: Zračni
+CAR: Kardiovaskularne bolesti
+CAN: Rak
+RES: Kronična respiratorna bolest
+DIA: Dijabetes
+DEFENCE: Obrana
+FAFF_DEF: Vanjski poslovi i odbrana
+FAFF_DEF_FIN: Vanjski poslovi, odbrana i finansije
+FAFF_DEF_HR: Vanjski poslovi, odbrana i ljudska prava
+FAFF_HR: Vanjski poslovi i ljudska prava
+FINANCE: Financije
+FOR_AFF: Vanjski poslovi
+GEN_EQU: Ravnopravnost spolova
+HR_GEQU: Ljudska prava i rodna ravnopravnost
+HUM_RIGH: Ljudska prava
+SKILL_ICTEMAIL: Slanje e-pošte s priloženim datotekama
+SKILL_ICTCMFL: Kopiranje ili premještanje datoteke ili mape
+SKILL_ICTCOPA: Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta 
+SKILL_ICTPCPR: Pisanje računarskog programa pomoću specijaliziranog programskog jezika
+SKILL_ICTEPRS: Izrada elektroničkih prezentacija pomoću softvera za prezentacije
+SKILL_ICTSOFT: Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera
+SKILL_ICTARSP: Korištenje osnovne aritmetičke formule u proračunskoj tablici
+SKILL_ICTTRAF: Prijenos datoteka između računara i drugih uređaja
+SKILL_INST: Povezivanje i instalacija novih uređaja
+SKILL_PRVCY: Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)
+SKILL_SCRTY: Postavljanje efikasnih sigurnosnih mjera (npr. jake lozinke, obavještenje o pokušaju prijave) za zaštitu uređaja i mrežnih računa
+SKILL_VRFY: Provjera pouzdanosti informacija pronađenih na internetu
+SKILL_MATH: Matematika
+SKILL_READ: Čitanje
+SPAR_01: Zakonodavstvo i financiranje
+SPAR_02: Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR
+SPAR_03: "Zoonotski događaji i sučelje čovjeka i životinje"
+SPAR_04: Sigurnost hrane
+SPAR_05: Laboratorija
+SPAR_06: Nadzor
+SPAR_07: Ljudski resursi
+SPAR_08: Nacionalni okvir za hitnu medicinsku pomoć
+SPAR_09: Pružanje zdravstvene usluge
+SPAR_10: Komunikacija o riziku
+SPAR_11: Točke ulaska
+SPAR_12: Kemijski događaji
+SPAR_13: Izvanredne situacije u vezi sa zračenjem
+_T: Bez podjele
+SPAR2-C01: Politika, pravni i normativni instrumenti za provedbu IHR-a (2021)
+SPAR2-C02: Koordinacija IHR-a, funkcije nacionalne kontaktne točke IHR-a i zastupanje (2021)
+SPAR2-C03: Financiranje (2021)
+SPAR2-C04: Laboratorija (2021)
+SPAR2-C05: Nadzor (2021)
+SPAR2-C06: Ljudski resursi (2021)
+SPAR2-C07: Upravljanje hitnim zdravstvenim slučajevima (2021)
+SPAR2-C08: Pružanje zdravstvenih usluga (2021)
+SPAR2-C09: Prevencija i kontrola infekcija (IPC) (2021)
+SPAR2-C10: Komunikacija o riziku i angažman zajednice (RCCE) (2021)
+SPAR2-C11: Ulazne točke (PoE) i zdravlje granica (2021)
+SPAR2-C12: Zoonotske bolesti (2021)
+SPAR2-C13: Sigurnost hrane (2021)
+SPAR2-C14: Kemijski događaji (2021)
+SPAR2-C15: Hitni slučajevi radijacije (2021)
+ALL: Svi obnovljivi izvori energije
+BIOENERGY: Bioenergija
+GEOTHERMAL: Geotermalna energija
+HYDROPOWER: Hidroenergija
+MARINE: Morska energija
+MULTIPLE: Više obnovljivih izvora
+SOLAR: Sunčeva energija
+WIND: Energija vjetra
+ALLDOMAINS: "Ukupno"
+DOMAIN1: "Prava migranata"
+DOMAIN2: "Sveobuhvatne politike, politike utemeljene na dokazima"
+DOMAIN3: "Suradnja i partnerstvo"
+DOMAIN4: "Socioekonomsko blagostanje"
+DOMAIN5: "Dimenzije krizne mobilnosti"
+DOMAIN6: "Sigurna, uredna i redovita migracija"
+BA_BANJA_LUKA: Banja Luka
+BA_SARAJEVO: Sarajevo
+BA_TUZLA: Tuzla
+BA_ZENICA: Zenica
+ATS: Stimulansi tipa amfetamina ATS
+COCAINE: Kokain
+DRUG_TOTAL: Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)
+OPIOIDS: Opijati
+policy_domains: Domenske politike
+Type_of_renewable_technology: Vrsta obnovljive tehnologije
+ihr_capacity: Kapacitet Međunarodnih zdravstvenih propisa (IHR)
+mode_of_transportation: Način transporta
+name_of_international_institution: Naziv međunarodne institucije
+name_of_non_communicable_disease: Naziv nezarazne bolesti 
+parliamentary_committees: Parlamentarni odbori
+type_of_skill: Vrsta vještine
+type_of_speed: Vrsta brzine
+name_of_the_city: Ime grada
+substance_use_disorders: Poremećaji upotrebe supstanci

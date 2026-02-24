@@ -1,0 +1,119 @@
+IHR_01: National legislation, policy and financing
+IHR_02: Coordination and National Focal Point communications
+IHR_03: Surveillance
+IHR_04: Response
+IHR_05: Preparedness
+IHR_06: Risk communication
+IHR_07: Human resources
+IHR_08: Laboratory
+IHR_09: Points of entry
+IHR_10: Zoonotic events
+IHR_11: Food safety
+IHR_12: Chemical events
+IHR_13: Radionuclear emergencies
+IO_ECOSOC: UN Economic and Social Council
+IO_IBRD: International Bank for Reconstruction and Development
+IO_IFC: International Finance Corporation
+IO_IMF: International Monetary Fund
+IO_UNGA: UN General Assembly
+IO_UNSC: UN Security Council
+256KT2MBPS: 256 kbit/s to less than 2 Mbit/s
+2MT10MBPS: 2 Mbit/s to less than 10 Mbit/s
+10MBPS: 10 Mbit/s or above
+ANYS: Any speed
+MOT_IWW: Inland waterway transport
+MOT_RAI: Rail
+MOT_ROA: Road
+MOT_SEA: Maritime
+MOT_AIR: Aire
+CAR: Cardiovascular disease
+CAN: Cancer
+RES: Chronic respiratory disease
+DIA: Diabetes
+PDEFENCE: Defence
+FAFF_DEF: Foreign Affairs and Defence
+FAFF_DEF_FIN: Foreign Affairs, Defence and Finance
+FAFF_DEF_HR: Foreign Affairs, Defence and Human Rights
+FAFF_HR: Foreign Affairs and Human Rights
+FINANCE: Finance
+FOR_AFF: Foreign Affairs
+GEN_EQU: Gender Equality
+HR_GEQU: Human Rights and Gender Equality
+HUM_RIGH: Human Rights
+SKILL_ICTEMAIL: Sending e-mails with attached files
+SKILL_ICTCMFL: Copying or moving a file or folder
+SKILL_ICTCOPA: Using copy and paste tools to duplicate or move information within a document
+SKILL_ICTPCPR: Writing a computer program using a specialized programming language
+SKILL_ICTEPRS: Creating electronic presentations with presentation software
+SKILL_ICTSOFT: Finding, downloading, installing and configuring software
+SKILL_ICTARSP: Using basic arithmetic formula in a spreadsheet
+SKILL_ICTTRAF: Transferring files between a computer and other devices
+SKILL_INST: Connecting and installing new devices
+SKILL_PRVCY: Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)
+SKILL_SCRTY: Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts
+SKILL_VRFY: Verifying the reliability of information found online 
+SKILL_MATH: Mathematics
+SKILL_READ: Reading
+SPAR_01: Legislation and Financing
+SPAR_02: IHR Coordination and National IHR Focal Point Functions
+SPAR_03: "Zoonotic events and the human\u2013animal interface"
+SPAR_04: Food safety
+SPAR_05: Laboratory
+SPAR_06: Surveillance
+SPAR_07: Human resources
+SPAR_08: National Health Emergency Framework
+SPAR_09: Health Service Provision
+SPAR_10: Risk Communication
+SPAR_11: Points of entry
+SPAR_12: Chemical events
+SPAR_13: Radiation emergencies
+_T: No breakdown
+SPAR2-C01: Policy, Legal and normative Instruments to implement IHR (2021)
+SPAR2-C02: IHR Coordination, National IHR Focal Point functions, and advocacy (2021)
+SPAR2-C03: Financing (2021)
+SPAR2-C04: Laboratory (2021)
+SPAR2-C05: Surveillance (2021)
+SPAR2-C06: Human resources (2021)
+SPAR2-C07: Health emergency management (2021)
+SPAR2-C08: Health services provision (2021)
+SPAR2-C09: Infection prevention and control (IPC) (2021)
+SPAR2-C10: Risk communication and community engagement (RCCE) (2021)
+SPAR2-C11: Points of entry (PoEs) and border health(2021)
+SPAR2-C12: Zoonotic diseases (2021)
+SPAR2-C13: Food safety (2021)
+SPAR2-C14: Chemical events (2021)
+SPAR2-C15: Radiation emergencies (2021)
+ALL: All renewables
+BIOENERGY: Bioenergy
+GEOTHERMAL: Geothermal energy
+HYDROPOWER: Hydropower
+MARINE: Marine energy
+MULTIPLE: Multiple renewables
+SOLAR: Solar energy
+WIND: Wind energy
+ALLDOMAINS: "Total"
+DOMAIN1: "Rights of migrants"
+DOMAIN2: "Comprehensive, evidence-based policies"
+DOMAIN3: "Cooperation and partnership"
+DOMAIN4: "Socioeconomic well - being"
+DOMAIN5: "Dimensions of crisis mobility"
+DOMAIN6: "Safe, orderly and regular migration"
+BA_BANJA_LUKA: Banja Luka
+BA_SARAJEVO: Sarajevo
+BA_TUZLA: Tuzla
+BA_ZENICA: Zenica
+ATS: Amphetamine type stimulants (ATS)
+COCAINE: Cocaine
+DRUG_TOTAL: Drug total (including ATS, opioids, cocaine, cannabis and other drugs)
+OPIOIDS: Opioids
+policy_domains: Policy domains
+Type_of_renewable_technology: Type of renewable technology
+ihr_capacity: IHR Capacity
+mode_of_transportation: Mode of transportation
+name_of_international_institution: Name of international institution
+name_of_non_communicable_disease: Name of non-communicable disease
+parliamentary_committees: Parliamentary committees
+type_of_skill: Type of skill
+type_of_speed: Type of speed
+name_of_the_city: City name
+substance_use_disorders: Substance use disorders

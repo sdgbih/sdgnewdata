@@ -1,0 +1,29 @@
+AGG_AGR: Agriculture products
+AGG_ARMS: Arms
+AGG_CLTH: Clothing
+AGG_IND: Industrial products
+AGG_OIL: Oil
+AGG_TXT: Textiles
+CPC2_1_111: Wheat
+CPC2_1_112: Maize
+CPC2_1_113: Rice
+CPC2_1_114: Sorghum
+BIM: Biomass
+CRO: Crops
+CPR: Crop residues
+GBO: Grazed biomass and fodder crops
+WOD: Wood
+WCH: Wild catch and harvest
+MEO: Metal ores
+FEO: Ferrous ores
+NFO: Non-ferrous ores
+NMM: Non-metallic minerals
+FOF: Fossil fuels
+COL: Coal
+PET: Petroleum
+GAS: Natural gas
+NMC: Non-metallic minerals - construction dominant
+NMA: Non-metallic minerals - industrial or agricultural dominant
+ONT: Oil shale and tar sands
+PRODUCT: Type of product
+ALP: No breakdown

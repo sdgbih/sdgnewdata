@@ -1,0 +1,106 @@
+other_info: Ostale informacije
+computation_calculations: Kalkulacije
+computation_definitions: Definicije
+computation_units: Mjerna jedinica
+goal_meta_link: Link do UN metapodataka
+indicator: Broj indikatora
+indicator_definition: Opis globalnog indikatora
+indicator_name: Naziv indikatora
+indicator_sort_order: Redoslijed prikaza indikatora (na stranici cilja)
+national_data_update_url: Podaci posljednji put ažurirani
+national_geographical_coverage: Geografska pokrivenost
+national_indicator_available: Dostupni indikatori
+national_indicator_description: Opis indikatora
+national_metadata_update_url: Posljednji put ažurirani metapodaci
+source_contact_1: Kontakt podaci
+source_contact_2: Kontakt podaci
+source_contact_3: Kontakt podaci
+source_contact_4: Kontakt podaci
+source_contact_5: Kontakt podaci
+source_contact_6: Kontakt podaci
+source_earliest_available_1: Posljednji dostupni podaci
+source_earliest_available_2: Posljednji dostupni podaci
+source_earliest_available_3: Posljednji dostupni podaci
+source_earliest_available_4: Posljednji dostupni podaci
+source_earliest_available_5: Posljednji dostupni podaci
+source_earliest_available_6: Posljednji dostupni podaci
+source_geographical_coverage_1: Geografska pokrivenost
+source_geographical_coverage_2: Geografska pokrivenost
+source_geographical_coverage_3: Geografska pokrivenost
+source_geographical_coverage_4: Geografska pokrivenost
+source_geographical_coverage_5: Geografska pokrivenost
+source_geographical_coverage_6: Geografska pokrivenost
+source_next_release_1: Sljedeće izdanje
+source_next_release_2: Sljedeće izdanje
+source_next_release_3: Sljedeće izdanje
+source_next_release_4: Sljedeće izdanje
+source_next_release_5: Sljedeće izdanje
+source_next_release_6: Sljedeće izdanje
+source_organisation_1: Organizacija
+source_organisation_2: Organizacija
+source_organisation_3: Organizacija
+source_organisation_4: Organizacija
+source_organisation_5: Organizacija
+source_organisation_6: Organizacija
+source_other_info_1: Ostale informacije
+source_other_info_2: Ostale informacije
+source_other_info_3: Ostale informacije
+source_other_info_4: Ostale informacije
+source_other_info_5: Ostale informacije
+source_other_info_6: Ostale informacije
+source_periodicity_1: Periodičnost
+source_periodicity_2: Periodičnost
+source_periodicity_3: Periodičnost
+source_periodicity_4: Periodičnost
+source_periodicity_5: Periodičnost
+source_periodicity_6: Periodičnost
+source_release_date_1: Datum izdavanja
+source_release_date_2: Datum izdavanja
+source_release_date_3: Datum izdavanja
+source_release_date_4: Datum izdavanja
+source_release_date_5: Datum izdavanja
+source_release_date_6: Datum izdavanja
+source_statistical_classification_1: Statistička klasifikacija
+source_statistical_classification_2: Statistička klasifikacija
+source_statistical_classification_3: Statistička klasifikacija
+source_statistical_classification_4: Statistička klasifikacija
+source_statistical_classification_5: Statistička klasifikacija
+source_statistical_classification_6: Statistička klasifikacija
+source_url_1: Link do izvora podataka
+source_url_2: Link do izvora podataka
+source_url_3: Link do izvora podataka
+source_url_4: Link do izvora podataka
+source_url_5: Link do izvora podataka
+source_url_6: Link do izvora podataka
+target: Naziv podcilja
+target_id: Broj podcilja
+un_custodian_agency: UN kustos agencija
+un_designated_tier: UN-ov označeni stepen
+quality_assurance: Osiguranje kvaliteta
+international_comparability: Uporedivost sa međunarodnim podacima/standardima
+comments_limitations: Komentari i ograničenja
+rationale_interpretation: Racionalno i tumačenje
+copyright: Autorska prava
+indicator_global_description_1_1_1: "Indikator udio stanovništva ispod međunarodne linije siromaštva definiran je kao postotak stanovništva koji živi s manje od 2,15 dolara dnevno po međunarodnim cijenama u 2017. godini. Udio stanovništva zaposlenog ispod međunarodne linije siromaštva od 1,90 dolara dnevno , koji se naziva i stopa zaposlenosti siromaštva, definisana kao udio zaposlenih osoba koje žive u domaćinstvima sa potrošnjom po glavi stanovnika ili prihodima ispod međunarodne linije siromaštva od 1,90 USD"
+indicator_global_description_1_3_1: "Pokazatelj odražava udio osoba koje su efektivno obuhvaćene sustavom socijalne zaštite, uključujući i donje granice socijalne zaštite. Također odražava glavne sastavnice socijalne zaštite: dječje i rodiljne naknade, potporu nezaposlenima, osobama s invaliditetom, pomoć nezaposlenima, osobe s invaliditetom, žrtve ozljeda na radu i starije osobe. Učinkovita pokrivenost socijalnom zaštitom mjeri se brojem ljudi koji ili aktivno doprinose programu socijalne sigurnosti ili primaju naknade"
+оther_info_1_3_1: Izvor podataka za varijablu “Udio nezaposlenih koji primaju novčanu naknadu” je BHAS i Agencija za rad i zapošljavanje Bosne i Hercegovine
+indicator_global_description_2_a_1: "Indeks usmjerenosti na poljoprivredu (AOI) za državne rashode definiran je kao udio poljoprivrede u državnim rashodima, podijeljen s udjelom poljoprivredne dodane vrijednosti u BDP - u, gdje se poljoprivreda odnosi na sektor poljoprivrede, šumarstva, ribarstva i lova. Mjera je indeks bez valute, izračunat kao omjer ova dva udjela. Od nacionalnih vlada se traži da sastave državne rashode prema Statistici državnih financija (GFS) i Klasifikaciji funkcija države (COFOG), te udio poljoprivredne dodane vrijednosti u BDP - u prema Sustavu nacionalnih računa (SNA)"
+indicator_global_description_2_c_1: "Pokazatelj anomalija cijena hrane (IFPA) identificira tržišne cijene koje su neuobičajeno visoke. IFPA se oslanja na ponderiranu složenu stopu rasta koja uzima u obzir unutargodišnji i međugodišnji rast cijena. Pokazatelj izravno procjenjuje rast cijena u određenom mjesecu tijekom mnogo godina, uzimajući u obzir sezonalnost poljoprivrednih tržišta i inflaciju, omogućujući odgovor na pitanje je li promjena cijene nenormalna za bilo koje određeno razdoblje"
+indicator_global_description_3_1_2: "Percentage of births attended by skilled health personnel"
+indikator_global_description_3_1_2: "Udio poroda na kojima je prisustvovalo kvalificirano zdravstveno osoblje"
+indikator_global_description_3_2_1: "Stopa smrtnosti djece ispod pet godina je vjerojatnost da će dijete rođeno u određenoj godini ili razdoblju umrijeti prije nego navrši 5 godina, ako podliježe dobno specifičnim stopama mortaliteta za to razdoblje, izraženo kao smrtni slučajevi na 1000 živorođenih. Stopa neonatalnog mortaliteta je vjerojatnost da će dojenče rođeno u određenoj godini ili razdoblju umrijeti tijekom prvih 28 dana života, ako podliježe dobno specifičnim stopama mortaliteta, izražena na 1000 živorođene djece"
+indicator_global_description_3_2_2: "Vjerojatnost da će dijete rođeno u određenoj godini ili razdoblju umrijeti tijekom prvih 28 navršenih dana života ako se podvrgne dobno specifičnim stopama mortaliteta tog razdoblja, izraženo na 1000 živorođene djece. Neonatalne smrti (smrti među živorođenom djecom tijekom prvih 28 navršenih dana života) mogu se dalje podijeliti na rane neonatalne smrti, koje se javljaju tijekom prvih 7 dana života, i kasne neonatalne smrti, koje se javljaju nakon 7. dana, ali prije 28. navršenog dana života"
+indicator_global_description_3_4_1: "Vjerojatnost umiranja između 30. i 70. godine od kardiovaskularnih bolesti, raka, dijabetesa ili kronične bolesti dišnog sustava definira se kao postotak 30 - godišnjaka koji bi umrli prije svoje 70. godine od kardiovaskularnih bolesti, raka, dijabetesa, ili kronične respiratorne bolesti, pod pretpostavkom da će on / ona doživjeti trenutne stope smrtnosti u svakoj dobi i da neće umrijeti od bilo kojeg drugog uzroka smrti (npr. ozljeda ili HIV / AIDS)"
+indicator_global_description_4_3_1: "Postotak mladih i odraslih u određenom dobnom rasponu (15-24 godine, 25-54 godine, 55-64 godine, 15-64 godine) koji sudjeluju u formalnom ili neformalnom obrazovanju i osposobljavanju u prethodnih 12 mjeseci"
+indikator_global_description_5_2_1: "Ovaj pokazatelj mjeri postotak žena i djevojaka u dobi od 15 godina i starijih koje su ikada bile u partnerskom odnosu koje su bile izložene fizičkom, seksualnom ili psihičkom nasilju od strane sadašnjeg ili bivšeg intimnog partnera u prethodnih 12 mjeseci"
+indikator_global_description_6_3_2: "Indikator se definira kao udio vodnih površina u zemlji koja imaju dobru kvalitetu okolne vode. Kvaliteta okolišne vode odnosi se na prirodnu, nepročišćenu vodu u rijekama, jezerima i podzemnim vodama i predstavlja kombinaciju prirodnih utjecaja zajedno s utjecajima svih antropogenih aktivnosti. Pokazatelj se oslanja na podatke o kvaliteti vode dobivene iz mjerenja na licu mjesta i analizu uzoraka prikupljenih iz površinskih i podzemnih voda. Kakvoća vode procjenjuje se temeljnim fizičkim i kemijskim parametrima koji odražavaju prirodnu kakvoću vode povezanu s klimatskim i geološkim čimbenicima, zajedno s glavnim utjecajima na kvalitetu vode. Kontinuirano praćenje svih površinskih i podzemnih voda je ekonomski neizvedivo i nije potrebno za dostatnu karakterizaciju statusa okolišne kvalitete vode u zemlji. Stoga zemlje odabiru rijeke, jezera i tijela podzemnih voda koje su reprezentativne i značajne za procjenu i upravljanje kvalitetom vode za praćenje i izvješćivanje o pokazatelju 6. 3. 2. Status kakvoće pojedinačnih vodnih tijela klasificira se na temelju usklađenosti dostupnih podataka praćenja kakvoće vode za osnovne parametre s ciljnim vrijednostima koje je definirala država. Indikator se izračunava kao udio broja vodnih tijela klasificiranih kao vodna tijela dobre kakvoće (tj. s najmanje 80 procenata usklađenosti) prema ukupnom broju ocijenjenih vodnih tijela, izraženo kao postotak"
+indicator_global_description_7_1_2: "Udio stanovništva koji se primarno oslanja na čista goriva i tehnologiju izračunava se kao broj ljudi koji koriste čista goriva i tehnologije za kuhanje, grijanje i osvjetljenje podijeljen sa ukupnim stanovništvom koje izvještava o bilo kakvom kuhanju, grijanju ili rasvjeti, izraženo u postocima. Čisto je definisano ciljanim stopama emisije i specifičnim preporukama za gorivo (tj. nekorišćenje neprerađenog uglja i kerozina) koje su uključene u normativne smjernice SZO za kvalitet zraka u zatvorenom prostoru, sagorijevanje goriva u domaćinstvu"
+indicator_global_description_7_a_1: "Tokovi koje pokriva OECD definiraju se kao svi zvanični zajmovi, grantovi i dioničke investicije koje primaju zemlje na DAC listi primalaca ODA od stranih vlada i multilateralnih agencija, u svrhu istraživanja i razvoja čiste energije i proizvodnje obnovljive energije, uključujući u hibridni sistemi izvučeni iz OECD/DAC sistema za izvještavanje o kreditorima (CRS).Tokovi koje pokriva IRENA definiraju su kao svi dodatni zajmovi, grantovi i dioničke investicije koje primaju zemlje u razvoju (definirane kao zemlje u regijama u razvoju, kako je navedeno u UN M49 sastavu regija) od svih stranih vlada, multilateralnih agencija i dodatnih institucija za finansiranje razvoja (uključujući izvozne kredite, gdje su dostupni) u svrhu istraživanja i razvoja čiste energije i proizvodnje obnovljive energije, uključujući hibridne sisteme. Ovi dodatni tokovi pokrivaju iste tehnologije i druge aktivnosti (istraživanje i razvoj, tehnička pomoć, itd.) kao što je gore navedeno i isključuju sve tokove izvučene iz OECD / DAC CRS - a"
+indicator_global_description_8_6_1: "Ovaj pokazatelj pokazuje udio mladih (u dobi od 15 - 24 godine) koji nisu u obrazovanju, zapošljavanju ili obuci (također poznat kao stopa mladih NEET)"
+indicator_global_description_9_2_1: "Dodatna vrijednost proizvodnje (MVA) kao udio bruto domaćeg proizvoda (BDP) je omjer između MVA i BDP-a, oba iskazana u konstantnom dolarima za 2015. godinu. Dodatna proizvodna vrijednost (MVA) po glavi stanovnika izračunava se dijeljenjem dodane vrijednosti proizvodnje (MVA) u konstanti USD 2015 sa stanovništvom zemlje ili područja"
+indicator_global_description_11_2_1: "Ovaj pokazatelj će se pratiti udjelom stanovništva koje ima pogodan pristup javnom prijevozu. Pristup javnom prijevozu se smatra pogodnim kada je stajalište dostupno na pješačkoj udaljenosti duž ulične mreže od 500 m od referentne tačke kao što je dom, škola, radno mjesto, tržnica, itd do sistema javnog prijevoza niskog kapaciteta (npr. autobus, brzi javni prevoz) i / ili 1 km do sistema velikog kapaciteta (npr. željeznica, metro, trajekt)"
+indicator_global_description_12_c_1: "Kako bi se izmjerile subvencije za fosilna goriva na nacionalnoj, regionalnoj i globalnoj razini, preporučuju se tri podindikatora za izvješćivanje o ovom pokazatelju, (1) izravni prijenos državnih sredstava, (2) inducirani transferi (podrška cijena) i kao izborni pod-pokazatelj (3) porezni izdaci, ostali izgubljeni prihodi i niže cijene dobara i usluga. Za definiranje subvencija za fosilna goriva koriste se definicije Statističkog priručnika IEA (IEA, 2005.) i Sporazuma o subvencijama i kompenzacijskim mjerama (ASCM) Svjetske trgovinske organizacije (WTO) (WTO, 1994.). Standardizirani opisi iz Središnje klasifikacije proizvoda Statističkog ureda Ujedinjenih naroda trebali bi se koristiti za klasifikaciju pojedinačnih energetskih proizvoda"
+indicator_global_description_15_5_1:  "Indeks Crvenog popisa mjeri promjene u ukupnom riziku od izumiranja među skupinama vrsta. Temelji se na stvarnim promjenama u broju vrsta u svakoj kategoriji rizika od izumiranja na Crvenom popisu ugroženih vrsta IUCN-a (www.iucnredlist.org) izražava se kao promjene u indeksu u rasponu od 0 do 1."
+indicator_global_description_15_a_1: "Ovo je dvostruki pokazatelj koji se sastoji od (a) službene razvojne pomoći za očuvanje i održivo korištenje biološke raznolikosti, definirane kao bruto isplata ukupne službene razvojne pomoći (ODA) od svih donatora bioraznolikosti, (b) ostvarenih prihoda i mobiliziranih financijskih sredstava od ekonomskih instrumenata relevantnih za bioraznolikost, definiranih kao prihodi i financije mobilizirani od ekonomskih instrumenata relevantnih za biološku raznolikost, koji pokrivaju poreze, naknade i pristojbe za bioraznolikost i pozitivne subvencije"
+indicator_global_description_17_3_1: "Izravna strana ulaganja (SDI) kategorija su ulaganja koja odražavaju cilj uspostavljanja trajnog interesa poduzeća rezidenta u jednom gospodarstvu (izravni ulagač) u poduzeću (poduzeću s izravnim ulaganjem) rezidentu gospodarstva koje nije izravni ulagač. Trajni interes podrazumijeva postojanje dugoročnog odnosa između izravnog ulagatelja i društva za izravna ulaganja te značajan stupanj utjecaja na upravljanje društvom. Izravno ili neizravno vlasništvo nad 10 posto ili više glasačke moći poduzeća rezidenta jedne ekonomije od strane investitora rezidenta druge ekonomije uzima se kao dokaz takvog odnosa. Za OECD referentnu definiciju izravnih stranih ulaganja – 4 izdanje i UNCTAD rade na statistici izravnih stranih ulaganja"
+indicator_global_description_17_8_1: "Udio pojedinaca koji koriste internet definiran je kao udio pojedinaca koji su koristili internet sa bilo koje lokacije u posljednja tri mjeseca."

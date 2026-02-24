@@ -1,0 +1,60 @@
+Year: Year
+Month: Month
+Value: Value
+total: Total
+Entity: Entity
+vat: VAT
+customs: Customs
+type of revenue: Type of revenue
+non seasonal: "Non-Seasonally adjusted Q/Q-4"
+seasonal: "Seasonally adjusted Q/Q-1"
+final trend: "Final trend Q/Q-1"
+Type: Type
+type of product: Type of product
+excise duties on import goods: Excise duties on import goods
+excise duties on domestic goods: Excise duties on domestic goods
+road tax on petroleum products: Road tax on petroleum products
+other income and charges: Other income and charges
+export_2019: Export 2019
+import_2019: Import 2019
+export_2020: Export 2020
+import_2020: Import 2020
+export_2021: Export 2021
+import_2021: Import 2021
+intermediate goods: Intermediate goods
+energy: Energy
+capital goods: Capital goods
+consumer durables: Consumer durables
+consumer non-durables: Consumer non-durables
+overall index 2019: Overall Index 2019
+overall index 2020: Overall Index 2020
+overall index 2021: Overall Index 2021
+domestic market 2019: Domestic market 2019
+domestic market 2020: Domestic market 2020
+domestic market 2021: Domestic market 2021
+non-domestic market 2019: Non-domestic market 2019
+non-domestic market 2020: Non-domestic market 2020
+non-domestic market 2021: Non-domestic market 2021
+Total retail trade 2019: Total retail trade 2019
+Total retail trade 2020: Total retail trade 2020
+Total retail trade 2021: Total retail trade 2021
+average monthly gross earning: Average monthly gross earning
+average monthly paid off net earning: Average monthly paid off net earning 
+employed 2019: Employed 2019
+employed 2020: Employed 2020
+employed 2021: Employed 2021
+cross- border traffic total - Entry: "Cross- border traffic total - Entry"
+cross- border traffic total - Exit: "Cross- border traffic total - Exit"
+road transport of goods: Road transport of goods
+tons of goods transported: Tons of goods transported
+freight transported: Freight transported
+domestic tourist_2019: Domestic tourist 2019
+domestic tourist_2020: Domestic tourist 2020
+domestic tourist_2021: Domestic tourist 2021
+foreign tourist_2019: Foreign tourist 2019
+foreign tourist_2020: Foreign tourist 2020
+foreign tourist_2021: Foreign tourist 2021
+available for final consumption_2019: Available for final consumption 2019
+available for final consumption_2020: Available for final consumption 2020
+available for final consumption_2021: Available for final consumption 2021
+
