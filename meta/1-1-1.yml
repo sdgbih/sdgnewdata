@@ -1,0 +1,25 @@
+composite_breakdown_label: ''
+computation_units: Percentage
+copyright: ''
+data_non_statistical: false
+data_show_map: false
+db_indicator_id: sdg_01_10
+goal_meta_link: 'https://sdg-pathway-data.github.io/sdg-metadata/en/1-1-1.html'
+goal_meta_link_text: Project Metadata (PDF)
+indicator_name:
+  en: People at risk of poverty or social exclusion
+  bs: Osobe u riziku od siromaštva ili socijalne isključenosti
+  sr: Особе у ризику од сиромаштва или социјалне искључености
+  hr: Osobe u riziku od siromaštva ili socijalne isključenosti
+indicator_number: 1.1.1
+indicator_sort_order: 01-01-01
+reporting_status: complete
+published: true
+sdg_goal: '1'
+target_name:
+  en: By 2030, eradicate extreme poverty for all people everywhere
+  bs: Do 2030. iskorijeniti ekstremno siromaštvo za sve ljude svugdje
+  sr: До 2030. искоријенити екстремно сиромаштво за све људе свугдје
+  hr: Do 2030. iskorijeniti ekstremno siromaštvo za sve ljude svugdje
+un_custodian_agent: Eurostat
+un_designated_tier: '1'
