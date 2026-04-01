@@ -16,14 +16,26 @@
             "title": "Godina"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Varijable"
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Units",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

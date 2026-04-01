@@ -3,6 +3,65 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "1-1-1-a/data.csv",
+      "name": "1-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cities",
+                "Towns and suburbs",
+                "Rural areas",
+                ""
+              ]
+            },
+            "title": "Urbanisation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-1-a-title"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -18,14 +77,26 @@
             "title": "Година"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Варијабле"
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Units",
             "type": "string",
-            "title": "Мјерна јединица"
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

@@ -16,14 +16,26 @@
             "title": "Година"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Варијабле"
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Units",
             "type": "string",
-            "title": "Мјерна јединица"
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

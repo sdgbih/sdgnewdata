@@ -15,12 +15,24 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -16,14 +16,26 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Units",
             "type": "string",
-            "title": "Unit of measure"
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
