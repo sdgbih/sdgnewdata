@@ -4,7 +4,6 @@ copyright: ''
 data_non_statistical: false
 data_show_map: false
 db_indicator_id: sdg_01_10
-goal_meta_link: 'https://sdg-pathway-data.github.io/sdg-metadata/en/1-1-1.html'
 goal_meta_link_text: Project Metadata (PDF)
 indicator_name:
   en: People at risk of poverty or social exclusion
