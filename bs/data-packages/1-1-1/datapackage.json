@@ -16,20 +16,30 @@
             "title": "Godina"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Percentage",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
@@ -38,5 +48,10 @@
   ],
   "profile": "data-package",
   "name": "1-1-1",
-  "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+  "title": {
+    "en": "People at risk of poverty or social exclusion",
+    "bs": "Osobe u riziku od siromaštva ili socijalne isključenosti",
+    "sr": "Особе у ризику од сиромаштва или социјалне искључености",
+    "hr": "Osobe u riziku od siromaštva ili socijalne isključenosti"
+  }
 }

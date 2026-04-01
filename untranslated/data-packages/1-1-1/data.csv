@@ -1,7 +1,9 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Series,Value
+2015,Percentage,Total,24.0
+2016,Percentage,Total,23.8
+2017,Percentage,Total,23.9
+2018,Percentage,Total,21.9
+2019,Percentage,Total,21.1
+2020,Percentage,Total,21.6
+2021,Percentage,Total,21.7
+2022,Percentage,Total,21.6
