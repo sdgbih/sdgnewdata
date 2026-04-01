@@ -1,9 +1,9 @@
-Year,Units,Series,Value
-2015,Percentage,Total,24.0
-2016,Percentage,Total,23.8
-2017,Percentage,Total,23.9
-2018,Percentage,Total,21.9
-2019,Percentage,Total,21.1
-2020,Percentage,Total,21.6
-2021,Percentage,Total,21.7
-2022,Percentage,Total,21.6
+Year,SERIES,UNIT_MEASURE,Value
+2015,Persons at risk of poverty or social exclusion,Percent,24.0
+2016,Persons at risk of poverty or social exclusion,Percent,23.8
+2017,Persons at risk of poverty or social exclusion,Percent,23.9
+2018,Persons at risk of poverty or social exclusion,Percent,21.9
+2019,Persons at risk of poverty or social exclusion,Percent,21.1
+2020,Persons at risk of poverty or social exclusion,Percent,21.6
+2021,Persons at risk of poverty or social exclusion,Percent,21.7
+2022,Persons at risk of poverty or social exclusion,Percent,21.6

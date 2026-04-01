@@ -1,9 +1,9 @@
-Year,Value,Units,Series
-2015,24.0,Percentage,Total
-2016,23.8,Percentage,Total
-2017,23.9,Percentage,Total
-2018,21.9,Percentage,Total
-2019,21.1,Percentage,Total
-2020,21.6,Percentage,Total
-2021,21.7,Percentage,Total
-2022,21.6,Percentage,Total
+Year,Value,UNIT_MEASURE,SERIES
+2015,24.0,Procenat,Osobe u riziku od siromaštva ili socijalne isključenosti
+2016,23.8,Procenat,Osobe u riziku od siromaštva ili socijalne isključenosti
+2017,23.9,Procenat,Osobe u riziku od siromaštva ili socijalne isključenosti
+2018,21.9,Procenat,Osobe u riziku od siromaštva ili socijalne isključenosti
+2019,21.1,Procenat,Osobe u riziku od siromaštva ili socijalne isključenosti
+2020,21.6,Procenat,Osobe u riziku od siromaštva ili socijalne isključenosti
+2021,21.7,Procenat,Osobe u riziku od siromaštva ili socijalne isključenosti
+2022,21.6,Procenat,Osobe u riziku od siromaštva ili socijalne isključenosti
