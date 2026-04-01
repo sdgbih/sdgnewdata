@@ -1,21 +1,41 @@
+# 1. Basic Identity (Required for the site to find the file)
 indicator_number: 1.1.1
 reporting_status: complete
 published: true
 sdg_goal: '1'
+indicator_sort_order: 01-01-01
 
-# The 'main' keys must be simple strings for the search indexer
+# 2. Search-Safe Strings (Plain text to prevent the "Hash into String" crash)
 indicator_name: People at risk of poverty or social exclusion
 graph_title: People at risk of poverty or social exclusion
+target_name: By 2030, eradicate extreme poverty for all people everywhere
 
-# The translations go into these specific keys
-indicator_name_translations:
-  en: People at risk of poverty or social exclusion
-  bs: Osobe u riziku od siromaštva ili socijalne isključenosti
-  sr: Особе у ризику од сиромаштва или социјалне искључености
-  hr: Osobe u riziku od siromaštva ili socijalne isključenosti
+# 3. Direct Translation Block (This fixes the "same title in all languages" issue)
+# This bypasses the need for remote translation repos.
+translations:
+  en:
+    indicator_name: People at risk of poverty or social exclusion
+    graph_title: People at risk of poverty or social exclusion
+    target_name: By 2030, eradicate extreme poverty for all people everywhere
+    computation_units: Percentage
+  bs:
+    indicator_name: Osobe u riziku od siromaštva ili socijalne isključenosti
+    graph_title: Osobe u riziku od siromaštva ili socijalne isključenosti
+    target_name: Do 2030. iskorijeniti ekstremno siromaštvo za sve ljude svugdje
+    computation_units: Procenat
+  sr:
+    indicator_name: Особе у ризику од сиромаштва или социјалне искључености
+    graph_title: Особе у ризику од сиромаштва или социјалне искључености
+    target_name: До 2030. искоријенити екстремно сиромаштво за све људе свугдје
+    computation_units: Проценат
+  hr:
+    indicator_name: Osobe u riziku od siromaštva ili socijalne isključenosti
+    graph_title: Osobe u riziku od siromaštva ili socijalne isključenosti
+    target_name: Do 2030. iskorijeniti ekstremno siromaštvo za sve ljude svugdje
+    computation_units: Postotak
 
-graph_title_translations:
-  en: People at risk of poverty or social exclusion
-  bs: Osobe u riziku od siromaštva ili socijalne isključenosti
-  sr: Особе у ризику од сиромаштва или социјалне искључености
-  hr: Osobe u riziku od siromaštva ili socijalne isključenosti
+# 4. Source Info
+un_custodian_agent: Eurostat
+un_designated_tier: '1'
+data_non_statistical: false
+data_show_map: false
