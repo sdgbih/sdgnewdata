@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Godina"
           },
           {
             "name": "Series",
@@ -53,13 +53,13 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Vrijednost"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "1-1-1-a",
-  "title": "global_indicators.1-1-1-a-title"
+  "name": "1-1-1a",
+  "title": "global_indicators.1-1-1a-title"
 }

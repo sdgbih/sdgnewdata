@@ -49,8 +49,8 @@
       "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
-      "path": "1-1-1-a/data.csv",
-      "name": "1-1-1-a",
+      "path": "1-1-1a/data.csv",
+      "name": "1-1-1a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -105,7 +105,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-1-a-title"
+      "title": "global_indicators.1-1-1a-title"
     },
     {
       "path": "1-1-1/data.csv",
