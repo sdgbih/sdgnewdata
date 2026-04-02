@@ -16,9 +16,15 @@
             "title": "Godina"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Serije"
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Units",

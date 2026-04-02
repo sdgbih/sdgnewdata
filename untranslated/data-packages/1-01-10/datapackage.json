@@ -15,8 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
           },
           {
             "name": "Units",
