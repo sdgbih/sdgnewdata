@@ -11,24 +11,6 @@ repo_link: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_01_10a/default/ta
 indicator_name: global_indicators.1-1-1a-title
 graph_title: global_indicators.1-1-1a-title
 
-translations:
-  en:
-    indicator_name: Share of persons at risk of poverty or social exclusion by degree of urbanisation
-    graph_title: Share of persons at risk of poverty or social exclusion by degree of urbanisation
-    urbanisation: Degree of urbanisation
-  bs:
-    indicator_name: Udio osoba u riziku od siromaštva ili socijalne isključenosti prema stepenu urbanizacije
-    graph_title: Udio osoba u riziku od siromaštva ili socijalne isključenosti prema stepenu urbanizacije
-    urbanisation: Stepen urbanizacije
-  sr:
-    indicator_name: Удио особа у ризику од сиромаштва или социјалне искључености према степену урбанизације
-    graph_title: Удио особа у ризику од сиромаштва или социјалне искључености према степену урбанизације
-    urbanisation: Степен урбанизације
-  hr:
-    indicator_name: Udio osoba u riziku od siromaštva ili socijalne isključenosti prema stupnju urbanizacije
-    graph_title: Udio osoba u riziku od siromaštva ili socijalne isključenosti prema stupnju urbanizacije
-    urbanisation: Stupanj urbanizacije
-
 data_non_statistical: false
 footer_fields:
   - unit_label: Percentage
