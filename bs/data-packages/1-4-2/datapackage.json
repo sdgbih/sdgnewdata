@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-4-2",
+  "title": "Udio ukupne populacije odraslih osoba koje imaju sigurna zemljišna prava, (a) sa zakonski priznatom dokumentacijom, i (b) koji smatraju da su njihova zemljišna prava sigurna, po spolu i vrsti prava na zemlji"
+}
