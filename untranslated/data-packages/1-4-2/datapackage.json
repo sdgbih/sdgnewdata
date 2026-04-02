@@ -35,6 +35,16 @@
             }
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than 65 years",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

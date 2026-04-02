@@ -38,6 +38,17 @@
             "title": "Units"
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than 65 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
