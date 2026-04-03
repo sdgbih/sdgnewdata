@@ -6,17 +6,20 @@ data_non_statistical: false
 graph_type: line
 indicator_sort_order: '01-01-01'
 
-# Mapiranje tvojih prevoda na sistemska polja
-computation_units: global_indicators.1-1-1-definition
-policy_relevance: global_indicators.1-1-1-intention
+# Mapiranje na ultra-standardna polja
+indicator_definition: global_indicators.1-1-1-definition
+rationale: global_indicators.1-1-1-intention
 methodology_characteristics: global_indicators.1-1-1-methodology
 
-# Izvori podataka
+# Dodajemo i ove verzije jer ih neki layouti traže pod ovim imenom
+national_indicator_definition: global_indicators.1-1-1-definition
+national_indicator_rationale: global_indicators.1-1-1-intention
+
+# Izvori
 source_active_1: true
 source_organisation_1: Eurostat (EU-SILC)
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_01_10/default/table'
 
-# Footer polja
 footer_fields:
   - label: global_indicators.metadata-footer-label
     value: <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_10_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_01_10)</a>
