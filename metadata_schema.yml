@@ -992,17 +992,17 @@ prose:
           element: text
           label: Indicator definition
           translation_key: global_indicators.1-1-1-definition
-          scope: national
+          scope: global
       - name: rationale
         field:
           element: text
           label: Rationale
           translation_key: global_indicators.1-1-1-intention
-          scope: national
+          scope: global
       - name: methodology_characteristics
         field:
           element: text
           label: Methodology
           translation_key: global_indicators.1-1-1-methodology
-          scope: national
+          scope: global
   ignore: ['/scripts', '/.github']
