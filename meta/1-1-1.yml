@@ -11,10 +11,6 @@ indicator_definition: global_indicators.1-1-1-definition
 rationale: global_indicators.1-1-1-intention
 methodology_characteristics: global_indicators.1-1-1-methodology
 
-# Dodajemo i ove verzije jer ih neki layouti traže pod ovim imenom
-national_indicator_definition: global_indicators.1-1-1-definition
-national_indicator_rationale: global_indicators.1-1-1-intention
-
 # Izvori
 source_active_1: true
 source_organisation_1: Eurostat (EU-SILC)

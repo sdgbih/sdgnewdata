@@ -432,12 +432,6 @@ prose:
             label: Other methodological considerations
             translation_key: metadata_fields.OTHER_METHOD
             scope: national
-      - name: RATIONALE
-        field:
-            element: text
-            label: Rationale
-            translation_key: metadata_fields.RATIONALE
-            scope: national
       - name: REC_USE_LIM
         field:
             element: text
@@ -993,4 +987,22 @@ prose:
             label: UN designated tier
             translation_key: metadata_fields.un_designated_tier
             scope: global
+      - name: indicator_definition
+        field:
+          element: text
+          label: Indicator definition
+          translation_key: global_indicators.1-1-1-definition
+          scope: national
+      - name: rationale
+        field:
+          element: text
+          label: Rationale
+          translation_key: global_indicators.1-1-1-intention
+          scope: national
+      - name: methodology_characteristics
+        field:
+          element: text
+          label: Methodology
+          translation_key: global_indicators.1-1-1-methodology
+          scope: national
   ignore: ['/scripts', '/.github']
