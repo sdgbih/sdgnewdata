@@ -990,19 +990,19 @@ prose:
       - name: indicator_definition
         field:
           element: text
-          label: Indicator definition
+          label: global_indicators.definition-label
           translation_key: global_indicators.1-1-1-definition
           scope: global
       - name: rationale
         field:
           element: text
-          label: Rationale
+          label: global_indicators.rationale-label
           translation_key: global_indicators.1-1-1-intention
           scope: global
       - name: methodology_characteristics
         field:
           element: text
-          label: Methodology
+          label: global_indicators.methodology-label
           translation_key: global_indicators.1-1-1-methodology
           scope: global
   ignore: ['/scripts', '/.github']
