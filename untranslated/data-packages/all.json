@@ -37,12 +37,78 @@
             }
           },
           {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
       "title": "1-2-1"
+    },
+    {
+      "path": "2-4-1/data.csv",
+      "name": "2-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "2-4-1"
     },
     {
       "path": "1-1-1/data.csv",
@@ -79,12 +145,78 @@
             }
           },
           {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
       "title": "1-1-1"
+    },
+    {
+      "path": "2-1-1/data.csv",
+      "name": "2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "2-1-1"
     },
     {
       "path": "1-4-1/data.csv",
@@ -121,13 +253,13 @@
             }
           },
           {
-            "name": "Age",
+            "name": "Poverty status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Less than 65 years",
-                "Less than 18 years",
-                "18 to 64 years",
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
                 ""
               ]
             }
@@ -175,11 +307,13 @@
             }
           },
           {
-            "name": "Age",
+            "name": "Poverty status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Less than 65 years",
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
                 ""
               ]
             }
@@ -191,6 +325,114 @@
         ]
       },
       "title": "1-4-2"
+    },
+    {
+      "path": "2-5-3/data.csv",
+      "name": "2-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "2-5-3"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "2-2-1"
     },
     {
       "path": "1-5-1/data.csv",
@@ -247,6 +489,114 @@
       "title": "1-5-1"
     },
     {
+      "path": "2-6-0/data.csv",
+      "name": "2-6-0",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "2-6-0"
+    },
+    {
+      "path": "2-3-1/data.csv",
+      "name": "2-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "2-3-1"
+    },
+    {
       "path": "1-3-1/data.csv",
       "name": "1-3-1",
       "profile": "tabular-data-resource",
@@ -281,24 +631,13 @@
             }
           },
           {
-            "name": "Age",
+            "name": "Poverty status",
             "type": "string",
             "constraints": {
               "enum": [
-                "All ages",
-                "Less than 18 years",
-                "18 to 64 years",
-                "65 years or over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
                 ""
               ]
             }

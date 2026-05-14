@@ -38,6 +38,19 @@
             "title": "Units"
           },
           {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            },
+            "title": "Poverty status"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

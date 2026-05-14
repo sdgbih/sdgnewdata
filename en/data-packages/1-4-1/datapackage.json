@@ -38,17 +38,17 @@
             "title": "Units"
           },
           {
-            "name": "Age",
+            "name": "Poverty status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Less than 65 years",
-                "Less than 18 years",
-                "18 to 64 years",
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Poverty status"
           },
           {
             "name": "Value",
