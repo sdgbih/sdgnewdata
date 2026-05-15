@@ -3,65 +3,6 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            },
-            "title": "Poverty status"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "1-2-1"
-    },
-    {
       "path": "2-4-1/data.csv",
       "name": "2-4-1",
       "profile": "tabular-data-resource",
@@ -180,65 +121,6 @@
       "title": "1-1-1"
     },
     {
-      "path": "2-1-1/data.csv",
-      "name": "2-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            },
-            "title": "Poverty status"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "2-1-1"
-    },
-    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -296,6 +178,65 @@
         ]
       },
       "title": "1-4-1"
+    },
+    {
+      "path": "2-1-1/data.csv",
+      "name": "2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            },
+            "title": "Poverty status"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "2-1-1"
     },
     {
       "path": "1-4-2/data.csv",
@@ -416,8 +357,8 @@
       "title": "2-5-3"
     },
     {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
+      "path": "2-6-0/data.csv",
+      "name": "2-6-0",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -472,7 +413,7 @@
           }
         ]
       },
-      "title": "2-2-1"
+      "title": "2-6-0"
     },
     {
       "path": "1-5-1/data.csv",
@@ -534,8 +475,8 @@
       "title": "1-5-1"
     },
     {
-      "path": "2-6-0/data.csv",
-      "name": "2-6-0",
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -590,7 +531,66 @@
           }
         ]
       },
-      "title": "2-6-0"
+      "title": "1-2-1"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Poverty status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "At risk of poverty",
+                "Not at risk of poverty",
+                ""
+              ]
+            },
+            "title": "Poverty status"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "2-2-1"
     },
     {
       "path": "2-3-1/data.csv",
