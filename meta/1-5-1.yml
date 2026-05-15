@@ -9,7 +9,7 @@ indicator_sort_order: '01-05-01'
 # Mapiranje na ultra-standardna polja
 indicator_definition: global_indicators.1-5-1-definition
 rationale: global_indicators.1-5-1-intention
-methodology_characteristics: global_indicators.1-1-1-methodology # EU-SILC metodologija
+methodology_characteristics: global_indicators.1-5-1-methodology # EU-SILC metodologija
 
 # Izvori
 source_active_1: true
