@@ -1,31 +1,31 @@
-1-1-1-title: People at risk of poverty or social exclusion
-1-1-1-definition: >-
+1-1-0-title: People at risk of poverty or social exclusion
+1-1-0-definition: >-
   This indicator corresponds to the sum of people who are: at risk of poverty after social transfers, 
   severely materially and socially deprived, or living in households with very low work intensity. 
   Individuals are counted only once, even if they are affected by more than one of these occurrences. 
   People are considered at risk of poverty if their income is below 60% of the national median 
   equivalent disposable income.
-1-1-1-intention: >-
+1-1-0-intention: >-
   Poverty and social exclusion limit people's opportunities to reach their full potential by affecting 
   health and reducing educational outcomes. Without effective social protection, the risk of poverty 
   is passed between generations, creating inequality and hindering sustainable economic growth. 
   The long-term objective for this indicator is a value of 0.
-1-1-1-methodology: >-
+1-1-0-methodology: >-
   Based on the Europe-wide harmonised annual survey on income and living conditions (EU-SILC). 
   From 2020 onwards, data is not strictly comparable with previous years due to methodological 
   revisions and integration into the microcensus.
-1-2-1-title: Income quintile share ratio (S80/S20)
-1-2-1-definition: >-
+1-2-0-title: Persons at risk of monetary poverty after social transfers
+1-2-0-definition: >-
   The income quintile share ratio (S80/S20) is the ratio of total equivalised
   disposable income received by the top 20% of the population to that received
   by the bottom 20%. A higher value indicates greater income inequality. Data
   are drawn from the EU Survey on Income and Living Conditions (EU-SILC).
-1-2-1-intention: >-
+1-2-0-intention: >-
   Income inequality undermines social cohesion and limits life opportunities for
   those at the lower end of the income distribution. Reducing inequality is a
   prerequisite for sustainable and inclusive growth. Progress means a decreasing
   S80/S20 ratio over time.
-1-2-1-methodology: >-
+1-2-0-methodology: >-
   Data are collected through EU-SILC. Equivalised disposable income is the total
   household income after tax and other deductions, divided by the equivalised
   household size. The survey is conducted annually in all participating countries.
