@@ -3964,7 +3964,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "6.8",
                 "_T",
                 ""
               ]

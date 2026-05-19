@@ -4332,7 +4332,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "6.8",
                 "All age ranges or no breakdown by age",
                 ""
               ]

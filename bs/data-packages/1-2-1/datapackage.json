@@ -36,7 +36,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "6.8",
                 "Svi dobni rasponi ili nema podjele po godinama",
                 ""
               ]
