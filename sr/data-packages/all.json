@@ -1493,39 +1493,26 @@
             "title": "Година"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Варијабле"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Мјерна јединица"
           },
           {
-            "name": "Poverty status",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
+                "Сви старосни распони или нема подјеле по годинама",
+                "млађи од 18 година",
                 ""
               ]
             },
-            "title": "Poverty status"
+            "title": "Године"
           },
           {
             "name": "Value",

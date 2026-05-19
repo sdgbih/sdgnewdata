@@ -1367,33 +1367,20 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
-            "name": "Poverty status",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
+                "_T",
+                "<18Y",
                 ""
               ]
             }

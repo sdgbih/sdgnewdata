@@ -16,39 +16,26 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit of measure"
           },
           {
-            "name": "Poverty status",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
+                "All age ranges or no breakdown by age",
+                "under 18 years old",
                 ""
               ]
             },
-            "title": "Poverty status"
+            "title": "Age"
           },
           {
             "name": "Value",
