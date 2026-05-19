@@ -4316,7 +4316,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "sdg_01_20",
                 ""
               ]
             },
