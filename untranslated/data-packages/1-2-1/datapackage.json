@@ -12,31 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "sdg_01_20",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

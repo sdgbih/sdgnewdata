@@ -12,35 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "sdg_01_20",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Svi dobni rasponi ili nema podjele po godinama",
-                ""
-              ]
-            },
-            "title": "Godine"
           },
           {
             "name": "Value",

@@ -12,35 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Година"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "sdg_01_20",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Сви старосни распони или нема подјеле по годинама",
-                ""
-              ]
-            },
-            "title": "Године"
           },
           {
             "name": "Value",
