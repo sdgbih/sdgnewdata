@@ -1,8 +1,8 @@
 definition-label: NASLOV DEFINITION
 rationale-label: NASLOV RATIONALE
 methodology-label: NASLOV METODOLGOGIJA
-1-1-0-title: Osobe u riziku od siromaštva ili socijalne isključenosti
-1-1-0-definition: >-
+1-1-1-title: Osobe u riziku od siromaštva ili socijalne isključenosti
+1-1-1-definition: >-
   Ovaj indikator odgovara zbiru ljudi koji su: u riziku od siromaštva nakon socijalnih transfera, 
   teško materijalno i socijalno uskraćeni ili žive u domaćinstvima s vrlo niskim intenzitetom rada. 
   Pojedinci se broje samo jednom, čak i ako su pogođeni s više od jedne od ovih pojava. 
@@ -11,29 +11,29 @@ methodology-label: NASLOV METODOLGOGIJA
   na 60% nacionalne medijane ekvivalentnog raspoloživog dohotka. Stopa teške materijalne i 
   socijalne deprivacije je udio stanovništva koje doživljava prisilni nedostatak od najmanje 
   7 od 13 stavki deprivacije.
-1-1-0-intention: >-
+1-1-1-intention: >-
   Siromaštvo i socijalna isključenost su štetni za živote pojedinaca i ograničavaju mogućnosti 
   ljudi da ostvare svoj puni potencijal utičući na njihovo zdravlje i blagostanje te smanjujući 
   obrazovne ishode. Bez efikasnog sistema socijalne zaštite, rizik od siromaštva se prenosi sa 
   jedne generacije na drugu, što stvara još veću nejednakost i ometa inkluzivni i održivi 
   ekonomski rast. Dugoročni cilj za ovaj indikator je vrijednost od 0.
-1-1-0-methodology: >-
+1-1-1-methodology: >-
   Podaci se zasnivaju na usaglašenom godišnjem istraživanju o prihodima i uslovima života (EU-SILC). 
   U 2020. godini, EU-SILC je prošao opsežne metodološke revizije i integrisan je u mikrocenzus. 
   Kao rezultat toga, podaci od 2020. godine nadalje nisu uporedivi sa podacima iz prethodnih godina. 
   Od 2021. godine primjenjuje se Uredba (EU) 2019/1700 koja definiše standarde prikupljanja i obrade podataka.
-1-2-0-title: Osobe u opasnosti od monetarnog siromaštva nakon socijalnih transfera
-1-2-0-definition: >-
+1-2-1-title: Osobe u opasnosti od monetarnog siromaštva nakon socijalnih transfera
+1-2-1-definition: >-
   Omjer dohotka kvintila (S80/S20) je omjer ukupnog ekvivalentnog raspoloživog
   dohotka koji prima najbogatijih 20% stanovništva prema dohotku koji prima
   najsiromašnijih 20%. Viša vrijednost ukazuje na veću nejednakost u dohotku.
   Podaci su preuzeti iz EU ankete o prihodima i uvjetima življenja (EU-SILC).
-1-2-0-intention: >-
+1-2-1-intention: >-
   Nejednakost u dohotku potkopava društvenu koheziju i ograničava životne
   mogućnosti onih koji se nalaze na dnu distribucije dohotka. Smanjenje
   nejednakosti preduvjet je za održivi i uključivi rast. Napredak znači smanjenje
   omjera S80/S20 tokom vremena.
-1-2-0-methodology: >-
+1-2-1-methodology: >-
   Podaci se prikupljaju putem EU-SILC ankete. Ekvivalentni raspoloživi dohodak
   je ukupni prihod domaćinstva nakon poreza i odbitaka, podijeljen ekvivalentnom
   veličinom domaćinstva. Anketa se provodi godišnje u svim zemljama učesnicama.
