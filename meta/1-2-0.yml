@@ -1,4 +1,4 @@
-indicator_number: 1.2.0
+indicator_number: 1.2.1
 reporting_status: complete
 published: true
 sdg_goal: '1'
@@ -7,9 +7,9 @@ graph_type: line
 indicator_sort_order: '01-02-01'
 
 # Mapiranje na ultra-standardna polja
-indicator_definition: global_indicators.1-2-0-definition
-rationale: global_indicators.1-2-0-intention
-methodology_characteristics: global_indicators.1-2-0-methodology # Ako je ista metodologija kao za 1.1.0 (EU-SILC)
+indicator_definition: global_indicators.1-2-1-definition
+rationale: global_indicators.1-2-1-intention
+methodology_characteristics: global_indicators.1-2-1-methodology # Ako je ista metodologija kao za 1.1.1 (EU-SILC)
 
 # Izvori
 source_active_1: true
