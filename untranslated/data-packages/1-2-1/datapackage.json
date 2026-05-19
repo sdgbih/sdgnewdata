@@ -41,7 +41,6 @@
               "enum": [
                 "Total",
                 "At risk of poverty",
-                "Not at risk of poverty",
                 ""
               ]
             }
