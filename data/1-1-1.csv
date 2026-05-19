@@ -1,10 +1,9 @@
-Year,Series,Units,Poverty status,Value
-2022,Total,Percentage,Total,6.8
-2022,Total,Percentage,At risk of poverty,22.4
-2022,Total,Percentage,Not at risk of poverty,3.1
-2023,Total,Percentage,Total,6.2
-2023,Total,Percentage,At risk of poverty,21.1
-2023,Total,Percentage,Not at risk of poverty,2.9
-2024,Total,Percentage,Total,6.5
-2024,Total,Percentage,At risk of poverty,21.9
-2024,Total,Percentage,Not at risk of poverty,3.0
+Year,SERIES,UNIT_MEASURE,AGE,Value
+2022,sdg_01_10,PT,_T,6.8
+2022,sdg_01_10,PT,<18Y,22.4
+2022,sdg_01_10,PER_1000_POP,_T,2.8
+2022,sdg_01_10,PER_1000_POP,<18Y,2.4
+2023,sdg_01_10,PT,_T,5.8
+2023,sdg_01_10,PT,<18Y,20.4
+2023,sdg_01_10,PER_1000_POP,_T,4.8
+2023,sdg_01_10,PER_1000_POP,<18Y,2.9
