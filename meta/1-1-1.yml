@@ -14,7 +14,10 @@ methodology_characteristics: global_indicators.1-1-1-methodology
 source_active_1: true
 source_organisation_1: Eurostat (EU-SILC)
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_01_10/default/table'
-
+graph_titles:
+- series: SERIES.sdg_01_10
+  title: SERIES.sdg_01_10
+  
 footer_fields:
   - label: global_indicators.metadata-footer-label
     value: <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_10_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_01_10)</a>
