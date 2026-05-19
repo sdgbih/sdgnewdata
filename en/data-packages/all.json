@@ -4323,27 +4323,21 @@
             "title": "Series"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit of measure"
           },
           {
-            "name": "Poverty status",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "At risk of poverty",
+                "6.8",
+                "All age ranges or no breakdown by age",
                 ""
               ]
             },
-            "title": "Poverty status"
+            "title": "Age"
           },
           {
             "name": "Value",

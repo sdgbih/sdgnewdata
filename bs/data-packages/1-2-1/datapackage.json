@@ -27,27 +27,21 @@
             "title": "Series"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Mjerna jedinica"
           },
           {
-            "name": "Poverty status",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "At risk of poverty",
+                "6.8",
+                "Svi dobni rasponi ili nema podjele po godinama",
                 ""
               ]
             },
-            "title": "Poverty status"
+            "title": "Godine"
           },
           {
             "name": "Value",

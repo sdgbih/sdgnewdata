@@ -3956,22 +3956,16 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
-            "name": "Poverty status",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "At risk of poverty",
+                "6.8",
+                "_T",
                 ""
               ]
             }
