@@ -1,0 +1,14 @@
+indicator_number: 10_41
+reporting_status: notstarted
+published: true
+sdg_goal: '10'
+data_non_statistical: false
+graph_type: line
+indicator_sort_order: 10_41
+
+source_active_1: true
+source_organisation_1: ESS (SILC)
+source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_10_41/default/table'
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_10_41_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_10_41)</a>'
