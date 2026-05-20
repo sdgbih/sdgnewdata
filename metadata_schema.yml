@@ -505,6 +505,24 @@ prose:
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url
             scope: national
+      ######### Chart Info #########
+      - name: "graph_type"
+        field:
+            element: select
+            label: "Graph type"
+            translation_key: metadata_fields.graph_type
+             options:
+              - name: 'line'
+                value: 'line'
+              - name: 'bar'
+                value: 'bar'
+            scope: graph
+      - name: "graph_title"
+        field:
+            element: text
+            label: "Graph Title"
+            translation_key: metadata_fields.graph_title
+            scope: graph
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
