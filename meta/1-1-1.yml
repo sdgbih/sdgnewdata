@@ -13,7 +13,9 @@ methodology_characteristics: global_indicators.1-1-1-methodology
 graph_titles:
 - series: SERIES.sdg_01_10
   title: SERIES.sdg_01_10
-
+- series: SERIES.sdg_01_20
+  title: SERIES.sdg_01_20
+  
 # Izvori
 source_active_1: true
 source_organisation_1: Eurostat (EU-SILC)
