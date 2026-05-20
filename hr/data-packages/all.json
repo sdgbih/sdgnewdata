@@ -4312,15 +4312,9 @@
             "title": "Godina"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "sdg_01_20",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Varijable"
           },
           {
             "name": "UNIT_MEASURE",
