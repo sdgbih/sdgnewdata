@@ -1,10 +1,3 @@
-Year,Series,Units,Poverty status,Value
-2022,Total,Percentage,Total,6.8
-2022,Total,Percentage,At risk of poverty,22.4
-2022,Total,Percentage,Not at risk of poverty,3.1
-2023,Total,Percentage,Total,6.2
-2023,Total,Percentage,At risk of poverty,21.1
-2023,Total,Percentage,Not at risk of poverty,2.9
-2024,Total,Percentage,Total,6.5
-2024,Total,Percentage,At risk of poverty,21.9
-2024,Total,Percentage,Not at risk of poverty,3.0
+Year,SERIES,UNIT_MEASURE,Године,Value
+2022,Стопа тешке материјалне и социјалне ускраћености према старосној групи и полу,Проценат,Сви старосни распони или нема подјеле по годинама,6.8
+2022,Стопа тешке материјалне и социјалне ускраћености према старосној групи и полу,На 1.000 становника,Сви старосни распони или нема подјеле по годинама,22.4
