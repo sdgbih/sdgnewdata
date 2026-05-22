@@ -32,7 +32,7 @@
   Podaci se prikupljaju putem EU-SILC ankete. Ekvivalentni raspoloživi dohodak
   je ukupni prihod kućanstva nakon poreza i odbitaka, podijeljen ekvivalentnom
   veličinom kućanstva. Anketa se provodi godišnje u svim zemljama sudionicama.
-1-3-1-title: Osobe obuhvaćene barem jednom naknadom socijalne zaštite
+1-3-1-title: Stopa teške materijalne i socijalne deprivacije prema dobnoj grupi i spolu
 1-3-1-definition: >-
   Ovaj pokazatelj mjeri udio stanovništva obuhvaćenog barem jednom naknadom
   socijalne zaštite, uključujući naknade vezane za starost, invalidnost, bolest,
@@ -47,7 +47,7 @@
   Podaci se prikupljaju putem EU-SILC ankete, koja prikuplja informacije o
   socijalnim transferima primljenim u kućanstvima. Pokazatelj obuhvaća i
   doprinsone i nedoprinosne naknade u svim kategorijama socijalne zaštite.
-1-4-1-title: Stopa opterećenosti troškovima stanovanja
+1-4-1-title: Osobe koje žive u kućanstvima s vrlo niskim intenzitetom rada, po dobnim skupinama
 1-4-1-definition: >-
   Stopa opterećenosti troškovima stanovanja je udio stanovništva koje živi u
   kućanstvima gdje ukupni troškovi stanovanja (umanjeni za stambene naknade)
@@ -64,7 +64,7 @@
   Podaci se prikupljaju putem EU-SILC ankete. Troškovi stanovanja uključuju
   najamninu, otplatu hipoteke, komunalne usluge i održavanje. Stambene naknade
   oduzimaju se i od troškova i od dohotka prije izračunavanja praga od 40%.
-1-4-2-title: Stopa teške stambene deprivacije
+1-4-2-title: Stopa zaposlenih u riziku od siromaštva
 1-4-2-definition: >-
   Stopa teške stambene deprivacije je udio stanovništva koje živi u prenaseljenim
   stanovima koji ujedno nemaju barem jedno od sljedećeg: kadu ili tuš, unutarnji
@@ -80,7 +80,7 @@
   odnosu na veličinu i sastav kućanstva. Deprivacija kvalitete stanovanja
   obuhvaća strukturne probleme (propuštajući krov, vlažni zidovi) i nedostatak
   osnovnih sadržaja (kupaonica, unutarnji zahod).
-1-5-1-title: Smrtni slučajevi i gospodarski gubici pripisani katastrofama
+1-5-1-title: Stopa prekomjernog opterećenja troškovima stanovanja prema statusu siromaštva
 1-5-1-definition: >-
   Ovaj pokazatelj prati smrtne slučajeve i gospodarske gubitke pripisane
   katastrofama, uključujući prirodne hazarde poput poplava, oluja, suša i
