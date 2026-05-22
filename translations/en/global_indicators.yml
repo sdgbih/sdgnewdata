@@ -29,7 +29,7 @@
   Data are collected through EU-SILC. Equivalised disposable income is the total
   household income after tax and other deductions, divided by the equivalised
   household size. The survey is conducted annually in all participating countries.
-1-3-1-title: People covered by at least one social protection benefit
+1-3-1-title: Severe material and social deprivation rate by age group and sex
 1-3-1-definition: >-
   This indicator measures the proportion of the population covered by at least
   one social protection benefit, including benefits related to old age, disability,
@@ -45,7 +45,7 @@
   received by households. The indicator covers both contributory (insurance-based)
   and non-contributory (means-tested) benefits across all categories of social
   protection.
-1-4-1-title: Housing cost overburden rate
+1-4-1-title: Persons living in households with very low work intensity, by age group
 1-4-1-definition: >-
   The housing cost overburden rate is the proportion of the population living in
   households where total housing costs (net of housing allowances) represent more
@@ -61,7 +61,7 @@
   repayments, utilities and maintenance. Housing allowances are deducted from
   both costs and income before calculating the 40% threshold. The survey is
   conducted annually.
-1-4-2-title: Severe housing deprivation rate
+1-4-2-title: In work at risk of poverty rate
 1-4-2-definition: >-
   The severe housing deprivation rate is the proportion of the population living
   in an overcrowded dwelling that also lacks at least one of the following: a
@@ -77,7 +77,7 @@
   household size and composition. Housing quality deprivation covers structural
   problems (leaking roof, damp walls) and the absence of basic facilities
   (bath or shower, indoor toilet).
-1-5-1-title: Deaths and economic losses attributed to disasters
+1-5-1-title: Housing cost overburden rate by poverty status
 1-5-1-definition: >-
   This indicator tracks deaths and economic losses attributed to disaster events,
   including natural hazards such as floods, storms, droughts and extreme
