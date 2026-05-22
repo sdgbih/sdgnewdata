@@ -37,6 +37,17 @@
             "title": "Године"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

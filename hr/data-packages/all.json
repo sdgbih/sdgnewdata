@@ -4968,6 +4968,17 @@
             "title": "Godine"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

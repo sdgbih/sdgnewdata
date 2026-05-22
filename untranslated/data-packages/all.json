@@ -4544,6 +4544,16 @@
             }
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
