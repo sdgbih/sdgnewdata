@@ -37,7 +37,7 @@ methodology-label: NASLOV METODOLGOGIJA
   Podaci se prikupljaju putem EU-SILC ankete. Ekvivalentni raspoloživi dohodak
   je ukupni prihod domaćinstva nakon poreza i odbitaka, podijeljen ekvivalentnom
   veličinom domaćinstva. Anketa se provodi godišnje u svim zemljama učesnicama.
-1-3-1-title: Osobe pokrivene barem jednom naknadom socijalne zaštite
+1-3-1-title: Stopa teške materijalne i socijalne uskraćenosti prema starosnoj grupi i spolu
 1-3-1-definition: >-
   Ovaj indikator mjeri udio stanovništva obuhvaćenog barem jednom naknadom
   socijalne zaštite, uključujući naknade vezane za starost, invalidnost, bolest,
@@ -53,7 +53,7 @@ methodology-label: NASLOV METODOLGOGIJA
   socijalnim transferima primljenim u domaćinstvima. Indikator obuhvata i
   doprinosne (osiguravajuće) i nedoprinosne (testiranjem prihoda uvjetovane)
   naknade u svim kategorijama socijalne zaštite.
-1-4-1-title: Stopa preopterećenosti troškovima stanovanja
+1-4-1-title: Osobe koje žive u domaćinstvu sa veoma niskim intenzitetom rada, po starosnoj grupi
 1-4-1-definition: >-
   Stopa preopterećenosti troškovima stanovanja je udio stanovništva koje živi
   u domaćinstvima gdje ukupni troškovi stanovanja (umanjeni za stambene naknade)
@@ -69,7 +69,7 @@ methodology-label: NASLOV METODOLGOGIJA
   Podaci se prikupljaju putem EU-SILC ankete. Troškovi stanovanja uključuju
   kiriju, otplatu hipoteke, komunalije i održavanje. Stambene naknade oduzimaju
   se i od troškova i od dohotka prije izračunavanja praga od 40%.
-1-4-2-title: Stopa teške stambene deprivacije
+1-4-2-title: Stopa zaposlenih u riziku od siromaštva
 1-4-2-definition: >-
   Stopa teške stambene deprivacije je udio stanovništva koje živi u prenapučenim
   stanovima koji ujedno nemaju barem jedno od sljedećeg: kadu ili tuš, unutarnji
@@ -85,7 +85,7 @@ methodology-label: NASLOV METODOLGOGIJA
   odnosu na veličinu i sastav domaćinstva. Deprivacija kvalitete stanovanja
   obuhvata strukturne probleme (propuštajući krov, vlažni zidovi) i nedostatak
   osnovnih objekata (kupatilo, unutarnji WC).
-1-5-1-title: Smrtni slučajevi i ekonomski gubici pripisani katastrofama
+1-5-1-title: Stopa prekomjernog opterećenja troškovima stanovanja prema statusu siromaštva
 1-5-1-definition: >-
   Ovaj indikator prati smrtne slučajeve i ekonomske gubitke pripisane
   katastrofama, uključujući prirodne hazarde kao što su poplave, oluje, suše i
