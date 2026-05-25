@@ -1155,7 +1155,8 @@
   household survey providing quarterly statistics on labour participation.
   The indicator covers persons aged 18 to 24 whose highest level of education
   is ISCED 2011 level 0, 1 or 2, and who stated they had not received any
-  education or training in the four weeks preceding the survey.metadata-footer-label: National reference metadata
+  education or training in the four weeks preceding the survey.
+metadata-footer-label: National reference metadata
 
 01_10-title: Persons at risk of poverty or social exclusion
 01_20-title: Persons at risk of monetary poverty after social transfers - EU_x0002_SILC and ECHP surveys

@@ -11,7 +11,7 @@ indicator_definition: global_indicators.1-1-1-definition
 rationale: global_indicators.1-1-1-intention
 methodology_characteristics: global_indicators.1-1-1-methodology
 graph_titles:
-- series: SERIES.sdg_01_10
+- series: sdg_01_10
   title: SERIES.sdg_01_10
   
 # Izvori
