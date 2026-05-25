@@ -3,8 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "07_40/data.csv",
-      "name": "07_40",
+      "path": "2-40/data.csv",
+      "name": "2-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -22,11 +22,11 @@
           }
         ]
       },
-      "title": "07_40"
+      "title": "2-40"
     },
     {
-      "path": "17_50/data.csv",
-      "name": "17_50",
+      "path": "17-20/data.csv",
+      "name": "17-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -44,11 +44,11 @@
           }
         ]
       },
-      "title": "17_50"
+      "title": "17-20"
     },
     {
-      "path": "13_21/data.csv",
-      "name": "13_21",
+      "path": "12-41/data.csv",
+      "name": "12-41",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -66,11 +66,11 @@
           }
         ]
       },
-      "title": "13_21"
+      "title": "12-41"
     },
     {
-      "path": "09_10/data.csv",
-      "name": "09_10",
+      "path": "1-10/data.csv",
+      "name": "1-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -88,11 +88,11 @@
           }
         ]
       },
-      "title": "09_10"
+      "title": "1-10"
     },
     {
-      "path": "08_60/data.csv",
-      "name": "08_60",
+      "path": "10-10/data.csv",
+      "name": "10-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -110,11 +110,11 @@
           }
         ]
       },
-      "title": "08_60"
+      "title": "10-10"
     },
     {
-      "path": "07_60/data.csv",
-      "name": "07_60",
+      "path": "16-70/data.csv",
+      "name": "16-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -132,11 +132,11 @@
           }
         ]
       },
-      "title": "07_60"
+      "title": "16-70"
     },
     {
-      "path": "17_20/data.csv",
-      "name": "17_20",
+      "path": "15-20/data.csv",
+      "name": "15-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -154,11 +154,11 @@
           }
         ]
       },
-      "title": "17_20"
+      "title": "15-20"
     },
     {
-      "path": "14_40/data.csv",
-      "name": "14_40",
+      "path": "16-30/data.csv",
+      "name": "16-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -176,11 +176,11 @@
           }
         ]
       },
-      "title": "14_40"
+      "title": "16-30"
     },
     {
-      "path": "17_60/data.csv",
-      "name": "17_60",
+      "path": "8-40/data.csv",
+      "name": "8-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -198,11 +198,11 @@
           }
         ]
       },
-      "title": "17_60"
+      "title": "8-40"
     },
     {
-      "path": "07_30/data.csv",
-      "name": "07_30",
+      "path": "13-70/data.csv",
+      "name": "13-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -220,11 +220,11 @@
           }
         ]
       },
-      "title": "07_30"
+      "title": "13-70"
     },
     {
-      "path": "02_40/data.csv",
-      "name": "02_40",
+      "path": "10-20/data.csv",
+      "name": "10-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -242,11 +242,11 @@
           }
         ]
       },
-      "title": "02_40"
+      "title": "10-20"
     },
     {
-      "path": "15_20/data.csv",
-      "name": "15_20",
+      "path": "1-50/data.csv",
+      "name": "1-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -264,11 +264,11 @@
           }
         ]
       },
-      "title": "15_20"
+      "title": "1-50"
     },
     {
-      "path": "07_20/data.csv",
-      "name": "07_20",
+      "path": "4-20/data.csv",
+      "name": "4-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -286,11 +286,11 @@
           }
         ]
       },
-      "title": "07_20"
+      "title": "4-20"
     },
     {
-      "path": "02_60/data.csv",
-      "name": "02_60",
+      "path": "13-21/data.csv",
+      "name": "13-21",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -308,11 +308,11 @@
           }
         ]
       },
-      "title": "02_60"
+      "title": "13-21"
     },
     {
-      "path": "16_30/data.csv",
-      "name": "16_30",
+      "path": "3-70/data.csv",
+      "name": "3-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -330,11 +330,11 @@
           }
         ]
       },
-      "title": "16_30"
+      "title": "3-70"
     },
     {
-      "path": "12_41/data.csv",
-      "name": "12_41",
+      "path": "10-50/data.csv",
+      "name": "10-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -352,11 +352,11 @@
           }
         ]
       },
-      "title": "12_41"
+      "title": "10-50"
     },
     {
-      "path": "01_31/data.csv",
-      "name": "01_31",
+      "path": "9-70/data.csv",
+      "name": "9-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -374,11 +374,11 @@
           }
         ]
       },
-      "title": "01_31"
+      "title": "9-70"
     },
     {
-      "path": "05_20/data.csv",
-      "name": "05_20",
+      "path": "15-60/data.csv",
+      "name": "15-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -396,11 +396,11 @@
           }
         ]
       },
-      "title": "05_20"
+      "title": "15-60"
     },
     {
-      "path": "13_31/data.csv",
-      "name": "13_31",
+      "path": "13-31/data.csv",
+      "name": "13-31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -418,11 +418,11 @@
           }
         ]
       },
-      "title": "13_31"
+      "title": "13-31"
     },
     {
-      "path": "10_10/data.csv",
-      "name": "10_10",
+      "path": "4-40/data.csv",
+      "name": "4-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -440,11 +440,11 @@
           }
         ]
       },
-      "title": "10_10"
+      "title": "4-40"
     },
     {
-      "path": "06_40/data.csv",
-      "name": "06_40",
+      "path": "4-10/data.csv",
+      "name": "4-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -462,11 +462,11 @@
           }
         ]
       },
-      "title": "06_40"
+      "title": "4-10"
     },
     {
-      "path": "05_60/data.csv",
-      "name": "05_60",
+      "path": "3-30/data.csv",
+      "name": "3-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -484,11 +484,11 @@
           }
         ]
       },
-      "title": "05_60"
+      "title": "3-30"
     },
     {
-      "path": "12_51/data.csv",
-      "name": "12_51",
+      "path": "2-53/data.csv",
+      "name": "2-53",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -506,11 +506,11 @@
           }
         ]
       },
-      "title": "12_51"
+      "title": "2-53"
     },
     {
-      "path": "14_60/data.csv",
-      "name": "14_60",
+      "path": "2-30/data.csv",
+      "name": "2-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -528,11 +528,11 @@
           }
         ]
       },
-      "title": "14_60"
+      "title": "2-30"
     },
     {
-      "path": "14_30/data.csv",
-      "name": "14_30",
+      "path": "14-30/data.csv",
+      "name": "14-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -550,11 +550,11 @@
           }
         ]
       },
-      "title": "14_30"
+      "title": "14-30"
     },
     {
-      "path": "04_60/data.csv",
-      "name": "04_60",
+      "path": "7-40/data.csv",
+      "name": "7-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -572,11 +572,11 @@
           }
         ]
       },
-      "title": "04_60"
+      "title": "7-40"
     },
     {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
+      "path": "7-60/data.csv",
+      "name": "7-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -589,64 +589,16 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "1-1-1"
-    },
-    {
-      "path": "13_40/data.csv",
-      "name": "13_40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "13_40"
-    },
-    {
-      "path": "02_20/data.csv",
-      "name": "02_20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "02_20"
+      "title": "7-60"
     },
     {
-      "path": "03_60/data.csv",
-      "name": "03_60",
+      "path": "16-20/data.csv",
+      "name": "16-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -664,11 +616,11 @@
           }
         ]
       },
-      "title": "03_60"
+      "title": "16-20"
     },
     {
-      "path": "12_31/data.csv",
-      "name": "12_31",
+      "path": "8-10/data.csv",
+      "name": "8-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -686,11 +638,11 @@
           }
         ]
       },
-      "title": "12_31"
+      "title": "8-10"
     },
     {
-      "path": "02_30/data.csv",
-      "name": "02_30",
+      "path": "4-31/data.csv",
+      "name": "4-31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -708,11 +660,11 @@
           }
         ]
       },
-      "title": "02_30"
+      "title": "4-31"
     },
     {
-      "path": "03_70/data.csv",
-      "name": "03_70",
+      "path": "5-20/data.csv",
+      "name": "5-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -730,11 +682,11 @@
           }
         ]
       },
-      "title": "03_70"
+      "title": "5-20"
     },
     {
-      "path": "12_10/data.csv",
-      "name": "12_10",
+      "path": "1-20/data.csv",
+      "name": "1-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -752,11 +704,11 @@
           }
         ]
       },
-      "title": "12_10"
+      "title": "1-20"
     },
     {
-      "path": "17_31/data.csv",
-      "name": "17_31",
+      "path": "7-20/data.csv",
+      "name": "7-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -774,11 +726,11 @@
           }
         ]
       },
-      "title": "17_31"
+      "title": "7-20"
     },
     {
-      "path": "13_10/data.csv",
-      "name": "13_10",
+      "path": "11-11/data.csv",
+      "name": "11-11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -796,11 +748,11 @@
           }
         ]
       },
-      "title": "13_10"
+      "title": "11-11"
     },
     {
-      "path": "02_53/data.csv",
-      "name": "02_53",
+      "path": "9-60/data.csv",
+      "name": "9-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -818,11 +770,11 @@
           }
         ]
       },
-      "title": "02_53"
+      "title": "9-60"
     },
     {
-      "path": "11_32/data.csv",
-      "name": "11_32",
+      "path": "10-41/data.csv",
+      "name": "10-41",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -840,11 +792,11 @@
           }
         ]
       },
-      "title": "11_32"
+      "title": "10-41"
     },
     {
-      "path": "11_40/data.csv",
-      "name": "11_40",
+      "path": "8-30/data.csv",
+      "name": "8-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -862,11 +814,11 @@
           }
         ]
       },
-      "title": "11_40"
+      "title": "8-30"
     },
     {
-      "path": "04_31/data.csv",
-      "name": "04_31",
+      "path": "5-60/data.csv",
+      "name": "5-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -884,11 +836,11 @@
           }
         ]
       },
-      "title": "04_31"
+      "title": "5-60"
     },
     {
-      "path": "04_20/data.csv",
-      "name": "04_20",
+      "path": "17-10/data.csv",
+      "name": "17-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -906,11 +858,11 @@
           }
         ]
       },
-      "title": "04_20"
+      "title": "17-10"
     },
     {
-      "path": "10_20/data.csv",
-      "name": "10_20",
+      "path": "8-60/data.csv",
+      "name": "8-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -928,11 +880,11 @@
           }
         ]
       },
-      "title": "10_20"
+      "title": "8-60"
     },
     {
-      "path": "17_40/data.csv",
-      "name": "17_40",
+      "path": "12-51/data.csv",
+      "name": "12-51",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -950,11 +902,11 @@
           }
         ]
       },
-      "title": "17_40"
+      "title": "12-51"
     },
     {
-      "path": "14_10/data.csv",
-      "name": "14_10",
+      "path": "16-50/data.csv",
+      "name": "16-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -972,11 +924,11 @@
           }
         ]
       },
-      "title": "14_10"
+      "title": "16-50"
     },
     {
-      "path": "12_61/data.csv",
-      "name": "12_61",
+      "path": "9-30/data.csv",
+      "name": "9-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -994,11 +946,11 @@
           }
         ]
       },
-      "title": "12_61"
+      "title": "9-30"
     },
     {
-      "path": "09_70/data.csv",
-      "name": "09_70",
+      "path": "6-20/data.csv",
+      "name": "6-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1016,11 +968,11 @@
           }
         ]
       },
-      "title": "09_70"
+      "title": "6-20"
     },
     {
-      "path": "02_10/data.csv",
-      "name": "02_10",
+      "path": "5-10/data.csv",
+      "name": "5-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1038,11 +990,11 @@
           }
         ]
       },
-      "title": "02_10"
+      "title": "5-10"
     },
     {
-      "path": "15_42/data.csv",
-      "name": "15_42",
+      "path": "15-61/data.csv",
+      "name": "15-61",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1060,11 +1012,11 @@
           }
         ]
       },
-      "title": "15_42"
+      "title": "15-61"
     },
     {
-      "path": "01_10/data.csv",
-      "name": "01_10",
+      "path": "2-60/data.csv",
+      "name": "2-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1082,11 +1034,11 @@
           }
         ]
       },
-      "title": "01_10"
+      "title": "2-60"
     },
     {
-      "path": "11_52/data.csv",
-      "name": "11_52",
+      "path": "15-10/data.csv",
+      "name": "15-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1104,11 +1056,11 @@
           }
         ]
       },
-      "title": "11_52"
+      "title": "15-10"
     },
     {
-      "path": "05_50/data.csv",
-      "name": "05_50",
+      "path": "13-50/data.csv",
+      "name": "13-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1126,11 +1078,11 @@
           }
         ]
       },
-      "title": "05_50"
+      "title": "13-50"
     },
     {
-      "path": "15_10/data.csv",
-      "name": "15_10",
+      "path": "6-30/data.csv",
+      "name": "6-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1148,11 +1100,11 @@
           }
         ]
       },
-      "title": "15_10"
+      "title": "6-30"
     },
     {
-      "path": "07_10/data.csv",
-      "name": "07_10",
+      "path": "16-10/data.csv",
+      "name": "16-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1170,11 +1122,11 @@
           }
         ]
       },
-      "title": "07_10"
+      "title": "16-10"
     },
     {
-      "path": "08_10/data.csv",
-      "name": "08_10",
+      "path": "12-21/data.csv",
+      "name": "12-21",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1192,11 +1144,11 @@
           }
         ]
       },
-      "title": "08_10"
+      "title": "12-21"
     },
     {
-      "path": "06_50/data.csv",
-      "name": "06_50",
+      "path": "14-60/data.csv",
+      "name": "14-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1214,11 +1166,11 @@
           }
         ]
       },
-      "title": "06_50"
+      "title": "14-60"
     },
     {
-      "path": "16_50/data.csv",
-      "name": "16_50",
+      "path": "11-52/data.csv",
+      "name": "11-52",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1236,11 +1188,11 @@
           }
         ]
       },
-      "title": "16_50"
+      "title": "11-52"
     },
     {
-      "path": "11_11/data.csv",
-      "name": "11_11",
+      "path": "10-60/data.csv",
+      "name": "10-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1258,11 +1210,11 @@
           }
         ]
       },
-      "title": "11_11"
+      "title": "10-60"
     },
     {
-      "path": "16_10/data.csv",
-      "name": "16_10",
+      "path": "12-31/data.csv",
+      "name": "12-31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1280,11 +1232,11 @@
           }
         ]
       },
-      "title": "16_10"
+      "title": "12-31"
     },
     {
-      "path": "15_50/data.csv",
-      "name": "15_50",
+      "path": "4-70/data.csv",
+      "name": "4-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1302,11 +1254,11 @@
           }
         ]
       },
-      "title": "15_50"
+      "title": "4-70"
     },
     {
-      "path": "16_20/data.csv",
-      "name": "16_20",
+      "path": "14-40/data.csv",
+      "name": "14-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1324,11 +1276,11 @@
           }
         ]
       },
-      "title": "16_20"
+      "title": "14-40"
     },
     {
-      "path": "13_70/data.csv",
-      "name": "13_70",
+      "path": "14-50/data.csv",
+      "name": "14-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1346,11 +1298,11 @@
           }
         ]
       },
-      "title": "13_70"
+      "title": "14-50"
     },
     {
-      "path": "06_20/data.csv",
-      "name": "06_20",
+      "path": "1-31/data.csv",
+      "name": "1-31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1368,11 +1320,11 @@
           }
         ]
       },
-      "title": "06_20"
+      "title": "1-31"
     },
     {
-      "path": "04_70/data.csv",
-      "name": "04_70",
+      "path": "10-30/data.csv",
+      "name": "10-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1390,11 +1342,11 @@
           }
         ]
       },
-      "title": "04_70"
+      "title": "10-30"
     },
     {
-      "path": "09_50/data.csv",
-      "name": "09_50",
+      "path": "17-40/data.csv",
+      "name": "17-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1412,11 +1364,11 @@
           }
         ]
       },
-      "title": "09_50"
+      "title": "17-40"
     },
     {
-      "path": "16_40/data.csv",
-      "name": "16_40",
+      "path": "17-50/data.csv",
+      "name": "17-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1434,11 +1386,11 @@
           }
         ]
       },
-      "title": "16_40"
+      "title": "17-50"
     },
     {
-      "path": "14_21/data.csv",
-      "name": "14_21",
+      "path": "7-10/data.csv",
+      "name": "7-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1456,11 +1408,11 @@
           }
         ]
       },
-      "title": "14_21"
+      "title": "7-10"
     },
     {
-      "path": "09_40/data.csv",
-      "name": "09_40",
+      "path": "11-60/data.csv",
+      "name": "11-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1478,11 +1430,11 @@
           }
         ]
       },
-      "title": "09_40"
+      "title": "11-60"
     },
     {
-      "path": "11_20/data.csv",
-      "name": "11_20",
+      "path": "3-42/data.csv",
+      "name": "3-42",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1500,11 +1452,11 @@
           }
         ]
       },
-      "title": "11_20"
+      "title": "3-42"
     },
     {
-      "path": "06_30/data.csv",
-      "name": "06_30",
+      "path": "12-10/data.csv",
+      "name": "12-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1522,11 +1474,11 @@
           }
         ]
       },
-      "title": "06_30"
+      "title": "12-10"
     },
     {
-      "path": "05_10/data.csv",
-      "name": "05_10",
+      "path": "6-50/data.csv",
+      "name": "6-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1544,11 +1496,11 @@
           }
         ]
       },
-      "title": "05_10"
+      "title": "6-50"
     },
     {
-      "path": "04_10/data.csv",
-      "name": "04_10",
+      "path": "11-20/data.csv",
+      "name": "11-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1566,11 +1518,11 @@
           }
         ]
       },
-      "title": "04_10"
+      "title": "11-20"
     },
     {
-      "path": "03_12/data.csv",
-      "name": "03_12",
+      "path": "12-61/data.csv",
+      "name": "12-61",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1588,11 +1540,11 @@
           }
         ]
       },
-      "title": "03_12"
+      "title": "12-61"
     },
     {
-      "path": "13_50/data.csv",
-      "name": "13_50",
+      "path": "13-40/data.csv",
+      "name": "13-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1610,11 +1562,11 @@
           }
         ]
       },
-      "title": "13_50"
+      "title": "13-40"
     },
     {
-      "path": "10_60/data.csv",
-      "name": "10_60",
+      "path": "2-20/data.csv",
+      "name": "2-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1632,11 +1584,11 @@
           }
         ]
       },
-      "title": "10_60"
+      "title": "2-20"
     },
     {
-      "path": "03_20/data.csv",
-      "name": "03_20",
+      "path": "7-50/data.csv",
+      "name": "7-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1654,11 +1606,11 @@
           }
         ]
       },
-      "title": "03_20"
+      "title": "7-50"
     },
     {
-      "path": "07_50/data.csv",
-      "name": "07_50",
+      "path": "6-60/data.csv",
+      "name": "6-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1676,11 +1628,11 @@
           }
         ]
       },
-      "title": "07_50"
+      "title": "6-60"
     },
     {
-      "path": "10_30/data.csv",
-      "name": "10_30",
+      "path": "17-60/data.csv",
+      "name": "17-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1698,11 +1650,11 @@
           }
         ]
       },
-      "title": "10_30"
+      "title": "17-60"
     },
     {
-      "path": "03_42/data.csv",
-      "name": "03_42",
+      "path": "1-41/data.csv",
+      "name": "1-41",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1720,11 +1672,11 @@
           }
         ]
       },
-      "title": "03_42"
+      "title": "1-41"
     },
     {
-      "path": "01_20/data.csv",
-      "name": "01_20",
+      "path": "17-31/data.csv",
+      "name": "17-31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1742,11 +1694,11 @@
           }
         ]
       },
-      "title": "01_20"
+      "title": "17-31"
     },
     {
-      "path": "11_60/data.csv",
-      "name": "11_60",
+      "path": "11-32/data.csv",
+      "name": "11-32",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1764,11 +1716,11 @@
           }
         ]
       },
-      "title": "11_60"
+      "title": "11-32"
     },
     {
-      "path": "09_60/data.csv",
-      "name": "09_60",
+      "path": "5-50/data.csv",
+      "name": "5-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1786,11 +1738,11 @@
           }
         ]
       },
-      "title": "09_60"
+      "title": "5-50"
     },
     {
-      "path": "14_50/data.csv",
-      "name": "14_50",
+      "path": "4-60/data.csv",
+      "name": "4-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1808,11 +1760,11 @@
           }
         ]
       },
-      "title": "14_50"
+      "title": "4-60"
     },
     {
-      "path": "04_40/data.csv",
-      "name": "04_40",
+      "path": "3-60/data.csv",
+      "name": "3-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1830,11 +1782,11 @@
           }
         ]
       },
-      "title": "04_40"
+      "title": "3-60"
     },
     {
-      "path": "06_60/data.csv",
-      "name": "06_60",
+      "path": "9-10/data.csv",
+      "name": "9-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1852,11 +1804,11 @@
           }
         ]
       },
-      "title": "06_60"
+      "title": "9-10"
     },
     {
-      "path": "17_10/data.csv",
-      "name": "17_10",
+      "path": "6-70/data.csv",
+      "name": "6-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1874,11 +1826,11 @@
           }
         ]
       },
-      "title": "17_10"
+      "title": "6-70"
     },
     {
-      "path": "15_61/data.csv",
-      "name": "15_61",
+      "path": "1-40/data.csv",
+      "name": "1-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1896,11 +1848,11 @@
           }
         ]
       },
-      "title": "15_61"
+      "title": "1-40"
     },
     {
-      "path": "08_40/data.csv",
-      "name": "08_40",
+      "path": "16-40/data.csv",
+      "name": "16-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1918,11 +1870,11 @@
           }
         ]
       },
-      "title": "08_40"
+      "title": "16-40"
     },
     {
-      "path": "03_30/data.csv",
-      "name": "03_30",
+      "path": "3-12/data.csv",
+      "name": "3-12",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1940,11 +1892,11 @@
           }
         ]
       },
-      "title": "03_30"
+      "title": "3-12"
     },
     {
-      "path": "05_30/data.csv",
-      "name": "05_30",
+      "path": "15-50/data.csv",
+      "name": "15-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1962,11 +1914,11 @@
           }
         ]
       },
-      "title": "05_30"
+      "title": "15-50"
     },
     {
-      "path": "12_21/data.csv",
-      "name": "12_21",
+      "path": "7-30/data.csv",
+      "name": "7-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1984,11 +1936,11 @@
           }
         ]
       },
-      "title": "12_21"
+      "title": "7-30"
     },
     {
-      "path": "01_40/data.csv",
-      "name": "01_40",
+      "path": "8-11/data.csv",
+      "name": "8-11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2006,11 +1958,11 @@
           }
         ]
       },
-      "title": "01_40"
+      "title": "8-11"
     },
     {
-      "path": "1-3-1/data.csv",
-      "name": "1-3-1",
+      "path": "5-40/data.csv",
+      "name": "5-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2021,34 +1973,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BOTHSEX",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2056,11 +1980,11 @@
           }
         ]
       },
-      "title": "1-3-1"
+      "title": "5-40"
     },
     {
-      "path": "10_41/data.csv",
-      "name": "10_41",
+      "path": "14-10/data.csv",
+      "name": "14-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2078,11 +2002,11 @@
           }
         ]
       },
-      "title": "10_41"
+      "title": "14-10"
     },
     {
-      "path": "08_30/data.csv",
-      "name": "08_30",
+      "path": "5-30/data.csv",
+      "name": "5-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2100,11 +2024,11 @@
           }
         ]
       },
-      "title": "08_30"
+      "title": "5-30"
     },
     {
-      "path": "09_30/data.csv",
-      "name": "09_30",
+      "path": "11-40/data.csv",
+      "name": "11-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2122,11 +2046,11 @@
           }
         ]
       },
-      "title": "09_30"
+      "title": "11-40"
     },
     {
-      "path": "01_50/data.csv",
-      "name": "01_50",
+      "path": "8-20/data.csv",
+      "name": "8-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2144,11 +2068,11 @@
           }
         ]
       },
-      "title": "01_50"
+      "title": "8-20"
     },
     {
-      "path": "15_60/data.csv",
-      "name": "15_60",
+      "path": "3-20/data.csv",
+      "name": "3-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2166,11 +2090,11 @@
           }
         ]
       },
-      "title": "15_60"
+      "title": "3-20"
     },
     {
-      "path": "05_40/data.csv",
-      "name": "05_40",
+      "path": "2-10/data.csv",
+      "name": "2-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2188,11 +2112,11 @@
           }
         ]
       },
-      "title": "05_40"
+      "title": "2-10"
     },
     {
-      "path": "10_50/data.csv",
-      "name": "10_50",
+      "path": "13-10/data.csv",
+      "name": "13-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2210,11 +2134,11 @@
           }
         ]
       },
-      "title": "10_50"
+      "title": "13-10"
     },
     {
-      "path": "06_70/data.csv",
-      "name": "06_70",
+      "path": "15-42/data.csv",
+      "name": "15-42",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2232,11 +2156,11 @@
           }
         ]
       },
-      "title": "06_70"
+      "title": "15-42"
     },
     {
-      "path": "01_41/data.csv",
-      "name": "01_41",
+      "path": "6-40/data.csv",
+      "name": "6-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2254,11 +2178,11 @@
           }
         ]
       },
-      "title": "01_41"
+      "title": "6-40"
     },
     {
-      "path": "08_20/data.csv",
-      "name": "08_20",
+      "path": "9-50/data.csv",
+      "name": "9-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2276,11 +2200,11 @@
           }
         ]
       },
-      "title": "08_20"
+      "title": "9-50"
     },
     {
-      "path": "08_11/data.csv",
-      "name": "08_11",
+      "path": "14-21/data.csv",
+      "name": "14-21",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2298,11 +2222,11 @@
           }
         ]
       },
-      "title": "08_11"
+      "title": "14-21"
     },
     {
-      "path": "16_70/data.csv",
-      "name": "16_70",
+      "path": "9-40/data.csv",
+      "name": "9-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2320,7 +2244,7 @@
           }
         ]
       },
-      "title": "16_70"
+      "title": "9-40"
     }
   ]
 }
