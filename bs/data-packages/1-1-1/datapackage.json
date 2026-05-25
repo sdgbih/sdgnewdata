@@ -12,8 +12,13 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Serije"
           },
           {
             "name": "Value",

@@ -12,8 +12,13 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
           },
           {
             "name": "Value",
