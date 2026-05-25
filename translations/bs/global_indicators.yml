@@ -1,4 +1,4 @@
-definition-label: NASLOV DEFINITION
+﻿definition-label: NASLOV DEFINITION
 rationale-label: NASLOV RATIONALE
 methodology-label: NASLOV METODOLGOGIJA
 1-1-1-title: Osobe u riziku od siromaštva ili socijalne isključenosti
@@ -1175,105 +1175,105 @@ methodology-label: NASLOV METODOLGOGIJA
   prethodile anketi.
 metadata-footer-label: Nacionalni referentni metapodaci
 
-01_10-title: Osobe u riziku od siromaštva ili socijalne isključenosti
-01_20-title: Osobe u opasnosti od monetarnog siromaštva nakon socijalnih transfera
-01_31-title: Stopa teške materijalne i socijalne uskraćenosti prema starosnoj grupi i spolu
-01_40-title: Osobe koje žive u domaćinstvu sa veoma niskim intenzitetom rada, po starosnoj grupi
-01_41-title: Stopa zaposlenih u riziku od siromaštva
-01_50-title: Stopa prekomernog opterećenja troškovima stanovanja prema statusu siromaštva
-02_10-title: Stopa gojaznosti prema indeksu tjelesne mase (BMI)
-02_20-title: Realni faktorski dohodak poljoprivrede po godišnjoj radnoj jedinici (AWU)
-02_30-title: Državna podrška poljoprivrednom istraživanju i razvoju
-02_40-title: Površina pod organskom poljoprivredom
-02_53-title: Upotreba i rizik od hemijskih pesticida
-02_60-title: Emisije amonijaka iz poljoprivrede
-03_12-title: Godine zdravog života zasnovane na samopercepciji zdravlja
-03_20-title: Udio ljudi sa dobrim ili vrlo dobrim percipiranim zdravljem prema spolu
-03_30-title: Prevalencija pušenja prema spolu
-03_42-title: Standardizovana smrtnost koja se može sprečiti i liječiti
-03_60-title: Samoprijavljena nezadovoljena potreba za medicinskim pregledom i njegom prema spolu
-03_70-title: Potrošnja antibiotika u zajednici i bolničkom sektoru – definisane dnevne doze (DDD) dnevno
-04_10-title: Rano napuštanje obrazovanja i obuke po spolu
-04_20-title: Visoko obrazovanje prema spolu
-04_31-title: Učešće u obrazovanju u ranom djetinjstvu prema spolu (djeca od 3 i više godina)
-04_40-title: Petnaestogodišnjaci sa slabim uspjehom u čitanju, matematici ili prirodnim naukama
-04_60-title: Učešće odraslih u učenju u protekle četiri sedmice po spolu
-04_70-title: Udio pojedinaca koji posjeduju barem osnovne digitalne vještine, po spolu
-05_10-title: Fizičko i seksualno nasilje nad ženama po starosnim grupama (podaci iz 2012. godine)
-05_20-title: Razlika u platama između spolova u neprilagođenom obliku
-05_30-title: Razlika u zaposlenosti među spolovima, prema vrsti zaposlenja
-05_40-title: Osobe izvan radne snage zbog obaveza brige o drugima po spolu
-05_50-title: Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama
-05_60-title: Pozicije koje zauzimaju žene na višim rukovodećim pozicijama
-06_20-title: Stanovništvo povezano sa najmanje sekundarnim tretmanom otpadnih voda
-06_30-title: Biohemijske potrebe za kiseonikom u rijekama
-06_40-title: Nitrati u podzemnim vodama
-06_50-title: Fosfat u rijekama
-06_60-title: Indeks eksploatacije vode, plus (WEI+)
-06_70-title: Pesticidi u rijekama
-07_10-title: Primarna i konačna potrošnja energije
-07_20-title: Konačna potrošnja energije u domaćinstvima po stanovniku
-07_30-title: Energetska produktivnost
-07_40-title: Udio obnovljive energije u bruto konačnoj potrošnji energije
-07_50-title: Ovisnost o uvozu energije
-07_60-title: Stanovništvo koje ne može adekvatno zagrijati svoj dom
-08_10-title: BDP po stanovniku
-08_11-title: Udio investicija u BDP-u
-08_20-title: Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku
-08_30-title: Stopa zaposlenosti
-08_40-title: Stopa dugotrajne nezaposlenosti
-08_60-title: Smrtonosne nesreće na radu na 100 000 radnika
-09_10-title: 'Bruto domaća potrošnja za istraživanje i razvoj (R&D)'
-09_30-title: 'Osoblje za istraživanje i razvoj (R&D)'
-09_40-title: Prijave patenata Evropskom uredu za patente
-09_50-title: Udio autobusa i vozova u unutrašnjem putničkom saobraćaju
-09_60-title: Udio željeznice i unutrašnjih plovnih puteva u unutrašnjem transportu tereta
-09_70-title: Intenzitet emisije u zrak u industriji
-10_10-title: Nejednakosti u BDP-u po stanovniku
-10_20-title: Nejednakosti u dohotku domaćinstava po stanovniku
-10_30-title: Relativni medijan jaza rizika od siromaštva
-10_41-title: Nejednakost u dohotku - omjer udjela dohotka po kvintilima
-10_50-title: Udio prihoda donjih 40% stanovništva
-10_60-title: Zahtjevi za azil
-11_11-title: Stepen ozbiljnog stambenog nedostatka
-11_20-title: Stanovništvo koje živi u kućanstvima pogođenim bukom
-11_32-title: Indeks pokrivenosti tla
-11_40-title: Smrtnost u cestovnom saobraćaju
-11_52-title: Prerane smrti zbog izloženosti finim česticama (PM2,5)
-11_60-title: Postotak recikliranja komunalnog otpada
-12_10-title: Potrošnja opasnih hemikalija
-12_21-title: Materijalni otisak
-12_31-title: Otisak potrošnje
-12_41-title: Stopa kružne upotrebe materijala
-12_51-title: Nastajanje otpada
-12_61-title: Bruto dodana vrijednost u sektoru ekoloških dobara i usluga
-13_10-title: Neto emisije stakleničkih plinova
-13_21-title: Neto emisije stakleničkih plinova sektora LULUCF
-13_31-title: Prosječne CO2 emisije po kilometru novih putničkih automobila
-13_40-title: Ekonomski gubici povezani s klimom
-13_50-title: Doprinos međunarodnoj obavezi od 100 milijardi USD za izdatke povezane s klimom
-13_70-title: Izdavanje zelenih obveznica
-14_10-title: Marine protected areas
-14_21-title: Estimated trends in fish stock biomass
-14_30-title: Estimated trend in fishing pressure
-14_40-title: Bathing sites with excellent water quality
-14_50-title: Global mean surface seawater acidity
-14_60-title: Marine waters affected by eutrophication
-15_10-title: Udio šumskog pokrivača
-15_20-title: Zaštićena kopnena područja
-15_42-title: Uticaj suše na ekosisteme
-15_50-title: Područje ugroženo teškom erozijom tla vodom
-15_60-title: Indeks ptica
-15_61-title: Indeks livadskih leptira
-16_10-title: Standardizovana stopa smrtnosti zbog ubistava
-16_20-title: Stanovništvo koje prijavljuje kriminal, nasilje ili vandalizam u svojoj zajednici
-16_30-title: Ukupna potrošnja opće vlade na sudove
-16_40-title: 'Percipirana nezavisnost pravosudnog sistema: vrlo ili prilično dobra'
-16_50-title: Indeks percipirane korupcije
-16_70-title: Žrtve trgovine ljudima prema spolu
-17_10-title: Službena razvojna pomoć
-17_20-title: Finansiranje EU-a zemljama u razvoju
-17_31-title: Uvoz EU-a iz najmanje razvijenih zemalja
-17_40-title: Bruto dug opće vlade
-17_50-title: Udio poreza na zaštitu okoliša u ukupnim poreznim prihodima
-17_60-title: Udio domaćinstava sa brzom internet vezom
+1-10-title: Osobe u riziku od siromaštva ili socijalne isključenosti
+1-20-title: Osobe u opasnosti od monetarnog siromaštva nakon socijalnih transfera
+1-31-title: Stopa teške materijalne i socijalne uskraćenosti prema starosnoj grupi i spolu
+1-40-title: Osobe koje žive u domaćinstvu sa veoma niskim intenzitetom rada, po starosnoj grupi
+1-41-title: Stopa zaposlenih u riziku od siromaštva
+1-50-title: Stopa prekomernog opterećenja troškovima stanovanja prema statusu siromaštva
+2-10-title: Stopa gojaznosti prema indeksu tjelesne mase (BMI)
+2-20-title: Realni faktorski dohodak poljoprivrede po godišnjoj radnoj jedinici (AWU)
+2-30-title: Državna podrška poljoprivrednom istraživanju i razvoju
+2-40-title: Površina pod organskom poljoprivredom
+2-53-title: Upotreba i rizik od hemijskih pesticida
+2-60-title: Emisije amonijaka iz poljoprivrede
+3-12-title: Godine zdravog života zasnovane na samopercepciji zdravlja
+3-20-title: Udio ljudi sa dobrim ili vrlo dobrim percipiranim zdravljem prema spolu
+3-30-title: Prevalencija pušenja prema spolu
+3-42-title: Standardizovana smrtnost koja se može sprečiti i liječiti
+3-60-title: Samoprijavljena nezadovoljena potreba za medicinskim pregledom i njegom prema spolu
+3-70-title: Potrošnja antibiotika u zajednici i bolničkom sektoru – definisane dnevne doze (DDD) dnevno
+4-10-title: Rano napuštanje obrazovanja i obuke po spolu
+4-20-title: Visoko obrazovanje prema spolu
+4-31-title: Učešće u obrazovanju u ranom djetinjstvu prema spolu (djeca od 3 i više godina)
+4-40-title: Petnaestogodišnjaci sa slabim uspjehom u čitanju, matematici ili prirodnim naukama
+4-60-title: Učešće odraslih u učenju u protekle četiri sedmice po spolu
+4-70-title: Udio pojedinaca koji posjeduju barem osnovne digitalne vještine, po spolu
+5-10-title: Fizičko i seksualno nasilje nad ženama po starosnim grupama (podaci iz 2012. godine)
+5-20-title: Razlika u platama između spolova u neprilagođenom obliku
+5-30-title: Razlika u zaposlenosti među spolovima, prema vrsti zaposlenja
+5-40-title: Osobe izvan radne snage zbog obaveza brige o drugima po spolu
+5-50-title: Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama
+5-60-title: Pozicije koje zauzimaju žene na višim rukovodećim pozicijama
+6-20-title: Stanovništvo povezano sa najmanje sekundarnim tretmanom otpadnih voda
+6-30-title: Biohemijske potrebe za kiseonikom u rijekama
+6-40-title: Nitrati u podzemnim vodama
+6-50-title: Fosfat u rijekama
+6-60-title: Indeks eksploatacije vode, plus (WEI+)
+6-70-title: Pesticidi u rijekama
+7-10-title: Primarna i konačna potrošnja energije
+7-20-title: Konačna potrošnja energije u domaćinstvima po stanovniku
+7-30-title: Energetska produktivnost
+7-40-title: Udio obnovljive energije u bruto konačnoj potrošnji energije
+7-50-title: Ovisnost o uvozu energije
+7-60-title: Stanovništvo koje ne može adekvatno zagrijati svoj dom
+8-10-title: BDP po stanovniku
+8-11-title: Udio investicija u BDP-u
+8-20-title: Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku
+8-30-title: Stopa zaposlenosti
+8-40-title: Stopa dugotrajne nezaposlenosti
+8-60-title: Smrtonosne nesreće na radu na 100 000 radnika
+9-10-title: 'Bruto domaća potrošnja za istraživanje i razvoj (R&D)'
+9-30-title: 'Osoblje za istraživanje i razvoj (R&D)'
+9-40-title: Prijave patenata Evropskom uredu za patente
+9-50-title: Udio autobusa i vozova u unutrašnjem putničkom saobraćaju
+9-60-title: Udio željeznice i unutrašnjih plovnih puteva u unutrašnjem transportu tereta
+9-70-title: Intenzitet emisije u zrak u industriji
+10-10-title: Nejednakosti u BDP-u po stanovniku
+10-20-title: Nejednakosti u dohotku domaćinstava po stanovniku
+10-30-title: Relativni medijan jaza rizika od siromaštva
+10-41-title: Nejednakost u dohotku - omjer udjela dohotka po kvintilima
+10-50-title: Udio prihoda donjih 40% stanovništva
+10-60-title: Zahtjevi za azil
+11-11-title: Stepen ozbiljnog stambenog nedostatka
+11-20-title: Stanovništvo koje živi u kućanstvima pogođenim bukom
+11-32-title: Indeks pokrivenosti tla
+11-40-title: Smrtnost u cestovnom saobraćaju
+11-52-title: Prerane smrti zbog izloženosti finim česticama (PM2,5)
+11-60-title: Postotak recikliranja komunalnog otpada
+12-10-title: Potrošnja opasnih hemikalija
+12-21-title: Materijalni otisak
+12-31-title: Otisak potrošnje
+12-41-title: Stopa kružne upotrebe materijala
+12-51-title: Nastajanje otpada
+12-61-title: Bruto dodana vrijednost u sektoru ekoloških dobara i usluga
+13-10-title: Neto emisije stakleničkih plinova
+13-21-title: Neto emisije stakleničkih plinova sektora LULUCF
+13-31-title: Prosječne CO2 emisije po kilometru novih putničkih automobila
+13-40-title: Ekonomski gubici povezani s klimom
+13-50-title: Doprinos međunarodnoj obavezi od 100 milijardi USD za izdatke povezane s klimom
+13-70-title: Izdavanje zelenih obveznica
+14-10-title: Marine protected areas
+14-21-title: Estimated trends in fish stock biomass
+14-30-title: Estimated trend in fishing pressure
+14-40-title: Bathing sites with excellent water quality
+14-50-title: Global mean surface seawater acidity
+14-60-title: Marine waters affected by eutrophication
+15-10-title: Udio šumskog pokrivača
+15-20-title: Zaštićena kopnena područja
+15-42-title: Uticaj suše na ekosisteme
+15-50-title: Područje ugroženo teškom erozijom tla vodom
+15-60-title: Indeks ptica
+15-61-title: Indeks livadskih leptira
+16-10-title: Standardizovana stopa smrtnosti zbog ubistava
+16-20-title: Stanovništvo koje prijavljuje kriminal, nasilje ili vandalizam u svojoj zajednici
+16-30-title: Ukupna potrošnja opće vlade na sudove
+16-40-title: 'Percipirana nezavisnost pravosudnog sistema: vrlo ili prilično dobra'
+16-50-title: Indeks percipirane korupcije
+16-70-title: Žrtve trgovine ljudima prema spolu
+17-10-title: Službena razvojna pomoć
+17-20-title: Finansiranje EU-a zemljama u razvoju
+17-31-title: Uvoz EU-a iz najmanje razvijenih zemalja
+17-40-title: Bruto dug opće vlade
+17-50-title: Udio poreza na zaštitu okoliša u ukupnim poreznim prihodima
+17-60-title: Udio domaćinstava sa brzom internet vezom

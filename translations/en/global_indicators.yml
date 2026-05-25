@@ -1,4 +1,4 @@
-1-1-1-title: People at risk of poverty or social exclusion
+﻿1-1-1-title: People at risk of poverty or social exclusion
 1-1-1-definition: >-
   This indicator corresponds to the sum of people who are: at risk of poverty after social transfers, 
   severely materially and socially deprived, or living in households with very low work intensity. 
@@ -1158,105 +1158,105 @@
   education or training in the four weeks preceding the survey.
 metadata-footer-label: National reference metadata
 
-01_10-title: Persons at risk of poverty or social exclusion
-01_20-title: Persons at risk of monetary poverty after social transfers - EU_x0002_SILC and ECHP surveys
-01_31-title: Severe material and social deprivation rate by age group and sex
-01_40-title: Persons living in households with very low work intensity, by age group
-01_41-title: In work at-risk-of_x0002_poverty rate
-01_50-title: Housing cost overburden rate by poverty status
-02_10-title: Obesity rate by body mass index (BMI)
-02_20-title: Agricultural real factor income per annual work unit (AWU)
-02_30-title: Government support to agricultural research and development
-02_40-title: Area under organic farming
-02_53-title: Use and risk of chemical pesticides
-02_60-title: Ammonia emissions from agriculture
-03_12-title: 'Healthy life years based on self-perceived health (previous: Healthy life years at birth)'
-03_20-title: Share of people with good or very good perceived health by sex
-03_30-title: Smoking prevalence by sex
-03_42-title: Standardised preventable and treatable mortality
-03_60-title: Self-reported unmet need for medical examination and care by sex
-03_70-title: Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day
-04_10-title: Early leavers from education and training by sex
-04_20-title: Tertiary educational attainment by sex
-04_31-title: Participation in early childhood education by sex (children aged 3 and over)
-04_40-title: Low achieving 15-year_x0002_olds in reading, mathematics or science
-04_60-title: Adult participation in learning in the past four weeks by sex
-04_70-title: Share of individuals having at least basic digital skills, by sex
-05_10-title: Physical and sexual violence to women by age group (2012 data)
-05_20-title: Gender pay gap in unadjusted form
-05_30-title: Gender employment gap, by type of employment
-05_40-title: Persons outside the labour force due to caring responsibilities by sex
-05_50-title: Seats held by women in national parliaments and governments
-05_60-title: Positions held by women in senior management positions
-06_20-title: Population connected to at least secondary wastewater treatment
-06_30-title: Biochemical oxygen demand in rivers
-06_40-title: Nitrate in groundwater
-06_50-title: Phosphate in rivers
-06_60-title: Water exploitation index, plus (WEI+)
-06_70-title: Pesticides in rivers (NEW)
-07_10-title: 'Primary & final energy consumption'
-07_20-title: Final energy consumption in households per capita
-07_30-title: Energy productivity
-07_40-title: Share of renewable energy in gross final energy consumption
-07_50-title: Energy import dependency
-07_60-title: Population unable to keep home adequately warm
-08_10-title: Real GDP per capita
-08_11-title: Investment share of GD
-08_20-title: Young people neither in employment nor in education and training
-08_30-title: Employment rate
-08_40-title: Long-term unemployment rate
-08_60-title: Fatal accidents at work per 100 000 workers
-09_10-title: 'Gross domestic expenditure on R&D'
-09_30-title: 'R&D personnel'
-09_40-title: Patent applications to the European Patent Office
-09_50-title: Share of busses and trains in inland passenger transport
-09_60-title: Share of rail and inland waterways activity in inland freight transport
-09_70-title: Air emission intensity of industry
-10_10-title: Disparities in GDP per capita
-10_20-title: Disparities in household income per capita
-10_30-title: Relative median at-risk-of-poverty gap
-10_41-title: Income inequality -income quintile share ratio
-10_50-title: Income share of the bottom 40 % of the population
-10_60-title: Asylum applications
-11_11-title: Severe housing deprivation rate
-11_20-title: Population living in households suffering from noise
-11_32-title: Soil sealing index
-11_40-title: Road traffic deaths
-11_52-title: Premature deaths due to exposure to fine particulate matter (PM2.5)
-11_60-title: Recycling rate of municipal waste
-12_10-title: Consumption of hazardous chemicals
-12_21-title: Material footprint
-12_31-title: Consumption footprint
-12_41-title: Circular material use rate
-12_51-title: Generation of waste
-12_61-title: Gross value added in environmental goods and services sector
-13_10-title: Net greenhouse gas emissions
-13_21-title: Net greenhouse gas emissions of the LULUCF sector
-13_31-title: Average CO2 emissions per km from new passenger cars
-13_40-title: Climate-related economic losses
-13_50-title: Contribution to the international 100bn USD commitment on climate related expenditure
-13_70-title: Green bond issuance
-14_10-title: Marine protected areas
-14_21-title: Estimated trends in fish stock biomass
-14_30-title: Estimated trend in fishing pressure
-14_40-title: Bathing sites with excellent water quality
-14_50-title: Global mean surface seawater acidity
-14_60-title: Marine waters affected by eutrophication
-15_10-title: Share of forest area
-15_20-title: Terrestrial protected areas
-15_42-title: Drought impact on ecosystems
-15_50-title: Area at risk of severe soil erosion by water
-15_60-title: Common bird index
-15_61-title: Grassland butterfly index
-16_10-title: Standardised death rate due to homicid
-16_20-title: Population reporting crime, violence or vandalism in their are
-16_30-title: General government total expenditure on law courts
-16_40-title: 'Perceived independence of the justice system: very or fairly good'
-16_50-title: Corruption Perceptions Index
-16_70-title: Victims of trafficking in human beings by sex
-17_10-title: Official development assistance
-17_20-title: EU financing to developing countries
-17_31-title: EU imports from least developed countries
-17_40-title: General government gross debt
-17_50-title: Shares of environmental taxes in total tax revenues
-17_60-title: Share of households with high-speed internet connection
+1-10-title: Persons at risk of poverty or social exclusion
+1-20-title: Persons at risk of monetary poverty after social transfers - EU_x0002_SILC and ECHP surveys
+1-31-title: Severe material and social deprivation rate by age group and sex
+1-40-title: Persons living in households with very low work intensity, by age group
+1-41-title: In work at-risk-of_x0002_poverty rate
+1-50-title: Housing cost overburden rate by poverty status
+2-10-title: Obesity rate by body mass index (BMI)
+2-20-title: Agricultural real factor income per annual work unit (AWU)
+2-30-title: Government support to agricultural research and development
+2-40-title: Area under organic farming
+2-53-title: Use and risk of chemical pesticides
+2-60-title: Ammonia emissions from agriculture
+3-12-title: 'Healthy life years based on self-perceived health (previous: Healthy life years at birth)'
+3-20-title: Share of people with good or very good perceived health by sex
+3-30-title: Smoking prevalence by sex
+3-42-title: Standardised preventable and treatable mortality
+3-60-title: Self-reported unmet need for medical examination and care by sex
+3-70-title: Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day
+4-10-title: Early leavers from education and training by sex
+4-20-title: Tertiary educational attainment by sex
+4-31-title: Participation in early childhood education by sex (children aged 3 and over)
+4-40-title: Low achieving 15-year_x0002_olds in reading, mathematics or science
+4-60-title: Adult participation in learning in the past four weeks by sex
+4-70-title: Share of individuals having at least basic digital skills, by sex
+5-10-title: Physical and sexual violence to women by age group (2012 data)
+5-20-title: Gender pay gap in unadjusted form
+5-30-title: Gender employment gap, by type of employment
+5-40-title: Persons outside the labour force due to caring responsibilities by sex
+5-50-title: Seats held by women in national parliaments and governments
+5-60-title: Positions held by women in senior management positions
+6-20-title: Population connected to at least secondary wastewater treatment
+6-30-title: Biochemical oxygen demand in rivers
+6-40-title: Nitrate in groundwater
+6-50-title: Phosphate in rivers
+6-60-title: Water exploitation index, plus (WEI+)
+6-70-title: Pesticides in rivers (NEW)
+7-10-title: 'Primary & final energy consumption'
+7-20-title: Final energy consumption in households per capita
+7-30-title: Energy productivity
+7-40-title: Share of renewable energy in gross final energy consumption
+7-50-title: Energy import dependency
+7-60-title: Population unable to keep home adequately warm
+8-10-title: Real GDP per capita
+8-11-title: Investment share of GD
+8-20-title: Young people neither in employment nor in education and training
+8-30-title: Employment rate
+8-40-title: Long-term unemployment rate
+8-60-title: Fatal accidents at work per 100 000 workers
+9-10-title: 'Gross domestic expenditure on R&D'
+9-30-title: 'R&D personnel'
+9-40-title: Patent applications to the European Patent Office
+9-50-title: Share of busses and trains in inland passenger transport
+9-60-title: Share of rail and inland waterways activity in inland freight transport
+9-70-title: Air emission intensity of industry
+10-10-title: Disparities in GDP per capita
+10-20-title: Disparities in household income per capita
+10-30-title: Relative median at-risk-of-poverty gap
+10-41-title: Income inequality -income quintile share ratio
+10-50-title: Income share of the bottom 40 % of the population
+10-60-title: Asylum applications
+11-11-title: Severe housing deprivation rate
+11-20-title: Population living in households suffering from noise
+11-32-title: Soil sealing index
+11-40-title: Road traffic deaths
+11-52-title: Premature deaths due to exposure to fine particulate matter (PM2.5)
+11-60-title: Recycling rate of municipal waste
+12-10-title: Consumption of hazardous chemicals
+12-21-title: Material footprint
+12-31-title: Consumption footprint
+12-41-title: Circular material use rate
+12-51-title: Generation of waste
+12-61-title: Gross value added in environmental goods and services sector
+13-10-title: Net greenhouse gas emissions
+13-21-title: Net greenhouse gas emissions of the LULUCF sector
+13-31-title: Average CO2 emissions per km from new passenger cars
+13-40-title: Climate-related economic losses
+13-50-title: Contribution to the international 100bn USD commitment on climate related expenditure
+13-70-title: Green bond issuance
+14-10-title: Marine protected areas
+14-21-title: Estimated trends in fish stock biomass
+14-30-title: Estimated trend in fishing pressure
+14-40-title: Bathing sites with excellent water quality
+14-50-title: Global mean surface seawater acidity
+14-60-title: Marine waters affected by eutrophication
+15-10-title: Share of forest area
+15-20-title: Terrestrial protected areas
+15-42-title: Drought impact on ecosystems
+15-50-title: Area at risk of severe soil erosion by water
+15-60-title: Common bird index
+15-61-title: Grassland butterfly index
+16-10-title: Standardised death rate due to homicid
+16-20-title: Population reporting crime, violence or vandalism in their are
+16-30-title: General government total expenditure on law courts
+16-40-title: 'Perceived independence of the justice system: very or fairly good'
+16-50-title: Corruption Perceptions Index
+16-70-title: Victims of trafficking in human beings by sex
+17-10-title: Official development assistance
+17-20-title: EU financing to developing countries
+17-31-title: EU imports from least developed countries
+17-40-title: General government gross debt
+17-50-title: Shares of environmental taxes in total tax revenues
+17-60-title: Share of households with high-speed internet connection

@@ -1,0 +1,11 @@
+﻿indicator_number: 6.50
+reporting_status: notstarted
+published: true
+sdg_goal: '6'
+data_non_statistical: false
+graph_type: line
+indicator_sort_order: '06-50'
+
+source_active_1: true
+source_organisation_1: EEA (Waterbase database)
+source_url_1: ''
