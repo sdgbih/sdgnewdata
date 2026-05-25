@@ -3,8 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "11-1-1/data.csv",
-      "name": "11-1-1",
+      "path": "07_40/data.csv",
+      "name": "07_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -17,48 +17,16 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "11-1-1"
+      "title": "07_40"
     },
     {
-      "path": "4-6-1/data.csv",
-      "name": "4-6-1",
+      "path": "17_50/data.csv",
+      "name": "17_50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -69,50 +37,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
           },
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "4-6-1"
+      "title": "17_50"
     },
     {
-      "path": "11-4-1/data.csv",
-      "name": "11-4-1",
+      "path": "13_21/data.csv",
+      "name": "13_21",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -123,38 +59,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -162,11 +66,11 @@
           }
         ]
       },
-      "title": "11-4-1"
+      "title": "13_21"
     },
     {
-      "path": "12-5-1/data.csv",
-      "name": "12-5-1",
+      "path": "09_10/data.csv",
+      "name": "09_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -177,50 +81,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "12-5-1"
+      "title": "09_10"
     },
     {
-      "path": "13-2-1/data.csv",
-      "name": "13-2-1",
+      "path": "08_60/data.csv",
+      "name": "08_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -231,38 +103,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -270,11 +110,11 @@
           }
         ]
       },
-      "title": "13-2-1"
+      "title": "08_60"
     },
     {
-      "path": "4-5-1/data.csv",
-      "name": "4-5-1",
+      "path": "07_60/data.csv",
+      "name": "07_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -287,48 +127,16 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "4-5-1"
+      "title": "07_60"
     },
     {
-      "path": "14-4-1/data.csv",
-      "name": "14-4-1",
+      "path": "17_20/data.csv",
+      "name": "17_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -339,50 +147,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
           },
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "14-4-1"
+      "title": "17_20"
     },
     {
-      "path": "14-1-1/data.csv",
-      "name": "14-1-1",
+      "path": "14_40/data.csv",
+      "name": "14_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -393,38 +169,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -432,11 +176,11 @@
           }
         ]
       },
-      "title": "14-1-1"
+      "title": "14_40"
     },
     {
-      "path": "15-5-1/data.csv",
-      "name": "15-5-1",
+      "path": "17_60/data.csv",
+      "name": "17_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -447,50 +191,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "15-5-1"
+      "title": "17_60"
     },
     {
-      "path": "15-1-1/data.csv",
-      "name": "15-1-1",
+      "path": "07_30/data.csv",
+      "name": "07_30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -501,38 +213,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -540,11 +220,11 @@
           }
         ]
       },
-      "title": "15-1-1"
+      "title": "07_30"
     },
     {
-      "path": "12-3-1/data.csv",
-      "name": "12-3-1",
+      "path": "02_40/data.csv",
+      "name": "02_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -557,48 +237,16 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "12-3-1"
+      "title": "02_40"
     },
     {
-      "path": "15-3-1/data.csv",
-      "name": "15-3-1",
+      "path": "15_20/data.csv",
+      "name": "15_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -609,50 +257,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
           },
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "15-3-1"
+      "title": "15_20"
     },
     {
-      "path": "4-2-1/data.csv",
-      "name": "4-2-1",
+      "path": "07_20/data.csv",
+      "name": "07_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -663,38 +279,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -702,11 +286,11 @@
           }
         ]
       },
-      "title": "4-2-1"
+      "title": "07_20"
     },
     {
-      "path": "2-4-1/data.csv",
-      "name": "2-4-1",
+      "path": "02_60/data.csv",
+      "name": "02_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -717,38 +301,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -756,11 +308,11 @@
           }
         ]
       },
-      "title": "2-4-1"
+      "title": "02_60"
     },
     {
-      "path": "12-1-1/data.csv",
-      "name": "12-1-1",
+      "path": "16_30/data.csv",
+      "name": "16_30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -771,50 +323,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "12-1-1"
+      "title": "16_30"
     },
     {
-      "path": "15-2-1/data.csv",
-      "name": "15-2-1",
+      "path": "12_41/data.csv",
+      "name": "12_41",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -825,38 +345,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -864,11 +352,11 @@
           }
         ]
       },
-      "title": "15-2-1"
+      "title": "12_41"
     },
     {
-      "path": "5-3-1/data.csv",
-      "name": "5-3-1",
+      "path": "01_31/data.csv",
+      "name": "01_31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -879,38 +367,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -918,11 +374,11 @@
           }
         ]
       },
-      "title": "5-3-1"
+      "title": "01_31"
     },
     {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
+      "path": "05_20/data.csv",
+      "name": "05_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -933,50 +389,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
           },
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "6-3-1"
+      "title": "05_20"
     },
     {
-      "path": "16-2-1/data.csv",
-      "name": "16-2-1",
+      "path": "13_31/data.csv",
+      "name": "13_31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -987,38 +411,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1026,11 +418,11 @@
           }
         ]
       },
-      "title": "16-2-1"
+      "title": "13_31"
     },
     {
-      "path": "14-3-1/data.csv",
-      "name": "14-3-1",
+      "path": "10_10/data.csv",
+      "name": "10_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1041,50 +433,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "14-3-1"
+      "title": "10_10"
     },
     {
-      "path": "17-2-1/data.csv",
-      "name": "17-2-1",
+      "path": "06_40/data.csv",
+      "name": "06_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1095,38 +455,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1134,11 +462,11 @@
           }
         ]
       },
-      "title": "17-2-1"
+      "title": "06_40"
     },
     {
-      "path": "14-2-1/data.csv",
-      "name": "14-2-1",
+      "path": "05_60/data.csv",
+      "name": "05_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1149,38 +477,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1188,11 +484,11 @@
           }
         ]
       },
-      "title": "14-2-1"
+      "title": "05_60"
     },
     {
-      "path": "7-3-1/data.csv",
-      "name": "7-3-1",
+      "path": "12_51/data.csv",
+      "name": "12_51",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1203,50 +499,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
           },
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "7-3-1"
+      "title": "12_51"
     },
     {
-      "path": "17-1-1/data.csv",
-      "name": "17-1-1",
+      "path": "14_60/data.csv",
+      "name": "14_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1257,38 +521,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1296,11 +528,11 @@
           }
         ]
       },
-      "title": "17-1-1"
+      "title": "14_60"
     },
     {
-      "path": "11-3-1/data.csv",
-      "name": "11-3-1",
+      "path": "14_30/data.csv",
+      "name": "14_30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1311,50 +543,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "11-3-1"
+      "title": "14_30"
     },
     {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
+      "path": "04_60/data.csv",
+      "name": "04_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1365,25 +565,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "<18Y",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1391,11 +572,11 @@
           }
         ]
       },
-      "title": "1-1-1"
+      "title": "04_60"
     },
     {
-      "path": "12-4-1/data.csv",
-      "name": "12-4-1",
+      "path": "13_40/data.csv",
+      "name": "13_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1406,38 +587,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1445,11 +594,11 @@
           }
         ]
       },
-      "title": "12-4-1"
+      "title": "13_40"
     },
     {
-      "path": "9-6-1/data.csv",
-      "name": "9-6-1",
+      "path": "02_20/data.csv",
+      "name": "02_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1462,48 +611,16 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "9-6-1"
+      "title": "02_20"
     },
     {
-      "path": "4-3-1/data.csv",
-      "name": "4-3-1",
+      "path": "03_60/data.csv",
+      "name": "03_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1514,50 +631,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
           },
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "4-3-1"
+      "title": "03_60"
     },
     {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
+      "path": "12_31/data.csv",
+      "name": "12_31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1568,38 +653,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1607,11 +660,11 @@
           }
         ]
       },
-      "title": "3-4-1"
+      "title": "12_31"
     },
     {
-      "path": "1-4-1/data.csv",
-      "name": "1-4-1",
+      "path": "02_30/data.csv",
+      "name": "02_30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1622,50 +675,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "1-4-1"
+      "title": "02_30"
     },
     {
-      "path": "11-5-1/data.csv",
-      "name": "11-5-1",
+      "path": "03_70/data.csv",
+      "name": "03_70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1676,38 +697,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1715,11 +704,11 @@
           }
         ]
       },
-      "title": "11-5-1"
+      "title": "03_70"
     },
     {
-      "path": "6-5-1/data.csv",
-      "name": "6-5-1",
+      "path": "12_10/data.csv",
+      "name": "12_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1732,48 +721,16 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "6-5-1"
+      "title": "12_10"
     },
     {
-      "path": "10-4-1/data.csv",
-      "name": "10-4-1",
+      "path": "17_31/data.csv",
+      "name": "17_31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1784,50 +741,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
           },
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "10-4-1"
+      "title": "17_31"
     },
     {
-      "path": "16-5-1/data.csv",
-      "name": "16-5-1",
+      "path": "13_10/data.csv",
+      "name": "13_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1838,38 +763,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -1877,11 +770,11 @@
           }
         ]
       },
-      "title": "16-5-1"
+      "title": "13_10"
     },
     {
-      "path": "13-4-1/data.csv",
-      "name": "13-4-1",
+      "path": "02_53/data.csv",
+      "name": "02_53",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1892,50 +785,18 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "13-4-1"
+      "title": "02_53"
     },
     {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
+      "path": "11_32/data.csv",
+      "name": "11_32",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1946,38 +807,28 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "11_32"
+    },
+    {
+      "path": "11_40/data.csv",
+      "name": "11_40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -1985,11 +836,11 @@
           }
         ]
       },
-      "title": "5-1-1"
+      "title": "11_40"
     },
     {
-      "path": "2-1-1/data.csv",
-      "name": "2-1-1",
+      "path": "04_31/data.csv",
+      "name": "04_31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2000,38 +851,28 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "04_31"
+    },
+    {
+      "path": "04_20/data.csv",
+      "name": "04_20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -2039,11 +880,11 @@
           }
         ]
       },
-      "title": "2-1-1"
+      "title": "04_20"
     },
     {
-      "path": "7-4-1/data.csv",
-      "name": "7-4-1",
+      "path": "10_20/data.csv",
+      "name": "10_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2054,38 +895,28 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "10_20"
+    },
+    {
+      "path": "17_40/data.csv",
+      "name": "17_40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -2093,11 +924,11 @@
           }
         ]
       },
-      "title": "7-4-1"
+      "title": "17_40"
     },
     {
-      "path": "6-4-1/data.csv",
-      "name": "6-4-1",
+      "path": "14_10/data.csv",
+      "name": "14_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2110,36 +941,26 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "14_10"
+    },
+    {
+      "path": "12_61/data.csv",
+      "name": "12_61",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -2147,11 +968,11 @@
           }
         ]
       },
-      "title": "6-4-1"
+      "title": "12_61"
     },
     {
-      "path": "5-4-1/data.csv",
-      "name": "5-4-1",
+      "path": "09_70/data.csv",
+      "name": "09_70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2162,38 +983,28 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "09_70"
+    },
+    {
+      "path": "02_10/data.csv",
+      "name": "02_10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -2201,11 +1012,11 @@
           }
         ]
       },
-      "title": "5-4-1"
+      "title": "02_10"
     },
     {
-      "path": "8-1-1/data.csv",
-      "name": "8-1-1",
+      "path": "15_42/data.csv",
+      "name": "15_42",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2218,36 +1029,26 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "15_42"
+    },
+    {
+      "path": "01_10/data.csv",
+      "name": "01_10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
           {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -2255,11 +1056,11 @@
           }
         ]
       },
-      "title": "8-1-1"
+      "title": "01_10"
     },
     {
-      "path": "3-3-1/data.csv",
-      "name": "3-3-1",
+      "path": "11_52/data.csv",
+      "name": "11_52",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2270,38 +1071,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2309,11 +1078,11 @@
           }
         ]
       },
-      "title": "3-3-1"
+      "title": "11_52"
     },
     {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
+      "path": "05_50/data.csv",
+      "name": "05_50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2324,38 +1093,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2363,11 +1100,11 @@
           }
         ]
       },
-      "title": "16-1-1"
+      "title": "05_50"
     },
     {
-      "path": "3-7-1/data.csv",
-      "name": "3-7-1",
+      "path": "15_10/data.csv",
+      "name": "15_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2378,38 +1115,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2417,11 +1122,11 @@
           }
         ]
       },
-      "title": "3-7-1"
+      "title": "15_10"
     },
     {
-      "path": "11-2-1/data.csv",
-      "name": "11-2-1",
+      "path": "07_10/data.csv",
+      "name": "07_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2432,38 +1137,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2471,11 +1144,11 @@
           }
         ]
       },
-      "title": "11-2-1"
+      "title": "07_10"
     },
     {
-      "path": "17-4-1/data.csv",
-      "name": "17-4-1",
+      "path": "08_10/data.csv",
+      "name": "08_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2486,38 +1159,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2525,11 +1166,11 @@
           }
         ]
       },
-      "title": "17-4-1"
+      "title": "08_10"
     },
     {
-      "path": "10-2-1/data.csv",
-      "name": "10-2-1",
+      "path": "06_50/data.csv",
+      "name": "06_50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2540,38 +1181,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2579,11 +1188,11 @@
           }
         ]
       },
-      "title": "10-2-1"
+      "title": "06_50"
     },
     {
-      "path": "16-3-1/data.csv",
-      "name": "16-3-1",
+      "path": "16_50/data.csv",
+      "name": "16_50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2594,38 +1203,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2633,11 +1210,11 @@
           }
         ]
       },
-      "title": "16-3-1"
+      "title": "16_50"
     },
     {
-      "path": "7-2-1/data.csv",
-      "name": "7-2-1",
+      "path": "11_11/data.csv",
+      "name": "11_11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2648,38 +1225,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2687,11 +1232,11 @@
           }
         ]
       },
-      "title": "7-2-1"
+      "title": "11_11"
     },
     {
-      "path": "7-6-1/data.csv",
-      "name": "7-6-1",
+      "path": "16_10/data.csv",
+      "name": "16_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2702,38 +1247,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2741,11 +1254,11 @@
           }
         ]
       },
-      "title": "7-6-1"
+      "title": "16_10"
     },
     {
-      "path": "5-5-1/data.csv",
-      "name": "5-5-1",
+      "path": "15_50/data.csv",
+      "name": "15_50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2756,38 +1269,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2795,11 +1276,11 @@
           }
         ]
       },
-      "title": "5-5-1"
+      "title": "15_50"
     },
     {
-      "path": "10-5-1/data.csv",
-      "name": "10-5-1",
+      "path": "16_20/data.csv",
+      "name": "16_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2810,38 +1291,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2849,11 +1298,11 @@
           }
         ]
       },
-      "title": "10-5-1"
+      "title": "16_20"
     },
     {
-      "path": "9-3-1/data.csv",
-      "name": "9-3-1",
+      "path": "13_70/data.csv",
+      "name": "13_70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2864,38 +1313,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2903,11 +1320,11 @@
           }
         ]
       },
-      "title": "9-3-1"
+      "title": "13_70"
     },
     {
-      "path": "16-4-1/data.csv",
-      "name": "16-4-1",
+      "path": "06_20/data.csv",
+      "name": "06_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2918,38 +1335,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -2957,11 +1342,11 @@
           }
         ]
       },
-      "title": "16-4-1"
+      "title": "06_20"
     },
     {
-      "path": "9-2-1/data.csv",
-      "name": "9-2-1",
+      "path": "04_70/data.csv",
+      "name": "04_70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2972,38 +1357,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3011,11 +1364,11 @@
           }
         ]
       },
-      "title": "9-2-1"
+      "title": "04_70"
     },
     {
-      "path": "1-4-2/data.csv",
-      "name": "1-4-2",
+      "path": "09_50/data.csv",
+      "name": "09_50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3026,38 +1379,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3065,11 +1386,11 @@
           }
         ]
       },
-      "title": "1-4-2"
+      "title": "09_50"
     },
     {
-      "path": "7-5-1/data.csv",
-      "name": "7-5-1",
+      "path": "16_40/data.csv",
+      "name": "16_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3080,38 +1401,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3119,11 +1408,11 @@
           }
         ]
       },
-      "title": "7-5-1"
+      "title": "16_40"
     },
     {
-      "path": "9-4-1/data.csv",
-      "name": "9-4-1",
+      "path": "14_21/data.csv",
+      "name": "14_21",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3134,38 +1423,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3173,11 +1430,11 @@
           }
         ]
       },
-      "title": "9-4-1"
+      "title": "14_21"
     },
     {
-      "path": "8-4-1/data.csv",
-      "name": "8-4-1",
+      "path": "09_40/data.csv",
+      "name": "09_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3188,38 +1445,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3227,11 +1452,11 @@
           }
         ]
       },
-      "title": "8-4-1"
+      "title": "09_40"
     },
     {
-      "path": "8-5-1/data.csv",
-      "name": "8-5-1",
+      "path": "11_20/data.csv",
+      "name": "11_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3242,38 +1467,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3281,11 +1474,11 @@
           }
         ]
       },
-      "title": "8-5-1"
+      "title": "11_20"
     },
     {
-      "path": "2-5-3/data.csv",
-      "name": "2-5-3",
+      "path": "06_30/data.csv",
+      "name": "06_30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3296,38 +1489,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3335,11 +1496,11 @@
           }
         ]
       },
-      "title": "2-5-3"
+      "title": "06_30"
     },
     {
-      "path": "3-2-1/data.csv",
-      "name": "3-2-1",
+      "path": "05_10/data.csv",
+      "name": "05_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3350,38 +1511,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3389,11 +1518,11 @@
           }
         ]
       },
-      "title": "3-2-1"
+      "title": "05_10"
     },
     {
-      "path": "6-2-1/data.csv",
-      "name": "6-2-1",
+      "path": "04_10/data.csv",
+      "name": "04_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3404,38 +1533,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3443,11 +1540,11 @@
           }
         ]
       },
-      "title": "6-2-1"
+      "title": "04_10"
     },
     {
-      "path": "2-6-0/data.csv",
-      "name": "2-6-0",
+      "path": "03_12/data.csv",
+      "name": "03_12",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3458,38 +1555,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3497,11 +1562,11 @@
           }
         ]
       },
-      "title": "2-6-0"
+      "title": "03_12"
     },
     {
-      "path": "3-6-1/data.csv",
-      "name": "3-6-1",
+      "path": "13_50/data.csv",
+      "name": "13_50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3512,38 +1577,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3551,11 +1584,11 @@
           }
         ]
       },
-      "title": "3-6-1"
+      "title": "13_50"
     },
     {
-      "path": "1-5-1/data.csv",
-      "name": "1-5-1",
+      "path": "10_60/data.csv",
+      "name": "10_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3566,38 +1599,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3605,11 +1606,11 @@
           }
         ]
       },
-      "title": "1-5-1"
+      "title": "10_60"
     },
     {
-      "path": "5-6-1/data.csv",
-      "name": "5-6-1",
+      "path": "03_20/data.csv",
+      "name": "03_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3620,38 +1621,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3659,11 +1628,11 @@
           }
         ]
       },
-      "title": "5-6-1"
+      "title": "03_20"
     },
     {
-      "path": "9-5-1/data.csv",
-      "name": "9-5-1",
+      "path": "07_50/data.csv",
+      "name": "07_50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3674,38 +1643,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3713,11 +1650,11 @@
           }
         ]
       },
-      "title": "9-5-1"
+      "title": "07_50"
     },
     {
-      "path": "12-2-1/data.csv",
-      "name": "12-2-1",
+      "path": "10_30/data.csv",
+      "name": "10_30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3728,38 +1665,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3767,11 +1672,11 @@
           }
         ]
       },
-      "title": "12-2-1"
+      "title": "10_30"
     },
     {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
+      "path": "03_42/data.csv",
+      "name": "03_42",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3782,38 +1687,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3821,11 +1694,11 @@
           }
         ]
       },
-      "title": "17-3-1"
+      "title": "03_42"
     },
     {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
+      "path": "01_20/data.csv",
+      "name": "01_20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3836,38 +1709,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3875,11 +1716,11 @@
           }
         ]
       },
-      "title": "6-1-1"
+      "title": "01_20"
     },
     {
-      "path": "8-6-1/data.csv",
-      "name": "8-6-1",
+      "path": "11_60/data.csv",
+      "name": "11_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3890,38 +1731,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3929,11 +1738,11 @@
           }
         ]
       },
-      "title": "8-6-1"
+      "title": "11_60"
     },
     {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
+      "path": "09_60/data.csv",
+      "name": "09_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3944,24 +1753,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -3969,11 +1760,11 @@
           }
         ]
       },
-      "title": "1-2-1"
+      "title": "09_60"
     },
     {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
+      "path": "14_50/data.csv",
+      "name": "14_50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3984,38 +1775,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4023,11 +1782,11 @@
           }
         ]
       },
-      "title": "2-2-1"
+      "title": "14_50"
     },
     {
-      "path": "7-1-1/data.csv",
-      "name": "7-1-1",
+      "path": "04_40/data.csv",
+      "name": "04_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4038,38 +1797,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4077,11 +1804,11 @@
           }
         ]
       },
-      "title": "7-1-1"
+      "title": "04_40"
     },
     {
-      "path": "17-5-1/data.csv",
-      "name": "17-5-1",
+      "path": "06_60/data.csv",
+      "name": "06_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4092,38 +1819,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4131,11 +1826,11 @@
           }
         ]
       },
-      "title": "17-5-1"
+      "title": "06_60"
     },
     {
-      "path": "2-3-1/data.csv",
-      "name": "2-3-1",
+      "path": "17_10/data.csv",
+      "name": "17_10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4146,38 +1841,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4185,11 +1848,11 @@
           }
         ]
       },
-      "title": "2-3-1"
+      "title": "17_10"
     },
     {
-      "path": "13-3-1/data.csv",
-      "name": "13-3-1",
+      "path": "15_61/data.csv",
+      "name": "15_61",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4200,38 +1863,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4239,11 +1870,11 @@
           }
         ]
       },
-      "title": "13-3-1"
+      "title": "15_61"
     },
     {
-      "path": "15-4-1/data.csv",
-      "name": "15-4-1",
+      "path": "08_40/data.csv",
+      "name": "08_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4254,38 +1885,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4293,11 +1892,11 @@
           }
         ]
       },
-      "title": "15-4-1"
+      "title": "08_40"
     },
     {
-      "path": "5-2-1/data.csv",
-      "name": "5-2-1",
+      "path": "03_30/data.csv",
+      "name": "03_30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4308,38 +1907,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4347,11 +1914,11 @@
           }
         ]
       },
-      "title": "5-2-1"
+      "title": "03_30"
     },
     {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
+      "path": "05_30/data.csv",
+      "name": "05_30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4362,38 +1929,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4401,11 +1936,11 @@
           }
         ]
       },
-      "title": "4-1-1"
+      "title": "05_30"
     },
     {
-      "path": "4-4-1/data.csv",
-      "name": "4-4-1",
+      "path": "12_21/data.csv",
+      "name": "12_21",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4416,38 +1951,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4455,11 +1958,11 @@
           }
         ]
       },
-      "title": "4-4-1"
+      "title": "12_21"
     },
     {
-      "path": "10-3-1/data.csv",
-      "name": "10-3-1",
+      "path": "01_40/data.csv",
+      "name": "01_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4470,38 +1973,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -4509,7 +1980,7 @@
           }
         ]
       },
-      "title": "10-3-1"
+      "title": "01_40"
     },
     {
       "path": "1-3-1/data.csv",
@@ -4562,8 +2033,8 @@
       "title": "1-3-1"
     },
     {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
+      "path": "10_41/data.csv",
+      "name": "10_41",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4576,48 +2047,16 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "3-1-1"
+      "title": "10_41"
     },
     {
-      "path": "9-1-1/data.csv",
-      "name": "9-1-1",
+      "path": "08_30/data.csv",
+      "name": "08_30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4630,48 +2069,16 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "9-1-1"
+      "title": "08_30"
     },
     {
-      "path": "8-3-1/data.csv",
-      "name": "8-3-1",
+      "path": "09_30/data.csv",
+      "name": "09_30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4684,48 +2091,16 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "8-3-1"
+      "title": "09_30"
     },
     {
-      "path": "13-1-1/data.csv",
-      "name": "13-1-1",
+      "path": "01_50/data.csv",
+      "name": "01_50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4738,48 +2113,16 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "13-1-1"
+      "title": "01_50"
     },
     {
-      "path": "8-2-1/data.csv",
-      "name": "8-2-1",
+      "path": "15_60/data.csv",
+      "name": "15_60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4792,48 +2135,16 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "8-2-1"
+      "title": "15_60"
     },
     {
-      "path": "10-1-1/data.csv",
-      "name": "10-1-1",
+      "path": "05_40/data.csv",
+      "name": "05_40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4846,36 +2157,26 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "05_40"
+    },
+    {
+      "path": "10_50/data.csv",
+      "name": "10_50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poverty status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "At risk of poverty",
-                "Not at risk of poverty",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -4883,7 +2184,139 @@
           }
         ]
       },
-      "title": "10-1-1"
+      "title": "10_50"
+    },
+    {
+      "path": "06_70/data.csv",
+      "name": "06_70",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "06_70"
+    },
+    {
+      "path": "01_41/data.csv",
+      "name": "01_41",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "01_41"
+    },
+    {
+      "path": "08_20/data.csv",
+      "name": "08_20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "08_20"
+    },
+    {
+      "path": "08_11/data.csv",
+      "name": "08_11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "08_11"
+    },
+    {
+      "path": "16_70/data.csv",
+      "name": "16_70",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "16_70"
+    },
+    {
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "1-1-1"
     }
   ]
 }
