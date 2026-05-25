@@ -1,8 +1,6 @@
 definition-label: NASLOV DEFINITION
 rationale-label: NASLOV RATIONALE
 methodology-label: NASLOV METODOLGOGIJA
-<<<<<<< HEAD
-=======
 1-1-1-title: Osobe u riziku od siromaštva ili socijalne isključenosti
 1-1-1-definition: >-
   Ovaj indikator odgovara zbiru ljudi koji su: u riziku od siromaštva nakon socijalnih transfera, 
@@ -1174,9 +1172,7 @@ methodology-label: NASLOV METODOLGOGIJA
   tržištu rada. Indikator obuhvata osobe od 18 do 24 godine čiji je najviši
   nivo obrazovanja ISCED 2011 nivo 0, 1 ili 2, i koje su izjavile da nisu
   bile uključene u nikakvo obrazovanje ili obuku u četiri sedmice koje su
-  prethodile anketi.
->>>>>>> 3d74dc44ce9cb26d8ea3434b2d34d5076f5a0f02
-metadata-footer-label: Nacionalni referentni metapodaci
+  prethodile anketi.metadata-footer-label: Nacionalni referentni metapodaci
 
 01_10-title: Osobe u riziku od siromaštva ili socijalne isključenosti
 01_20-title: Osobe u opasnosti od monetarnog siromaštva nakon socijalnih transfera
