@@ -1,10 +1,10 @@
-indicator_number: 04_31
+indicator_number: '04_31'
 reporting_status: notstarted
 published: true
 sdg_goal: '4'
 data_non_statistical: false
 graph_type: line
-indicator_sort_order: 04_31
+indicator_sort_order: '04_31'
 
 source_active_1: true
 source_organisation_1: ESS

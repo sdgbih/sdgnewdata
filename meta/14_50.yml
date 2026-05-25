@@ -1,10 +1,10 @@
-indicator_number: 14_50
+indicator_number: '14_50'
 reporting_status: notapplicable
 published: false
 sdg_goal: '14'
 data_non_statistical: false
 graph_type: line
-indicator_sort_order: 14_50
+indicator_sort_order: '14_50'
 
 source_active_1: true
 source_organisation_1: 

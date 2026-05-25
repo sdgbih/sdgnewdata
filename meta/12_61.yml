@@ -1,10 +1,10 @@
-indicator_number: 12_61
+indicator_number: '12_61'
 reporting_status: notstarted
 published: true
 sdg_goal: '12'
 data_non_statistical: false
 graph_type: line
-indicator_sort_order: 12_61
+indicator_sort_order: '12_61'
 
 source_active_1: true
 source_organisation_1: 

@@ -1,10 +1,10 @@
-indicator_number: 11_60
+indicator_number: '11_60'
 reporting_status: notstarted
 published: true
 sdg_goal: '11'
 data_non_statistical: false
 graph_type: line
-indicator_sort_order: 11_60
+indicator_sort_order: '11_60'
 
 source_active_1: true
 source_organisation_1: Waste statistics
