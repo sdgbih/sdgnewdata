@@ -16,6 +16,28 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Мушкарци",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
@@ -26,5 +48,5 @@
   ],
   "profile": "data-package",
   "name": "1-10",
-  "title": "1-10"
+  "title": "Лица у ризику од сиромаштва или социјалне искључености"
 }

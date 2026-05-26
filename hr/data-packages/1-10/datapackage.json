@@ -16,6 +16,28 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
@@ -26,5 +48,5 @@
   ],
   "profile": "data-package",
   "name": "1-10",
-  "title": "1-10"
+  "title": "Osobe u riziku od siromaštva ili socijalne isključenosti"
 }

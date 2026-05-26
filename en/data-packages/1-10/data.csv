@@ -1,10 +1,7 @@
-Year,Value
-2015,26.0
-2016,25.8
-2017,25.6
-2018,25.4
-2019,20.2
-2020,20.0
-2021,19.8
-2022,19.6
-2023,19.4
+Year,SERIES,UNIT_MEASURE,Sex,Value
+2014,Persons at risk of poverty or social exclusion,Percent,Male,5.2
+2016,Persons at risk of poverty or social exclusion,Percent,Male,5.5
+2019,Persons at risk of poverty or social exclusion,Percent,Male,5.5
+2014,Persons at risk of poverty or social exclusion,Percent,Female,5.2
+2016,Persons at risk of poverty or social exclusion,Percent,Female,5.5
+2019,Persons at risk of poverty or social exclusion,Percent,Female,5.5

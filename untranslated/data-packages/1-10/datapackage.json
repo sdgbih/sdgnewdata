@@ -15,6 +15,25 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -24,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-10",
-  "title": "1-10"
+  "title": "global_indicators.1-10-title"
 }
