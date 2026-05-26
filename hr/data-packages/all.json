@@ -24,7 +24,7 @@
           }
         ]
       },
-      "title": "2-40"
+      "title": "Površina pod organskom poljoprivredom"
     },
     {
       "path": "17-20/data.csv",
@@ -48,7 +48,7 @@
           }
         ]
       },
-      "title": "17-20"
+      "title": "Financiranje EU-a zemljama u razvoju"
     },
     {
       "path": "12-41/data.csv",
@@ -72,7 +72,7 @@
           }
         ]
       },
-      "title": "12-41"
+      "title": "Stopa kružne upotrebe materijala"
     },
     {
       "path": "1-10/data.csv",
@@ -142,7 +142,7 @@
           }
         ]
       },
-      "title": "10-10"
+      "title": "Nejednakosti u BDP-u po stanovniku"
     },
     {
       "path": "16-70/data.csv",
@@ -166,7 +166,7 @@
           }
         ]
       },
-      "title": "16-70"
+      "title": "Žrtve trgovine ljudima prema spolu"
     },
     {
       "path": "15-20/data.csv",
@@ -190,7 +190,7 @@
           }
         ]
       },
-      "title": "15-20"
+      "title": "Kopnena zaštićena područja"
     },
     {
       "path": "16-30/data.csv",
@@ -214,7 +214,7 @@
           }
         ]
       },
-      "title": "16-30"
+      "title": "Ukupni izdaci opće vlade za sudove"
     },
     {
       "path": "8-40/data.csv",
@@ -238,7 +238,7 @@
           }
         ]
       },
-      "title": "8-40"
+      "title": "Stopa dugotrajne nezaposlenosti"
     },
     {
       "path": "13-70/data.csv",
@@ -262,7 +262,7 @@
           }
         ]
       },
-      "title": "13-70"
+      "title": "Izdavanje zelenih obveznica"
     },
     {
       "path": "10-20/data.csv",
@@ -286,7 +286,7 @@
           }
         ]
       },
-      "title": "10-20"
+      "title": "Nejednakosti u dohotku kućanstava po stanovniku"
     },
     {
       "path": "1-50/data.csv",
@@ -310,7 +310,7 @@
           }
         ]
       },
-      "title": "1-50"
+      "title": "Stopa prekomernog opterećenja troškovima stanovanja prema statusu siromaštva"
     },
     {
       "path": "4-20/data.csv",
@@ -334,7 +334,7 @@
           }
         ]
       },
-      "title": "4-20"
+      "title": "Visoko obrazovanje prema spolu"
     },
     {
       "path": "13-21/data.csv",
@@ -358,7 +358,7 @@
           }
         ]
       },
-      "title": "13-21"
+      "title": "Neto emisije stakleničkih plinova u sektoru LULUCF"
     },
     {
       "path": "3-70/data.csv",
@@ -382,7 +382,7 @@
           }
         ]
       },
-      "title": "3-70"
+      "title": "Potrošnja antibiotika u zajednici i bolničkom sektoru – definirane dnevne doze (DDD) dnevno"
     },
     {
       "path": "10-50/data.csv",
@@ -406,7 +406,7 @@
           }
         ]
       },
-      "title": "10-50"
+      "title": "Udio prihoda donjih 40% stanovništva"
     },
     {
       "path": "9-70/data.csv",
@@ -430,7 +430,7 @@
           }
         ]
       },
-      "title": "9-70"
+      "title": "Intenzitet emisija u zrak u industriji"
     },
     {
       "path": "15-60/data.csv",
@@ -454,7 +454,7 @@
           }
         ]
       },
-      "title": "15-60"
+      "title": "Indeks ptica"
     },
     {
       "path": "13-31/data.csv",
@@ -478,7 +478,7 @@
           }
         ]
       },
-      "title": "13-31"
+      "title": "Prosječne emisije CO2 po km novih putničkih automobila"
     },
     {
       "path": "4-40/data.csv",
@@ -502,7 +502,7 @@
           }
         ]
       },
-      "title": "4-40"
+      "title": "Petnaestogodišnjaci s niskim rezultatima u čitanju, matematici ili prirodnim znanostima"
     },
     {
       "path": "4-10/data.csv",
@@ -526,7 +526,7 @@
           }
         ]
       },
-      "title": "4-10"
+      "title": "Rano napuštanje obrazovanja i obuke po spolu"
     },
     {
       "path": "3-30/data.csv",
@@ -550,7 +550,7 @@
           }
         ]
       },
-      "title": "3-30"
+      "title": "Prevalencija pušenja prema spolu"
     },
     {
       "path": "2-53/data.csv",
@@ -574,7 +574,7 @@
           }
         ]
       },
-      "title": "2-53"
+      "title": "Uporaba i rizik kemijskih pesticida"
     },
     {
       "path": "2-30/data.csv",
@@ -598,7 +598,7 @@
           }
         ]
       },
-      "title": "2-30"
+      "title": "Državna potpora poljoprivrednom istraživanju i razvoju"
     },
     {
       "path": "14-30/data.csv",
@@ -622,7 +622,7 @@
           }
         ]
       },
-      "title": "14-30"
+      "title": "Estimated trend in fishing pressure"
     },
     {
       "path": "7-40/data.csv",
@@ -646,7 +646,7 @@
           }
         ]
       },
-      "title": "7-40"
+      "title": "Udio obnovljive energije u bruto konačnoj potrošnji energije"
     },
     {
       "path": "7-60/data.csv",
@@ -670,7 +670,7 @@
           }
         ]
       },
-      "title": "7-60"
+      "title": "Stanovništvo koje nije u stanju da zagrije dom adekvatno"
     },
     {
       "path": "16-20/data.csv",
@@ -694,7 +694,7 @@
           }
         ]
       },
-      "title": "16-20"
+      "title": "Stanovništvo koje prijavljuje kriminal, nasilje ili vandalizam u svojoj zajednici"
     },
     {
       "path": "8-10/data.csv",
@@ -718,7 +718,7 @@
           }
         ]
       },
-      "title": "8-10"
+      "title": "Stvarni BDP po stanovniku"
     },
     {
       "path": "4-31/data.csv",
@@ -742,7 +742,7 @@
           }
         ]
       },
-      "title": "4-31"
+      "title": "Sudjelovanje u obrazovanju u ranom djetinjstvu prema spolu (djeca u dobi od 3 godine i više)"
     },
     {
       "path": "5-20/data.csv",
@@ -766,7 +766,7 @@
           }
         ]
       },
-      "title": "5-20"
+      "title": "Razlika u plaćama između spolova u neprilagođenom obliku"
     },
     {
       "path": "1-20/data.csv",
@@ -790,7 +790,7 @@
           }
         ]
       },
-      "title": "1-20"
+      "title": "Osobe u opasnosti od monetarnog siromaštva nakon socijalnih transfera"
     },
     {
       "path": "7-20/data.csv",
@@ -814,7 +814,7 @@
           }
         ]
       },
-      "title": "7-20"
+      "title": "Konačna potrošnja energije u kućanstvima po stanovniku"
     },
     {
       "path": "11-11/data.csv",
@@ -838,7 +838,7 @@
           }
         ]
       },
-      "title": "11-11"
+      "title": "Stupanj ozbiljnog stambenog zaostatka"
     },
     {
       "path": "9-60/data.csv",
@@ -862,7 +862,7 @@
           }
         ]
       },
-      "title": "9-60"
+      "title": "Udio željeznice i unutarnjih plovnih putova u unutarnjem transportu tereta"
     },
     {
       "path": "10-41/data.csv",
@@ -886,7 +886,7 @@
           }
         ]
       },
-      "title": "10-41"
+      "title": "Nejednakost u dohotku - omjer udjela dohotka po kvintilima"
     },
     {
       "path": "8-30/data.csv",
@@ -910,7 +910,7 @@
           }
         ]
       },
-      "title": "8-30"
+      "title": "Stopa zaposlenosti"
     },
     {
       "path": "5-60/data.csv",
@@ -934,7 +934,7 @@
           }
         ]
       },
-      "title": "5-60"
+      "title": "Pozicije koje zauzimaju žene na višim rukovodećim pozicijama"
     },
     {
       "path": "17-10/data.csv",
@@ -958,7 +958,7 @@
           }
         ]
       },
-      "title": "17-10"
+      "title": "Službena razvojna pomoć\""
     },
     {
       "path": "8-60/data.csv",
@@ -982,7 +982,7 @@
           }
         ]
       },
-      "title": "8-60"
+      "title": "Smrtonosne nesreće na radu na 100 000 radnika"
     },
     {
       "path": "12-51/data.csv",
@@ -1006,7 +1006,7 @@
           }
         ]
       },
-      "title": "12-51"
+      "title": "Nastajanje otpada"
     },
     {
       "path": "16-50/data.csv",
@@ -1030,7 +1030,7 @@
           }
         ]
       },
-      "title": "16-50"
+      "title": "Indeks percepcije korupcije"
     },
     {
       "path": "9-30/data.csv",
@@ -1054,7 +1054,7 @@
           }
         ]
       },
-      "title": "9-30"
+      "title": "Osoblje za istraživanje i razvoj (R&R)"
     },
     {
       "path": "6-20/data.csv",
@@ -1078,7 +1078,7 @@
           }
         ]
       },
-      "title": "6-20"
+      "title": "Stanovništvo spojeno na barem sekundarni sustav otpadnih voda"
     },
     {
       "path": "5-10/data.csv",
@@ -1102,7 +1102,7 @@
           }
         ]
       },
-      "title": "5-10"
+      "title": "Fizičko i seksualno nasilje nad ženama po dobnim skupinama (podaci iz 2012. godine)"
     },
     {
       "path": "15-61/data.csv",
@@ -1126,7 +1126,7 @@
           }
         ]
       },
-      "title": "15-61"
+      "title": "Indeks livadskih leptira"
     },
     {
       "path": "2-60/data.csv",
@@ -1150,7 +1150,7 @@
           }
         ]
       },
-      "title": "2-60"
+      "title": "Emisije amonijaka iz poljoprivrede"
     },
     {
       "path": "15-10/data.csv",
@@ -1174,7 +1174,7 @@
           }
         ]
       },
-      "title": "15-10"
+      "title": "Udio šumskog pokrova"
     },
     {
       "path": "13-50/data.csv",
@@ -1198,7 +1198,7 @@
           }
         ]
       },
-      "title": "13-50"
+      "title": "Doprinos međunarodnoj obvezi od 100 milijardi USD za klimatske rashode"
     },
     {
       "path": "6-30/data.csv",
@@ -1222,7 +1222,7 @@
           }
         ]
       },
-      "title": "6-30"
+      "title": "Biokemijska potrošnja kisika u rijekama"
     },
     {
       "path": "16-10/data.csv",
@@ -1246,7 +1246,7 @@
           }
         ]
       },
-      "title": "16-10"
+      "title": "Standardizirana stopa smrtnosti zbog ubojstava"
     },
     {
       "path": "12-21/data.csv",
@@ -1270,7 +1270,7 @@
           }
         ]
       },
-      "title": "12-21"
+      "title": "Materijalni otisak"
     },
     {
       "path": "14-60/data.csv",
@@ -1294,7 +1294,7 @@
           }
         ]
       },
-      "title": "14-60"
+      "title": "Marine waters affected by eutrophication"
     },
     {
       "path": "11-52/data.csv",
@@ -1318,7 +1318,7 @@
           }
         ]
       },
-      "title": "11-52"
+      "title": "Prerane smrti zbog izloženosti finim česticama (PM2,5)"
     },
     {
       "path": "10-60/data.csv",
@@ -1342,7 +1342,7 @@
           }
         ]
       },
-      "title": "10-60"
+      "title": "Zahtjevi za azil"
     },
     {
       "path": "12-31/data.csv",
@@ -1366,7 +1366,7 @@
           }
         ]
       },
-      "title": "12-31"
+      "title": "Otisak potrošnje"
     },
     {
       "path": "4-70/data.csv",
@@ -1390,7 +1390,7 @@
           }
         ]
       },
-      "title": "4-70"
+      "title": "Udio pojedinaca koji posjeduju barem osnovne digitalne vještine, po spolu"
     },
     {
       "path": "14-40/data.csv",
@@ -1414,7 +1414,7 @@
           }
         ]
       },
-      "title": "14-40"
+      "title": "Bathing sites with excellent water quality"
     },
     {
       "path": "14-50/data.csv",
@@ -1438,7 +1438,7 @@
           }
         ]
       },
-      "title": "14-50"
+      "title": "Global mean surface seawater acidity"
     },
     {
       "path": "1-31/data.csv",
@@ -1462,7 +1462,7 @@
           }
         ]
       },
-      "title": "1-31"
+      "title": "Stopa teške materijalne i socijalne deprivacije prema dobroj grupi i spolu"
     },
     {
       "path": "10-30/data.csv",
@@ -1486,7 +1486,7 @@
           }
         ]
       },
-      "title": "10-30"
+      "title": "Relativni medijan rizika od siromaštva"
     },
     {
       "path": "17-40/data.csv",
@@ -1510,7 +1510,7 @@
           }
         ]
       },
-      "title": "17-40"
+      "title": "Bruto dug opće države"
     },
     {
       "path": "17-50/data.csv",
@@ -1534,7 +1534,7 @@
           }
         ]
       },
-      "title": "17-50"
+      "title": "Udio poreza na zaštitu okoliša u ukupnim poreznim prihodima"
     },
     {
       "path": "7-10/data.csv",
@@ -1558,7 +1558,7 @@
           }
         ]
       },
-      "title": "7-10"
+      "title": "Primarna i konačna potrošnja energije"
     },
     {
       "path": "11-60/data.csv",
@@ -1582,7 +1582,7 @@
           }
         ]
       },
-      "title": "11-60"
+      "title": "Postotak recikliranja komunalnog otpada"
     },
     {
       "path": "3-42/data.csv",
@@ -1606,7 +1606,7 @@
           }
         ]
       },
-      "title": "3-42"
+      "title": "Standardizirani mortalitet koji se može spriječiti i liječiti"
     },
     {
       "path": "12-10/data.csv",
@@ -1630,7 +1630,7 @@
           }
         ]
       },
-      "title": "12-10"
+      "title": "Potrošnja opasnih kemikalija"
     },
     {
       "path": "6-50/data.csv",
@@ -1654,7 +1654,7 @@
           }
         ]
       },
-      "title": "6-50"
+      "title": "Fosfat u rijekama"
     },
     {
       "path": "11-20/data.csv",
@@ -1678,7 +1678,7 @@
           }
         ]
       },
-      "title": "11-20"
+      "title": "Stanovništvo koje živi u kućanstvima pogođenim bukom"
     },
     {
       "path": "12-61/data.csv",
@@ -1702,7 +1702,7 @@
           }
         ]
       },
-      "title": "12-61"
+      "title": "Bruto dodana vrijednost u sektoru ekoloških dobara i usluga"
     },
     {
       "path": "13-40/data.csv",
@@ -1726,7 +1726,7 @@
           }
         ]
       },
-      "title": "13-40"
+      "title": "Ekonomski gubici povezani s klimom"
     },
     {
       "path": "2-20/data.csv",
@@ -1750,7 +1750,7 @@
           }
         ]
       },
-      "title": "2-20"
+      "title": "Realni faktorski dohodak poljoprivrede po godišnjoj radnoj jedinici (AWU)"
     },
     {
       "path": "7-50/data.csv",
@@ -1774,7 +1774,7 @@
           }
         ]
       },
-      "title": "7-50"
+      "title": "Ovisnost o uvozu energije"
     },
     {
       "path": "6-60/data.csv",
@@ -1798,7 +1798,7 @@
           }
         ]
       },
-      "title": "6-60"
+      "title": "Indeks iskorištenosti vode, plus (WEI+)"
     },
     {
       "path": "17-60/data.csv",
@@ -1822,7 +1822,7 @@
           }
         ]
       },
-      "title": "17-60"
+      "title": "Udio kućanstava s brzim pristupom internetu"
     },
     {
       "path": "1-41/data.csv",
@@ -1846,7 +1846,7 @@
           }
         ]
       },
-      "title": "1-41"
+      "title": "Stopa zaposlenih u riziku od siromaštva"
     },
     {
       "path": "17-31/data.csv",
@@ -1870,7 +1870,7 @@
           }
         ]
       },
-      "title": "17-31"
+      "title": "Uvoz EU-a iz najmanje razvijenih zemalja"
     },
     {
       "path": "11-32/data.csv",
@@ -1894,7 +1894,7 @@
           }
         ]
       },
-      "title": "11-32"
+      "title": "Indeks prekrivanja tla"
     },
     {
       "path": "5-50/data.csv",
@@ -1918,7 +1918,7 @@
           }
         ]
       },
-      "title": "5-50"
+      "title": "Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama"
     },
     {
       "path": "4-60/data.csv",
@@ -1942,7 +1942,7 @@
           }
         ]
       },
-      "title": "4-60"
+      "title": "Sudjelovanje odraslih u učenju u protekla četiri tjedna po spolu"
     },
     {
       "path": "3-60/data.csv",
@@ -1966,7 +1966,7 @@
           }
         ]
       },
-      "title": "3-60"
+      "title": "Samoprijavljena nezadovoljena potreba za liječničkim pregledom i skrbi prema spolu"
     },
     {
       "path": "9-10/data.csv",
@@ -1990,7 +1990,7 @@
           }
         ]
       },
-      "title": "9-10"
+      "title": "Bruto domaća potrošnja za istraživanje i razvoj (R&D)"
     },
     {
       "path": "6-70/data.csv",
@@ -2014,7 +2014,7 @@
           }
         ]
       },
-      "title": "6-70"
+      "title": "Pesticidi u rijekama"
     },
     {
       "path": "1-40/data.csv",
@@ -2038,7 +2038,7 @@
           }
         ]
       },
-      "title": "1-40"
+      "title": "Osobe koje žive u kućanstvima s vrlo niskim intenzitetom rada, po dobnim skupinama"
     },
     {
       "path": "16-40/data.csv",
@@ -2062,7 +2062,7 @@
           }
         ]
       },
-      "title": "16-40"
+      "title": "Percipirana neovisnost pravosudnog sustava: vrlo ili prilično dobra"
     },
     {
       "path": "3-12/data.csv",
@@ -2086,7 +2086,7 @@
           }
         ]
       },
-      "title": "3-12"
+      "title": "Godine zdravog života temeljene na samoprocijenjenom zdravstvenom stanju"
     },
     {
       "path": "15-50/data.csv",
@@ -2110,7 +2110,7 @@
           }
         ]
       },
-      "title": "15-50"
+      "title": "Područje ugroženo teškom erozijom tla vodom"
     },
     {
       "path": "7-30/data.csv",
@@ -2134,7 +2134,7 @@
           }
         ]
       },
-      "title": "7-30"
+      "title": "Produktivnost energije"
     },
     {
       "path": "8-11/data.csv",
@@ -2158,7 +2158,7 @@
           }
         ]
       },
-      "title": "8-11"
+      "title": "Udio ulaganja u BDP"
     },
     {
       "path": "5-40/data.csv",
@@ -2182,7 +2182,7 @@
           }
         ]
       },
-      "title": "5-40"
+      "title": "Osobe izvan radne snage zbog obveza brige o drugima po spolu"
     },
     {
       "path": "14-10/data.csv",
@@ -2206,7 +2206,7 @@
           }
         ]
       },
-      "title": "14-10"
+      "title": "Marine protected areas"
     },
     {
       "path": "5-30/data.csv",
@@ -2230,7 +2230,7 @@
           }
         ]
       },
-      "title": "5-30"
+      "title": "Razlika u zaposlenosti među spolovima, prema vrsti zaposlenja"
     },
     {
       "path": "11-40/data.csv",
@@ -2254,7 +2254,7 @@
           }
         ]
       },
-      "title": "11-40"
+      "title": "Smrtnost u cestovnom prometu"
     },
     {
       "path": "8-20/data.csv",
@@ -2278,7 +2278,7 @@
           }
         ]
       },
-      "title": "8-20"
+      "title": "Mladi koji nisu zaposleni niti uključeni u obrazovanje ili osposobljavanje"
     },
     {
       "path": "3-20/data.csv",
@@ -2302,7 +2302,7 @@
           }
         ]
       },
-      "title": "3-20"
+      "title": "Udio ljudi sa dobrim ili vrlo dobrim percipiranim zdravljem prema spolu"
     },
     {
       "path": "2-10/data.csv",
@@ -2326,7 +2326,7 @@
           }
         ]
       },
-      "title": "2-10"
+      "title": "Stopa pretilosti prema indeksu tjelesne mase (BMI)"
     },
     {
       "path": "13-10/data.csv",
@@ -2350,7 +2350,7 @@
           }
         ]
       },
-      "title": "13-10"
+      "title": "Neto emisije stakleničkih plinova"
     },
     {
       "path": "15-42/data.csv",
@@ -2374,7 +2374,7 @@
           }
         ]
       },
-      "title": "15-42"
+      "title": "Utjecaj suše na ekosustave"
     },
     {
       "path": "6-40/data.csv",
@@ -2398,7 +2398,7 @@
           }
         ]
       },
-      "title": "6-40"
+      "title": "Nitrati u podzemnim vodama"
     },
     {
       "path": "9-50/data.csv",
@@ -2422,7 +2422,7 @@
           }
         ]
       },
-      "title": "9-50"
+      "title": "Udio autobusa i vlakova u unutarnjem putničkom prometu"
     },
     {
       "path": "14-21/data.csv",
@@ -2446,7 +2446,7 @@
           }
         ]
       },
-      "title": "14-21"
+      "title": "Estimated trends in fish stock biomass"
     },
     {
       "path": "9-40/data.csv",
@@ -2470,7 +2470,7 @@
           }
         ]
       },
-      "title": "9-40"
+      "title": "Prijave patenata Europskom patentskom uredu"
     }
   ]
 }
