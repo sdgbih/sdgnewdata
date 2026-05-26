@@ -9,3 +9,9 @@ indicator_sort_order: '06-30'
 source_active_1: true
 source_organisation_1: EEA (Waterbase database)
 source_url_1: ''
+
+graph_title: global_indicators.6-30-title
+indicator_name: global_indicators.6-30-title
+graph_titles:
+- series: SERIES.sdg_06_30
+  title: SERIES.sdg_06_30

@@ -9,3 +9,9 @@ indicator_sort_order: '12-10'
 source_active_1: true
 source_organisation_1: PRODCOM; COMEXT
 source_url_1: ''
+
+graph_title: global_indicators.12-10-title
+indicator_name: global_indicators.12-10-title
+graph_titles:
+- series: SERIES.sdg_12_10
+  title: SERIES.sdg_12_10

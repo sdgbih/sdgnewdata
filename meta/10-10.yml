@@ -12,3 +12,9 @@ source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_10_10/default/
 footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_10_10_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_10_10)</a>'
+
+graph_title: global_indicators.10-10-title
+indicator_name: global_indicators.10-10-title
+graph_titles:
+- series: SERIES.sdg_10_10
+  title: SERIES.sdg_10_10
