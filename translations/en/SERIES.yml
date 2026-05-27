@@ -4,6 +4,19 @@ sdg_01_31: Severe material and social deprivation rate by age group and sex
 sdg_01_40: Persons living in households with very low work intensity, by age group
 sdg_01_41: In work at - risk - of poverty rate
 sdg_01_50: Housing cost overburden rate by poverty status
+sdg_02_10: Obesity rate by body mass index (BMI)
+sdg_02_20: Agricultural real factor income per annual work unit (AWU)
+sdg_02_30: Government support to agricultural research and development
+sdg_02_40: Area under organic farming
+sdg_02_53: Use and risk of chemical pesticides
+sdg_02_60: Ammonia emissions from agriculture
+sdg_03_12: Healthy life years based on self-perceived health 
+sdg_03_20: Share of people with good or very good perceived health by sex
+sdg_03_42: Smoking prevalence by sex
+sdg_02_40: Standardised preventable and treatable mortality
+sdg_03_60: Self - reported unmet need for medical examination and care by sex
+sdg_03_70: Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day
+
 AG_FPA_CFPI: Consumer Food Price Index
 AG_LND_DGRD: Proportion of land that is degraded over total land area
 AG_LND_FRST: Forest area as a proportion of total land area
