@@ -34,6 +34,13 @@ sdg_06_40: Nitrati u podzemnim vodama
 sdg_06_50: Fosfat u rijekama
 sdg_06_60: Indeks eksploatacije vode, plus (WEI+)
 sdg_06_70: Pesticidi u rijekama
+sdg_07_10: Primarna potrošnja energije
+sdg_07_11: Finalna potrošnja energije
+sdg_07_20: Konačna potrošnja energije u domaćinstvima po stanovniku
+sdg_07_30: Energetska produktivnost
+sdg_07_40: Udio obnovljive energije u bruto konačnoj potrošnji energije
+sdg_07_50: Ovisnost o uvozu energije
+sdg_07_60: Stanovništvo koje ne može adekvatno zagrijati svoj dom
 
 AG_FPA_CFPI: Indeks potrošačkih cijena hrane
 AG_LND_DGRD: Udio zemljišta koje je degradirano na ukupnoj površini zemljišta
