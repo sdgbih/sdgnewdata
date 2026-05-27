@@ -492,6 +492,23 @@ prose:
             label: References and Documentation
             translation_key: metadata_fields.OTHER_DOC
             scope: national
+      ######### Chart Info #########
+      - name: "graph_type"
+        field:
+            element: select
+            label: "Graph type"
+            translation_key: metadata_fields.graph_type
+            options:
+              - name: 'line'
+                value: 'line'
+              - name: 'bar' 
+                value: 'bar'
+        - name: "graph_title"
+          field:
+              element: text
+              label: "Graph Title"
+              translation_key: metadata_fields.graph_title
+              scope: graph
       ######### Last updated dates #########
       - name: "national_data_updated_date"
         field:
