@@ -1,10 +1,20 @@
-Year,Value
-2015,73.0
-2016,72.8
-2017,72.6
-2018,72.4
-2019,72.2
-2020,67.0
-2021,66.8
-2022,66.6
-2023,66.4
+Year,Value,UNIT_MEASURE,SERIES
+2014,5.9,Milion tona ekvivalenta nafte,sdg_ 07_10
+2015,6.1,Milion tona ekvivalenta nafte,sdg_ 07_10
+2016,6.7,Milion tona ekvivalenta nafte,sdg_ 07_10
+2017,6.7,Milion tona ekvivalenta nafte,sdg_ 07_10
+2018,7.4,Milion tona ekvivalenta nafte,sdg_ 07_10
+2019,7.1,Milion tona ekvivalenta nafte,sdg_ 07_10
+2020,7.0,Milion tona ekvivalenta nafte,sdg_ 07_10
+2021,7.3,Milion tona ekvivalenta nafte,sdg_ 07_10
+2022,7.2,Milion tona ekvivalenta nafte,sdg_ 07_10
+2023,6.9,Milion tona ekvivalenta nafte,sdg_ 07_10
+2024,6.8,Milion tona ekvivalenta nafte,sdg_ 07_10
+2014,1.55,Tone ekvivalenta nafte (TOE) po glavi stanovnika,sdg_ 07_10
+2015,1.66,Tone ekvivalenta nafte (TOE) po glavi stanovnika,sdg_ 07_10
+2016,1.9,Tone ekvivalenta nafte (TOE) po glavi stanovnika,sdg_ 07_10
+2017,1.91,Tone ekvivalenta nafte (TOE) po glavi stanovnika,sdg_ 07_10
+2018,2.11,Tone ekvivalenta nafte (TOE) po glavi stanovnika,sdg_ 07_10
+2022,2.09,Tone ekvivalenta nafte (TOE) po glavi stanovnika,sdg_ 07_10
+2023,2.0,Tone ekvivalenta nafte (TOE) po glavi stanovnika,sdg_ 07_10
+2024,2.0,Tone ekvivalenta nafte (TOE) po glavi stanovnika,sdg_ 07_10
