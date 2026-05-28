@@ -15,6 +15,24 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Body_Mass_Index",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BMI_GE25",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

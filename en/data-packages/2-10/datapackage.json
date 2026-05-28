@@ -16,6 +16,27 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Body_Mass_Index",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Overweight",
+                ""
+              ]
+            },
+            "title": "Body Mass Index"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

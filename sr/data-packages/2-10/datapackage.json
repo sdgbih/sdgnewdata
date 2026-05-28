@@ -16,6 +16,27 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Body_Mass_Index",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Прекомјерна тежина",
+                ""
+              ]
+            },
+            "title": "Индекс тjелесне масе"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
