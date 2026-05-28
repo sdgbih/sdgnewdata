@@ -1,10 +1,10 @@
-Year,Value
-2015,59.0
-2016,61.5
-2017,64.0
-2018,61.5
-2019,64.0
-2020,66.5
-2021,69.0
-2022,71.5
-2023,69.0
+Year,Value,UNIT_MEASURE,SERIES
+2014,2.241,Million euro,Government support to agricultural research and development
+2015,0.0,Million euro,Government support to agricultural research and development
+2016,0.0,Million euro,Government support to agricultural research and development
+2017,0.0,Million euro,Government support to agricultural research and development
+2018,0.0,Million euro,Government support to agricultural research and development
+2019,0.0,Million euro,Government support to agricultural research and development
+2020,1.728,Million euro,Government support to agricultural research and development
+2021,1.763,Million euro,Government support to agricultural research and development
+2022,,Million euro,Government support to agricultural research and development

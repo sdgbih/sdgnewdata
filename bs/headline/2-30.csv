@@ -1,10 +1,10 @@
-Year,Value
-2015,59.0
-2016,61.5
-2017,64.0
-2018,61.5
-2019,64.0
-2020,66.5
-2021,69.0
-2022,71.5
-2023,69.0
+Year,Value,UNIT_MEASURE,SERIES
+2014,2.241,Milion eura,Državna podrška poljoprivrednom istraživanju i razvoju
+2015,0.0,Milion eura,Državna podrška poljoprivrednom istraživanju i razvoju
+2016,0.0,Milion eura,Državna podrška poljoprivrednom istraživanju i razvoju
+2017,0.0,Milion eura,Državna podrška poljoprivrednom istraživanju i razvoju
+2018,0.0,Milion eura,Državna podrška poljoprivrednom istraživanju i razvoju
+2019,0.0,Milion eura,Državna podrška poljoprivrednom istraživanju i razvoju
+2020,1.728,Milion eura,Državna podrška poljoprivrednom istraživanju i razvoju
+2021,1.763,Milion eura,Državna podrška poljoprivrednom istraživanju i razvoju
+2022,,Milion eura,Državna podrška poljoprivrednom istraživanju i razvoju
