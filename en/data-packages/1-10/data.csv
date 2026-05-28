@@ -1,7 +1,7 @@
-Year,SERIES,UNIT_MEASURE,Sex,Value
-2014,Persons at risk of poverty or social exclusion,Percent,Male,5.2
-2016,Persons at risk of poverty or social exclusion,Percent,Male,5.5
-2019,Persons at risk of poverty or social exclusion,Percent,Male,5.5
-2014,Persons at risk of poverty or social exclusion,Percent,Female,5.2
-2016,Persons at risk of poverty or social exclusion,Percent,Female,5.5
-2019,Persons at risk of poverty or social exclusion,Percent,Female,5.6
+Year,SERIES,UNIT_MEASURE,Value
+2014,Persons at risk of poverty or social exclusion,Percent,5.2
+2016,Persons at risk of poverty or social exclusion,Percent,5.5
+2019,Persons at risk of poverty or social exclusion,Percent,5.5
+2014,Persons at risk of poverty or social exclusion,"Per 1,000 population",1.2
+2016,Persons at risk of poverty or social exclusion,"Per 1,000 population",1.5
+2019,Persons at risk of poverty or social exclusion,"Per 1,000 population",1.6

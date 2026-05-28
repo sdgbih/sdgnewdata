@@ -26,18 +26,6 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
