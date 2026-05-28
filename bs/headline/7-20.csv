@@ -1,10 +1,9 @@
-Year,Value
-2015,21.0
-2016,22.8
-2017,24.6
-2018,26.4
-2019,23.2
-2020,25.0
-2021,26.8
-2022,28.6
-2023,30.4
+Year,Value,UNIT_MEASURE,SERIES
+2014,256,Kilogram ekvivalenta nafte,sdg_ 07_20
+2015,303,Kilogram ekvivalenta nafte,sdg_ 07_20
+2016,324,Kilogram ekvivalenta nafte,sdg_ 07_20
+2017,298,Kilogram ekvivalenta nafte,sdg_ 07_20
+2018,492,Kilogram ekvivalenta nafte,sdg_ 07_20
+2022,533,Kilogram ekvivalenta nafte,sdg_ 07_20
+2023,519,Kilogram ekvivalenta nafte,sdg_ 07_20
+2024,513,Kilogram ekvivalenta nafte,sdg_ 07_20

@@ -1,10 +1,9 @@
-Year,Value
-2015,21.0
-2016,22.8
-2017,24.6
-2018,26.4
-2019,23.2
-2020,25.0
-2021,26.8
-2022,28.6
-2023,30.4
+Year,SERIES,UNIT_MEASURE,Value
+2014,sdg_ 07_20,Kilogram of oil equivalent,256
+2015,sdg_ 07_20,Kilogram of oil equivalent,303
+2016,sdg_ 07_20,Kilogram of oil equivalent,324
+2017,sdg_ 07_20,Kilogram of oil equivalent,298
+2018,sdg_ 07_20,Kilogram of oil equivalent,492
+2022,sdg_ 07_20,Kilogram of oil equivalent,533
+2023,sdg_ 07_20,Kilogram of oil equivalent,519
+2024,sdg_ 07_20,Kilogram of oil equivalent,513
