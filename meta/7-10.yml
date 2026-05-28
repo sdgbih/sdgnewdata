@@ -15,5 +15,4 @@ graph_title: global_indicators.7-10-title
 indicator_name: global_indicators.7-10-title
 graph_titles:
 - series: SERIES.sdg_07_10
-  title: SERIES.sdg_07_10
----   
+  title: SERIES.sdg_07_10  
