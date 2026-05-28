@@ -1,1 +1,1 @@
-{"Year":[2022],"SERIES":["sdg_02_10"],"UNIT_MEASURE":["PT"],"Body_Mass_Index":["BMI_GE25"],"Value":[60.3]}
+{"Year":[2022,2022,2022],"SERIES":["sdg_02_10","sdg_02_10","sdg_02_10"],"UNIT_MEASURE":["PT","PT","PT"],"Body_Mass_Index":["BMI_GE25","BMI25_29","BMI_GE30"],"Value":[60.3,44.6,15.7]}

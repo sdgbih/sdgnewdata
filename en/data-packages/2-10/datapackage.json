@@ -31,6 +31,8 @@
             "constraints": {
               "enum": [
                 "Overweight",
+                "Pre - obese",
+                "Obese",
                 ""
               ]
             },

@@ -1,1 +1,1 @@
-{"data":{"Year":[2022],"SERIES":["Obesity rate by body mass index (BMI)"],"UNIT_MEASURE":["Percent"],"Body Mass Index":["Overweight"],"Value":[60.3]},"edges":[]}
+{"data":{"Year":[2022,2022,2022],"SERIES":["Obesity rate by body mass index (BMI)","Obesity rate by body mass index (BMI)","Obesity rate by body mass index (BMI)"],"UNIT_MEASURE":["Percent","Percent","Percent"],"Body Mass Index":["Overweight","Pre - obese","Obese"],"Value":[60.3,44.6,15.7]},"edges":[]}

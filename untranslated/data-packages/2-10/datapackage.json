@@ -28,6 +28,8 @@
             "constraints": {
               "enum": [
                 "BMI_GE25",
+                "BMI25_29",
+                "BMI_GE30",
                 ""
               ]
             }
