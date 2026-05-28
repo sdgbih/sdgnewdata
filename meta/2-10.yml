@@ -3,7 +3,7 @@ reporting_status: complete
 published: true
 sdg_goal: '2'
 data_non_statistical: false
-graph_type: line
+graph_type: bar
 indicator_sort_order: '02-10'
 
 source_active_1: true
