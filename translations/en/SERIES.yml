@@ -10,9 +10,38 @@ sdg_02_30: Government support to agricultural research and development
 sdg_02_40: Area under organic farming
 sdg_02_53: Use and risk of chemical pesticides
 sdg_02_60: Ammonia emissions from agriculture
-
+sdg_03_12: Healthy life years based on self-perceived health
+sdg_03_20: Share of people with good or very good perceived health by sex
+sdg_03_42: Smoking prevalence by sex
+sdg_03_40: Standardised preventable and treatable mortality
+sdg_03_60: Self - reported unmet need for medical examination and care by sex
+sdg_03_70: Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day
+sdg_04_10: Early leavers from education and training by sex
+sdg_04_20: Tertiary educational attainment by sex
+sdg_04_31: Participation in early childhood education by sex (children aged 3 and over)
+sdg_04_40: Low achieving 15-year-olds in reading, mathematics or science
+sdg_04_60: Adult participation in learning in the past four weeks by sex
+sdg_04_70: Share of individuals having at least basic digital skills, by sex
+sdg_05_10: Physical and sexual violence to women by age group (2012 data)
+sdg_05_20: Gender pay gap in unadjusted form
+sdg_05_30: Gender employment gap, by type of employment
+sdg_05_40: Persons outside the labour force due to caring responsibilities by sex
+sdg_05_50: Seats held by women in national parliaments and governments
+sdg_05_60: Positions held by women in senior management positions
+sdg_06_20: Population connected to at least secondary wastewater treatment
+sdg_06_30: Biochemical oxygen demand in rivers
+sdg_06_40: Nitrate in groundwater
+sdg_06_50: Phosphate in rivers
+sdg_06_60: Water exploitation index, plus (WEI+)
+sdg_06_70: Pesticides in rivers
 sdg_07_10: Primary energy consumption
 sdg_07_11: Final energy consumption
+sdg_07_20: Final energy consumption in households per capita
+sdg_07_30: Energy productivity
+sdg_07_40: Share of renewable energy in gross final energy consumption
+sdg_07_50: Energy import dependency
+sdg_07_60: Population unable to keep home adequately warm
+
 AG_FPA_CFPI: Consumer Food Price Index
 AG_LND_DGRD: Proportion of land that is degraded over total land area
 AG_LND_FRST: Forest area as a proportion of total land area
