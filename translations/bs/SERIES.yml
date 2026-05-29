@@ -41,6 +41,66 @@ sdg_07_30: Energetska produktivnost
 sdg_07_40: Udio obnovljive energije u bruto konačnoj potrošnji energije
 sdg_07_50: Ovisnost o uvozu energije
 sdg_07_60: Stanovništvo koje ne može adekvatno zagrijati svoj dom
+sdg_08_10: BDP po stanovniku
+sdg_08_11: Udio investicija u BDP-u
+sdg_08_20: Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku
+sdg_08_30: Stopa zaposlenosti
+sdg_08_40: Stopa dugotrajne nezaposlenosti
+sdg_08_60: Smrtonosne nesreće na radu na 100 000 radnika
+sdg_09_10: 'Bruto domaća potrošnja za istraživanje i razvoj (R&D)'
+sdg_09_30: 'Osoblje za istraživanje i razvoj (R&D)'
+sdg_09_40: Prijave patenata Evropskom uredu za patente
+sdg_09_50: Udio autobusa i vozova u unutrašnjem putničkom saobraćaju
+sdg_09_60: Udio željeznice i unutrašnjih plovnih puteva u unutrašnjem transportu tereta
+sdg_09_70: Intenzitet emisije u zrak u industriji
+sdg_10_10: Nejednakosti u BDP-u po stanovniku
+sdg_10_20: Nejednakosti u dohotku domaćinstava po stanovniku
+sdg_10_30: Relativni medijan jaza rizika od siromaštva
+sdg_10_41: Nejednakost u dohotku - omjer udjela dohotka po kvintilima
+sdg_10_50: Udio prihoda donjih 40% stanovništva
+sdg_10_60: Zahtjevi za azil
+sdg_11_11: Stepen ozbiljnog stambenog nedostatka
+sdg_11_20: Stanovništvo koje živi u kućanstvima pogođenim bukom
+sdg_11_32: Indeks pokrivenosti tla
+sdg_11_40: Smrtnost u cestovnom saobraćaju
+sdg_11_52: 'Prerane smrti zbog izloženosti finim česticama (PM2,5)'
+sdg_11_60: Postotak recikliranja komunalnog otpada
+sdg_12_10: Potrošnja opasnih hemikalija
+sdg_12_21: Materijalni otisak
+sdg_12_31: Otisak potrošnje
+sdg_12_41: Stopa kružne upotrebe materijala
+sdg_12_51: Nastajanje otpada
+sdg_12_61: Bruto dodana vrijednost u sektoru ekoloških dobara i usluga
+sdg_13_10: Neto emisije stakleničkih plinova
+sdg_13_21: Neto emisije stakleničkih plinova sektora LULUCF
+sdg_13_31: Prosječne CO2 emisije po kilometru novih putničkih automobila
+sdg_13_40: Ekonomski gubici povezani s klimom
+sdg_13_50: 'Doprinos međunarodnoj obavezi od 100 milijardi USD za izdatke povezane s klimom'
+sdg_13_70: Izdavanje zelenih obveznica
+sdg_14_10: Marine protected areas
+sdg_14_21: Estimated trends in fish stock biomass
+sdg_14_30: Estimated trend in fishing pressure
+sdg_14_40: Bathing sites with excellent water quality
+sdg_14_50: Global mean surface seawater acidity
+sdg_14_60: Marine waters affected by eutrophication
+sdg_15_10: Udio šumskog pokrivača
+sdg_15_20: Zaštićena kopnena područja
+sdg_15_42: Uticaj suše na ekosisteme
+sdg_15_50: Područje ugroženo teškom erozijom tla vodom
+sdg_15_60: Indeks ptica
+sdg_15_61: Indeks livadskih leptira
+sdg_16_10: Standardizovana stopa smrtnosti zbog ubistava
+sdg_16_20: Stanovništvo koje prijavljuje kriminal, nasilje ili vandalizam u svojoj zajednici
+sdg_16_30: Ukupna potrošnja opće vlade na sudove
+sdg_16_40: 'Percipirana nezavisnost pravosudnog sistema: vrlo ili prilično dobra'
+sdg_16_50: Indeks percipirane korupcije
+sdg_16_70: Žrtve trgovine ljudima prema spolu
+sdg_17_10: Službena razvojna pomoć
+sdg_17_20: Finansiranje EU-a zemljama u razvoju
+sdg_17_31: Uvoz EU-a iz najmanje razvijenih zemalja
+sdg_17_40: Bruto dug opće vlade
+sdg_17_50: Udio poreza na zaštitu okoliša u ukupnim poreznim prihodima
+sdg_17_60: Udio domaćinstava sa brzom internet vezom
 
 AG_FPA_CFPI: Indeks potrošačkih cijena hrane
 AG_LND_DGRD: Udio zemljišta koje je degradirano na ukupnoj površini zemljišta

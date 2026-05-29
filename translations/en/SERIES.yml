@@ -41,6 +41,66 @@ sdg_07_30: Energy productivity
 sdg_07_40: Share of renewable energy in gross final energy consumption
 sdg_07_50: Energy import dependency
 sdg_07_60: Population unable to keep home adequately warm
+sdg_08_10: Real GDP per capita
+sdg_08_11: Investment share of GDP
+sdg_08_20: Young people neither in employment nor in education and training
+sdg_08_30: Employment rate
+sdg_08_40: Long-term unemployment rate
+sdg_08_60: Fatal accidents at work per 100 000 workers
+sdg_09_10: 'Gross domestic expenditure on R&D'
+sdg_09_30: R&D personnel
+sdg_09_40: Patent applications to the European Patent Office
+sdg_09_50: Share of buses and trains in inland passenger transport
+sdg_09_60: Share of rail and inland waterways activity in inland freight transport
+sdg_09_70: Air emission intensity of industry
+sdg_10_10: Disparities in GDP per capita
+sdg_10_20: Disparities in household income per capita
+sdg_10_30: Relative median at-risk-of-poverty gap
+sdg_10_41: Income inequality - income quintile share ratio
+sdg_10_50: Income share of the bottom 40% of the population
+sdg_10_60: Asylum applications
+sdg_11_11: Severe housing deprivation rate
+sdg_11_20: Population living in households suffering from noise
+sdg_11_32: Soil sealing index
+sdg_11_40: Road traffic deaths
+sdg_11_52: 'Premature deaths due to exposure to fine particulate matter (PM2.5)'
+sdg_11_60: Recycling rate of municipal waste
+sdg_12_10: Consumption of hazardous chemicals
+sdg_12_21: Material footprint
+sdg_12_31: Consumption footprint
+sdg_12_41: Circular material use rate
+sdg_12_51: Generation of waste
+sdg_12_61: Gross value added in environmental goods and services sector
+sdg_13_10: Net greenhouse gas emissions
+sdg_13_21: Net greenhouse gas emissions of the LULUCF sector
+sdg_13_31: Average CO2 emissions per km from new passenger cars
+sdg_13_40: Climate-related economic losses
+sdg_13_50: 'Contribution to the international 100bn USD commitment on climate related expenditure'
+sdg_13_70: Green bond issuance
+sdg_14_10: Marine protected areas
+sdg_14_21: Estimated trends in fish stock biomass
+sdg_14_30: Estimated trend in fishing pressure
+sdg_14_40: Bathing sites with excellent water quality
+sdg_14_50: Global mean surface seawater acidity
+sdg_14_60: Marine waters affected by eutrophication
+sdg_15_10: Share of forest area
+sdg_15_20: Terrestrial protected areas
+sdg_15_42: Drought impact on ecosystems
+sdg_15_50: Area at risk of severe soil erosion by water
+sdg_15_60: Common bird index
+sdg_15_61: Grassland butterfly index
+sdg_16_10: Standardised death rate due to homicide
+sdg_16_20: Population reporting crime, violence or vandalism in their area
+sdg_16_30: General government total expenditure on law courts
+sdg_16_40: 'Perceived independence of the justice system: very or fairly good'
+sdg_16_50: Corruption Perceptions Index
+sdg_16_70: Victims of trafficking in human beings by sex
+sdg_17_10: Official development assistance
+sdg_17_20: EU financing to developing countries
+sdg_17_31: EU imports from least developed countries
+sdg_17_40: General government gross debt
+sdg_17_50: Shares of environmental taxes in total tax revenues
+sdg_17_60: Share of households with high-speed internet connection
 
 AG_FPA_CFPI: Consumer Food Price Index
 AG_LND_DGRD: Proportion of land that is degraded over total land area
