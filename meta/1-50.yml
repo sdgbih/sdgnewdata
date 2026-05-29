@@ -18,3 +18,6 @@ indicator_name: global_indicators.1-50-title
 graph_titles:
 - series: SERIES.sdg_01_50
   title: SERIES.sdg_01_50
+indicator_definition: global_indicators.1-50-definition
+rationale: global_indicators.1-50-intention
+methodology_characteristics: global_indicators.1-50-methodology

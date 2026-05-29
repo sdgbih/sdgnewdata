@@ -18,3 +18,6 @@ graph_titles:
 - series: SERIES.sdg_01_10
   title: SERIES.sdg_01_10
   
+indicator_definition: global_indicators.1-10-definition
+rationale: global_indicators.1-10-intention
+methodology_characteristics: global_indicators.1-10-methodology

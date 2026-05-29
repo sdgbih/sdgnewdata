@@ -1176,11 +1176,98 @@ methodology-label: NASLOV METODOLGOGIJA
 metadata-footer-label: Nacionalni referentni metapodaci
 
 1-10-title: Osobe u riziku od siromaštva ili socijalne isključenosti
+1-10-definition: >-
+  Indikator je dio skupa indikatora ciljeva održivog razvoja EU (SDG). Koristi se za praćenje napretka prema cilju održivog razvoja 1 o iskorjenjivanju siromaštva u svim njegovim oblicima svugdje i cilju održivog razvoja 10 o smanjenju nejednakosti unutar zemalja i među njima, koji su ugrađeni u prioritet Evropske komisije pod nazivom „Podrška ljudima, jačanje naših društava i našeg socijalnog modela“.
+  Ovaj indikator odgovara zbiru ljudi koji su: u riziku od siromaštva nakon socijalnih transfera, teško materijalno i socijalno uskraćeni ili žive u domaćinstvima s vrlo niskim intenzitetom rada. Pojedinci se broje samo jednom, čak i ako su pogođeni s više od jedne od ovih pojava.
+
+  •	Smatra se da su ljudi izloženi riziku od siromaštva nakon socijalnih transfera ako njihov ekvivalentni raspoloživi dohodak nije veći od praga rizika od siromaštva, koji je postavljen na 60% nacionalne medijane ekvivalentnog raspoloživog dohotka.
+
+  •	Stopa teške materijalne i socijalne deprivacije je udio stanovništva koje doživljava prisilni nedostatak od najmanje 7 od 13 stavki deprivacije (6 se odnosi na pojedinca, a 7 na domaćinstvo)
+1-10-intention: >-
+  Siromaštvo i socijalna isključenost su štetni za živote pojedinaca i ograničavaju mogućnosti ljudi da ostvare svoj puni potencijal tako što utiču na njihovo zdravlje i blagostanje i smanjuju obrazovne ishode. To zauzvrat smanjuje mogućnosti za uspješan život i dodatno povećava rizik od siromaštva. Bez efikasnog sistema obrazovanja, zdravstvene zaštite, socijalne zaštite, poreskih olakšica i zapošljavanja, rizik od siromaštva se prenosi sa jedne generacije na drugu. To uzrokuje postojanost siromaštva i time stvara još veću nejednakost, što može dovesti do dugoročnog gubitka ekonomske produktivnosti cijelih grupa društva i ometati inkluzivni i održivi ekonomski rast.
+1-10-methodology: >-
+  Podaci koji se koriste za ovaj indikator zasnivaju se na usaglašenom godišnjem istraživanju o prihodima i uslovima života (EU-SILC) širom Evrope. U 2020. godini istraživanja, EU-SILC je prošao opsežne metodološke revizije i integrisan je u mikrocenzus kao odgovor na sve veće zahtjeve za ažuriranim podacima i pružanje detaljnijih regionalnih rezultata. Kao rezultat ovog usklađivanja, podaci od 2020. godine nadalje nisu uporedivi sa podacima iz prethodnih godina.
+  Od 2021. godine, Uredba (EU) 2019/1700 predviđa zahtjeve koji se odnose na geografsku pokrivenost, detaljne karakteristike uzorka, uključujući poduzorkovanje, u skladu sa Aneksom III, zajedničke periode prikupljanja podataka, zajedničke standarde za uređivanje i imputaciju, ponderisanje, procjenu i procjenu varijanse.
+1-10-long_term_objective: >-
+  Dugoročni cilj za ovaj indikator je vrijednost  0
 1-20-title: Osobe u opasnosti od monetarnog siromaštva nakon socijalnih transfera
+1-20-definition: >-
+  Statistika Evropske unije o prihodima i životnim uslovima (EU-SILC) prikuplja pravovremene i uporedive multidimenzionalne mikropodatke o prihodima, siromaštvu, socijalnoj isključenosti i životnim uslovima. Statistički koncepti i definicije za EU-SILC navedeni su u Uredbi EU 2019/1700, Uredbi EU2019/2181 i Uredbi EU 2019/2242. Osnovna uredba i njeni implementacioni i delegirani akti predviđali su višestruke izmjene u prikupljanju podataka EU-SILC počevši od 2021. godine.
+  Zemlje moraju slijediti Aneks II Uredbe EU  2019/2242, gdje je navedena lista varijabli, uključujući njihove modalitete, zastave, jedinicu i referentni period.
+1-20-intention: >-
+  Indikator osoba u riziku od siromaštva ili socijalne isključenosti (AROPE) ostaje ključan za praćenje evropskih socijalnih politika, posebno za praćenje cilja EU za 2030. godinu o siromaštvu i socijalnoj isključenosti. Za više informacija pogledajte socijalne indikatore EU.
+  EU-SILC instrument pruža dvije vrste podataka:
+
+  •	presječni podaci koji se odnose na određeno vrijeme ili određeni vremenski period sa varijablama o prihodima, siromaštvu, socijalnoj isključenosti i drugim životnim uslovima;
+  longitudinalni podaci koji se odnose na promjene na individualnom nivou tokom vremena, koji se periodično posmatraju sa šemom rotacije od četiri ili više godina (Aneks III(2) Uredbe EU 2019/1700).
+1-20-methodology: >-
+  Ciljna populacija su privatna domaćinstva i sve osobe koje sačinjavaju ova domaćinstva koja imaju svoje uobičajeno prebivalište na nacionalnoj teritoriji. Privatno domaćinstvo je osoba koja živi sama ili grupa osoba koje žive zajedno, pružajući sebi osnovne životne potrebe.
+  Koncept tačnosti se odnosi na preciznost procjena izračunatih iz uzorka, a ne iz cijele populacije. Tačnost zavisi od veličine uzorka, efekata dizajna uzorkovanja i strukture populacije koja se proučava. Pored toga, potrebno je uzeti u obzir greške u uzorkovanju i greške koje nisu u uzorkovanju. Greška uzorkovanja znači varijabilnost koja se javlja nasumično zbog upotrebe uzorka, a ne popisa, a greške koje nisu uzorkovane su greške koje se javljaju u svim fazama procesa prikupljanja i proizvodnje podataka.
+  Od 2021
+  Uredba EU 2019/1700 utvrđuje zahtjeve koji se odnose na geografsku pokrivenost, detaljne karakteristike uzorka, uključujući poduzorkovanje, u skladu sa Aneksom III te uredbe, karakteristike uzorkovanja, zajedničke periode prikupljanja podataka, zajedničke standarde za uređivanje i imputaciju, ponderisanje, procjenu i procjenu varijanse.
+1-20-long_term_objective: >-
+  Dugoročni cilj za ovaj indikator je vrijednost od 0
 1-31-title: Stopa teške materijalne i socijalne uskraćenosti prema starosnoj grupi i spolu
+1-31-definition: >-
+  Domen „Dohodak i životni uslovi“ (EU-SILC) obuhvata sljedeće teme: osobe u riziku od siromaštva ili socijalne isključenosti, nejednakost prihoda, raspodjelu prihoda i monetarno siromaštvo, životne uslove i materijalnu deprivaciju. Obuhvata i EU-SILC ad hoc module, koji su organizovani u kolekcije indikatora o određenim temama.
+  Prikupljanje EU-SILC je ključni instrument za pružanje informacija potrebnih u okviru Evropskog semestra ([1]) i Evropskog stuba socijalnih prava. Također je glavni izvor podataka za potrebe mikrosimulacije i za izradu brzih procjena distribucije prihoda i stopa siromaštva. 
+  EU-SILC je 2024. godine, pored godišnjih podataka, prikupio i trogodišnji modul o zdravlju djece, pristupu zdravstvenoj zaštiti i specifičnoj deprivaciji djece i šestogodišnji modul o pristupu uslugama. Informacije prikupljene u EU-SILC odnose se na sljedeće vrste statističkih jedinica: privatna domaćinstva i osobe koje žive u tim domaćinstvima. Aneks II Regulative EU 2019/2242  definiše specifične statističke jedinice za svaku varijablu, dok Aneks IV iste Regulative precizira sadržaj izvještaja o kvalitetu organizacije uzorka istraživanja u domenu prihoda i uslova života, u skladu sa Regulativom EU 2019/1700  Evropskog parlamenta i Vijeća.
+1-31-intention: >-
+  Zajednički okvir EU-SILC ima za cilj da osigura standardizaciju na različitim nivoima. Konceptualna standardizacija se postiže definisanjem i dokumentovanjem zajedničkih koncepata/definicija na kojima se zasniva svaka mjera/varijabla, obima i vremenske reference.
+  U 2021. godini stupilo je na snagu novo zakonodavstvo o implementaciji EU-SILC, revidirajući i poboljšavajući anketu (vidi odjeljak 3.4). Novim zakonodavstvom predviđene su višestruke izmjene u prikupljanju podataka EU-SILC, a posebno:
+
+  •	sproveo je potrebu za sljedećim poboljšanjima: poboljšana pravovremenost, sa kraćim rokovima za dostavljanje podataka EU-SILC;
+
+  •	reformulisala je zahtjeve preciznosti na nacionalnom i regionalnom nivou (NUTS2) za indikator rizika od siromaštva ili socijalne isključenosti i stopu trajnog rizika od siromaštva;
+
+  •	dodatne/izmijenjene EU-SILC varijable;
+
+  •	prikupljanje podataka sa tri frekvencije: jezgro, trogodišnji modul i šestogodišnji modul, te preporuka za proširenje uzdužnog panela.
+1-31-methodology: >-
+  Ciljna populacija su privatna domaćinstva i sve osobe koje sačinjavaju ova domaćinstva koja imaju svoje uobičajeno prebivalište na nacionalnoj teritoriji. Privatno domaćinstvo je osoba koja živi sama ili grupa osoba koje žive zajedno, pružajući sebi osnovne životne potrebe.
+  Referentni period je godina istraživanja. Za sve zemlje, referentni period za varijable prihoda u EU-SILC je prethodna kalendarska godina.
+  Koncept tačnosti se odnosi na preciznost procjena izračunatih iz uzorka, a ne iz cijele populacije. Tačnost zavisi od veličine uzorka, efekata dizajna uzorkovanja i strukture populacije koja se proučava. Pored toga, potrebno je uzeti u obzir greške u uzorkovanju i greške koje nisu u uzorkovanju. Greška uzorkovanja znači varijabilnost koja se javlja nasumično zbog upotrebe uzorka, a ne popisa, a greške koje nisu uzorkovane su greške koje se javljaju u svim fazama procesa prikupljanja i proizvodnje podataka.
+  Od 2021
+  Regulativa EU 2019/1700utvrđuje zahtjeve koji se odnose na geografsku pokrivenost, detaljne karakteristike uzorka, uključujući poduzorkovanje, u skladu sa Aneksom III te uredbe, karakteristike uzorkovanja, zajedničke periode prikupljanja podataka, zajedničke standarde za uređivanje i imputaciju, ponderisanje, procjenu i procjenu varijanse.
+1-31-long_term_objective: >-
+  Dugoročni cilj za ovaj indikator je vrijednost od 0
 1-40-title: Osobe koje žive u domaćinstvu sa veoma niskim intenzitetom rada, po starosnoj grupi
+1-40-definition: >-
+  Siromaštvo i socijalna isključenost štete životima pojedinaca i ograničavaju mogućnosti ljudi da ostvare svoj puni potencijal tako što utiču na njihovo zdravlje i dobrobit i smanjuju obrazovne ishode. To zauzvrat smanjuje mogućnosti za uspješan život i dodatno povećava rizik od siromaštva. Bez efikasnog obrazovanja, zdravstvenih, socijalnih, poreskih olakšica i sistema zapošljavanja, rizik od siromaštva se prenosi sa jedne generacije na drugu. To uzrokuje opstanak siromaštva i stoga stvara više nejednakosti, što može dovesti do dugoročnog gubitka ekonomske produktivnosti od cijelih grupa društva i ometati inkluzivni i održivi ekonomski rast.
+1-40-intention: >-
+  Ljudi u dobi od 0 do 64 godine koji žive u domaćinstvima u kojima su odrasli radili radno vrijeme jednako ili manje od 20% njihovog ukupnog kombinovanog potencijala radnog vremena tokom prethodne godine.
+  Odrasli broj ljudi u dobi od 18 do 64 godine. Studenti u dobi od 18 do 24 godine; osobe koje su penzionisane u skladu sa svojim samo-definisanim trenutnim ekonomskim statusom ili koje primaju bilo koju penziju (osim porodične penzije); i osobe u starosnoj grupi od 60 do 64 godine koje su neaktivne i žive u domaćinstvu u kojem su glavni prihodi penzije, ne uzimaju se u obzir.
+  Indikator je dio multidimenzionalnog indeksa siromaštva.
+1-40-methodology: >-
+  Referentni period je godina istraživanja. Za sve zemlje, referentni period za varijable prihoda u EU-SILC je prethodna kalendarska godina.
+  Indikator je uključen kao sekundarni indikator u Pregled socijalnih pokazatelja za Evropski stub socijalnih prava i Akcioni plan EPSR-a, a dio je multidimenzionalnog indeksa siromaštva. Može se smatrati dijelom globalnog SDG indikatora 1.2.2 „Udio muškaraca, žena i djece svih uzrasta koji žive u siromaštvu u svim njegovim dimenzijama prema nacionalnim definicijama“
+  Od 2021. godine Uredba (EU) 2019/1700 predviđa zahtjeve koji se odnose na geografsku pokrivenost, detaljne karakteristike uzorka, uključujući poduzorkovanje, u skladu sa Aneksom III, zajedničke periode prikupljanja podataka, zajedničke standarde za uređivanje i imputaciju, ponderisanje, procjenu i procjenu varijanse.
+1-40-long_term_objective: >-
+  Dugoročni cilj za ovaj indikator je vrijednost od 0
 1-41-title: Stopa zaposlenih u riziku od siromaštva
+1-41-definition: >-
+  Indikator je dio indikatora Ciljeva održivog razvoja EU (SDG) postavljenog tamo gdje se koristi za praćenje napretka prema SDG 1 o iskorjenjivanju siromaštva u svim njegovim oblicima svugdje, što je ugrađeno u prioritete Evropske komisije pod "Ekonomije koja radi za ljude“.
+  Indikator je uključen kao sekundarni indikator u Pregled socijalnih pokazatelja za Evropski stub socijalnih prava i Akcioni plan EPSR-a.
+  Udio osoba koje su zaposlene i imaju ekvivalentni raspoloživi dohodak ispod praga rizika od siromaštva, koji je postavljen na 60% nacionalnog medijana ekvivalentnog raspoloživog dohotka (nakon socijalnih transfera). Za potrebe ovog indikatora, smatra se da je pojedinac zaposlen ako je bio zaposlen više od polovine referentne godine. Indikator se zasniva na EU-SILC (statistika o prihodima, socijalnoj inkluziji i uslovima života).
+1-41-intention: >-
+  Zaposlenost se često tvrdi da je najbolja zaštita od siromaštva, tako da je jedan od ciljeva EU stvaranje više i boljih radnih mjesta. Stoga je važno izmjeriti udio siromašnih radnika, ljudi koji žive ispod granice siromaštva iako rade.
+  Siromaštvo i socijalna isključenost štete životima pojedinaca i ograničavaju mogućnosti ljudi da ostvare svoj puni potencijal tako što utiču na njihovo zdravlje i dobrobit i smanjuju obrazovne ishode. To zauzvrat smanjuje mogućnosti za uspješan život i dodatno povećava rizik od siromaštva. Bez efikasnog obrazovanja, zdravstvenih, socijalnih, poreskih olakšica i sistema zapošljavanja, rizik od siromaštva se prenosi sa jedne generacije na drugu. To uzrokuje opstanak siromaštva i stoga stvara više nejednakosti, što može dovesti do dugoročnog gubitka ekonomske produktivnosti od cijelih grupa društva i ometati inkluzivni i održivi ekonomski rast.
+1-41-methodology: >-
+  Indikator je proizveden u skladu sa standardima kvaliteta na visokom nivou evropske statistike. Od 2005. godine nadalje, EU-SILC se zasniva na zajedničkom okviru definisanom usklađenim listama primarnih i sekundarnih varijabli, zajedničkim konceptima, preporučenom dizajnu, zajedničkim zahtjevima (kao što su postupci imputacije, ponderisanje, izračunavanje grešaka u uzorkovanju) i klasifikacijama s ciljem maksimiziranja uporedivosti proizvedenih informacija.
+  Od 2021. godine Uredba (EU) 2019/1700 predviđa zahtjeve koji se odnose na geografsku pokrivenost, detaljne karakteristike uzorka, uključujući poduzorkovanje, u skladu sa Aneksom III, zajedničke periode prikupljanja podataka, zajedničke standarde za uređivanje i imputaciju, ponderisanje, procjenu i procjenu varijanse.
+1-41-long_term_objective: >-
+  Dugoročni cilj za ovaj indikator je vrijednost od 0
 1-50-title: Stopa prekomernog opterećenja troškovima stanovanja prema statusu siromaštva
+1-50-definition: >-
+  Indikator je dio indikatora Ciljeva održivog razvoja EU (SDG) postavljenog tamo gdje se koristi za praćenje napretka prema SDG 1 o iskorjenjivanju siromaštva u svim njegovim oblicima svugdje, što je ugrađeno u prioritete Evropske komisije pod "Podrška ljudima, jačanje naših društava i našeg socijalnog modela“.
+  Indikator je uključen kao sekundarni indikator u Pregled socijalnih pokazatelja za Evropski stub socijalnih prava i Akcioni plan EPSR-a, a dio je multidimenzionalnog indeksa siromaštva. Može se smatrati dijelom globalnog SDG indikatora 1.2.2 „Udio muškaraca, žena i djece svih uzrasta koji žive u siromaštvu u svim njegovim dimenzijama prema nacionalnim definicijama“
+1-50-intention: >-
+  Siromaštvo i socijalna isključenost štete životima pojedinaca i ograničavaju mogućnosti ljudi da ostvare svoj puni potencijal tako što utiču na njihovo zdravlje i dobrobit i smanjuju obrazovne ishode. To zauzvrat smanjuje mogućnosti za uspješan život i dodatno povećava rizik od siromaštva. Bez efikasnog obrazovanja, zdravstvenih, socijalnih, poreskih olakšica i sistema zapošljavanja, rizik od siromaštva se prenosi sa jedne generacije na drugu. To uzrokuje opstanak siromaštva i stoga stvara više nejednakosti, što može dovesti do dugoročnog gubitka ekonomske produktivnosti od cijelih grupa društva i ometati inkluzivni i održivi ekonomski rast.
+1-50-methodology: >-
+  Indikator mjeri udio stanovništva koje živi u domaćinstvima koja troše 40% ili više raspoloživog dohotka domaćinstva na stanovanje („neto“ naknade za stanovanje). Troškovi stanovanja uključuju plaćanje kamata za iznajmljivanje ili hipoteku, ali i troškove komunalnih usluga kao što su voda, struja, plin ili grijanje.
+  Od 2021. godine Uredba (EU) 2019/1700 predviđa zahtjeve koji se odnose na geografsku pokrivenost, detaljne karakteristike uzorka, uključujući poduzorkovanje, u skladu sa Aneksom III, zajedničke periode prikupljanja podataka, zajedničke standarde za uređivanje i imputaciju, ponderisanje, procjenu i procjenu varijanse.
+1-50-long_term_objective: >-
+  Dugoročni cilj za ovaj indikator je vrijednost od 0
 2-10-title: Stopa gojaznosti prema indeksu tjelesne mase (BMI)
 2-20-title: Realni faktorski dohodak poljoprivrede po godišnjoj radnoj jedinici (AWU)
 2-30-title: Državna podrška poljoprivrednom istraživanju i razvoju
