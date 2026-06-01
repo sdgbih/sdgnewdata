@@ -1,10 +1,23 @@
-Year,Value
-2015,29.0
-2016,31.5
-2017,34.0
-2018,31.5
-2019,34.0
-2020,36.5
-2021,39.0
-2022,41.5
-2023,39.0
+Year,SERIES,UNIT_MEASURE,Value
+2014,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.24
+2015,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.27
+2016,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.14
+2017,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.21
+2018,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.08
+2019,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.21
+2020,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.18
+2021,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.26
+2022,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.37
+2023,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.54
+2024,Energy productivity,Euro per kilogram of oil equivalent (KGOE),2.64
+2014,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,4.75
+2015,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,4.85
+2016,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,4.6
+2017,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,4.75
+2018,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,4.56
+2019,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,4.94
+2020,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,4.85
+2021,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,5.13
+2022,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,5.86
+2023,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,6.69
+2024,Energy productivity,Purchasing power standard (PPS) per kilogram of oil equivalent,7.21

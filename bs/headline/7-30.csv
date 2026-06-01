@@ -1,10 +1,23 @@
-Year,Value
-2015,29.0
-2016,31.5
-2017,34.0
-2018,31.5
-2019,34.0
-2020,36.5
-2021,39.0
-2022,41.5
-2023,39.0
+Year,Value,UNIT_MEASURE,SERIES
+2014,2.24,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2015,2.27,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2016,2.14,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2017,2.21,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2018,2.08,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2019,2.21,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2020,2.18,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2021,2.26,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2022,2.37,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2023,2.54,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2024,2.64,Euro po kilogramu ekvivalenta nafte (KGOE),Energetska produktivnost
+2014,4.75,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
+2015,4.85,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
+2016,4.6,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
+2017,4.75,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
+2018,4.56,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
+2019,4.94,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
+2020,4.85,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
+2021,5.13,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
+2022,5.86,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
+2023,6.69,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
+2024,7.21,Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte,Energetska produktivnost
