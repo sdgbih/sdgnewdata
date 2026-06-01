@@ -52,3 +52,5 @@ TOE_HAB: Tonnes of oil equivalent (TOE) per capita
 KGOE: Kilogram of oil equivalent
 MIO_EUR: Million euro
 EUR_HAB: Euro per inhabitant
+EUR_KGOE: Euro per kilogram of oil equivalent (KGOE)
+PPS_KGOE: Purchasing power standard (PPS) per kilogram of oil equivalent
