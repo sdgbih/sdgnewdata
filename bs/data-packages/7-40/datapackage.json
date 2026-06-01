@@ -16,6 +16,30 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Serije"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Energy_balance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obnovljiva energija, ukupno",
+                "Obnovljiva energija, transport",
+                "Obnovljiva energija, električna energija",
+                "Obnovljiva energija, grijanje i hlađenje",
+                ""
+              ]
+            },
+            "title": "Energetski bilans"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

@@ -16,6 +16,30 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Energy_balance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Renewable energy, overall",
+                "Renewable energy, transport",
+                "Renewable energy, electricity",
+                "Renewable energy, heating and cooling",
+                ""
+              ]
+            },
+            "title": "Energy balance"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
