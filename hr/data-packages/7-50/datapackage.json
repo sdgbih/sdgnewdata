@@ -16,6 +16,30 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "Standard_international_energy_product_ classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "Čvrsta fosilna goriva",
+                "Nafta i naftni derivati ​​(isključujući dio biogoriva)",
+                "Prirodni gas",
+                ""
+              ]
+            },
+            "title": "Standardna međunarodna klasifikacija energetskih proizvoda"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

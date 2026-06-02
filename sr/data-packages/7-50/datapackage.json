@@ -16,6 +16,30 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "Standard_international_energy_product_ classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно",
+                "Чврста фосилна горива",
+                "Нафта и нафтни производи (искључујући дио биогорива)",
+                "Природни гас",
+                ""
+              ]
+            },
+            "title": "Standard_international_energy_product_ classification"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

@@ -1570,6 +1570,30 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "Standard_international_energy_product_ classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Solid fossil fuels",
+                "Oil and petroleum products (excluding biofuel portion)",
+                "Natural gas",
+                ""
+              ]
+            },
+            "title": "Standard international energy product classification"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

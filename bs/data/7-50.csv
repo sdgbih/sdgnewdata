@@ -1,10 +1,45 @@
-Year,Value
-2015,45.0
-2016,41.8
-2017,43.6
-2018,45.4
-2019,47.2
-2020,49.0
-2021,45.8
-2022,47.6
-2023,49.4
+Year,SERIES,Standardna međunarodna klasifikacija energetskih proizvoda,UNIT_MEASURE,Value
+2014,Ovisnost o uvozu energije,Ukupno,Procenat,28.209
+2015,Ovisnost o uvozu energije,Ukupno,Procenat,33.693
+2016,Ovisnost o uvozu energije,Ukupno,Procenat,31.518
+2017,Ovisnost o uvozu energije,Ukupno,Procenat,34.031
+2018,Ovisnost o uvozu energije,Ukupno,Procenat,24.263
+2019,Ovisnost o uvozu energije,Ukupno,Procenat,27.377
+2020,Ovisnost o uvozu energije,Ukupno,Procenat,25.398
+2021,Ovisnost o uvozu energije,Ukupno,Procenat,27.151
+2022,Ovisnost o uvozu energije,Ukupno,Procenat,26.281
+2023,Ovisnost o uvozu energije,Ukupno,Procenat,24.836
+2024,Ovisnost o uvozu energije,Ukupno,Procenat,27.796
+2014,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,17.258
+2015,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,17.839
+2016,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,14.941
+2017,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,17.657
+2018,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,14.883
+2019,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,19.768
+2020,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,15.417
+2021,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,19.305
+2022,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,11.67
+2023,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,10.416
+2024,Ovisnost o uvozu energije,Čvrsta fosilna goriva,Procenat,7.834
+2014,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,96.591
+2015,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,104.76
+2016,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,104.837
+2017,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,100.316
+2018,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,97.049
+2019,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,93.188
+2020,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,99.811
+2021,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,96.236
+2022,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,99.965
+2023,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,99.93
+2024,Ovisnost o uvozu energije,Nafta i naftni derivati ​​(isključujući dio biogoriva),Procenat,100.346
+2014,Ovisnost o uvozu energije,Prirodni gas,Procenat,100.0
+2015,Ovisnost o uvozu energije,Prirodni gas,Procenat,100.0
+2016,Ovisnost o uvozu energije,Prirodni gas,Procenat,100.0
+2017,Ovisnost o uvozu energije,Prirodni gas,Procenat,100.0
+2018,Ovisnost o uvozu energije,Prirodni gas,Procenat,100.011
+2019,Ovisnost o uvozu energije,Prirodni gas,Procenat,100.0
+2020,Ovisnost o uvozu energije,Prirodni gas,Procenat,100.0
+2021,Ovisnost o uvozu energije,Prirodni gas,Procenat,100.021
+2022,Ovisnost o uvozu energije,Prirodni gas,Procenat,99.979
+2023,Ovisnost o uvozu energije,Prirodni gas,Procenat,100.003
+2024,Ovisnost o uvozu energije,Prirodni gas,Procenat,100.012
