@@ -18,3 +18,6 @@ indicator_name: global_indicators.5-30-title
 graph_titles:
 - series: SERIES.sdg_05_30
   title: SERIES.sdg_05_30
+indicator_definition: global_indicators.5-30-definition
+rationale: global_indicators.5-30-intention
+methodology_characteristics: global_indicators.5-30-methodology

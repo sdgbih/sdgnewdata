@@ -18,3 +18,6 @@ indicator_name: global_indicators.4-31-title
 graph_titles:
 - series: SERIES.sdg_04_31
   title: SERIES.sdg_04_31
+indicator_definition: global_indicators.4-31-definition
+rationale: global_indicators.4-31-intention
+methodology_characteristics: global_indicators.4-31-methodology

@@ -15,3 +15,6 @@ indicator_name: global_indicators.14-60-title
 graph_titles:
 - series: SERIES.sdg_14_60
   title: SERIES.sdg_14_60
+indicator_definition: global_indicators.14-60-definition
+rationale: global_indicators.14-60-intention
+methodology_characteristics: global_indicators.14-60-methodology

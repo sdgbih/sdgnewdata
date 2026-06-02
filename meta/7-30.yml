@@ -16,3 +16,6 @@ indicator_name: global_indicators.7-30-title
 graph_titles:
 - series: SERIES.sdg_07_30
   title: SERIES.sdg_07_30
+indicator_definition: global_indicators.7-30-definition
+rationale: global_indicators.7-30-intention
+methodology_characteristics: global_indicators.7-30-methodology

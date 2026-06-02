@@ -15,3 +15,5 @@ indicator_name: global_indicators.5-10-title
 graph_titles:
 - series: SERIES.sdg_05_10
   title: SERIES.sdg_05_10
+indicator_definition: global_indicators.5-10-definition
+rationale: global_indicators.5-10-intention

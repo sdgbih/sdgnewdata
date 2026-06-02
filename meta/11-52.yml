@@ -15,3 +15,6 @@ indicator_name: global_indicators.11-52-title
 graph_titles:
 - series: SERIES.sdg_11_52
   title: SERIES.sdg_11_52
+indicator_definition: global_indicators.11-52-definition
+rationale: global_indicators.11-52-intention
+methodology_characteristics: global_indicators.11-52-methodology

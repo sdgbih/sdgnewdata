@@ -18,3 +18,6 @@ indicator_name: global_indicators.2-40-title
 graph_titles:
 - series: SERIES.sdg_02_40
   title: SERIES.sdg_02_40
+indicator_definition: global_indicators.2-40-definition
+rationale: global_indicators.2-40-intention
+methodology_characteristics: global_indicators.2-40-methodology

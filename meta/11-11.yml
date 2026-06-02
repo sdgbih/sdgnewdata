@@ -18,3 +18,6 @@ indicator_name: global_indicators.11-11-title
 graph_titles:
 - series: SERIES.sdg_11_11
   title: SERIES.sdg_11_11
+indicator_definition: global_indicators.11-11-definition
+rationale: global_indicators.11-11-intention
+methodology_characteristics: global_indicators.11-11-methodology
