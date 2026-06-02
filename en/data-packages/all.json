@@ -418,7 +418,7 @@
           }
         ]
       },
-      "title": "7-30"
+      "title": "Energy productivity"
     },
     {
       "path": "5-30/data.csv",
@@ -788,7 +788,7 @@
           }
         ]
       },
-      "title": "7-10"
+      "title": "Primary & final energy consumption"
     },
     {
       "path": "1-10/data.csv",
@@ -918,7 +918,7 @@
           }
         ]
       },
-      "title": "7-60"
+      "title": "Population unable to keep home adequately warm"
     },
     {
       "path": "11-20/data.csv",
@@ -1528,7 +1528,7 @@
           }
         ]
       },
-      "title": "7-20"
+      "title": "Final energy consumption in households per capita"
     },
     {
       "path": "1-41/data.csv",
@@ -1600,7 +1600,7 @@
           }
         ]
       },
-      "title": "7-50"
+      "title": "Energy import dependency"
     },
     {
       "path": "8-20/data.csv",
@@ -2032,7 +2032,7 @@
           }
         ]
       },
-      "title": "7-40"
+      "title": "Share of renewable energy in gross final energy consumption"
     },
     {
       "path": "12-21/data.csv",
