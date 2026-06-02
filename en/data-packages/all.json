@@ -24,7 +24,7 @@
           }
         ]
       },
-      "title": "R&D personnel"
+      "title": "9-30"
     },
     {
       "path": "1-31/data.csv",
@@ -48,7 +48,7 @@
           }
         ]
       },
-      "title": "Severe material and social deprivation rate by age group and sex"
+      "title": "1-31"
     },
     {
       "path": "4-60/data.csv",
@@ -72,7 +72,7 @@
           }
         ]
       },
-      "title": "Adult participation in learning in the past four weeks by sex"
+      "title": "4-60"
     },
     {
       "path": "5-10/data.csv",
@@ -96,7 +96,7 @@
           }
         ]
       },
-      "title": "Physical and sexual violence to women by age group (2012 data)"
+      "title": "5-10"
     },
     {
       "path": "16-10/data.csv",
@@ -120,7 +120,7 @@
           }
         ]
       },
-      "title": "Standardised death rate due to homicid"
+      "title": "16-10"
     },
     {
       "path": "10-50/data.csv",
@@ -144,7 +144,7 @@
           }
         ]
       },
-      "title": "Income share of the bottom 40 % of the population"
+      "title": "10-50"
     },
     {
       "path": "6-40/data.csv",
@@ -168,7 +168,7 @@
           }
         ]
       },
-      "title": "Nitrate in groundwater"
+      "title": "6-40"
     },
     {
       "path": "17-20/data.csv",
@@ -192,7 +192,7 @@
           }
         ]
       },
-      "title": "EU financing to developing countries"
+      "title": "17-20"
     },
     {
       "path": "15-60/data.csv",
@@ -216,7 +216,7 @@
           }
         ]
       },
-      "title": "Common bird index"
+      "title": "15-60"
     },
     {
       "path": "12-31/data.csv",
@@ -240,7 +240,7 @@
           }
         ]
       },
-      "title": "Consumption footprint"
+      "title": "12-31"
     },
     {
       "path": "4-40/data.csv",
@@ -264,7 +264,7 @@
           }
         ]
       },
-      "title": "Low achieving 15-year-olds in reading, mathematics or science"
+      "title": "4-40"
     },
     {
       "path": "6-30/data.csv",
@@ -288,7 +288,7 @@
           }
         ]
       },
-      "title": "Biochemical oxygen demand in rivers"
+      "title": "6-30"
     },
     {
       "path": "15-42/data.csv",
@@ -312,7 +312,7 @@
           }
         ]
       },
-      "title": "Drought impact on ecosystems"
+      "title": "15-42"
     },
     {
       "path": "1-20/data.csv",
@@ -336,7 +336,7 @@
           }
         ]
       },
-      "title": "Persons at risk of monetary poverty after social transfers - EU SILC and ECHP surveys"
+      "title": "1-20"
     },
     {
       "path": "10-10/data.csv",
@@ -360,7 +360,7 @@
           }
         ]
       },
-      "title": "Disparities in GDP per capita"
+      "title": "10-10"
     },
     {
       "path": "9-60/data.csv",
@@ -384,7 +384,7 @@
           }
         ]
       },
-      "title": "Share of rail and inland waterways activity in inland freight transport"
+      "title": "9-60"
     },
     {
       "path": "7-30/data.csv",
@@ -418,7 +418,7 @@
           }
         ]
       },
-      "title": "Energy productivity"
+      "title": "7-30"
     },
     {
       "path": "5-30/data.csv",
@@ -442,7 +442,7 @@
           }
         ]
       },
-      "title": "Gender employment gap, by type of employment"
+      "title": "5-30"
     },
     {
       "path": "12-10/data.csv",
@@ -466,7 +466,7 @@
           }
         ]
       },
-      "title": "Consumption of hazardous chemicals"
+      "title": "12-10"
     },
     {
       "path": "13-10/data.csv",
@@ -490,7 +490,7 @@
           }
         ]
       },
-      "title": "Net greenhouse gas emissions"
+      "title": "13-10"
     },
     {
       "path": "5-60/data.csv",
@@ -514,7 +514,7 @@
           }
         ]
       },
-      "title": "Positions held by women in senior management positions"
+      "title": "5-60"
     },
     {
       "path": "14-30/data.csv",
@@ -538,7 +538,7 @@
           }
         ]
       },
-      "title": "Estimated trend in fishing pressure"
+      "title": "14-30"
     },
     {
       "path": "4-70/data.csv",
@@ -562,7 +562,7 @@
           }
         ]
       },
-      "title": "Share of individuals having at least basic digital skills, by sex"
+      "title": "4-70"
     },
     {
       "path": "15-20/data.csv",
@@ -586,7 +586,7 @@
           }
         ]
       },
-      "title": "Terrestrial protected areas"
+      "title": "15-20"
     },
     {
       "path": "16-20/data.csv",
@@ -610,7 +610,7 @@
           }
         ]
       },
-      "title": "Population reporting crime, violence or vandalism in their are"
+      "title": "16-20"
     },
     {
       "path": "2-40/data.csv",
@@ -634,7 +634,7 @@
           }
         ]
       },
-      "title": "Area under organic farming"
+      "title": "2-40"
     },
     {
       "path": "2-53/data.csv",
@@ -658,7 +658,7 @@
           }
         ]
       },
-      "title": "Use and risk of chemical pesticides"
+      "title": "2-53"
     },
     {
       "path": "3-30/data.csv",
@@ -682,7 +682,7 @@
           }
         ]
       },
-      "title": "Smoking prevalence by sex"
+      "title": "3-30"
     },
     {
       "path": "2-60/data.csv",
@@ -706,7 +706,7 @@
           }
         ]
       },
-      "title": "Ammonia emissions from agriculture"
+      "title": "2-60"
     },
     {
       "path": "12-61/data.csv",
@@ -730,7 +730,7 @@
           }
         ]
       },
-      "title": "Gross value added in environmental goods and services sector"
+      "title": "12-61"
     },
     {
       "path": "2-20/data.csv",
@@ -754,7 +754,7 @@
           }
         ]
       },
-      "title": "Agricultural real factor income per annual work unit (AWU)"
+      "title": "2-20"
     },
     {
       "path": "7-10/data.csv",
@@ -788,7 +788,7 @@
           }
         ]
       },
-      "title": "Primary & final energy consumption"
+      "title": "7-10"
     },
     {
       "path": "1-10/data.csv",
@@ -822,7 +822,7 @@
           }
         ]
       },
-      "title": "Persons at risk of poverty or social exclusion"
+      "title": "1-10"
     },
     {
       "path": "5-50/data.csv",
@@ -846,7 +846,7 @@
           }
         ]
       },
-      "title": "Seats held by women in national parliaments and governments"
+      "title": "5-50"
     },
     {
       "path": "14-40/data.csv",
@@ -870,7 +870,7 @@
           }
         ]
       },
-      "title": "Bathing sites with excellent water quality"
+      "title": "14-40"
     },
     {
       "path": "14-10/data.csv",
@@ -894,7 +894,7 @@
           }
         ]
       },
-      "title": "Marine protected areas"
+      "title": "14-10"
     },
     {
       "path": "7-60/data.csv",
@@ -918,7 +918,7 @@
           }
         ]
       },
-      "title": "Population unable to keep home adequately warm"
+      "title": "7-60"
     },
     {
       "path": "11-20/data.csv",
@@ -942,7 +942,7 @@
           }
         ]
       },
-      "title": "Population living in households suffering from noise"
+      "title": "11-20"
     },
     {
       "path": "10-30/data.csv",
@@ -966,7 +966,7 @@
           }
         ]
       },
-      "title": "Relative median at-risk-of-poverty gap"
+      "title": "10-30"
     },
     {
       "path": "17-10/data.csv",
@@ -990,7 +990,7 @@
           }
         ]
       },
-      "title": "Official development assistance"
+      "title": "17-10"
     },
     {
       "path": "3-20/data.csv",
@@ -1014,7 +1014,7 @@
           }
         ]
       },
-      "title": "Share of people with good or very good perceived health by sex"
+      "title": "3-20"
     },
     {
       "path": "10-20/data.csv",
@@ -1038,7 +1038,7 @@
           }
         ]
       },
-      "title": "Disparities in household income per capita"
+      "title": "10-20"
     },
     {
       "path": "16-50/data.csv",
@@ -1062,7 +1062,7 @@
           }
         ]
       },
-      "title": "Corruption Perceptions Index"
+      "title": "16-50"
     },
     {
       "path": "3-70/data.csv",
@@ -1086,7 +1086,7 @@
           }
         ]
       },
-      "title": "Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day"
+      "title": "3-70"
     },
     {
       "path": "16-70/data.csv",
@@ -1110,7 +1110,7 @@
           }
         ]
       },
-      "title": "Victims of trafficking in human beings by sex"
+      "title": "16-70"
     },
     {
       "path": "13-31/data.csv",
@@ -1134,7 +1134,7 @@
           }
         ]
       },
-      "title": "Average CO2 emissions per km from new passenger cars"
+      "title": "13-31"
     },
     {
       "path": "9-70/data.csv",
@@ -1158,7 +1158,7 @@
           }
         ]
       },
-      "title": "Air emission intensity of industry"
+      "title": "9-70"
     },
     {
       "path": "17-50/data.csv",
@@ -1182,7 +1182,7 @@
           }
         ]
       },
-      "title": "Shares of environmental taxes in total tax revenues"
+      "title": "17-50"
     },
     {
       "path": "5-40/data.csv",
@@ -1206,7 +1206,7 @@
           }
         ]
       },
-      "title": "Persons outside the labour force due to caring responsibilities by sex"
+      "title": "5-40"
     },
     {
       "path": "8-40/data.csv",
@@ -1230,7 +1230,7 @@
           }
         ]
       },
-      "title": "Long-term unemployment rate"
+      "title": "8-40"
     },
     {
       "path": "4-10/data.csv",
@@ -1254,7 +1254,7 @@
           }
         ]
       },
-      "title": "Early leavers from education and training by sex"
+      "title": "4-10"
     },
     {
       "path": "11-60/data.csv",
@@ -1278,7 +1278,7 @@
           }
         ]
       },
-      "title": "Recycling rate of municipal waste"
+      "title": "11-60"
     },
     {
       "path": "13-40/data.csv",
@@ -1302,7 +1302,7 @@
           }
         ]
       },
-      "title": "Climate-related economic losses"
+      "title": "13-40"
     },
     {
       "path": "8-60/data.csv",
@@ -1326,7 +1326,7 @@
           }
         ]
       },
-      "title": "Fatal accidents at work per 100 000 workers"
+      "title": "8-60"
     },
     {
       "path": "9-40/data.csv",
@@ -1350,7 +1350,7 @@
           }
         ]
       },
-      "title": "Patent applications to the European Patent Office"
+      "title": "9-40"
     },
     {
       "path": "13-70/data.csv",
@@ -1374,7 +1374,7 @@
           }
         ]
       },
-      "title": "Green bond issuance"
+      "title": "13-70"
     },
     {
       "path": "5-20/data.csv",
@@ -1398,7 +1398,7 @@
           }
         ]
       },
-      "title": "Gender pay gap in unadjusted form"
+      "title": "5-20"
     },
     {
       "path": "15-50/data.csv",
@@ -1422,7 +1422,7 @@
           }
         ]
       },
-      "title": "Area at risk of severe soil erosion by water"
+      "title": "15-50"
     },
     {
       "path": "17-60/data.csv",
@@ -1446,7 +1446,7 @@
           }
         ]
       },
-      "title": "Share of households with high-speed internet connection"
+      "title": "17-60"
     },
     {
       "path": "15-61/data.csv",
@@ -1470,7 +1470,7 @@
           }
         ]
       },
-      "title": "Grassland butterfly index"
+      "title": "15-61"
     },
     {
       "path": "17-31/data.csv",
@@ -1494,7 +1494,7 @@
           }
         ]
       },
-      "title": "EU imports from least developed countries"
+      "title": "17-31"
     },
     {
       "path": "7-20/data.csv",
@@ -1528,7 +1528,7 @@
           }
         ]
       },
-      "title": "Final energy consumption in households per capita"
+      "title": "7-20"
     },
     {
       "path": "1-41/data.csv",
@@ -1552,7 +1552,7 @@
           }
         ]
       },
-      "title": "In work at - risk - of poverty rate"
+      "title": "1-41"
     },
     {
       "path": "7-50/data.csv",
@@ -1600,7 +1600,7 @@
           }
         ]
       },
-      "title": "Energy import dependency"
+      "title": "7-50"
     },
     {
       "path": "8-20/data.csv",
@@ -1624,7 +1624,7 @@
           }
         ]
       },
-      "title": "Young people neither in employment nor in education and training"
+      "title": "8-20"
     },
     {
       "path": "12-41/data.csv",
@@ -1648,7 +1648,7 @@
           }
         ]
       },
-      "title": "Circular material use rate"
+      "title": "12-41"
     },
     {
       "path": "8-11/data.csv",
@@ -1672,7 +1672,7 @@
           }
         ]
       },
-      "title": "Investment share of GDP"
+      "title": "8-11"
     },
     {
       "path": "16-40/data.csv",
@@ -1696,7 +1696,7 @@
           }
         ]
       },
-      "title": "Perceived independence of the justice system: very or fairly good"
+      "title": "16-40"
     },
     {
       "path": "14-50/data.csv",
@@ -1720,7 +1720,7 @@
           }
         ]
       },
-      "title": "Global mean surface seawater acidity"
+      "title": "14-50"
     },
     {
       "path": "13-21/data.csv",
@@ -1744,7 +1744,7 @@
           }
         ]
       },
-      "title": "Net greenhouse gas emissions of the LULUCF sector"
+      "title": "13-21"
     },
     {
       "path": "1-40/data.csv",
@@ -1768,7 +1768,7 @@
           }
         ]
       },
-      "title": "Persons living in households with very low work intensity, by age group"
+      "title": "1-40"
     },
     {
       "path": "9-10/data.csv",
@@ -1792,7 +1792,7 @@
           }
         ]
       },
-      "title": "Gross domestic expenditure on R&D"
+      "title": "9-10"
     },
     {
       "path": "11-11/data.csv",
@@ -1816,7 +1816,7 @@
           }
         ]
       },
-      "title": "Severe housing deprivation rate"
+      "title": "11-11"
     },
     {
       "path": "8-10/data.csv",
@@ -1840,7 +1840,7 @@
           }
         ]
       },
-      "title": "Real GDP per capita"
+      "title": "8-10"
     },
     {
       "path": "10-60/data.csv",
@@ -1864,7 +1864,7 @@
           }
         ]
       },
-      "title": "Asylum applications"
+      "title": "10-60"
     },
     {
       "path": "8-30/data.csv",
@@ -1888,7 +1888,7 @@
           }
         ]
       },
-      "title": "Employment rate"
+      "title": "8-30"
     },
     {
       "path": "11-40/data.csv",
@@ -1912,7 +1912,7 @@
           }
         ]
       },
-      "title": "Road traffic deaths"
+      "title": "11-40"
     },
     {
       "path": "3-12/data.csv",
@@ -1936,7 +1936,7 @@
           }
         ]
       },
-      "title": "Healthy life years based on self-perceived health (previous: Healthy life years at birth)"
+      "title": "3-12"
     },
     {
       "path": "11-52/data.csv",
@@ -1960,7 +1960,7 @@
           }
         ]
       },
-      "title": "Premature deaths due to exposure to fine particulate matter (PM2.5)"
+      "title": "11-52"
     },
     {
       "path": "6-20/data.csv",
@@ -1984,7 +1984,7 @@
           }
         ]
       },
-      "title": "Population connected to at least secondary wastewater treatment"
+      "title": "6-20"
     },
     {
       "path": "7-40/data.csv",
@@ -2032,7 +2032,7 @@
           }
         ]
       },
-      "title": "Share of renewable energy in gross final energy consumption"
+      "title": "7-40"
     },
     {
       "path": "12-21/data.csv",
@@ -2056,7 +2056,7 @@
           }
         ]
       },
-      "title": "Material footprint"
+      "title": "12-21"
     },
     {
       "path": "12-51/data.csv",
@@ -2080,7 +2080,7 @@
           }
         ]
       },
-      "title": "Generation of waste"
+      "title": "12-51"
     },
     {
       "path": "14-60/data.csv",
@@ -2104,7 +2104,7 @@
           }
         ]
       },
-      "title": "Marine waters affected by eutrophication"
+      "title": "14-60"
     },
     {
       "path": "17-40/data.csv",
@@ -2128,7 +2128,7 @@
           }
         ]
       },
-      "title": "General government gross debt"
+      "title": "17-40"
     },
     {
       "path": "3-42/data.csv",
@@ -2152,7 +2152,7 @@
           }
         ]
       },
-      "title": "Standardised preventable and treatable mortality"
+      "title": "3-42"
     },
     {
       "path": "4-20/data.csv",
@@ -2176,7 +2176,7 @@
           }
         ]
       },
-      "title": "Tertiary educational attainment by sex"
+      "title": "4-20"
     },
     {
       "path": "6-60/data.csv",
@@ -2200,7 +2200,7 @@
           }
         ]
       },
-      "title": "Water exploitation index, plus (WEI+)"
+      "title": "6-60"
     },
     {
       "path": "6-50/data.csv",
@@ -2224,7 +2224,7 @@
           }
         ]
       },
-      "title": "Phosphate in rivers"
+      "title": "6-50"
     },
     {
       "path": "6-70/data.csv",
@@ -2248,7 +2248,7 @@
           }
         ]
       },
-      "title": "Pesticides in rivers (NEW)"
+      "title": "6-70"
     },
     {
       "path": "14-21/data.csv",
@@ -2272,7 +2272,7 @@
           }
         ]
       },
-      "title": "Estimated trends in fish stock biomass"
+      "title": "14-21"
     },
     {
       "path": "1-50/data.csv",
@@ -2296,7 +2296,7 @@
           }
         ]
       },
-      "title": "Housing cost overburden rate by poverty status"
+      "title": "1-50"
     },
     {
       "path": "2-30/data.csv",
@@ -2330,7 +2330,7 @@
           }
         ]
       },
-      "title": "Government support to agricultural research and development"
+      "title": "2-30"
     },
     {
       "path": "13-50/data.csv",
@@ -2354,7 +2354,7 @@
           }
         ]
       },
-      "title": "Contribution to the international 100bn USD commitment on climate related expenditure"
+      "title": "13-50"
     },
     {
       "path": "10-41/data.csv",
@@ -2378,7 +2378,7 @@
           }
         ]
       },
-      "title": "Income inequality -income quintile share ratio"
+      "title": "10-41"
     },
     {
       "path": "3-60/data.csv",
@@ -2402,7 +2402,7 @@
           }
         ]
       },
-      "title": "Self-reported unmet need for medical examination and care by sex"
+      "title": "3-60"
     },
     {
       "path": "4-31/data.csv",
@@ -2426,7 +2426,7 @@
           }
         ]
       },
-      "title": "Participation in early childhood education by sex (children aged 3 and over)"
+      "title": "4-31"
     },
     {
       "path": "11-32/data.csv",
@@ -2450,7 +2450,7 @@
           }
         ]
       },
-      "title": "Soil sealing index"
+      "title": "11-32"
     },
     {
       "path": "2-10/data.csv",
@@ -2497,7 +2497,7 @@
           }
         ]
       },
-      "title": "Obesity rate by body mass index (BMI)"
+      "title": "2-10"
     },
     {
       "path": "16-30/data.csv",
@@ -2521,7 +2521,7 @@
           }
         ]
       },
-      "title": "General government total expenditure on law courts"
+      "title": "16-30"
     },
     {
       "path": "9-50/data.csv",
@@ -2545,7 +2545,7 @@
           }
         ]
       },
-      "title": "Share of busses and trains in inland passenger transport"
+      "title": "9-50"
     },
     {
       "path": "15-10/data.csv",
@@ -2569,7 +2569,7 @@
           }
         ]
       },
-      "title": "Share of forest area"
+      "title": "15-10"
     }
   ]
 }
