@@ -1,11 +1,10 @@
 ﻿indicator_number: 1.20
-reporting_status: complete
+reporting_status: notstarted
 published: true
 sdg_goal: '1'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '01-20'
-
 source_active_1: true
 source_organisation_1: ESS (SILC)
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table'

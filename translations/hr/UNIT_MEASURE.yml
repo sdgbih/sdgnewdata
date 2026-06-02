@@ -52,3 +52,5 @@ TOE_HAB: Tone ekvivalenta nafte (TOE) po stanovniku
 KGOE: Kilogram ekvivalenta nafte
 MIO_EUR: Milijun eura
 EUR_HAB: Euro po stanovniku
+EUR_KGOE: Euro po kilogramu ekvivalenta nafte (KGOE)
+PPS_KGOE: Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte
