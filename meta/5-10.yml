@@ -12,3 +12,6 @@ source_url_1: ''
 
 indicator_definition: global_indicators.5-10-definition
 rationale: global_indicators.5-10-intention
+eu_indicator_definition: global_indicators.5-10-definition
+eu_rationale: global_indicators.5-10-intention
+eu_methodology_characteristics: global_indicators.5-10-methodology

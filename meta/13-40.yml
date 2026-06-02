@@ -13,3 +13,6 @@ source_url_1: ''
 indicator_definition: global_indicators.13-40-definition
 rationale: global_indicators.13-40-intention
 methodology_characteristics: global_indicators.13-40-methodology
+eu_indicator_definition: global_indicators.13-40-definition
+eu_rationale: global_indicators.13-40-intention
+eu_methodology_characteristics: global_indicators.13-40-methodology

@@ -16,3 +16,6 @@ footer_fields:
 indicator_definition: global_indicators.2-10-definition
 rationale: global_indicators.2-10-intention
 methodology_characteristics: global_indicators.2-10-methodology
+eu_indicator_definition: global_indicators.2-10-definition
+eu_rationale: global_indicators.2-10-intention
+eu_methodology_characteristics: global_indicators.2-10-methodology
