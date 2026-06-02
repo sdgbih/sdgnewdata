@@ -1,4 +1,4 @@
-﻿indicator_number: 12.41
+indicator_number: 12.41
 reporting_status: complete
 published: true
 sdg_goal: '12'
@@ -13,11 +13,6 @@ footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_12_41_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_12_41)</a>'
 
-graph_title: global_indicators.12-41-title
-indicator_name: global_indicators.12-41-title
-graph_titles:
-- series: SERIES.sdg_12_41
-  title: SERIES.sdg_12_41
 indicator_definition: global_indicators.12-41-definition
 rationale: global_indicators.12-41-intention
 methodology_characteristics: global_indicators.12-41-methodology

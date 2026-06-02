@@ -1,4 +1,4 @@
-﻿indicator_number: 11.52
+indicator_number: 11.52
 reporting_status: complete
 published: true
 sdg_goal: '11'
@@ -10,11 +10,6 @@ source_active_1: true
 source_organisation_1: EEA
 source_url_1: ''
 
-graph_title: global_indicators.11-52-title
-indicator_name: global_indicators.11-52-title
-graph_titles:
-- series: SERIES.sdg_11_52
-  title: SERIES.sdg_11_52
 indicator_definition: global_indicators.11-52-definition
 rationale: global_indicators.11-52-intention
 methodology_characteristics: global_indicators.11-52-methodology

@@ -1,4 +1,4 @@
-﻿indicator_number: 2.20
+indicator_number: 2.20
 reporting_status: notstarted
 published: true
 sdg_goal: '2'
@@ -13,11 +13,6 @@ footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_02_20_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_02_20)</a>'
 
-graph_title: global_indicators.2-20-title
-indicator_name: global_indicators.2-20-title
-graph_titles:
-- series: SERIES.sdg_02_20
-  title: SERIES.sdg_02_20
 indicator_definition: global_indicators.2-20-definition
 rationale: global_indicators.2-20-intention
 methodology_characteristics: global_indicators.2-20-methodology

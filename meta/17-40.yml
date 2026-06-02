@@ -1,4 +1,4 @@
-﻿indicator_number: 17.40
+indicator_number: 17.40
 reporting_status: complete
 published: true
 sdg_goal: '17'
@@ -10,11 +10,6 @@ source_active_1: true
 source_organisation_1: 
 source_url_1: ''
 
-graph_title: global_indicators.17-40-title
-indicator_name: global_indicators.17-40-title
-graph_titles:
-- series: SERIES.sdg_17_40
-  title: SERIES.sdg_17_40
 indicator_definition: global_indicators.17-40-definition
 rationale: global_indicators.17-40-intention
 methodology_characteristics: global_indicators.17-40-methodology

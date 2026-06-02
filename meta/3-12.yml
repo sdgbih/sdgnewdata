@@ -1,4 +1,4 @@
-﻿indicator_number: 3.12
+indicator_number: 3.12
 reporting_status: complete
 published: true
 sdg_goal: '3'
@@ -10,11 +10,6 @@ source_active_1: true
 source_organisation_1: 
 source_url_1: ''
 
-graph_title: global_indicators.3-12-title
-indicator_name: global_indicators.3-12-title
-graph_titles:
-- series: SERIES.sdg_03_12
-  title: SERIES.sdg_03_12
 indicator_definition: global_indicators.3-12-definition
 rationale: global_indicators.3-12-intention
 methodology_characteristics: global_indicators.3-12-methodology

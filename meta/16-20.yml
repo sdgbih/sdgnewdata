@@ -1,4 +1,4 @@
-﻿indicator_number: 16.20
+indicator_number: 16.20
 reporting_status: complete
 published: true
 sdg_goal: '16'
@@ -13,11 +13,6 @@ footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_16_20_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_16_20)</a>'
 
-graph_title: global_indicators.16-20-title
-indicator_name: global_indicators.16-20-title
-graph_titles:
-- series: SERIES.sdg_16_20
-  title: SERIES.sdg_16_20
 indicator_definition: global_indicators.16-20-definition
 rationale: global_indicators.16-20-intention
 methodology_characteristics: global_indicators.16-20-methodology

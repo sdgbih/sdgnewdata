@@ -1,4 +1,4 @@
-﻿indicator_number: 6.30
+indicator_number: 6.30
 reporting_status: complete
 published: true
 sdg_goal: '6'
@@ -10,11 +10,6 @@ source_active_1: true
 source_organisation_1: EEA (Waterbase database)
 source_url_1: ''
 
-graph_title: global_indicators.6-30-title
-indicator_name: global_indicators.6-30-title
-graph_titles:
-- series: SERIES.sdg_06_30
-  title: SERIES.sdg_06_30
 indicator_definition: global_indicators.6-30-definition
 rationale: global_indicators.6-30-intention
 methodology_characteristics: global_indicators.6-30-methodology
