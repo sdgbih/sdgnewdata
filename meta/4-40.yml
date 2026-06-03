@@ -1,5 +1,5 @@
 indicator_number: 4.40
-reporting_status: complete
+reporting_status: notstarted
 published: true
 sdg_goal: '4'
 data_non_statistical: false
@@ -9,7 +9,6 @@ indicator_sort_order: '04-40'
 source_active_1: true
 source_organisation_1: OECD (PISA)
 source_url_1: ''
-
 indicator_definition: global_indicators.4-40-definition
 rationale: global_indicators.4-40-intention
 methodology_characteristics: global_indicators.4-40-methodology
