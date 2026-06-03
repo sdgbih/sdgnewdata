@@ -1248,6 +1248,55 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "Labour_force_and_employment_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population",
+                "Employed persons",
+                "Not employed persons",
+                "Persons would like to work (seeking employment or not)",
+                "Persons do not want to work",
+                ""
+              ]
+            },
+            "title": "Labour force and employment status"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 to 24 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

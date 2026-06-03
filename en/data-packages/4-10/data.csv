@@ -1,10 +1,76 @@
-Year,Value
-2015,69.0
-2016,68.8
-2017,68.6
-2018,63.4
-2019,63.2
-2020,63.0
-2021,62.8
-2022,62.6
-2023,57.4
+Year,SERIES,Labour force and employment status,Sex,Age,UNIT_MEASURE,Value
+2021,Early leavers from education and training by sex,Population,Both sexes,18 to 24 years old,Percent,4.7
+2022,Early leavers from education and training by sex,Population,Both sexes,18 to 24 years old,Percent,3.6
+2023,Early leavers from education and training by sex,Population,Both sexes,18 to 24 years old,Percent,4.2
+2024,Early leavers from education and training by sex,Population,Both sexes,18 to 24 years old,Percent,3.8
+2025,Early leavers from education and training by sex,Population,Both sexes,18 to 24 years old,Percent,3.0
+2021,Early leavers from education and training by sex,Population,Male,18 to 24 years old,Percent,4.9
+2022,Early leavers from education and training by sex,Population,Male,18 to 24 years old,Percent,3.9
+2023,Early leavers from education and training by sex,Population,Male,18 to 24 years old,Percent,5.2
+2024,Early leavers from education and training by sex,Population,Male,18 to 24 years old,Percent,5.0
+2025,Early leavers from education and training by sex,Population,Male,18 to 24 years old,Percent,2.9
+2021,Early leavers from education and training by sex,Population,Female,18 to 24 years old,Percent,4.4
+2022,Early leavers from education and training by sex,Population,Female,18 to 24 years old,Percent,3.3
+2023,Early leavers from education and training by sex,Population,Female,18 to 24 years old,Percent,3.1
+2024,Early leavers from education and training by sex,Population,Female,18 to 24 years old,Percent,2.5
+2025,Early leavers from education and training by sex,Population,Female,18 to 24 years old,Percent,3.0
+2021,Early leavers from education and training by sex,Employed persons,Both sexes,18 to 24 years old,Percent,1.3
+2022,Early leavers from education and training by sex,Employed persons,Both sexes,18 to 24 years old,Percent,0.7
+2023,Early leavers from education and training by sex,Employed persons,Both sexes,18 to 24 years old,Percent,0.8
+2024,Early leavers from education and training by sex,Employed persons,Both sexes,18 to 24 years old,Percent,0.8
+2025,Early leavers from education and training by sex,Employed persons,Both sexes,18 to 24 years old,Percent,0.6
+2021,Early leavers from education and training by sex,Employed persons,Male,18 to 24 years old,Percent,2.1
+2022,Early leavers from education and training by sex,Employed persons,Male,18 to 24 years old,Percent,1.4
+2023,Early leavers from education and training by sex,Employed persons,Male,18 to 24 years old,Percent,1.4
+2024,Early leavers from education and training by sex,Employed persons,Male,18 to 24 years old,Percent,1.2
+2025,Early leavers from education and training by sex,Employed persons,Male,18 to 24 years old,Percent,
+2021,Early leavers from education and training by sex,Employed persons,Female,18 to 24 years old,Percent,
+2022,Early leavers from education and training by sex,Employed persons,Female,18 to 24 years old,Percent,
+2023,Early leavers from education and training by sex,Employed persons,Female,18 to 24 years old,Percent,
+2024,Early leavers from education and training by sex,Employed persons,Female,18 to 24 years old,Percent,
+2025,Early leavers from education and training by sex,Employed persons,Female,18 to 24 years old,Percent,0.8
+2021,Early leavers from education and training by sex,Not employed persons,Both sexes,18 to 24 years old,Percent,3.4
+2022,Early leavers from education and training by sex,Not employed persons,Both sexes,18 to 24 years old,Percent,2.9
+2023,Early leavers from education and training by sex,Not employed persons,Both sexes,18 to 24 years old,Percent,3.3
+2024,Early leavers from education and training by sex,Not employed persons,Both sexes,18 to 24 years old,Percent,3.0
+2025,Early leavers from education and training by sex,Not employed persons,Both sexes,18 to 24 years old,Percent,2.4
+2021,Early leavers from education and training by sex,Not employed persons,Male,18 to 24 years old,Percent,2.8
+2022,Early leavers from education and training by sex,Not employed persons,Male,18 to 24 years old,Percent,2.5
+2023,Early leavers from education and training by sex,Not employed persons,Male,18 to 24 years old,Percent,3.7
+2024,Early leavers from education and training by sex,Not employed persons,Male,18 to 24 years old,Percent,3.8
+2025,Early leavers from education and training by sex,Not employed persons,Male,18 to 24 years old,Percent,2.5
+2021,Early leavers from education and training by sex,Not employed persons,Female,18 to 24 years old,Percent,3.9
+2022,Early leavers from education and training by sex,Not employed persons,Female,18 to 24 years old,Percent,3.3
+2023,Early leavers from education and training by sex,Not employed persons,Female,18 to 24 years old,Percent,2.9
+2024,Early leavers from education and training by sex,Not employed persons,Female,18 to 24 years old,Percent,2.1
+2025,Early leavers from education and training by sex,Not employed persons,Female,18 to 24 years old,Percent,2.2
+2021,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Both sexes,18 to 24 years old,Percent,1.3
+2022,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Both sexes,18 to 24 years old,Percent,1.0
+2023,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Both sexes,18 to 24 years old,Percent,1.0
+2024,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Both sexes,18 to 24 years old,Percent,0.8
+2025,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Both sexes,18 to 24 years old,Percent,0.4
+2021,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Male,18 to 24 years old,Percent,1.4
+2022,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Male,18 to 24 years old,Percent,0.7
+2023,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Male,18 to 24 years old,Percent,1.3
+2024,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Male,18 to 24 years old,Percent,1.4
+2025,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Male,18 to 24 years old,Percent,
+2021,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Female,18 to 24 years old,Percent,1.3
+2022,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Female,18 to 24 years old,Percent,1.4
+2023,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Female,18 to 24 years old,Percent,0.7
+2024,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Female,18 to 24 years old,Percent,
+2025,Early leavers from education and training by sex,Persons would like to work (seeking employment or not),Female,18 to 24 years old,Percent,
+2021,Early leavers from education and training by sex,Persons do not want to work,Both sexes,18 to 24 years old,Percent,2.0
+2022,Early leavers from education and training by sex,Persons do not want to work,Both sexes,18 to 24 years old,Percent,1.9
+2023,Early leavers from education and training by sex,Persons do not want to work,Both sexes,18 to 24 years old,Percent,2.3
+2024,Early leavers from education and training by sex,Persons do not want to work,Both sexes,18 to 24 years old,Percent,2.2
+2025,Early leavers from education and training by sex,Persons do not want to work,Both sexes,18 to 24 years old,Percent,2.0
+2021,Early leavers from education and training by sex,Persons do not want to work,Male,18 to 24 years old,Percent,1.4
+2022,Early leavers from education and training by sex,Persons do not want to work,Male,18 to 24 years old,Percent,1.8
+2023,Early leavers from education and training by sex,Persons do not want to work,Male,18 to 24 years old,Percent,2.4
+2024,Early leavers from education and training by sex,Persons do not want to work,Male,18 to 24 years old,Percent,2.3
+2025,Early leavers from education and training by sex,Persons do not want to work,Male,18 to 24 years old,Percent,2.0
+2021,Early leavers from education and training by sex,Persons do not want to work,Female,18 to 24 years old,Percent,2.7
+2022,Early leavers from education and training by sex,Persons do not want to work,Female,18 to 24 years old,Percent,2.0
+2023,Early leavers from education and training by sex,Persons do not want to work,Female,18 to 24 years old,Percent,2.2
+2024,Early leavers from education and training by sex,Persons do not want to work,Female,18 to 24 years old,Percent,2.0
+2025,Early leavers from education and training by sex,Persons do not want to work,Female,18 to 24 years old,Percent,2.0

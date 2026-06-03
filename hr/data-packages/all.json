@@ -1248,6 +1248,55 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "Labour_force_and_employment_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stanovništvo",
+                "Zaposlene osobe",
+                "Nezaposlene osobe",
+                "Osobe koje bi željele raditi (traže li zaposlenje ili ne)",
+                "Osobe ne žele raditi",
+                ""
+              ]
+            },
+            "title": "Radna snaga i status zaposlenosti"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Od 18 do 24 godine",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

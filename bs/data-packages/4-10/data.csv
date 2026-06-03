@@ -1,10 +1,76 @@
-Year,Value
-2015,69.0
-2016,68.8
-2017,68.6
-2018,63.4
-2019,63.2
-2020,63.0
-2021,62.8
-2022,62.6
-2023,57.4
+Year,SERIES,Radna snaga i status zaposlenosti,Spol,Godine,UNIT_MEASURE,Value
+2021,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Oba pola,Od 18 do 24 godine,Procenat,4.7
+2022,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Oba pola,Od 18 do 24 godine,Procenat,3.6
+2023,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Oba pola,Od 18 do 24 godine,Procenat,4.2
+2024,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Oba pola,Od 18 do 24 godine,Procenat,3.8
+2025,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Oba pola,Od 18 do 24 godine,Procenat,3.0
+2021,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Muškarci,Od 18 do 24 godine,Procenat,4.9
+2022,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Muškarci,Od 18 do 24 godine,Procenat,3.9
+2023,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Muškarci,Od 18 do 24 godine,Procenat,5.2
+2024,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Muškarci,Od 18 do 24 godine,Procenat,5.0
+2025,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Muškarci,Od 18 do 24 godine,Procenat,2.9
+2021,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Žene,Od 18 do 24 godine,Procenat,4.4
+2022,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Žene,Od 18 do 24 godine,Procenat,3.3
+2023,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Žene,Od 18 do 24 godine,Procenat,3.1
+2024,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Žene,Od 18 do 24 godine,Procenat,2.5
+2025,Rano napuštanje obrazovanja i obuke po spolu,Stanovništvo,Žene,Od 18 do 24 godine,Procenat,3.0
+2021,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Oba pola,Od 18 do 24 godine,Procenat,1.3
+2022,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Oba pola,Od 18 do 24 godine,Procenat,0.7
+2023,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Oba pola,Od 18 do 24 godine,Procenat,0.8
+2024,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Oba pola,Od 18 do 24 godine,Procenat,0.8
+2025,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Oba pola,Od 18 do 24 godine,Procenat,0.6
+2021,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Muškarci,Od 18 do 24 godine,Procenat,2.1
+2022,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Muškarci,Od 18 do 24 godine,Procenat,1.4
+2023,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Muškarci,Od 18 do 24 godine,Procenat,1.4
+2024,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Muškarci,Od 18 do 24 godine,Procenat,1.2
+2025,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Muškarci,Od 18 do 24 godine,Procenat,
+2021,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Žene,Od 18 do 24 godine,Procenat,
+2022,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Žene,Od 18 do 24 godine,Procenat,
+2023,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Žene,Od 18 do 24 godine,Procenat,
+2024,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Žene,Od 18 do 24 godine,Procenat,
+2025,Rano napuštanje obrazovanja i obuke po spolu,Zaposlene osobe,Žene,Od 18 do 24 godine,Procenat,0.8
+2021,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Oba pola,Od 18 do 24 godine,Procenat,3.4
+2022,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Oba pola,Od 18 do 24 godine,Procenat,2.9
+2023,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Oba pola,Od 18 do 24 godine,Procenat,3.3
+2024,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Oba pola,Od 18 do 24 godine,Procenat,3.0
+2025,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Oba pola,Od 18 do 24 godine,Procenat,2.4
+2021,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Muškarci,Od 18 do 24 godine,Procenat,2.8
+2022,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Muškarci,Od 18 do 24 godine,Procenat,2.5
+2023,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Muškarci,Od 18 do 24 godine,Procenat,3.7
+2024,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Muškarci,Od 18 do 24 godine,Procenat,3.8
+2025,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Muškarci,Od 18 do 24 godine,Procenat,2.5
+2021,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Žene,Od 18 do 24 godine,Procenat,3.9
+2022,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Žene,Od 18 do 24 godine,Procenat,3.3
+2023,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Žene,Od 18 do 24 godine,Procenat,2.9
+2024,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Žene,Od 18 do 24 godine,Procenat,2.1
+2025,Rano napuštanje obrazovanja i obuke po spolu,Nezaposlene osobe,Žene,Od 18 do 24 godine,Procenat,2.2
+2021,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Oba pola,Od 18 do 24 godine,Procenat,1.3
+2022,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Oba pola,Od 18 do 24 godine,Procenat,1.0
+2023,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Oba pola,Od 18 do 24 godine,Procenat,1.0
+2024,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Oba pola,Od 18 do 24 godine,Procenat,0.8
+2025,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Oba pola,Od 18 do 24 godine,Procenat,0.4
+2021,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Muškarci,Od 18 do 24 godine,Procenat,1.4
+2022,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Muškarci,Od 18 do 24 godine,Procenat,0.7
+2023,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Muškarci,Od 18 do 24 godine,Procenat,1.3
+2024,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Muškarci,Od 18 do 24 godine,Procenat,1.4
+2025,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Muškarci,Od 18 do 24 godine,Procenat,
+2021,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Žene,Od 18 do 24 godine,Procenat,1.3
+2022,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Žene,Od 18 do 24 godine,Procenat,1.4
+2023,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Žene,Od 18 do 24 godine,Procenat,0.7
+2024,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Žene,Od 18 do 24 godine,Procenat,
+2025,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje bi željele raditi (traže li zaposlenje ili ne),Žene,Od 18 do 24 godine,Procenat,
+2021,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Oba pola,Od 18 do 24 godine,Procenat,2.0
+2022,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Oba pola,Od 18 do 24 godine,Procenat,1.9
+2023,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Oba pola,Od 18 do 24 godine,Procenat,2.3
+2024,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Oba pola,Od 18 do 24 godine,Procenat,2.2
+2025,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Oba pola,Od 18 do 24 godine,Procenat,2.0
+2021,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Muškarci,Od 18 do 24 godine,Procenat,1.4
+2022,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Muškarci,Od 18 do 24 godine,Procenat,1.8
+2023,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Muškarci,Od 18 do 24 godine,Procenat,2.4
+2024,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Muškarci,Od 18 do 24 godine,Procenat,2.3
+2025,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Muškarci,Od 18 do 24 godine,Procenat,2.0
+2021,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Žene,Od 18 do 24 godine,Procenat,2.7
+2022,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Žene,Od 18 do 24 godine,Procenat,2.0
+2023,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Žene,Od 18 do 24 godine,Procenat,2.2
+2024,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Žene,Od 18 do 24 godine,Procenat,2.0
+2025,Rano napuštanje obrazovanja i obuke po spolu,Osobe koje ne žele raditi,Žene,Od 18 do 24 godine,Procenat,2.0
