@@ -12,7 +12,9 @@ source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/
 footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_04_20_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_04_20)</a>'
-
+graph_titles:
+- series: SERIES.sdg_04_20
+  title: SERIES.sdg_04_20
 indicator_definition: global_indicators.4-20-definition
 rationale: global_indicators.4-20-intention
 methodology_characteristics: global_indicators.4-20-methodology
