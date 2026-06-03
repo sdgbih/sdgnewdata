@@ -49,7 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Od 25 do 44 godine",
+                "Od 25 do 34 godine",
                 ""
               ]
             },
