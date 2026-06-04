@@ -3,7 +3,7 @@ reporting_status: complete
 published: true
 sdg_goal: '4'
 data_non_statistical: false
-graph_type: line
+graph_type: bar
 indicator_sort_order: '04-60'
 source_active_1: true
 source_organisation_1: ESS (EU-LFS)
