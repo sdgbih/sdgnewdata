@@ -16,6 +16,49 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Serije"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Type_of_skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pojedinci sa osnovnim ili iznad osnovnog nivoa ukupnih digitalnih vještina (svih pet komponentnih indikatora je na osnovnom ili iznad osnovnog nivoa)",
+                ""
+              ]
+            },
+            "title": "Vrsta vještina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba pola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "od 16 do 74 godine",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

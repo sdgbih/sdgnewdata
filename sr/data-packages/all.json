@@ -590,6 +590,49 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Type_of_skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Појединци са основним или изнад основног нивоа укупних дигиталних вјештина (свих пет компонентних индикатора су на основном или изнад основног нивоа)",
+                ""
+              ]
+            },
+            "title": "Врста вјештина"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "од 16 до 74 године",
+                ""
+              ]
+            },
+            "title": "Године"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

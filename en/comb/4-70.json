@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2016,2017,2018,2019,2020,2021,2022,2023],"Value":[44.0,46.5,49.0,46.5,49.0,51.5,54.0,56.5,54.0]},"edges":[]}
+{"data":{"Year":[2021],"SERIES":["Share of individuals having at least basic digital skills, by sex"],"UNIT_MEASURE":["Percentage of individuals"],"Type of skill":["Individuals with basic or above basic overall digital skills (all five component indicators are at basic or above basic level)"],"Sex":["Both sexes"],"Age":["16 to 74 years old"],"Value":[34.65]},"edges":{"From":["Type of skill","Sex"],"To":["Sex","Age"]}}

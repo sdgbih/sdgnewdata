@@ -1,10 +1,2 @@
-Year,Value
-2015,44.0
-2016,46.5
-2017,49.0
-2018,46.5
-2019,49.0
-2020,51.5
-2021,54.0
-2022,56.5
-2023,54.0
+Year,SERIES,UNIT_MEASURE,Vrsta vještina,Spol,Godine,Value
+2021,"Udio pojedinaca koji posjeduju barem osnovne digitalne vještine, po spolu",Postotak pojedinaca,Pojedinci s osnovnim ili iznad osnovne opće digitalne vještine (svih pet komponentnih pokazatelja je na osnovnoj ili iznad osnovne razine),Oba spola,od 16 do 74 godine,34.65

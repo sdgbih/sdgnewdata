@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2016,2017,2018,2019,2020,2021,2022,2023],"Value":[44.0,46.5,49.0,46.5,49.0,51.5,54.0,56.5,54.0]},"edges":[]}
+{"data":{"Year":[2021],"SERIES":["sdg_04_70"],"UNIT_MEASURE":["PC_IND"],"Type_of_skill":["I_DSK2_BAB"],"SEX":["BOTHSEX"],"AGE":["Y16_74"],"Value":[34.65]},"edges":{"From":["Type_of_skill","SEX"],"To":["SEX","AGE"]}}

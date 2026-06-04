@@ -590,6 +590,49 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Type_of_skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pojedinci s osnovnim ili iznad osnovne opće digitalne vještine (svih pet komponentnih pokazatelja je na osnovnoj ili iznad osnovne razine)",
+                ""
+              ]
+            },
+            "title": "Vrsta vještina"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "od 16 do 74 godine",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
