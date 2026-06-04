@@ -121,8 +121,3 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
-      options:
-       - name: 'line'
-         value: 'line'
-       - name: 'bar'
-         value: 'bar'
