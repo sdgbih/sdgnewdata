@@ -616,6 +616,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
+                "Muškarci",
+                "Žene",
                 ""
               ]
             },

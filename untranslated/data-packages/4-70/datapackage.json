@@ -38,6 +38,8 @@
             "constraints": {
               "enum": [
                 "BOTHSEX",
+                "M",
+                "F",
                 ""
               ]
             }
