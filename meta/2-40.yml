@@ -1,11 +1,11 @@
 indicator_number: 2.40
-reporting_status: complete
+reporting_status: notstarted
 published: true
 sdg_goal: '2'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '02-40'
-
+indicator_name: global_indicators.2-40-title
 source_active_1: true
 source_organisation_1: ESS
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_02_40/default/table'
@@ -19,3 +19,4 @@ methodology_characteristics: global_indicators.2-40-methodology
 eu_indicator_definition: global_indicators.2-40-definition
 eu_rationale: global_indicators.2-40-intention
 eu_methodology_characteristics: global_indicators.2-40-methodology
+eu_methodology_long_term_objective: global_indicators.2-40-long_term_objective
