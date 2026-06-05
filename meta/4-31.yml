@@ -15,8 +15,8 @@ footer_fields:
 indicator_definition: global_indicators.4-31-definition
 rationale: global_indicators.4-31-intention
 methodology_characteristics: global_indicators.4-31-methodology
-methodology_long_term_objective: global_indicators.4-31-long_term_objective
+long_term_objective: global_indicators.4-31-long_term_objective
 eu_indicator_definition: global_indicators.4-31-definition
 eu_rationale: global_indicators.4-31-intention
 eu_methodology_characteristics: global_indicators.4-31-methodology
-eu_methodology_long_term_objective: global_indicators.4-31-long_term_objective
+eu_long_term_objective: global_indicators.4-31-long_term_objective
