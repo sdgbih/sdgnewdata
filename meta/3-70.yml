@@ -1,5 +1,5 @@
 indicator_number: 3.70
-reporting_status: complete
+reporting_status: notstarted
 published: true
 sdg_goal: '3'
 data_non_statistical: false
@@ -16,3 +16,4 @@ methodology_characteristics: global_indicators.3-70-methodology
 eu_indicator_definition: global_indicators.3-70-definition
 eu_rationale: global_indicators.3-70-intention
 eu_methodology_characteristics: global_indicators.3-70-methodology
+eu_methodology_long_term_objective: global_indicators.3-70-long_term_objective
