@@ -18,8 +18,8 @@ graph_titles:
 indicator_definition: global_indicators.4-20-definition
 rationale: global_indicators.4-20-intention
 methodology_characteristics: global_indicators.4-20-methodology
-long_term_objective: global_indicators.4-20-long_term_objective
+long_objective: global_indicators.4-20-long_term_objective
 eu_indicator_definition: global_indicators.4-20-definition
 eu_rationale: global_indicators.4-20-intention
 eu_methodology_characteristics: global_indicators.4-20-methodology
-eu_long_term_objective: global_indicators.4-20-long_term_objective
+eu_long_objective: global_indicators.4-20-long_term_objective
