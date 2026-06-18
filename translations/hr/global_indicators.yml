@@ -532,6 +532,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Zapošljavanje i druga pitanja povezana s tržištem rada u središtu su društvene i političke rasprave u EU-u. Plaćeno zaposlenje ključno je za osiguravanje dovoljnog životnog standarda i pruža potrebne temelje ljudima za postizanje njihovih osobnih ciljeva i težnji. Štoviše, zapošljavanje doprinosi gospodarskoj uspješnosti, kvaliteti života i socijalnoj uključenosti, čineći ga kamenom temeljcem društveno-gospodarskog razvoja i dobrobiti.
 8-30-methodology: >-
   Europski stup socijalnih prava utvrđuje 20 ključnih načela i prava bitnih za pravedna i dobro funkcionirajuća tržišta rada i sustave socijalne zaštite. Europski akcijski plan za stup socijalnih prava, donesen 2021., pretvara načela u konkretne mjere u korist građana. Također predlaže ambiciozan cilj zapošljavanja od 78 % stanovništva u dobi od 20 do 64 godine koji bi EU trebao ostvariti do 2030. godine. U prilog tome, Akcijski plan predlaže da se do 2030. prepolovi razlika u zaposlenosti između spolova u odnosu na 2019. godinu i da se do 2030. godine smanji stopa mladih koji nisu zaposleni niti u obrazovanju ili osposobljavanju (NEET) u dobi od 15 do 29 do 9 %.
+8-30-long_term_objective: >-
 8-40-title: Stopa dugotrajne nezaposlenosti
 8-40-definition: >-
   Pokazateljem se mjeri udio stanovništva u radnoj snazi u dobi od 15 do 74 godine koje je nezaposleno 12 mjeseci ili više. Stanovništvo u radnoj snazi su oni koji su ili zaposleni ili nezaposleni. Nezaposlene osobe definirane su kao osobe u dobi od 15 do 74 godine koje su bile bez posla tijekom referentnog tjedna, trenutno su bile dostupne za početak rada u sljedeća dva tjedna i aktivno su tražile posao u posljednja četiri tjedna ili su već pronašle posao za početak rada u sljedeća tri mjeseca. Razdoblje nezaposlenosti definira se kao trajanje traženja posla ili kao vrijeme od zadnjeg zaposlenja (ako je kraće od vremena provedenog na traženju posla).
@@ -541,6 +542,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Europski stup socijalnih prava utvrđuje niz ključnih načela i prava za potporu pravednim i dobro funkcionirajućim tržištima rada i sustavima socijalne skrbi. Služi kao kompas za obnovljeni proces konvergencije prema boljim radnim i životnim uvjetima među državama članicama sudionicama. Prvenstveno je zamišljen za europodručje, ali je primjenjiv na sve države članice koje žele sudjelovati. Pristup aktivnog uključivanja preporuka je Komisije kako bi se svakom građaninu, posebno onima u najnepovoljnijem položaju, omogućilo potpuno sudjelovanje u društvu, uključujući zapošljavanje.
 8-40-methodology: >-
   Europski stup socijalnih prava utvrđuje 20 ključnih načela i prava bitnih za pravedna i dobro funkcionirajuća tržišta rada i sustave socijalne zaštite. Europski akcijski plan za stup socijalnih prava, donesen 2021., pretvara načela u konkretne mjere u korist građana. Također predlaže ambiciozan cilj zapošljavanja od 78 % stanovništva u dobi od 20 do 64 godine koji bi EU trebao ostvariti do 2030. godine. U prilog tome, Akcijski plan predlaže da se do 2030. prepolovi razlika u zaposlenosti između spolova u odnosu na 2019. godinu i da se do 2030. godine smanji stopa mladih koji nisu zaposleni niti u obrazovanju ili osposobljavanju (NEET) u dobi od 15 do 29 do 9 %.
+8-30-long_term_objective: >-
 8-60-title: Smrtonosne nesreće na radu na 100 000 radnika
 8-60-definition: >-
   Pokazatelj mjeri broj nesreća sa smrtnim ishodom koje se dogode tijekom rada i dovedu do smrti žrtve u roku od jedne godine od nesreće. Stopa incidencije odnosi se na broj nesreća sa smrtnim ishodom na 100 000 zaposlenih osoba.
@@ -592,6 +594,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
 9-50-methodology: >-
   Preispitivanje buduće mobilnosti uključuje optimizaciju korištenja svih načina prijevoza, dijeljenje automobila i multimodalnu integraciju između različitih načina kolektivnog prijevoza kao što su vlak, tramvaj, metro, autobus i taksi.
   Komisija je 2020. godine donijela „Strategiju održive i pametne mobilnosti” zajedno s akcijskim planom od 82 inicijative. Ova strategija postavlja temelje kako prometni sustav EU-a može ostvariti svoju zelenu i digitalnu transformaciju i postati otporniji na buduće krize. Kao što je navedeno u europskom zelenom planu, cilj će biti smanjenje emisija od 90% do 2050. godine, koje će se postići pametnim, konkurentnim, sigurnim, pristupačnim i pristupačnim prometnim sustavom.
+9-50-long_term_objective: >-
 9-60-title: Udio željeznice i unutarnjih plovnih putova u unutarnjem transportu tereta
 9-60-definition: >-
   Ovaj pokazatelj mjeri udio željeznice i unutarnjih plovnih putova u unutarnjem teretnom prometu, izražen u tonskim kilometrima (tkm).
@@ -603,6 +606,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
 9-60-methodology: >-
   Iako je slobodno kretanje robe bitna komponenta unutarnjeg tržišta EU-a i važno za održavanje konkurentnosti europske industrije i usluga, prijevoz bi trebao biti organiziran na ekološki prihvatljiv način.
   Ova strategija postavlja temelje kako prometni sustav EU-a može ostvariti svoju zelenu i digitalnu transformaciju i postati otporniji na buduće krize. Kao što je navedeno u europskom zelenom planu, cilj će biti smanjenje emisija od 90% do 2050. godine, koje će se postići pametnim, konkurentnim, sigurnim, pristupačnim i pristupačnim prometnim sustavom.
+9-60-long_term_objective: >-
 9-70-title: Intenzitet emisija u zrak u industriji
 9-70-definition: >-
   Ovaj pokazatelj mjeri intenzitet emisija lebdećih čestica (PM10 i PM2.5) iz proizvodnog sektora (NACE Rev. 2 sektor „C“). Emisije u zrak definiraju se kao tokovi plinovitih i lebdećih čestica koje se emitiraju u atmosferu. 
