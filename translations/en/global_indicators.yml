@@ -10,7 +10,6 @@ eu_indicator_definition: Description
 eu_rationale: Intention
 eu_methodology_characteristics: Content and progress
 eu_long_objective: Long-term objective
-
 metadata-footer-label: National reference metadata
 
 1-10-title: Persons at risk of poverty or social exclusion
@@ -196,6 +195,7 @@ metadata-footer-label: National reference metadata
   The indicator is part of the EU Sustainable Development Goals (SDG) indicator set. It is used to monitor progress towards SDG 3 on good health and well-being and SDG 1 on no poverty as a multi-purpose indicator (MPI); which are embedded in the European Commission’s 2024-2029 Priorities under 'Supporting people, strenghtening our societes and our social model'.
 3-12-methodology: >-
   Good health is not only of value to the individual as a major determinant of quality of life, well being and social participation, it is also a basic precondition for general economic growth. Monitoring SDG 3 in an EU context focuses on the topics of healthy lives, determinants of health, causes of death and health care.
+3-12-long_term_objective: >-
 3-20-title: Share of people with good or very good perceived health by sex
 3-20-definition: >-
   The indicator is a subjective measure on how people judge their health in general on a scale from "very good" to "very bad". It is expressed as the share of the population aged 16 or over perceiving itself to be in "good" or "very good" health.
