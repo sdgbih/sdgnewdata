@@ -1002,5 +1002,10 @@ prose:
           element: text
           label: global_indicators.methodology-label
           scope: global
+      - name: long_objective  
+        field:
+          element: text
+          label: global_indicators.long_term_objective-label
+          scope: global
           
   ignore: ['/scripts', '/.github']
