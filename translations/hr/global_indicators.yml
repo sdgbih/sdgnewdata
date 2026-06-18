@@ -637,6 +637,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
 10-20-methodology: >-
   Pokazatelj je uključen kao glavni pokazatelj u Pregled socijalnih pokazatelja za europski stup socijalnih prava. Evropski stub za socijalna prava, usvojen 2017. godine, postavlja niz ključnih principa za podršku pravednim i dobro funkcionirajućim tržištima rada i sustavima socijalne skrbi. Ta se načela bave temama povezanim s nejednakošću, rješavanjem nejednakosti ishoda (nejednakost prihoda i bogatstva) i nejednakosti mogućnosti: od određivanja plaća do sustava socijalne zaštite (uključujući minimalni dohodak), ravnopravnosti spolova, omogućavanja socijalnih usluga, skrbi o djeci i podrške djeci, dohotka od starosti, zdravstvene skrbi i pristupa stanovanju.
   Dok se BDP po glavi stanovnika koristi za mjerenje ekonomskih rezultata zemlje, bruto raspoloživi dohodak kućanstva pruža pokazatelj prosječnog materijalnog blagostanja ljudi. Pokazatelj stoga mjeri približavaju li se države članice EU-a u smislu prihoda ljudi.
+10-20-long_term_objective: >-
 10-30-title: Relativni medijan rizika od siromaštva
 10-30-definition: >-
   Pokazatelj se izračunava kao udaljenost između medijana ekvivalentnog ukupnog neto dohotka osoba ispod praga rizika od siromaštva i samog praga rizika od siromaštva, izraženog kao postotak praga rizika od siromaštva. Taj je prag postavljen na 60 % nacionalnog medijana ekvivalentnog raspoloživog dohotka svih ljudi u zemlji, a ne za EU u cjelini.
@@ -657,6 +658,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Pokazatelj je uključen kao glavni pokazatelj u Pregled socijalnih pokazatelja za europski stup socijalnih prava.
 10-41-methodology: >-
   Jedan od ciljeva socijalnih politika u EU je smanjenje nejednakosti pružanjem jednakih mogućnosti za sve. Analiza nejednakosti raspodjele dohotka jedan je od načina mjerenja nejednakosti unutar zemalja EU-a. Kao mjera nejednakosti raspodjele dohotka unutar zemlje, pokazatelj nadopunjuje pokazatelje o udjelu dohotka najnižih 40 % i o riziku od jaza u siromaštvu.
+10-41-long_term_objective: >-
 10-50-title: Udio prihoda donjih 40% stanovništva
 10-50-definition: >-
   Pokazatelj mjeri udio dohotka koji je primilo donjih 40 % stanovništva. Korišteni koncept dohotka je ukupni raspoloživi dohodak kućanstva.
@@ -678,6 +680,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
 10-60-methodology: >-
   Fond europske pomoći za najpotrebitije (FEAD) pruža potporu tražiteljima azila pružajući im neposrednu pomoć (hranu, odjeću i druge bitne predmete za osobnu uporabu).
   Predložene Europske snage solidarnosti omogućit će mladima diljem EU-a da volontiraju u pružanju pomoći za prihvat i integraciju izbjeglica.
+10-60-long_term_objective: >-
 11-11-title: Stupanj ozbiljnog stambenog zaostatka
 11-11-definition: >-
   Stopa teške stambene deprivacije definirana je kao postotak stanovništva koje živi u stambenoj jedinici koja se smatra prenapučenom i istovremeno pokazuje barem jednu od sljedećih mjera stambene deprivacije: i) prokišnjavanje krova, ii) nedostatak kade/tuša i unutarnjeg WC-a, iii) smatra se pretamnom.
@@ -685,6 +688,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Pokazatelj se koristi za praćenje napretka prema Cilju održivog razvoja 11 o tome da gradovi i ljudska naselja budu uključivi, sigurni, otporni i održivi, ​​te prema Cilju održivog razvoja 1 o višedimenzionalnom siromaštvu. Cilj održivog razvoja 11 ugrađen je u prioritete Europske komisije „Novo doba za europsku obranu i sigurnost“, „Potpora ljudima, jačanje naših društava i našeg socijalnog modela“, „Održavanje naše kvalitete života: sigurnost hrane, voda i priroda“ te „Zaštita naše demokracije, poštivanje naših vrijednosti“. Cilj održivog razvoja 1 ugrađen je u prioritete Europske komisije „Potpora ljudima, jačanje naših društava i našeg socijalnog modela“.
 11-11-methodology: >-
   „Cilj održivog razvoja 11 ima za cilj obnovu i planiranje gradova i drugih ljudskih naselja tako da nude prilike za sve, s pristupom osnovnim uslugama, energiji, stanovanju, prijevozu, zelenim javnim površinama i još mnogo toga, uz poboljšanje korištenja resursa i smanjenje utjecaja na okoliš. Cilj održivog razvoja 1, između ostalog, poziva na iskorjenjivanje ekstremnog siromaštva i smanjenje relativnog siromaštva te je ugrađen u prioritete Europske komisije u okviru „Gospodarstva koje radi za ljude“.“
+11-11-long_term_objective: >-
 11-20-title: Stanovništvo koje živi u kućanstvima pogođenim bukom
 11-20-definition: >-
   Pokazatelj mjeri udio stanovništva koji izjavljuje da je pogođen bukom od susjeda ili s ulice.
@@ -693,8 +697,8 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Pokazatelj se koristi za praćenje napretka prema Cilju održivog razvoja 11 o tome da gradovi i ljudska naselja budu uključivi, sigurni, otporni i održivi, ​​te Cilju održivog razvoja 3 o dobrom zdravlju i dobrobiti. Cilj održivog razvoja 11 ugrađen je u prioritete Europske komisije „Novo doba za europsku obranu i sigurnost“, „Potpora ljudima, jačanje naših društava i našeg socijalnog modela“, „Održavanje naše kvalitete života: sigurnost hrane, voda i priroda“ te „Zaštita naše demokracije, poštivanje naših vrijednosti“. Cilj održivog razvoja 3 ugrađen je u prioritete Europske komisije „Potpora ljudima, jačanje naših društava i našeg socijalnog modela“.
 11-20-methodology: >-
   Cilj održivog razvoja 11 ima za cilj obnovu i planiranje gradova i drugih ljudskih naselja tako da nude mogućnosti za sve, s pristupom osnovnim uslugama, energiji, stanovanju, prijevozu, zelenim javnim površinama i više, uz istovremeno poboljšanje korištenja resursa i smanjenje utjecaja na okoliš. Cilj održivog razvoja 3 ima za cilj osigurati zdravlje i dobrobit za sve u svim dobnim skupinama poboljšanjem reproduktivnog, majčinog i dječjeg zdravlja; okončanjem epidemija glavnih zaraznih bolesti; smanjenjem nezaraznih i mentalnih bolesti. Također poziva na smanjenje čimbenika rizika za zdravlje u ponašanju i okolišu.
-
   Direktiva o buci u okolišu glavni je instrument EU-a za identificiranje i borbu protiv onečišćenja bukom. Usredotočuje se na tri područja djelovanja: određivanje izloženosti buci u okolišu; osiguravanje da su informacije o buci u okolišu i njezinim utjecajima dostupne javnosti; sprječavanje i smanjenje buke u okolišu gdje je to potrebno, posebno tamo gdje razine izloženosti mogu uzrokovati štetne učinke na ljudsko zdravlje, te očuvanje kvalitete buke u okolišu gdje je ona dobra.
+11-20-long_term_objective: >-
 11-32-title: Indeks prekrivanja tla
 11-32-definition: >-
   Ovaj pokazatelj mjeri pokrivenost površine tla nepropusnim materijalima, što ukazuje na nepropusnost. Agregacija vrijednosti nepropusnosti s referentnim jedinicama, kao što su urbana područja, poplavne ravnice, obalne zone ili zaštićena područja, vrši se korištenjem integrirane platforme prostornih podataka EEA-e.
@@ -714,6 +718,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Cilj održivog razvoja 11 ima za cilj obnovu i planiranje gradova i drugih ljudskih naselja tako da nude prilike za sve, s pristupom osnovnim uslugama, energiji, stanovanju, prijevozu, zelenim javnim površinama i više, uz istovremeno poboljšanje korištenja resursa i smanjenje utjecaja na okoliš. Uz dobro, o riziku informirano i pametno planiranje i upravljanje, Cilj održivog razvoja 11 zamišlja gradove kao ekološki otporna ljudska naselja koja potiču osobnu sigurnost.
   Cilj održivog razvoja 3 ima za cilj osigurati zdravlje i dobrobit za sve u svim dobnim skupinama poboljšanjem reproduktivnog, majčinog i dječjeg zdravlja; okončanjem epidemija glavnih zaraznih bolesti; smanjenjem nezaraznih i mentalnih bolesti. Također poziva na smanjenje čimbenika rizika za zdravlje u ponašanju i okolišu.
   Strateški akcijski plan sigurnosti u prometu i Okvir politike sigurnosti u prometu EU 2021.-2030. postavili su cilj smanjenja smrtnih slučajeva i teških ozljeda za 50% do 2030. u usporedbi s 2019. i ambiciozne planove sigurnosti u prometu za postizanje nula smrtnih slučajeva u prometu do 2050. („Vizija nula“).
+11-40-long_term_objective: >-
 11-52-title: Prerane smrti zbog izloženosti finim česticama (PM2,5)
 11-52-definition: >-
   Ovaj pokazatelj procjenjuje broj prijevremenih smrti koje se mogu pripisati dugotrajnoj izloženosti koncentracijama PM2.5 iznad 5µg/m3 (smjernice WHO-a). PM2.5 su čestice čiji je promjer manji od 2,5 mikrometara i koje mogu dospjeti duboko u pluća gdje mogu uzrokovati upalu i pogoršati stanje osoba koje pate od srčanih i plućnih bolesti.
