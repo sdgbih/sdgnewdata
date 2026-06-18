@@ -20,6 +20,8 @@ graph_titles:
 indicator_definition: global_indicators.7-50-definition
 rationale: global_indicators.7-50-intention
 methodology_characteristics: global_indicators.7-50-methodology
+long_objective: global_indicators.7-40-long_term_objectiv
 eu_indicator_definition: global_indicators.7-50-definition
 eu_rationale: global_indicators.7-50-intention
 eu_methodology_characteristics: global_indicators.7-50-methodology
+eu_long_objective: global_indicators.7-50-long_term_objecti
