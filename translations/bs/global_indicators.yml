@@ -1,4 +1,4 @@
-﻿definition-label: NASLOV DEFINICIJA
+﻿definition-label: Opis indikatora
 rationale-label: Namjera
 methodology-label: Sadržaj i napredak
 indicator_definition-label: Opis indikatora
@@ -6,6 +6,10 @@ indicator_definition: Opis
 methodology_characteristics: Sadržaj i napredak
 long_objective: Dugoročni cilj
 long_term_objective-label: Dugoročni cilj
+eu_indicator_definition: Opis
+eu_rationale: Namjera
+eu_methodology_characteristics: Sadržaj i napredak
+eu_long_objective: Dugoročni cilj
 metadata-footer-label: Nacionalni referentni metapodaci
 
 1-10-title: Osobe u riziku od siromaštva ili socijalne isključenosti
