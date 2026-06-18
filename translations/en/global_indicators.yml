@@ -634,6 +634,7 @@ metadata-footer-label: National reference metadata
 10-20-methodology: >-
   The indicator is also included as main indicator in the Social Scoreboard for the European Pillar of Social Rights. The European Pillar for Social Rights, adopted in 2017, sets out a number of key principles to support fair and well-functioning labour markets and welfare systems. Those principles address topics related to inequality, by tackling both inequality of outcomes (income and wealth inequality) and inequality of opportunities: from wage-setting to social protection systems (including minimum income), gender equality, enabling social services, childcare and support to children, old-age income, health care and access to housing.
   While GDP per capita is used to measure the economic performance of a country, gross household disposable income provides an indication of the average material well-being of people. The indicator therefore measures whether the EU Member States are converging in terms of people's incomes.
+10-20-long_term_objective: >-
 10-30-title: Relative median at-risk-of-poverty gap
 10-30-definition: >-
   The indicator is calculated as the distance between the median equivalised total net income of persons below the at-risk-of-poverty threshold and the at-risk-of-poverty threshold itself, expressed as a percentage of the at-risk-of-poverty threshold. This threshold is set at 60 % of the national median equivalised disposable income of all people in a country and not for the EU as a whole.
@@ -654,6 +655,7 @@ metadata-footer-label: National reference metadata
   Furthermore, the indicator is included as a key indicator in the Social Scoreboard for the European Pillar of Social Rights.
 10-41-methodology: >-
   One of the objectives of the social policies in the EU is to reduce inequality by providing equal opportunities for all. Analysing the inequality of income distribution is one of the ways to measure inequality within EU countries. As a measure of the inequlity of income distribution within a country, the indicator complements the indicators on the income share of the bottom 40 % and on the at risk of poverty gap.
+10-41-long_term_objective: >-
 10-50-title: Income share of the bottom 40 % of the population
 10-50-definition: >-
   The indicator measures the income share received by the bottom 40 % of the population. The income concept used is the total disposable household income.
@@ -666,6 +668,7 @@ metadata-footer-label: National reference metadata
   The European Pillar of Social Rights Action Plan turns the Principles of European Pillar of Social Rights into concrete actions to benefit citizens. It proposes headline targets regarding employment rate, adult participation in learning and risk of poverty and social exclusion for the EU to reach by 2030.
   The European Semester is a key delivery tool of the Pillar and coordinates the economic and fiscal policies of EU Member States. As part of its Green Deal, the European Commission has announced that the European Semester will be refocused to integrate the SDGs and to put sustainability and the well-being of citizens at the centre of economic policy
   The European Social Fund (ESF) is the EU’s main instrument for investing in people since the adoption of the Treaty of Rome. It helps tackle inequalities, both in terms of outcomes and opportunities, by financing actions in the areas of employment, social inclusion, education, training and administrative capacity reforms. The revised European Social Fund Plus (ESF+), with a budget of EUR 101 billion as part of the Multiannual Financial Framework 2021–2027, will further help to reduce inequalities.
+10-50-long_term_objective: >-
 10-60-title: Asylum applications
 10-60-definition: >-
   The indicator shows the number of first-time asylum applicants per million inhabitants and the number of positive first instance decisions per million inhabitants. Please note that caution is required when comparing these two values, since applications received in a given year might not be processed until a later year.
@@ -675,6 +678,7 @@ metadata-footer-label: National reference metadata
 10-60-methodology: >-
   The Fund for European Aid to the Most Deprived (FEAD) supports asylum seekers by providing them with immediate relief (food, clothing and other essential items for personal use).
   The proposed European Solidarity Corps will enable young people across the EU to volunteer their help for the reception and integration of refugees.
+10-60-long_term_objective: >-
 11-11-title: Severe housing deprivation rate
 11-11-definition: >-
   The severe housing deprivation rate is defined as the percentage of the population living in a dwelling which is considered as overcrowded, while also exhibiting at least one of the following housing deprivation measures: i) a leaking roof, ii) no bath/shower and no indoor toilet, iii) considered too dark.
@@ -683,6 +687,7 @@ metadata-footer-label: National reference metadata
 11-11-methodology: >-
   SDG 11 aims to renew and plan cities and other human settlements so that they offer opportunities for all, with access to basic services, energy, housing, transportation, green public spaces and others, while improving resource use and reducing environmental impacts.
   SDG 1 calls, among other things, for an eradication of extreme poverty and for a reduction of relative poverty and is embedded in the European Commission’s Priorities under 'An economy that works for people'.
+11-11-long_term_objective: >-
 11-20-title: Population living in households suffering from noise
 11-20-definition: >-
   The indicator measures the proportion of the population who declare that they are affected either by noise from neighbours or from the street.
@@ -692,6 +697,7 @@ metadata-footer-label: National reference metadata
 11-20-methodology: >-
   SDG 11 aims to renew and plan cities and other human settlements so that they offer opportunities for all, with access to basic services, energy, housing, transportation, green public spaces and others, while improving resource use and reducing environmental impacts. SDG 3 aims to ensure health and well-being for all at all ages by improving reproductive, maternal and child health; ending the epidemics of major communicable diseases; reducing non-communicable and mental diseases. It also calls for reducing behavioural and environmental health-risk factors.
   The Environmental Noise Directive is the main EU instrument for identifying and combating noise pollution. It focuses on three action areas: determination of exposure to environmental noise; ensuring that information on environmental noise and its effects is made available to the public; preventing and reducing environmental noise where necessary and particularly where exposure levels can induce harmful effects on human health and preserving environmental noise quality where it is good.
+11-20-long_term_objective: >-
 11-32-title: Soil sealing index
 11-32-definition: >-
   This indicator measures the covering of the soil surface with non-permeable materials, hence indicating imperviousness. The aggregation of imperviousness values to reference units, such as urban areas, floodplains, coastal zones or protected areas is performed using the integrated spatial data platform of the EEA.
@@ -712,6 +718,7 @@ metadata-footer-label: National reference metadata
   SDG 11 aims to renew and plan cities and other human settlements so that they offer opportunities for all, with access to basic services, energy, housing, transportation, green public spaces and others, while improving resource use and reducing environmental impacts. With sound, risk-informed and smart planning and management, SDG 11 envisions cities as environmentally resilient human settlements that foster personal safety.
   SDG 3 aims to ensure health and well-being for all at all ages by improving reproductive, maternal and child health; ending the epidemics of major communicable diseases; reducing non-communicable and mental diseases. It also calls for reducing behavioural and environmental health-risk factors.
   The Strategic Action Plan on Road Safety and the EU road safety policy framework 2021–2030 set a 50 % reduction target for deaths and for serious injuries by 2030 compared to 2019 and ambitious road safety plans to reach zero road deaths by 2050 (‘Vision Zero’).
+11-40-long_term_objective: >-
 11-52-title: Premature deaths due to exposure to fine particulate matter (PM2.5)
 11-52-definition: >-
   This indicator estimates the number of premature deaths attributable to long-term exposure to concentrations of PM2.5 above 5µg/m3 (the World Health Organization's guideline level). PM2.5 are particulates whose diameter is less than 2.5 micrometres and which can be carried deep into the lungs where they can cause inflammation and exacerbate the condition of people suffering heart and lung diseases.
