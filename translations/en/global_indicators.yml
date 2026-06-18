@@ -430,6 +430,7 @@ metadata-footer-label: National reference metadata
   Protection of water resources, water ecosystems and of drinking and bathing water is at the cornerstone of EU environmental policy. EU water policy provides a framework to comprehensively address water protection and for achieving good status for inland surface waters, transitional waters, coastal waters and groundwater. The Water Framework Directive is the main European legislation aiming to prevent water pollution and the EU Biodiversity Strategy for 2030 supports the implementation of the Water Framework Directive’s objective by requiring Member States to restore freshwater ecosystems.
 6-70-methodology: >-
   The 8th Environment Action Programme sets the environmental policy agenda for the years from 2021 to 2030 and explicitly mentions water-related issues in two of its six priority objectives. These two objectives are: (1) pursuing a zero-pollution ambition for a toxic free-environment, including for air, water and soil and protecting the health and well-being of citizens from environment-related risks and impacts; and (2) protecting, preserving and restoring biodiversity and enhancing natural capital, notably air, water, soil, and forest, freshwater, wetland and marine ecosystems.
+6-70-long_term_objective: >-
 7-10-title: 'Primary & final energy consumption'
 7-10-definition: >-
   The indicator measures the total energy needs of a country excluding all non-energy use of energy carriers (e.g. natural gas used not for combustion but for producing chemicals).
@@ -439,6 +440,7 @@ metadata-footer-label: National reference metadata
   The EU is implementing an interconnected set of measures "Fit for 55" to reach the new climate targets for 2030 and has followed a new strategic plan REPowerEU to reduce the EU dependency on energy imports.
 7-10-methodology: >-
   The European Green Deal includes energy efficiency as a key measure for reducing cross-sectoral GHG emissions. Energy efficiency and Renewable energy Directives set ambitious EU targets to be reached by 2030.
+7-10-long_term_objective: >-
 7-20-title: Final energy consumption in households per capita
 7-20-definition: >-
   The indicator measures how much energy every citizen consumes at home excluding energy used for transportation. Since the indicator refers to final energy consumption, only energy used by end consumers is considered. The related consumption of the energy sector itself is excluded.
@@ -446,6 +448,7 @@ metadata-footer-label: National reference metadata
   Indicator is used to monitor progress towards SDG 7 on affordable and clean energy, which is embedded in the European Commission’s Priorities under 'Supporting people, strengthening our societies and our social model'.
 7-20-methodology: >-
   SDG 7 calls for ensuring universal access to modern energy services, improving energy efficiency and increasing the share of renewable energy. To accelerate the transition to an affordable, reliable, and sustainable energy system, countries need to facilitate access to clean energy research, promote investment in energy infrastructure and clean energy technology. Households account for about a quarter of final energy consumption. At home, people use electricity and fuels in particular for heating, cooling, warm water, lighting and appliances
+7-20-long_term_objective: >-
 7-30-title: Energy productivity
 7-30-definition: >-
   The indicator measures the amount of economic output that is produced per unit of gross available energy. The gross available energy represents the quantity of energy products necessary to satisfy all demand of entities in the geographical area under consideration. The economic output is either given as in the unit of Euros in chain-linked volumes to the reference year 2010 at 2010 exchange rates or in the unit PPS (Purchasing Power Standard).
@@ -456,6 +459,7 @@ metadata-footer-label: National reference metadata
 7-30-methodology: >-
   SDG7 is embedded in the European Commission’s Priorities under 'Supporting people, strengthening our societies and our social model'.
   SDG 7 calls for ensuring universal access to modern energy services, improving energy efficiency and increasing the share of renewable energy. To accelerate the transition to an affordable, reliable, and sustainable energy system, countries need to facilitate access to clean energy research, promote investment in energy infrastructure and clean energy technology. SDG 12 calls for a comprehensive set of actions from businesses, policy-makers, researchers and consumers to adapt to sustainable practices. It envisions sustainable production and consumption based on advanced technological capacity, resource efficiency and reduced global waste.
+7-30-long_term_objective: >-
 7-40-title: Share of renewable energy in gross final energy consumption
 7-40-definition: >-
   The indicator measures the share of renewable energy consumption in gross final energy consumption according to the Renewable Energy Directive. The gross final energy consumption is the energy used by end-consumers (final energy consumption) plus grid losses and self-consumption of power plants.
@@ -474,6 +478,7 @@ metadata-footer-label: National reference metadata
   To accelerate the transition to an affordable, reliable, and sustainable energy system, countries need to facilitate access to clean energy research, promote investment in energy infrastructure and clean energy technology. Energy dependence on imports of energy carriers exposes the European economy to volatile world market prices and the risk of supply shortages, for example, due to geopolitical conflicts. The risks increase with dependency on single countries e.g. determined by the supply infrastructure.
 7-50-methodology: >-
   There are several relevant EU policies for this indicator. The Energy Security Strategy outlines the need to enhance domestic energy production, including the need to increase local renewable energy production, energy efficiency and provide missing infrastructure. Moreover, EU cohesion policy funds (2021–2027) including the ‘Next Generation EU’ recovery plan provide funding for investments in renewable energies. REPowerEU is a new strategic plan on reducing the EU’s dependence on energy imports, particularly from Russia, due to insecurity and high prices following Russia’s invasion of Ukraine. In addition, the revised Energy efficiency and Renewable energy Directives set ambitious EU targets to be reached by 2030.
+7-50-long_term_objective: >-
 7-60-title: Population unable to keep home adequately warm
 7-60-definition: >-
   The indicator measures the share of population who are unable to afford to keep home adequately warm. Data for this indicator are being collected as part of the European Union Statistics on Income and Living Conditions (EU-SILC) to monitor the development of poverty and social inclusion in the EU. The data collection is based on a survey, which means that indicator values are self-reported.
