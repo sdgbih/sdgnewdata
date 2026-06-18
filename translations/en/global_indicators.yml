@@ -872,8 +872,8 @@ metadata-footer-label: National reference metadata
   The EU Birds Directive and the Habitats Directive aim to maintain or restore a favourable conservation status of protected habitats and species, and safeguard their sustainable use and management. The Habitats Directive aims to contribute towards ensuring biodiversity of the EU, including in the marine environment and lists nine marine habitat types and 16 species for which marine site designation is required, whilst the Birds Directive lists a further 60 bird species whose conservation requires marine site protection.
   The EU biodiversity strategy aims to protect at least 30% of land and sea in Europe including both nationally designated sites and Natura 2000 sites.
   Marine protected areas can serve various objectives including species and habitats protection, biodiversity conservation and restoration, but also resource use within defined ecological boundaries. For all MPAs, specific management objectives are set, often consisting of different zones with permitted and non-permitted uses.
-
   The EU is also engaged in discussions at the United Nations General Assembly towards an international legally binding agreement on the conservation of biodiversity in areas beyond national jurisdiction (BBNJ).
+14-10-long_term_objective: >-
 14-21-title: Estimated trends in fish stock biomass
 14-21-definition: >-
   Fish stock biomass is a function of biological characteristics such as abundance and weight and can indicate the status of a fish stock when measured against reference values. This is a model-based indicator that is computed using results from single-species quantitative stock assessments. It shows the median value of fish stock biomass relative to 2003. The full time series is updated every year, sometimes including new stocks due to newly available quantitative assessments which can result in small differences from one release year to the next.
@@ -882,6 +882,7 @@ metadata-footer-label: National reference metadata
   The indicator can be considered as similar to the global SDG indicator 14.4.1 "Proportion of fish stocks within biologically sustainable levels".
 14-21-methodology: >-
   The Common Fisheries Policy aims to ensure the long-term sustainability of the sector by safeguarding stock reproduction for high long-term yield, improving distribution of fishing opportunities, conserving marine resources and supporting the profitability of the industry. The Marine Strategy Framework Directive takes a comprehensive and integrated approach to the protection of the marine environment and natural resources with the aim of achieving good environmental status of EU marine waters that are ecologically diverse, clean healthy and productive.
+14-21-long_term_objective: >-
 14-30-title: Estimated trend in fishing pressure
 14-30-definition: >-
   The indicator presents the model-based median value of fishing pressure (F/Fmsy) in EU marine waters of the North-East Atlantic and adjacent seas (FAO area 27) and the Mediterranean and the Black Sea (FAO area 37) for which current fishing mortality (F) exceeds the estimated fishing mortality consistent with achieving maximum sustainable yield (Fmsy). Fishing mortality is a measure for death or removal of fish from a population due to fishing. The fishing mortality consistent with achieving maximum sustainable yield is determined by the long-term average stock size that allows fishing at this level. For fisheries to be sustainable, F should not exceed Fmsy– the point at which the largest catch can be taken from a fish stock over an indefinite period without harming it.
@@ -890,6 +891,7 @@ metadata-footer-label: National reference metadata
   The indicator can be considered as similar to the global SDG indicator 14.4.1 "Proportion of fish stocks within biologically sustainable levels".
 14-30-methodology: >-
   The Common Fisheries Policy aims to ensure the long-term sustainability of the sector by safeguarding stock reproduction for high long-term yield, improving distribution of fishing opportunities, conserving marine resources and supporting the profitability of the industry. The Marine Strategy Framework Directive takes a comprehensive and integrated approach to the protection of the marine environment and natural resources with the aim of achieving good environmental status of EU marine waters that are ecologically diverse, clean healthy and productive
+14-30-long_term_objective: >-
 14-40-title: Bathing sites with excellent water quality
 14-40-definition: >-
   The indicator shows the share of inland and coastal bathing sites with excellent water quality in the EU and in other European countries. Bathing water quality is assessed according to standards for microbiological parameters (intestinal Enterococci and Escherichia coli). The indicator is calculated based on the moving average of at least 16 sampling events in four years to be sure that a realistic bathing water classification is achieved. 
@@ -910,6 +912,7 @@ metadata-footer-label: National reference metadata
 14-50-methodology: >-
   SDG 14 aims to protect and ensure the sustainable use of oceans. This includes the reduction of marine pollution and the impacts of ocean acidification, the ending of overfishing and the conservation of marine and coastal areas and ecosystems. SDG 14 has strong interdependencies with a broad range of other SDGs, as oceans sustain coastal economies and livelihoods, contribute to food production and function as a carbon sink.
   Recognising the limitations of tackling ocean governance at a Member State or European level, the EU is working to ensure a stronger system of ocean governance to achieve the conservation and sustainable use of both regional and international waters. The EU has also a range of strategies which aim to mitigate climate change and reduce greenhouse gas (GHG) emissions including CO2.
+14-50-long_term_objective: >-
 14-60-title: Marine waters affected by eutrophication
 14-60-definition: >-
   The indicator shows the share of eutrophic marine waters in the Exclusive Economic Zone (EEZ). An area is classified as eutrophic if for more than 25 % of the observation days of a given year the chlorophyll concentrations as a proxy for eutrophication are above the 90th percentile of the 1998–2017 reference base line.
@@ -920,7 +923,12 @@ metadata-footer-label: National reference metadata
 14-60-methodology: >-
   SDG 14 aims to achieve conservation and sustainable use of oceans, seas and marine resources, that also requires among other things preventing and reducing marine pollution and the impacts of ocean acidification.
   The Marine Strategy Framework Directive (MSFD) requires Member States to report on eutrophication for their regional seas every 6 years
+14-60-long_term_objective: >-
 15-10-title: Share of forest area
+15-10-definition: >-
+15-10-intention: >-
+15-10-methodology: >-
+15-10-long_term_objective: >-
 15-20-title: Terrestrial protected areas
 15-20-definition: >-
   This indicator measures the extent and share of terrestrial protected areas, comprising nationally designated protected areas and Natura 2000 sites. A nationally designated area is an area protected by national legislation.
@@ -952,6 +960,7 @@ metadata-footer-label: National reference metadata
   SDG 15 seeks to protect, restore and promote the conservation and sustainable use of terrestrial, inland-water and mountain ecosystems. This includes efforts to sustainably manage forests and halt deforestation, combat desertification, restore degraded land and soil, halt biodiversity loss and protect threatened species.
   SDG 2 seeks to end hunger and malnutrition and ensure access to safe, nutritious and sufficient food. Realising this goal will largely depend on promoting sustainable production systems and increasing investment in rural infrastructure and agricultural research and development.
   The Soil Strategy for 2030 recognises erosion as a threat to soil in the EU. Europe’s Common Agricultural Policy sets requirements to protect utilised agricultural areas against erosion and establishes a framework of standards that aim, among others, to contribute to preventing soil erosion.
+15-50-long_term_objective: >-
 15-60-title: Common bird index
 15-60-definition: >-
   The indicator is a multi-species composite index, which measures the relative abundance of a selection of common bird species associated with specific habitats. Rare species are excluded. Three groups of bird species are represented: common farmland species (39 species), common forest species (34 species) and all common bird species (168 species; including farmland and forest species).
@@ -961,6 +970,7 @@ metadata-footer-label: National reference metadata
   SDG 15 seeks to protect, restore and promote the conservation and sustainable use of terrestrial, inland-water and mountain ecosystems. This includes efforts to sustainably manage forests and halt deforestation, combat desertification, restore degraded land and soil, halt biodiversity loss and protect threatened species.
   SDG 2 seeks to end hunger and malnutrition and ensure access to safe, nutritious and sufficient food. Realising this goal will largely depend on promoting sustainable production systems and increasing investment in rural infrastructure and agricultural research and development.
   Birds and the habitats of endangered and migratory bird species are protected under the Birds Directive. Many habitats used by birds are also protected under the Habitats Directive. The EU Biodiversity strategy for 2030 specifically states that these Nature Directives should be fully implemented in an effort to halt and reverse the trends of biodiversity loss.
+15-60-long_term_objective: >-
 15-61-title: Grassland butterfly index
 15-61-definition: >-
   The EU grassland butterfly index integrates the population trends of 17 butterfly species monitored across the EU and is calculated from data from all 27 EU Member States. The start year of national time series ranges from 1990 until 2023, therefore the index is currently presented as an EU aggregate with smoothed values. The data are integrated and provided by the Butterfly Conservation Europe, European Butterfly Monitoring Scheme partnership, EMBRACE project.
@@ -968,6 +978,7 @@ metadata-footer-label: National reference metadata
   Indicator is used to monitor progress towards SDG 15 on protecting, restoring and promoting sustainable use of land which is embedded in the European Commission’s Priorities under 'Sustaining our quality of life: food security, water and nature'.
 15-61-methodology: >-
   The EU Biodiversity strategy for 2030 aims to restore degraded ecosystems and to halt and reverse the decline of pollinators. The Habitats Directive and the Birds Directive play a central role in achieveing these targets. In June 2018, the European Commission adopted the first-ever EU initiative on pollinators including butterflies. The initiative sets the framework for an integrated approach to address the problem of declining pollinators in the EU and for a more effective use of existing tools and policies.
+15-61-long_term_objective: >-
 16-10-title: Standardised death rate due to homicid
 16-10-definition: >-
   The indicator measures the standardised death rate of homicide and injuries inflicted by another person with the intent to injure or kill by any means, including ‘late effects’ from assault (International Classification of Diseases (ICD) codes X85 to Y09 and Y87.1). It does not include deaths due to legal interventions or war (ICD codes Y35 and Y36).
