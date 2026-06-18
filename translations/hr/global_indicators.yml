@@ -433,6 +433,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Zaštita vodnih resursa, vodnih ekosustava te vode za piće i kupanje temelj je politike EU o zaštiti okoliša. Politika EU o vodama pruža okvir za sveobuhvatno rješavanje zaštite voda i postizanje dobrog stanja kopnenih površinskih voda, prijelaznih voda, obalnih voda i podzemnih voda. Okvirna direktiva o vodama glavni je europski zakon kojim se želi spriječiti onečišćenje vode, a Strategija EU o biološkoj raznolikosti za 2030. podržava provedbu cilja Okvirne direktive o vodama tako što od država članica zahtijeva da obnove slatkovodne ekosustave.
 6-70-methodology: >-
   Osmi akcijski program za okoliš utvrđuje agendu politike zaštite okoliša za razdoblje od 2021. do 2030. i izričito spominje pitanja vezana uz vodu u dva od svojih šest prioritetnih ciljeva. Ta dva cilja su: (1) ostvarivanje ambicije nultog onečišćenja za okoliš bez toksina, uključujući zrak, vodu i tlo, te zaštita zdravlja i dobrobiti građana od rizika i utjecaja povezanih s okolišem; i (2) zaštita, očuvanje i obnova bioraznolikosti te poboljšanje prirodnog kapitala, posebno zraka, vode, tla te šumskih, slatkovodnih, močvarnih i morskih ekosustava.
+6-70-long_term_objective: >-
 7-10-title: Primarna i konačna potrošnja energije
 7-10-definition: >-
   Pokazatelj mjeri ukupne energetske potrebe zemlje isključujući svu neenergetsku upotrebu nositelja energije (npr. prirodni plin koji se ne koristi za izgaranje, već za proizvodnju kemikalija).
@@ -442,6 +443,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   EU provodi međusobno povezani skup mjera "Fit for 55" kako bi postigla nove klimatske ciljeve za 2030. godinu i slijedila je novi strateški plan REPowerEU za smanjenje ovisnosti EU-a o uvozu energije.
 7-10-methodology: >-
   Europski zeleni plan uključuje energetsku učinkovitost kao ključnu mjeru za smanjenje međusektorskih emisija stakleničkih plinova. Direktive o energetskoj učinkovitosti i energiji iz obnovljivih izvora postavljaju ambiciozne ciljeve EU-a koje treba postići do 2030.
+7-10-long_term_objective: >-
 7-20-title: Konačna potrošnja energije u kućanstvima po stanovniku
 7-20-definition: >-
   Pokazatelj mjeri koliko energije svaki građanin troši kod kuće, isključujući energiju koja se koristi za prijevoz. Budući da se pokazatelj odnosi na krajnju potrošnju energije, uzima se u obzir samo energija koju koriste krajnji potrošači. Isključena je povezana potrošnja samog energetskog sektora.
@@ -449,6 +451,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Pokazatelj se koristi za praćenje napretka prema cilju održivog razvoja 7 o pristupačnoj i čistoj energiji, koji je ugrađen u prioritete Europske komisije u okviru „Podrška ljudima, jačanje naših društava i našeg socijalnog modela”.
 7-20-methodology: >-
   Cilj održivog razvoja 7 poziva na osiguravanje univerzalnog pristupa modernim energetskim uslugama, poboljšanje energetske učinkovitosti i povećanje udjela obnovljive energije. Kako bi ubrzale prijelaz na pristupačan, pouzdan i održiv energetski sustav, zemlje moraju olakšati pristup istraživanju čiste energije, promicati ulaganja u energetsku infrastrukturu i tehnologiju čiste energije. Kućanstva čine oko četvrtinu finalne potrošnje energije. Kod kuće ljudi koriste električnu energiju i goriva, posebno za grijanje, hlađenje, toplu vodu, rasvjetu i uređaje.
+7-20-long_term_objective: >-
 7-30-title: Produktivnost energije
 7-30-definition: >-
   Pokazatelj mjeri količinu ekonomske proizvodnje koja se proizvodi po jedinici bruto raspoložive energije. Bruto raspoloživa energija predstavlja količinu energenata potrebnu za zadovoljavanje svih potreba subjekata na razmatranom zemljopisnom području. Ekonomska proizvodnja daje se ili u jedinici eura u lančanim količinama u odnosu na referentnu 2010. godinu po tečajevima iz 2010. godine ili u jedinici PPS (Standard kupovne moći).
@@ -459,6 +462,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
 7-30-methodology: >-
   SDG 7 ugrađen je u prioritete Europske komisije pod naslovom „Podrška ljudima, jačanje naših društava i našeg socijalnog modela”.
   Cilj održivog razvoja 7 poziva na osiguravanje univerzalnog pristupa modernim energetskim uslugama, poboljšanje energetske učinkovitosti i povećanje udjela obnovljive energije. Kako bi ubrzale prijelaz na pristupačan, pouzdan i održiv energetski sustav, zemlje moraju olakšati pristup istraživanju čiste energije, promicati ulaganja u energetsku infrastrukturu i tehnologiju čiste energije. Cilj održivog razvoja 12 poziva na sveobuhvatan skup mjera poduzeća, donositelja politika, istraživača i potrošača kako bi se prilagodili održivim praksama. Njime se predviđa održiva proizvodnja i potrošnja temeljena na naprednim tehnološkim kapacitetima, učinkovitoj upotrebi resursa i smanjenju globalnog otpada.
+7-30-long_term_objective: >-
 7-40-title: Udio obnovljive energije u bruto konačnoj potrošnji energije
 7-40-definition: >-
   Pokazatelj mjeri udio potrošnje energije iz obnovljivih izvora u bruto konačnoj potrošnji energije prema Direktivi o obnovljivim izvorima energije. Bruto krajnja potrošnja energije je energija koju koriste krajnji potrošači (krajnja potrošnja energije) plus gubici mreže i vlastita potrošnja elektrana.
@@ -477,6 +481,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Kako bi ubrzale prijelaz na pristupačan, pouzdan i održiv energetski sustav, zemlje moraju olakšati pristup istraživanju čiste energije, promicati ulaganja u energetsku infrastrukturu i tehnologiju čiste energije. Energetska ovisnost o uvozu energetskih prijevoznika izlaže europsko gospodarstvo promjenjivim cijenama na svjetskom tržištu i riziku od nestašice opskrbe, primjerice zbog geopolitičkih sukoba. Rizici se povećavaju s ovisnošću o pojedinim zemljama, npr. određenim infrastrukturom opskrbe.
 7-50-methodology: >-
   Postoji nekoliko relevantnih politika EU-a za ovaj pokazatelj. Strategija energetske sigurnosti navodi potrebu za poboljšanjem domaće proizvodnje energije, uključujući potrebu za povećanjem lokalne proizvodnje obnovljive energije, energetske učinkovitosti i osiguranjem infrastrukture koja nedostaje. Štoviše, fondovi kohezijske politike EU-a (2021. - 2027.), uključujući plan oporavka „Next Generation EU”, osiguravaju financiranje ulaganja u obnovljive izvore energije. REPowerEU je novi strateški plan za smanjenje ovisnosti EU-a o uvozu energije, posebno iz Rusije, zbog nesigurnosti i visokih cijena nakon ruske invazije na Ukrajinu. Direktive o energetskoj učinkovitosti i energiji iz obnovljivih izvora postavljaju ambiciozne ciljeve EU-a koje treba postići do 2030.
+7-50-long_term_objective: >-
 7-60-title: Stanovništvo koje nije u stanju da zagrije dom adekvatno
 7-60-definition: >-
   Pokazatelj mjeri udio stanovništva koje si ne može priuštiti adekvatno grijanje doma. Podaci za ovaj pokazatelj prikupljaju se u okviru Statistike Europske unije o dohotku i životnim uvjetima (EU-SILC) za praćenje razvoja siromaštva i socijalne uključenosti u EU. Prikupljanje podataka temelji se na anketi, što znači da se vrijednosti pokazatelja samostalno prijavljuju.
