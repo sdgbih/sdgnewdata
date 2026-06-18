@@ -529,6 +529,7 @@ metadata-footer-label: National reference metadata
   Employment and other labour market-related issues are at the heart of social and political debate in the EU. Paid employment is crucial for ensuring sufficient living standards and it provides the necessary foundation for people to achieve their personal goals and aspirations. Moreover, employment contributes to economic performance, quality of life and social inclusion, making it a cornerstone of socioeconomic development and well-being.
 8-30-methodology: >-
   The European Pillar of Social Rights sets out 20 key principles and rights essential for fair and well-functioning labour markets and social protection systems. The European Pillar of Social Rights Action Plan, adopted in 2021, turns the Principles into concrete actions to benefit citizens. It also proposes an ambitious employment target of 78 % of the population aged 20 to 64 for the EU to reach by 2030. In support of this, the Action Plan proposes to halve the gender employment gap by 2030 compared with 2019 and to decrease the rate of young people neither in employment nor in education or training (NEET) aged 15 to 29 to 9 % by 2030.
+8-30-long_term_objective: >-
 8-40-title: Long-term unemployment rate
 8-40-definition: >-
   The indicator measures the share of the population in the labour force aged 15 to 74 who has been unemployed for 12 months or more. Population in the labour force are those who are either employed or unemployed. Unemployed persons are defined as persons aged 15-74 who were without work during the reference week, were currently available to start working within the next two weeks and were either actively seeking work in the last four weeks or had already found a job to start within the next three months. The unemployment period is defined as the duration of a job search, or as the length of time since the last job was held (if shorter than the time spent on a job search).
@@ -538,6 +539,7 @@ metadata-footer-label: National reference metadata
   The European pillar of social rights sets out a number of key principles and rights to support fair and well-functioning labour markets and welfare systems. It serves as a compass for a renewed process of convergence towards better working and living conditions among participating member states. It is primarily conceived for the euro area, but is applicable to all member states wishing to participate. The Active Inclusion Approach is a Commission recommendation to enable every citizen, notably the most disadvantaged, to fully participate in society, including having a job.
 8-40-methodology: >-
   The European Pillar of Social Rights sets out 20 key principles and rights essential for fair and well-functioning labour markets and social protection systems. The European Pillar of Social Rights Action Plan, adopted in 2021, turns the Principles into concrete actions to benefit citizens. It also proposes an ambitious employment target of 78 % of the population aged 20 to 64 for the EU to reach by 2030. In support of this, the Action Plan proposes to halve the gender employment gap by 2030 compared with 2019 and to decrease the rate of young people neither in employment nor in education or training (NEET) aged 15 to 29 to 9 % by 2030.
+8-40-long_term_objective: >-
 8-60-title: Fatal accidents at work per 100 000 workers
 8-60-definition: >-
   The indicator measures the number of fatal accidents that occur during the course of work and lead to the death of the victim within one year of the accident. The incidence rate refers to the number of fatal accidents per 100 000 persons in employment.
@@ -589,6 +591,7 @@ metadata-footer-label: National reference metadata
 9-50-methodology: >-
   Rethinking future mobility includes optimising the use of all modes of transport, car sharing and multimodal integration between the different modes of collective transport such as train, tram, metro, bus and taxi.
   In 2020 the Commission adopted the ‘Sustainable and Smart Mobility Strategy’ together with an Action Plan of 82 initiatives. This strategy lays the foundation for how the EU transport system can achieve its green and digital transformation and become more resilient to future crises. As outlined in the European Green Deal, the aim will be a 90% cut in emissions by 2050, delivered by a smart, competitive, safe, accessible and affordable transport system.
+9-50-long_term_objective: >-
 9-60-title: Share of rail and inland waterways activity in inland freight transport
 9-60-definition: >-
   This indicator measures the share of rail and inland waterways in inland freight transport, expressed in tonne-kilometres (tkm).
@@ -600,6 +603,7 @@ metadata-footer-label: National reference metadata
 9-60-methodology: >-
   While the free movement of goods is an essential component of the EU internal market and important for maintaining the competitiveness of European industry and services, transport should be organised in an environment-friendly way.
   This strategy lays the foundation for how the EU transport system can achieve its green and digital transformation and become more resilient to future crises. As outlined in the European Green Deal, the aim will be a 90% cut in emissions by 2050, delivered by a smart, competitive, safe, accessible and affordable transport system.
+9-60-long_term_objective: >-
 9-70-title: Air emission intensity of industry
 9-70-definition: >-
   This indicator measures the emissions intensity of particulate matter (PM10 and PM2.5) from the manufacturing sector (NACE Rev. 2 sector ‘C’). Air emissions are defined as flows of gaseous and particulate materials emitted into the atmosphere. 
