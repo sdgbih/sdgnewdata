@@ -4,3 +4,6 @@ EMP: Employed persons
 NEMP: Not employed persons
 WANT: Persons would like to work (seeking employment or not)
 NWANT: Persons do not want to work
+EMP_PT: Employed persons working part-time
+EMP_TEMP: Employed persons with temporary contract
+UEMP_PT: Underemployed persons working part-time
