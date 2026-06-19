@@ -16,6 +16,41 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "Labour_force_and_employment_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Employed persons",
+                "Employed persons working part-time",
+                "Employed persons with temporary contract",
+                "Underemployed persons working part-time",
+                ""
+              ]
+            },
+            "title": "Labour force and employment status"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20 to 64 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

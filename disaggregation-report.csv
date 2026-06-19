@@ -1,9 +1,9 @@
 Disaggregation,Number of indicators,Number of values
-AGE,4,4
+AGE,5,5
 Body_Mass_Index,1,3
 EDUCATION_LEV,1,1
 Energy_balance,1,4
-Labour_force_and_employment_status,1,5
+Labour_force_and_employment_status,2,8
 SEX,4,3
 Standard_international_energy_product_ classification,1,4
 Type_of_skill,1,1

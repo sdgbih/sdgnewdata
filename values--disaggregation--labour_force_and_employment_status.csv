@@ -1,6 +1,9 @@
 Value,Disaggregation combinations using this value,Number of indicators
-EMP,3,1
+EMP,4,2
+EMP_PT,1,1
+EMP_TEMP,1,1
 NEMP,3,1
 NWANT,3,1
 POP,3,1
+UEMP_PT,1,1
 WANT,3,1

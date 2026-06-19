@@ -616,6 +616,37 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "Labour_force_and_employment_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EMP",
+                "EMP_PT",
+                "EMP_TEMP",
+                "UEMP_PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y20_64",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
