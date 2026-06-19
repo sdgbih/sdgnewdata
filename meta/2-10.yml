@@ -12,10 +12,10 @@ source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_02_10/default/
 graph_titles:
 - series: SERIES.sdg_02_10
   title: SERIES.sdg_02_10
-indicator_definition: global_indicators.2-10-definition
-rationale: global_indicators.2-10-intention
-methodology_characteristics: global_indicators.2-10-methodology
-long_objective: global_indicators.2-10-long_term_objective
+national_indicator_definition: global_indicators.2-10-definition
+national_rationale: global_indicators.2-10-intention
+national_methodology_characteristics: global_indicators.2-10-methodology
+national_long_objective: global_indicators.2-10-long_term_objective
 eu_indicator_definition: global_indicators.2-10-definition
 eu_rationale: global_indicators.2-10-intention
 eu_methodology_characteristics: global_indicators.2-10-methodology
