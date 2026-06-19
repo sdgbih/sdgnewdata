@@ -1,15 +1,16 @@
 ﻿definition-label: НАСЛОВ ДЕФИНИЦИЈА
-rationale-label: Намјера
-methodology-label: Садржај и напредак
-indicator_definition-label: Опис индикатора
-indicator_definition: Опис
-methodology_characteristics: Садржај и напредак
-long_objective: Дугорочни циљ
-long_term_objective-label: Дугорочни циљ
+national_rationale-label: Намјера
+national_methodology-label: Садржај и напредак
+national_indicator_definition-label: Опис индикатора
+national_indicator_definition: Опис
+national_methodology_characteristics: Садржај и напредак
+national_long_objective: Дугорочни циљ
+national_long_term_objective-label: Дугорочни циљ
 eu_indicator_definition: Опис
 eu_rationale: Намјера
 eu_methodology_characteristics: Садржај и напредак
 eu_long_objective: Дугорочни циљ
+eu_long_term_objective-label: Дугорочни циљ
 metadata-footer-label: Национални референтни метаподаци
 
 1-10-title: Лица у ризику од сиромаштва или социјалне искључености
