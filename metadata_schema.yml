@@ -991,41 +991,49 @@ prose:
         field:
           element: text
           label: "global_indicators.definition-label"
+          translation_key: global_indicators.eu_indicator_definition
           scope: global
       - name: "eu_rationale"
         field:
           element: text
           label: "global_indicators.rationale-label"
+          translation_key: global_indicators.eu_rationale
           scope: global
       - name: "eu_methodology_characteristics"
         field:
           element: text
           label: "global_indicators.methodology-label"
+          translation_key: global_indicators.eu_methodology_characteristics
           scope: global
       - name: "eu_long_objective" 
         field:
           element: text
           label: "global_indicators.long_term_objective-label"
+          translation_key: global_indicators.eu_long_objective
           scope: global
       - name: "national_indicator_definition"
         field:
           element: text
           label: "global_indicators.definition-label"
+          translation_key: global_indicators.national_indicator_definition
           scope: national
       - name: "national_indicator_rationale"
         field:
           element: text
           label: "global_indicators.rationale-label"
+          translation_key: global_indicators.national_rationale
           scope: national
       - name: "national_indicator_methodology_characteristics"
         field:
           element: text
           label: "global_indicators.methodology-label"
+          translation_key: global_indicators.national_methodology_characteristics
           scope: national
       - name: "national_indicator_long_objective"  
         field:
           element: text
           label: "global_indicators.long_term_objective-label"
+          translation_key: global_indicators.national_long_objective
           scope: national
           
   ignore: ['/scripts', '/.github']
