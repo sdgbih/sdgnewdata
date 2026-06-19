@@ -4,3 +4,6 @@ EMP: Zaposlene osobe
 NEMP: Nezaposlene osobe
 WANT: Osobe koje bi željele raditi (traže li zaposlenje ili ne)
 NWANT: Osobe koje ne žele raditi
+EMP_PT: Zaposlene osobe koje rade nepuno radno vrijeme
+EMP_TEMP: Zaposlene osobe s privremenim ugovorom
+UEMP_PT: Nedovoljno zaposlene osobe koje rade nepuno radno vrijeme
