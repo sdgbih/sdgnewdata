@@ -1,15 +1,16 @@
 definition-label: TITLE DEFINITION
-rationale-label: Intention
-methodology-label: Content and progress
-indicator_definition-label: Indicator description
-indicator_definition: Description
-methodology_characteristics: Content and progress
-long_objective: Long-term objective
-long_term_objective-label: Long-term objective
+national_rationale-label: Intention
+national_methodology-label: Content and progress
+national_indicator_definition-label: Indicator description
+national_indicator_definition: Description
+national_methodology_characteristics: Content and progress
+national_long_objective: Long-term objective
+national_long_term_objective-label: Long-term objective
 eu_indicator_definition: Description
 eu_rationale: Intention
 eu_methodology_characteristics: Content and progress
 eu_long_objective: Long-term objective
+eu_long_term_objective-label: Long-term objective
 metadata-footer-label: National reference metadata
 
 1-10-title: Persons at risk of poverty or social exclusion
