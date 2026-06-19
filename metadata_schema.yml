@@ -987,22 +987,22 @@ prose:
             label: UN designated tier
             translation_key: metadata_fields.un_designated_tier
             scope: global
-      - name: indicator_definition
+      - name: eu_indicator_definition
         field:
           element: text
           label: global_indicators.definition-label
           scope: global
-      - name: rationale
+      - name: eu_rationale
         field:
           element: text
           label: global_indicators.rationale-label
           scope: global
-      - name: methodology_characteristics
+      - name: eu_methodology_characteristics
         field:
           element: text
           label: global_indicators.methodology-label
           scope: global
-      - name: long_objective  
+      - name: eu_long_objective  
         field:
           element: text
           label: global_indicators.long_term_objective-label
