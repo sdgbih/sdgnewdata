@@ -9,24 +9,14 @@ indicator_name: global_indicators.2-10-title
 source_active_1: true
 source_organisation_1: ESS (EHIS & SILC)
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_02_10/default/table'
-footer_fields:
-  - label: global_indicators.metadata-footer-label
 graph_titles:
 - series: SERIES.sdg_02_10
   title: SERIES.sdg_02_10
 indicator_definition: global_indicators.2-10-definition
-scope: national
 rationale: global_indicators.2-10-intention
-scope: national
 methodology_characteristics: global_indicators.2-10-methodology
-scope: national
 long_objective: global_indicators.2-10-long_term_objective
-scope: national
 eu_indicator_definition: global_indicators.2-10-definition
-scope: global
 eu_rationale: global_indicators.2-10-intention
-scope: global
 eu_methodology_characteristics: global_indicators.2-10-methodology
-scope: global
 eu_long_objective: global_indicators.2-10-long_term_objective
-scope: global
