@@ -981,50 +981,51 @@ prose:
             translation_key: metadata_fields.source_other_info_1
             scope: source_6
       ######### Other fields #########
-      - name: un_designated_tier
+      - name: "un_designated_tier"
         field:
             element: text
-            label: UN designated tier
+            label: "UN designated tier"
             translation_key: metadata_fields.un_designated_tier
             scope: global
-      - name: eu_indicator_definition
+      - name: "eu_indicator_definition"
         field:
           element: text
-          label: global_indicators.definition-label
+          label: "global_indicators.definition-label"
           scope: global
-      - name: eu_rationale
+      - name: "eu_rationale"
         field:
           element: text
-          label: global_indicators.rationale-label
+          label: "global_indicators.rationale-label"
           scope: global
-      - name: eu_methodology_characteristics
+      - name: "eu_methodology_characteristics"
         field:
           element: text
-          label: global_indicators.methodology-label
+          label: "global_indicators.methodology-label"
           scope: global
-      - name: eu_long_objective  
+      - name: "eu_long_objective" 
         field:
           element: text
-          label: global_indicators.long_term_objective-label
+          label: "global_indicators.long_term_objective-label"
           scope: global
-      - name: national_indicator_definition
+      - name: "national_indicator_definition"
         field:
           element: text
-          label: global_indicators.definition-label
+          label: "global_indicators.definition-label"
           scope: national
-      - name: national_indicator_rationale
+      - name: "national_indicator_rationale"
         field:
           element: text
-          label: global_indicators.rationale-label
+          label: "global_indicators.rationale-label"
           scope: national
-      - name: national_indicator_methodology_characteristics
+      - name: "national_indicator_methodology_characteristics"
         field:
           element: text
-          label: global_indicators.methodology-label
+          label: "global_indicators.methodology-label"
           scope: national
-      - name: national_indicator_long_objective  
+      - name: "national_indicator_long_objective"  
         field:
           element: text
-          label: global_indicators.long_term_objective-label
+          label: "global_indicators.long_term_objective-label"
           scope: national
+          
   ignore: ['/scripts', '/.github']
