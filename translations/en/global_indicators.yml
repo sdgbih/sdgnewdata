@@ -7,9 +7,9 @@ national_rationale: Intention
 national_methodology_characteristics: Content and progress
 national_long_objective: Long-term objective
 national_long_term_objective-label: Long-term objective
-global_indicators.rationale-label: Intention
-global_indicators.methodology-label: Content and progress
-global_indicators.long_term_objective-label: Long-term objective
+rationale-label: Intention
+methodology-label: Content and progress
+long_term_objective-label: Long-term objective
 eu_indicator_definition: Description
 eu_rationale: Intention
 eu_methodology_characteristics: Content and progress
