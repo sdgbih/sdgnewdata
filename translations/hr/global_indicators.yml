@@ -1,20 +1,21 @@
-﻿﻿definition-label: NASLOV DEFINICIJA
-national_rationale-label: Namjera
-national_methodology-label: Sadržaj i napredak
-national_indicator_definition-label: Opis indikatora
-national_indicator_definition: Opis
-national_rationale: Namjera
-national_methodology_characteristics: Sadržaj i napredak
-national_long_objective: Dugoročni cilj
-national_long_term_objective-label: Dugoročni cilj
-rationale-label: Namjera
-methodology-label: Sadržaj i napredak
-long_term_objective-label: Dugoročni cilj
-eu_indicator_definition: Opis
-eu_rationale: Namjera
-eu_methodology_characteristics: Sadržaj i napredak
-eu_long_objective: Dugoročni cilj
-eu_long_term_objective-label: Dugoročni cilj
+﻿﻿definition-label: OPIS
+national_rationale-label: NAMJERA
+national_methodology-label: SADRŽAJ I NAPREDAK
+national_indicator_definition-label: OPIS
+national_indicator_definition: OPIS
+national_rationale: NAMJERA
+national_methodology_characteristics: SADRŽAJ I NAPREDAK
+national_long_objective: DUGOROČNI CILJ
+national_long_term_objective-label: DUGOROČNI CILJ
+intention-label: NAMJERA
+rationale-label: NAMJERA
+methodology-label: SADRŽAJ I NAPREDAK
+long_term_objective-label: DUGOROČNI CILJ
+eu_indicator_definition: OPIS
+eu_rationale: NAMJERA
+eu_methodology_characteristics: SADRŽAJ I NAPREDAK
+eu_long_objective: DUGOROČNI CILJ
+eu_long_term_objective-label: DUGOROČNI CILJ
 metadata-footer-label: Nacionalni referentni metapodaci
 
 1-10-title: Osobe u riziku od siromaštva ili socijalne isključenosti
