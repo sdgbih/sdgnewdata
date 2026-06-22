@@ -991,13 +991,13 @@ prose:
         field:
           element: text
           label: "global_indicators.definition-label"
-          translation_key: global_indicators.eu_indicator_definition-label
+          translation_key: global_indicators.eu_indicator_definition
           scope: global
       - name: "eu_rationale"
         field:
           element: text
           label: "global_indicators.rationale-label"
-          translation_key: global_indicators.eu_intention-label
+          translation_key: global_indicators.eu_rationale
           scope: global
       - name: "eu_methodology_characteristics"
         field:
