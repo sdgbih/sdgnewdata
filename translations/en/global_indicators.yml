@@ -1,5 +1,5 @@
 definition-label: Description
-national_intention-label: Intention
+national_rationale-label: Intention
 national_methodology-label: Content and progress
 national_indicator_definition-label: Indicator description
 national_indicator_definition: Description
@@ -11,6 +11,7 @@ rationale-label: Intention
 intention-label: Intention
 methodology-label: Content and progress
 long_term_objective-label: Long-term objective
+eu_definition-label: Description
 eu_indicator_definition: Description
 eu_indicator_definition-label: Description
 eu_rationale: Intention
