@@ -7,6 +7,9 @@ national_rationale: Namjera
 national_methodology_characteristics: Sadržaj i napredak
 national_long_objective: Dugoročni cilj
 national_long_term_objective-label: Dugoročni cilj
+global_indicators.rationale-label: Namjera
+global_indicators.methodology-label: Sadržaj i napredak
+global_indicators.long_term_objective-label: Dugoročni cilj
 eu_indicator_definition: Opis
 eu_rationale: Namjera
 eu_methodology_characteristics: Sadržaj i napredak
