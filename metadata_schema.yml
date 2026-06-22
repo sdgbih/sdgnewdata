@@ -991,7 +991,7 @@ prose:
         field:
           element: text
           label: "global_indicators.definition-label"
-          translation_key: global_indicators.definition-label
+          translation_key: global_indicators.eu_indicator_definition-label
           scope: global
       - name: "eu_rationale"
         field:
