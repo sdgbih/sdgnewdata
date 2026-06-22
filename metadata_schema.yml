@@ -997,7 +997,7 @@ prose:
         field:
           element: text
           label: "global_indicators.rationale-label"
-          translation_key: global_indicators.eu_rationale
+          translation_key: global_indicators.eu_intention-label
           scope: global
       - name: "eu_methodology_characteristics"
         field:
