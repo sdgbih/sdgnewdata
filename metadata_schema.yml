@@ -1020,19 +1020,19 @@ prose:
       - name: "national_indicator_rationale"
         field:
           element: text
-          label: "global_indicators.rationale-label"
+          label: "global_indicators.national_rationale-label"
           translation_key: global_indicators.national_rationale
           scope: national
       - name: "national_indicator_methodology_characteristics"
         field:
           element: text
-          label: "global_indicators.methodology-label"
+          label: "global_indicators.national_methodology-label"
           translation_key: global_indicators.national_methodology_characteristics
           scope: national
       - name: "national_indicator_long_objective"  
         field:
           element: text
-          label: "global_indicators.long_term_objective-label"
+          label: "global_indicators.national_long_term_objective-label"
           translation_key: global_indicators.national_long_objective
           scope: national
           
