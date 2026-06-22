@@ -7,9 +7,9 @@ national_rationale: Намјера
 national_methodology_characteristics: Садржај и напредак
 national_long_objective: Дугорочни циљ
 national_long_term_objective-label: Дугорочни циљ
-global_indicators.rationale-label: Намјера
-global_indicators.methodology-label: Садржај и напредак
-global_indicators.long_term_objective-label: Дугорочни циљ
+rationale-label: Намјера
+methodology-label: Садржај и напредак
+long_term_objective-label: Дугорочни циљ
 eu_indicator_definition: Опис
 eu_rationale: Намјера
 eu_methodology_characteristics: Садржај и напредак
