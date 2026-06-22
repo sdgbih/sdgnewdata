@@ -1,21 +1,21 @@
-﻿definition-label: НАСЛОВ ДЕФИНИЦИЈА
-national_rationale-label: Намјера
-national_methodology-label: Садржај и напредак
-national_indicator_definition-label: Опис индикатора
-national_indicator_definition: Опис
-national_rationale: Намјера
-national_methodology_characteristics: Садржај и напредак
-national_long_objective: Дугорочни циљ
-national_long_term_objective-label: Дугорочни циљ
-rationale-label: Намјера
-methodology-label: Садржај и напредак
-long_term_objective-label: Дугорочни циљ
-eu_indicator_definition: Опис
-eu_rationale: Намјера
-eu_methodology_characteristics: Садржај и напредак
-eu_long_objective: Дугорочни циљ
-eu_long_term_objective-label: Дугорочни циљ
-metadata-footer-label: Национални референтни метаподаци
+definition-label: ОПИС ИНДИКАТОРА
+national_intention-label: НАМЈЕРА
+national_methodology-label: САДРЖАЈ И НАПРЕДАК
+national_indicator_definition-label: ОПИС ИНДИКАТОРА
+national_indicator_definition: ОПИС ИНДИКАТОРА
+national_rationale: НАМЈЕРА
+national_methodology_characteristics: САДРЖАЈ И НАПРЕДАК
+national_long_objective: ДУГОРОЧНИ ЦИЉ
+national_long_term_objective-label: ДУГОРОЧНИ ЦИЉ
+intention-label: НАМЈЕРА
+methodology-label: САДРЖАЈ И НАПРЕДАК
+long_term_objective-label: ДУГОРОЧНИ ЦИЉ
+eu_indicator_definition: OPIS INDIKATORA
+eu_rationale: НАМЈЕРА
+eu_methodology_characteristics: САДРЖАЈ И НАПРЕДАК
+eu_long_objective: ДУГОРОЧНИ ЦИЉ
+eu_long_term_objective-label: ДУГОРОЧНИ ЦИЉ
+metadata-footer-label: Nacionalni referentni metapodaci
 
 1-10-title: Лица у ризику од сиромаштва или социјалне искључености
 1-10-definition: >-
