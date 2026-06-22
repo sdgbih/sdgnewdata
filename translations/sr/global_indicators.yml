@@ -1,5 +1,5 @@
 definition-label: ОПИС
-national_intention-label: НАМЈЕРА
+national_rationale-label: НАМЈЕРА
 national_methodology-label: САДРЖАЈ И НАПРЕДАК
 national_indicator_definition-label: ОПИС
 national_indicator_definition: ОПИС ИНДИКАТОРА
@@ -11,6 +11,7 @@ intention-label: НАМЈЕРА
 rationale-label: НАМЈЕРА
 methodology-label: САДРЖАЈ И НАПРЕДАК
 long_term_objective-label: ДУГОРОЧНИ ЦИЉ
+eu_definition-label: ОПИС
 eu_indicator_definition: ОПИС
 eu_indicator_definition-label: ОПИС
 eu_rationale: НАМЈЕРА
