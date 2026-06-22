@@ -990,49 +990,49 @@ prose:
       - name: "eu_indicator_definition"
         field:
           element: text
-          label: "global_indicators.definition-label"
-          translation_key: global_indicators.eu_indicator_definition
+          label: "definition-label"
+          translation_key: global_indicators.definition-label
           scope: global
       - name: "eu_rationale"
         field:
           element: text
-          label: "global_indicators.rationale-label"
-          translation_key: global_indicators.eu_rationale
+          label: "rationale-label"
+          translation_key: global_indicators.rationale-label
           scope: global
       - name: "eu_methodology_characteristics"
         field:
           element: text
-          label: "global_indicators.methodology-label"
+          label: "methodology-label"
           translation_key: global_indicators.eu_methodology_characteristics
           scope: global
       - name: "eu_long_objective" 
         field:
           element: text
-          label: "global_indicators.long_term_objective-label"
+          label: "long_term_objective-label"
           translation_key: global_indicators.eu_long_objective
           scope: global
       - name: "national_indicator_definition"
         field:
           element: text
-          label: "global_indicators.national_indicator_definition-label"
+          label: "national_indicator_definition"
           translation_key: global_indicators.national_indicator_definition
           scope: national
-      - name: "national_indicator_rationale"
+      - name: "national_rationale"
         field:
           element: text
-          label: "global_indicators.national_rationale-label"
+          label: "national_rationale-label"
           translation_key: global_indicators.national_rationale
           scope: national
-      - name: "national_indicator_methodology_characteristics"
+      - name: "national_methodology_characteristics"
         field:
           element: text
-          label: "global_indicators.national_methodology-label"
+          label: "national_methodology-label"
           translation_key: global_indicators.national_methodology_characteristics
           scope: national
-      - name: "national_indicator_long_objective"  
+      - name: "national_long_objective"  
         field:
           element: text
-          label: "global_indicators.national_long_term_objective-label"
+          label: "national_long_term_objective-label"
           translation_key: global_indicators.national_long_objective
           scope: national
           
