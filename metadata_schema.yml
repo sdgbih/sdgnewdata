@@ -11,7 +11,7 @@ prose:
 #            translation_key: metadata_fields.SDG_INDICATOR_INFO
 #            scope: global
 #      - name: SDG_GOAL__GLOBAL
-#        field:
+#        field:rationale-label
 #            element: text
 #            label: Goal (global)
 #            translation_key: metadata_fields.SDG_GOAL
