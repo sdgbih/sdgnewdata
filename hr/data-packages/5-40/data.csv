@@ -1,10 +1,11 @@
-Year,Value
-2015,71.0
-2016,70.8
-2017,70.6
-2018,70.4
-2019,65.2
-2020,65.0
-2021,64.8
-2022,64.6
-2023,64.4
+Year,SERIES,Razlog,Godine,Spol,UNIT_MEASURE,Value
+2021,Osobe izvan radne snage zbog obveza brige o drugima po spolu,Skrb za odrasle osobe s invaliditetom ili djecu,od 20 do 64 godine,Oba spola,Postotak ukupnog stanovništva,0.3
+2022,Osobe izvan radne snage zbog obveza brige o drugima po spolu,Skrb za odrasle osobe s invaliditetom ili djecu,od 20 do 64 godine,Oba spola,Postotak ukupnog stanovništva,0.3
+2023,Osobe izvan radne snage zbog obveza brige o drugima po spolu,Skrb za odrasle osobe s invaliditetom ili djecu,od 20 do 64 godine,Oba spola,Postotak ukupnog stanovništva,0.3
+2024,Osobe izvan radne snage zbog obveza brige o drugima po spolu,Skrb za odrasle osobe s invaliditetom ili djecu,od 20 do 64 godine,Oba spola,Postotak ukupnog stanovništva,0.2
+2025,Osobe izvan radne snage zbog obveza brige o drugima po spolu,Skrb za odrasle osobe s invaliditetom ili djecu,od 20 do 64 godine,Oba spola,Postotak ukupnog stanovništva,0.2
+2021,Osobe izvan radne snage zbog obveza brige o drugima po spolu,Skrb za odrasle osobe s invaliditetom ili djecu,od 20 do 64 godine,Žene,Postotak ukupnog stanovništva,0.6
+2022,Osobe izvan radne snage zbog obveza brige o drugima po spolu,Skrb za odrasle osobe s invaliditetom ili djecu,od 20 do 64 godine,Žene,Postotak ukupnog stanovništva,0.7
+2023,Osobe izvan radne snage zbog obveza brige o drugima po spolu,Skrb za odrasle osobe s invaliditetom ili djecu,od 20 do 64 godine,Žene,Postotak ukupnog stanovništva,0.6
+2024,Osobe izvan radne snage zbog obveza brige o drugima po spolu,Skrb za odrasle osobe s invaliditetom ili djecu,od 20 do 64 godine,Žene,Postotak ukupnog stanovništva,0.3
+2025,Osobe izvan radne snage zbog obveza brige o drugima po spolu,Skrb za odrasle osobe s invaliditetom ili djecu,od 20 do 64 godine,Žene,Postotak ukupnog stanovništva,0.3
