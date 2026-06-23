@@ -13,8 +13,8 @@ footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_05_40_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_05_40)</a>'
 graph_titles:
-- series: SERIES.sdg_05_30
-  title: SERIES.sdg_05_30
+- series: SERIES.sdg_05_40
+  title: SERIES.sdg_05_40
 indicator_definition: global_indicators.5-40-definition
 rationale: global_indicators.5-40-intention
 methodology_characteristics: global_indicators.5-40-methodology
