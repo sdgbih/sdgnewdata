@@ -117,3 +117,6 @@ type_of_skill: Vrsta vještine
 type_of_speed: Vrsta brzine
 name_of_the_city: Ime grada
 substance_use_disorders: Poremećaji upotrebe supstanci
+ORG_INST: Nacionalne i međunarodne organizacije i institucije
+PARL_NAT: Nacionalni parlament
+GOV_NAT: Nacionalna vlada
