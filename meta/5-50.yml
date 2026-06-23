@@ -5,11 +5,14 @@ sdg_goal: '5'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '05-50'
-
+indicator_name: global_indicators.5-50-title
 source_active_1: true
 source_organisation_1: EIGE (GSD)
 source_url_1: ''
-
+graph_titles:
+- series: SERIES.sdg_05_50
+  title: SERIES.sdg_05_50
+composite_breakdown_label: COMPOSITE_BREAKDOWN.ORG_INST
 indicator_definition: global_indicators.5-50-definition
 rationale: global_indicators.5-50-intention
 methodology_characteristics: global_indicators.5-50-methodology
