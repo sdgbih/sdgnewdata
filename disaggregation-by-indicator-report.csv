@@ -6,5 +6,6 @@ Indicator,Disaggregations,Number of disaggregations
 #4-70,"AGE, Type_of_skill, SEX",3
 #5-30,"Labour_force_and_employment_status, AGE",2
 #5-40,"AGE, SEX, Reason",3
+#5-50,"SEX, COMPOSITE_BREAKDOWN",2
 #7-40,Energy_balance,1
 #7-50,Standard_international_energy_product_ classification,1

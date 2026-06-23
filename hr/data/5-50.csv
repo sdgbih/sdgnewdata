@@ -1,10 +1,8 @@
-Year,Value
-2015,79.0
-2016,80.8
-2017,82.6
-2018,79.4
-2019,81.2
-2020,83.0
-2021,84.8
-2022,86.6
-2023,83.4
+Year,SERIES,COMPOSITE_BREAKDOWN,Spol,UNIT_MEASURE,Value
+2018,Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama,Nacionalni parlament,Žene,Procenat žena,21.1
+2019,Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama,Nacionalni parlament,Žene,Procenat žena,21.1
+2020,Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama,Nacionalni parlament,Žene,Procenat žena,24.6
+2021,Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama,Nacionalni parlament,Žene,Procenat žena,24.6
+2022,Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama,Nacionalni parlament,Žene,Procenat žena,24.6
+2023,Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama,Nacionalni parlament,Žene,Procenat žena,21.1
+2025,Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama,Nacionalni parlament,Žene,Procenat žena,26.3
