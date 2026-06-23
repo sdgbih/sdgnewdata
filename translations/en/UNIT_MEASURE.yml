@@ -55,3 +55,6 @@ EUR_HAB: Euro per inhabitant
 EUR_KGOE: Euro per kilogram of oil equivalent (KGOE)
 PPS_KGOE: Purchasing power standard (PPS) per kilogram of oil equivalent
 PC_IND: Percentage of individuals
+PC: Percentage of total population
+PC_INAC_WWRK: Percentage of population outside the labour force and wanting to work
+
