@@ -1021,7 +1021,7 @@ prose:
         field:
           element: text
           label: "global_indicators.rationale-label"
-          translation_key: global_indicators.national_intention-label
+          translation_key: global_indicators.national_rationale
           scope: national
       - name: "national_methodology_characteristics"
         field:
