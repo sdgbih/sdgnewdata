@@ -2256,6 +2256,7 @@
             "constraints": {
               "enum": [
                 "Nacionalni parlament",
+                "Nacionalna vlada",
                 ""
               ]
             },
