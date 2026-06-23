@@ -5,14 +5,16 @@ sdg_goal: '5'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '05-40'
-
+indicator_name: global_indicators.5-40-title
 source_active_1: true
-source_organisation_1: ESS (LFS)
+source_organisation_1: BHAS EUROSTAT (LFS)
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_05_40/default/table'
 footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_05_40_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_05_40)</a>'
-
+graph_titles:
+- series: SERIES.sdg_05_30
+  title: SERIES.sdg_05_30
 indicator_definition: global_indicators.5-40-definition
 rationale: global_indicators.5-40-intention
 methodology_characteristics: global_indicators.5-40-methodology
