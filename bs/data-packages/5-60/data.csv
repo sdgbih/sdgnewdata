@@ -1,10 +1,13 @@
-Year,Value
-2015,27.0
-2016,29.5
-2017,27.0
-2018,29.5
-2019,32.0
-2020,34.5
-2021,37.0
-2022,34.5
-2023,37.0
+Year,SERIES,Profesionalna pozicija,Spol,UNIT_MEASURE,Value
+2018,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni direktori,Žene,Procenat,14.8
+2019,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni direktori,Žene,Procenat,17.0
+2020,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni direktori,Žene,Procenat,17.0
+2021,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni direktori,Žene,Procenat,11.3
+2022,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni direktori,Žene,Procenat,13.5
+2022,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni direktori,Žene,Procenat,12.5
+2018,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni i izvršni direktori,Žene,Procenat,17.8
+2019,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni i izvršni direktori,Žene,Procenat,22.0
+2020,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni i izvršni direktori,Žene,Procenat,19.8
+2021,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni i izvršni direktori,Žene,Procenat,17.2
+2022,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni i izvršni direktori,Žene,Procenat,15.5
+2023,Pozicije koje zauzimaju žene na višim rukovodećim pozicijama,Neizvršni i izvršni direktori,Žene,Procenat,19.6

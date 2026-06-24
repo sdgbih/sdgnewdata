@@ -1,10 +1,13 @@
-Year,Value
-2015,27.0
-2016,29.5
-2017,27.0
-2018,29.5
-2019,32.0
-2020,34.5
-2021,37.0
-2022,34.5
-2023,37.0
+Year,SERIES,Professional position,Sex,UNIT_MEASURE,Value
+2018,Positions held by women in senior management positions,Non-executive directors,Female,Percent,14.8
+2019,Positions held by women in senior management positions,Non-executive directors,Female,Percent,17.0
+2020,Positions held by women in senior management positions,Non-executive directors,Female,Percent,17.0
+2021,Positions held by women in senior management positions,Non-executive directors,Female,Percent,11.3
+2022,Positions held by women in senior management positions,Non-executive directors,Female,Percent,13.5
+2022,Positions held by women in senior management positions,Non-executive directors,Female,Percent,12.5
+2018,Positions held by women in senior management positions,Non-executives and executive directors,Female,Percent,17.8
+2019,Positions held by women in senior management positions,Non-executives and executive directors,Female,Percent,22.0
+2020,Positions held by women in senior management positions,Non-executives and executive directors,Female,Percent,19.8
+2021,Positions held by women in senior management positions,Non-executives and executive directors,Female,Percent,17.2
+2022,Positions held by women in senior management positions,Non-executives and executive directors,Female,Percent,15.5
+2023,Positions held by women in senior management positions,Non-executives and executive directors,Female,Percent,19.6

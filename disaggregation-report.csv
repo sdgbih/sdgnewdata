@@ -5,7 +5,8 @@ EDUCATION_LEV,1,1
 Energy_balance,1,4
 Labour_force_and_employment_status,2,8
 ORG_INST,1,2
+PROF_POS,1,2
 Reason,1,1
-SEX,6,3
+SEX,7,3
 Standard_international_energy_product_ classification,1,4
 Type_of_skill,1,1
