@@ -12,7 +12,6 @@ source_url_1: ''
 graph_titles:
 - series: SERIES.sdg_05_50
   title: SERIES.sdg_05_50
-composite_breakdown_label: COMPOSITE_BREAKDOWN.ORG_INST
 indicator_definition: global_indicators.5-50-definition
 rationale: global_indicators.5-50-intention
 methodology_characteristics: global_indicators.5-50-methodology
