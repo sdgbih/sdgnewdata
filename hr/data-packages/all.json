@@ -2251,7 +2251,7 @@
             "title": "SDG Varijable"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "ORG_INST",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2260,7 +2260,7 @@
                 ""
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Nacionalne i međunarodne organizacije i institucije"
           },
           {
             "name": "SEX",

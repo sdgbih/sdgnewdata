@@ -19,7 +19,7 @@
             "type": "string"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "ORG_INST",
             "type": "string",
             "constraints": {
               "enum": [
