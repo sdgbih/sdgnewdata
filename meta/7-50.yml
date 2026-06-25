@@ -5,15 +5,10 @@ sdg_goal: '7'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '07-50'
-
+indicator_name: global_indicators.7-50-title
 source_active_1: true
 source_organisation_1: Eurostat, Energy balance
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_07_50/default/table'
-footer_fields:
-  - label: global_indicators.metadata-footer-label
-    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_07_50_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_07_50)</a>'
-graph_title: global_indicators.7-50-title
-indicator_name: global_indicators.7-50-title
 graph_titles:
 - series: SERIES.sdg_07_50
   title: SERIES.sdg_07_50
