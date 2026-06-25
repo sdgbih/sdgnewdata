@@ -17,11 +17,11 @@ indicator_name: global_indicators.7-50-title
 graph_titles:
 - series: SERIES.sdg_07_50
   title: SERIES.sdg_07_50
-indicator_definition: global_indicators.7-50-definition
-rationale: global_indicators.7-50-intention
-methodology_characteristics: global_indicators.7-50-methodology
-long_objective: global_indicators.7-40-long_term_objectiv
+national_indicator_definition: global_indicators.7-50-definition
+national_rationale: global_indicators.7-50-intention
+national_methodology_characteristics: global_indicators.7-50-methodology
+national_long_objective: global_indicators.7-40-long_term_objective
 eu_indicator_definition: global_indicators.7-50-definition
 eu_rationale: global_indicators.7-50-intention
 eu_methodology_characteristics: global_indicators.7-50-methodology
-eu_long_objective: global_indicators.7-50-long_term_objecti
+eu_long_objective: global_indicators.7-50-long_term_objective
