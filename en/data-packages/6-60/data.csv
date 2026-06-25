@@ -1,10 +1,21 @@
-Year,Value
-2015,62.0
-2016,63.8
-2017,60.6
-2018,62.4
-2019,64.2
-2020,66.0
-2021,67.8
-2022,64.6
-2023,66.4
+Year,SERIES,Statistical information,UNIT_MEASURE,Value
+2014,"Water exploitation index, plus (WEI+)",Annual value,Percent,0.35
+2015,"Water exploitation index, plus (WEI+)",Annual value,Percent,0.54
+2016,"Water exploitation index, plus (WEI+)",Annual value,Percent,0.33
+2017,"Water exploitation index, plus (WEI+)",Annual value,Percent,0.52
+2018,"Water exploitation index, plus (WEI+)",Annual value,Percent,0.33
+2019,"Water exploitation index, plus (WEI+)",Annual value,Percent,0.4
+2020,"Water exploitation index, plus (WEI+)",Annual value,Percent,2.68
+2021,"Water exploitation index, plus (WEI+)",Annual value,Percent,2.42
+2022,"Water exploitation index, plus (WEI+)",Annual value,Percent,3.04
+2023,"Water exploitation index, plus (WEI+)",Annual value,Percent,1.83
+2014,"Water exploitation index, plus (WEI+)",Four-year average,Percent,0.58
+2015,"Water exploitation index, plus (WEI+)",Four-year average,Percent,0.52
+2016,"Water exploitation index, plus (WEI+)",Four-year average,Percent,0.43
+2017,"Water exploitation index, plus (WEI+)",Four-year average,Percent,0.43
+2018,"Water exploitation index, plus (WEI+)",Four-year average,Percent,0.43
+2019,"Water exploitation index, plus (WEI+)",Four-year average,Percent,0.39
+2020,"Water exploitation index, plus (WEI+)",Four-year average,Percent,0.98
+2021,"Water exploitation index, plus (WEI+)",Four-year average,Percent,1.46
+2022,"Water exploitation index, plus (WEI+)",Four-year average,Percent,2.13
+2023,"Water exploitation index, plus (WEI+)",Four-year average,Percent,2.49
