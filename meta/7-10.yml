@@ -18,10 +18,10 @@ graph_titles:
   title: SERIES.sdg_07_10
 - series: SERIES.sdg_07_11
   title: SERIES.sdg_07_11
-indicator_definition: global_indicators.7-10-definition
-rationale: global_indicators.7-10-intention
-methodology_characteristics: global_indicators.7-10-methodology
-long_objective: global_indicators.7-10-long_term_objectiv
+national_indicator_definition: global_indicators.7-10-definition
+national_rationale: global_indicators.7-10-intention
+national_methodology_characteristics: global_indicators.7-10-methodology
+national_long_objective: global_indicators.7-10-long_term_objectiv
 eu_indicator_definition: global_indicators.7-10-definition
 eu_rationale: global_indicators.7-10-intention
 eu_methodology_characteristics: global_indicators.7-10-methodology
