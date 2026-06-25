@@ -2057,12 +2057,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Година"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
