@@ -12,10 +12,6 @@ source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_06_20/default/
 graph_titles:
 - series: SERIES.sdg_06_20
   title: SERIES.sdg_06_20
-indicator_definition: global_indicators.6-20-definition
-rationale: global_indicators.6-20-intention
-methodology_characteristics: global_indicators.6-20-methodology
-long_objective: global_indicators.6-20-long_term_objectiv
 eu_indicator_definition: global_indicators.6-20-definition
 eu_rationale: global_indicators.6-20-intention
 eu_methodology_characteristics: global_indicators.6-20-methodology
