@@ -16,6 +16,27 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Serije"
+          },
+          {
+            "name": "WW_TP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prečišćavanje urbanih, nezavisnih i drugih otpadnih voda - barem sekundarni tretman",
+                ""
+              ]
+            },
+            "title": "Postrojenja za prečišćavanje otpadnih voda"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

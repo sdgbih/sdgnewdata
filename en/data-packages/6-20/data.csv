@@ -1,10 +1,7 @@
-Year,Value
-2015,35.0
-2016,29.8
-2017,29.6
-2018,29.4
-2019,29.2
-2020,29.0
-2021,23.8
-2022,23.6
-2023,23.4
+Year,SERIES,Wastewater treatment plants,UNIT_MEASURE,Value
+2000,Population connected to at least secondary wastewater treatment,"Urban, independent and other wastewater treatment - at least secondary treatment",Percent,9.4
+2010,Population connected to at least secondary wastewater treatment,"Urban, independent and other wastewater treatment - at least secondary treatment",Percent,10.91
+2016,Population connected to at least secondary wastewater treatment,"Urban, independent and other wastewater treatment - at least secondary treatment",Percent,29.56
+2017,Population connected to at least secondary wastewater treatment,"Urban, independent and other wastewater treatment - at least secondary treatment",Percent,29.6
+2018,Population connected to at least secondary wastewater treatment,"Urban, independent and other wastewater treatment - at least secondary treatment",Percent,29.0
+2019,Population connected to at least secondary wastewater treatment,"Urban, independent and other wastewater treatment - at least secondary treatment",Percent,29.6

@@ -1222,6 +1222,24 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "WW_TP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WWT_GE2",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }

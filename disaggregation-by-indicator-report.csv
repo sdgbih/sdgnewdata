@@ -8,5 +8,6 @@ Indicator,Disaggregations,Number of disaggregations
 #5-40,"AGE, SEX, Reason",3
 #5-50,"SEX, ORG_INST",2
 #5-60,"PROF_POS, SEX",2
+#6-20,WW_TP,1
 #7-40,Energy_balance,1
 #7-50,Standard_international_energy_product_ classification,1
