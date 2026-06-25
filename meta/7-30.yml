@@ -16,10 +16,10 @@ indicator_name: global_indicators.7-30-title
 graph_titles:
 - series: SERIES.sdg_07_30
   title: SERIES.sdg_07_30
-indicator_definition: global_indicators.7-30-definition
-rationale: global_indicators.7-30-intention
-methodology_characteristics: global_indicators.7-30-methodology
-long_objective: global_indicators.7-30-long_term_objectiv
+national_indicator_definition: global_indicators.7-30-definition
+national_rationale: global_indicators.7-30-intention
+national_methodology_characteristics: global_indicators.7-30-methodology
+national_long_objective: global_indicators.7-30-long_term_objectiv
 eu_indicator_definition: global_indicators.7-30-definition
 eu_rationale: global_indicators.7-30-intention
 eu_methodology_characteristics: global_indicators.7-30-methodology
