@@ -58,3 +58,6 @@ PC_IND: Percentage of individuals
 PC: Percentage of total population
 PC_INAC_WWRK: Percentage of population outside the labour force and wanting to work
 PC_WMN: Percentage of women
+CLV20_EUR_HAB:  Chain linked volumes (2020), euro per capita
+CLV_PCH_PRE_HAB: Chain linked volumes, percentage change on previous period, per capita
+
