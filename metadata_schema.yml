@@ -1014,13 +1014,13 @@ prose:
       - name: "national_indicator_definition"
         field:
           element: text
-          label: "global_indicators.indicator_definition"
+          label: "global_indicators.definition-label"
           translation_key: global_indicators.national_indicator_definition
           scope: national
       - name: "national_rationale"
         field:
           element: text
-          label: "global_indicators.rationale-label"
+          label: "global_indicators.intention-label"
           translation_key: global_indicators.national_rationale
           scope: national
       - name: "national_methodology_characteristics"
