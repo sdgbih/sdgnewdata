@@ -454,6 +454,7 @@ metadata-footer-label: National reference metadata
 7-10-methodology: >-
   The European Green Deal includes energy efficiency as a key measure for reducing cross-sectoral GHG emissions. Energy efficiency and Renewable energy Directives set ambitious EU targets to be reached by 2030.
 7-10-long_term_objective: >-
+  No description
 7-20-title: Final energy consumption in households per capita
 7-20-definition: >-
   The indicator measures how much energy every citizen consumes at home excluding energy used for transportation. Since the indicator refers to final energy consumption, only energy used by end consumers is considered. The related consumption of the energy sector itself is excluded.
@@ -462,6 +463,7 @@ metadata-footer-label: National reference metadata
 7-20-methodology: >-
   SDG 7 calls for ensuring universal access to modern energy services, improving energy efficiency and increasing the share of renewable energy. To accelerate the transition to an affordable, reliable, and sustainable energy system, countries need to facilitate access to clean energy research, promote investment in energy infrastructure and clean energy technology. Households account for about a quarter of final energy consumption. At home, people use electricity and fuels in particular for heating, cooling, warm water, lighting and appliances
 7-20-long_term_objective: >-
+  No description
 7-30-title: Energy productivity
 7-30-definition: >-
   The indicator measures the amount of economic output that is produced per unit of gross available energy. The gross available energy represents the quantity of energy products necessary to satisfy all demand of entities in the geographical area under consideration. The economic output is either given as in the unit of Euros in chain-linked volumes to the reference year 2010 at 2010 exchange rates or in the unit PPS (Purchasing Power Standard).
@@ -473,6 +475,7 @@ metadata-footer-label: National reference metadata
   SDG7 is embedded in the European Commission’s Priorities under 'Supporting people, strengthening our societies and our social model'.
   SDG 7 calls for ensuring universal access to modern energy services, improving energy efficiency and increasing the share of renewable energy. To accelerate the transition to an affordable, reliable, and sustainable energy system, countries need to facilitate access to clean energy research, promote investment in energy infrastructure and clean energy technology. SDG 12 calls for a comprehensive set of actions from businesses, policy-makers, researchers and consumers to adapt to sustainable practices. It envisions sustainable production and consumption based on advanced technological capacity, resource efficiency and reduced global waste.
 7-30-long_term_objective: >-
+  No description
 7-40-title: Share of renewable energy in gross final energy consumption
 7-40-definition: >-
   The indicator measures the share of renewable energy consumption in gross final energy consumption according to the Renewable Energy Directive. The gross final energy consumption is the energy used by end-consumers (final energy consumption) plus grid losses and self-consumption of power plants.
@@ -487,16 +490,17 @@ metadata-footer-label: National reference metadata
 7-50-definition: >-
   The indicator shows the share of total energy needs of a country met by imports from other countries. It is calculated as net imports divided by the gross available energy. Energy dependence = (imports – exports) / gross available energy.
 7-50-intention: >-
-  Indicator is used to monitor progress towards SDG 7 on affordable and clean energy; which is embedded in the European Commission’s Priorities under 'Supporting people, strengthening our societies and our social model'.
+  Indicator is used to monitor progress towards SDG 7 on affordable and clean energy, which is embedded in the European Commission’s Priorities under 'Supporting people, strengthening our societies and our social model'.
   To accelerate the transition to an affordable, reliable, and sustainable energy system, countries need to facilitate access to clean energy research, promote investment in energy infrastructure and clean energy technology. Energy dependence on imports of energy carriers exposes the European economy to volatile world market prices and the risk of supply shortages, for example, due to geopolitical conflicts. The risks increase with dependency on single countries e.g. determined by the supply infrastructure.
 7-50-methodology: >-
   There are several relevant EU policies for this indicator. The Energy Security Strategy outlines the need to enhance domestic energy production, including the need to increase local renewable energy production, energy efficiency and provide missing infrastructure. Moreover, EU cohesion policy funds (2021–2027) including the ‘Next Generation EU’ recovery plan provide funding for investments in renewable energies. REPowerEU is a new strategic plan on reducing the EU’s dependence on energy imports, particularly from Russia, due to insecurity and high prices following Russia’s invasion of Ukraine. In addition, the revised Energy efficiency and Renewable energy Directives set ambitious EU targets to be reached by 2030.
 7-50-long_term_objective: >-
+  No description
 7-60-title: Population unable to keep home adequately warm
 7-60-definition: >-
   The indicator measures the share of population who are unable to afford to keep home adequately warm. Data for this indicator are being collected as part of the European Union Statistics on Income and Living Conditions (EU-SILC) to monitor the development of poverty and social inclusion in the EU. The data collection is based on a survey, which means that indicator values are self-reported.
 7-60-intention: >-
-  Indicator is used to monitor progress towards SDG 7 on affordable and clean energy; which is embedded in the European Commission’s Priorities under 'Supporting people, strengthening our societies and our social model'.
+  Indicator is used to monitor progress towards SDG 7 on affordable and clean energy, which is embedded in the European Commission’s Priorities under 'Supporting people, strengthening our societies and our social model'.
   To accelerate the transition to an affordable, reliable, and sustainable energy system, countries need to facilitate access to clean energy research, promote investment in energy infrastructure and clean energy technology.
   The European Pillar of Social Rights lists energy among the essential services that everyone should have access to. With EU Energy Poverty Observatory, the EU seeks to help Member States in their efforts to decrease energy poverty and ensure access to affordable energy.
 7-60-methodology: >-
