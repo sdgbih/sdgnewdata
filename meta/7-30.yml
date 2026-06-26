@@ -9,6 +9,9 @@ indicator_name: global_indicators.7-30-title
 source_active_1: true
 source_organisation_1: Eurostat, Energy balance
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_07_30/default/table'
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_07_30_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_07_30)</a>'
 graph_titles:
 - series: SERIES.sdg_07_30
   title: SERIES.sdg_07_30
