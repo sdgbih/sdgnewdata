@@ -1,14 +1,15 @@
 Indicator,Disaggregations,Number of disaggregations
 #2-10,Body_Mass_Index,1
-#4-10,"Labour_force_and_employment_status, AGE, SEX",3
-#4-20,"AGE, SEX, EDUCATION_LEV",3
-#4-60,"AGE, SEX",2
-#4-70,"AGE, SEX, Type_of_skill",3
-#5-30,"Labour_force_and_employment_status, AGE",2
-#5-40,"AGE, SEX, Reason",3
+#4-10,"SEX, AGE, Labour_force_and_employment_status",3
+#4-20,"SEX, AGE, EDUCATION_LEV",3
+#4-60,"SEX, AGE",2
+#4-70,"SEX, AGE, Type_of_skill",3
+#5-30,"AGE, Labour_force_and_employment_status",2
+#5-40,"SEX, AGE, Reason",3
 #5-50,"SEX, ORG_INST",2
-#5-60,"PROF_POS, SEX",2
+#5-60,"SEX, PROF_POS",2
 #6-20,WW_TP,1
 #6-60,STATINFO,1
 #7-40,Energy_balance,1
 #7-50,Standard_international_energy_product_ classification,1
+#8-20,"SEX, AGE",2

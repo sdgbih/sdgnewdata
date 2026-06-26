@@ -1,10 +1,16 @@
-Year,Value
-2015,72.0
-2016,74.5
-2017,72.0
-2018,74.5
-2019,77.0
-2020,79.5
-2021,82.0
-2022,79.5
-2023,82.0
+Year,SERIES,Spol,Godine,UNIT_MEASURE,Value
+2021,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Oba pola,od 20 do 64 godine,Procenat ukupnog stanovništva,25.1
+2022,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Oba pola,od 20 do 64 godine,Procenat ukupnog stanovništva,23.5
+2023,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Oba pola,od 20 do 64 godine,Procenat ukupnog stanovništva,22.2
+2024,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Oba pola,od 20 do 64 godine,Procenat ukupnog stanovništva,20.1
+2025,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Oba pola,od 20 do 64 godine,Procenat ukupnog stanovništva,20.0
+2021,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Muškarci,od 20 do 64 godine,Procenat ukupnog stanovništva,21.6
+2022,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Muškarci,od 20 do 64 godine,Procenat ukupnog stanovništva,19.8
+2023,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Muškarci,od 20 do 64 godine,Procenat ukupnog stanovništva,18.8
+2024,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Muškarci,od 20 do 64 godine,Procenat ukupnog stanovništva,16.6
+2025,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Muškarci,od 20 do 64 godine,Procenat ukupnog stanovništva,16.4
+2021,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Žene,od 20 do 64 godine,Procenat ukupnog stanovništva,28.8
+2022,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Žene,od 20 do 64 godine,Procenat ukupnog stanovništva,27.4
+2023,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Žene,od 20 do 64 godine,Procenat ukupnog stanovništva,25.9
+2024,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Žene,od 20 do 64 godine,Procenat ukupnog stanovništva,23.8
+2025,Mladi koji nisu zaposleni niti uključeni u obrazovanje ili obuku,Žene,od 20 do 64 godine,Procenat ukupnog stanovništva,23.9
