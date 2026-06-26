@@ -266,7 +266,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "od 20 do 64 godine",
+                "Od 15 do 29 godina",
                 ""
               ]
             },
