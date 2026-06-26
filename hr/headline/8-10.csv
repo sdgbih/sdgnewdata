@@ -1,10 +1,30 @@
-Year,Value
-2015,56.0
-2016,55.8
-2017,55.6
-2018,55.4
-2019,50.2
-2020,50.0
-2021,49.8
-2022,49.6
-2023,49.4
+Year,Value,UNIT_MEASURE,SERIES
+2010,4.2,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2011,4.24,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2012,4.21,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2013,4.32,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2014,4.37,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2015,4.57,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2016,4.73,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2017,4.89,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2018,5.09,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2019,5.24,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2020,5.11,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2021,5.52,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2022,5.79,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2023,5.92,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2024,6.13,"Lančano povezani obimi (2020), euro po glavi stanovnika",Stvarni BDP po stanovniku
+2011,1.0,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2012,-0.7,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2013,2.5,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2014,1.3,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2015,4.5,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2016,3.4,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2017,3.5,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2018,4.1,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2019,3.0,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2020,-2.6,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2021,8.1,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2022,4.8,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2023,2.4,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
+2024,3.5,"Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",Stvarni BDP po stanovniku
