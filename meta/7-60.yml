@@ -9,13 +9,16 @@ indicator_name: global_indicators.7-60-title
 source_active_1: true
 source_organisation_1: ESS ( SILC)
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_07_60/default/table'
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_07_60_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_07_60)</a>'
 graph_titles:
 - series: SERIES.sdg_07_60
   title: SERIES.sdg_07_60
-indicator_definition: global_indicators.7-60-definition
-rationale: global_indicators.7-60-intention
-methodology_characteristics: global_indicators.7-60-methodology
-long_objective: global_indicators.7-60-long_term_objective
+national_indicator_definition: global_indicators.7-60-definition
+national_rationale: global_indicators.2-10-intention
+national_methodology_characteristics: global_indicators.7-60-methodology
+national_long_objective: global_indicators.7-60-long_term_objective
 eu_indicator_definition: global_indicators.7-60-definition
 eu_rationale: global_indicators.7-60-intention
 eu_methodology_characteristics: global_indicators.7-60-methodology
