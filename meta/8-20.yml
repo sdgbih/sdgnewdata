@@ -5,18 +5,20 @@ sdg_goal: '8'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '08-20'
-
+indicator_name: global_indicators.8-20-title
 source_active_1: true
 source_organisation_1: ESS (LFS)
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_08_20/default/table'
 footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_08_20_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_08_20)</a>'
-
-indicator_definition: global_indicators.8-20-definition
-rationale: global_indicators.8-20-intention
-methodology_characteristics: global_indicators.8-20-methodology
-long_objective: global_indicators.8-10-long_term_objectiv
+graph_titles:
+- series: SERIES.sdg_08_20
+  title: SERIES.sdg_08_20
+national_indicator_definition: global_indicators.8-20-definition
+national_rationale: global_indicators.8-20-intention
+national_methodology_characteristics: global_indicators.8-20-methodology
+national_long_objective: global_indicators.8-10-long_term_objective
 eu_indicator_definition: global_indicators.8-20-definition
 eu_rationale: global_indicators.8-20-intention
 eu_methodology_characteristics: global_indicators.8-20-methodology
