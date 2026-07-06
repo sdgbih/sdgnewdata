@@ -1845,6 +1845,31 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SECTPERF",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All sectors",
+                "Business enterprise sector",
+                "Government sector",
+                "Higher education sector",
+                "Private non-profit sector",
+                ""
+              ]
+            },
+            "title": "Sector of performance"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
