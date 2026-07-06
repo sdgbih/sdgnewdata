@@ -62,5 +62,5 @@ CLV20_EUR_HAB:  Chain linked volumes (2020), euro per capita
 CLV_PCH_PRE_HAB: Chain linked volumes, percentage change on previous period, per capita
 PC_ACT: Percentage of population in the labour force
 PC_GDP: Percentage of gross domestic product (GDP)
-PC_ACT_FTE: Проценат становништва у радној снази - бројилац у еквиваленту пуног радног времена (FTE)
-NUMBER_ACT_FTE: Укупан број (истраживачи, техничко особље, остало особље)
+PC_ACT_FTE: Percentage of population in the labour force - numerator in full - time equivalent (FTE)
+NUMBER_ACT_FTE: Тotal number (researchers, technical staff, other staff)
