@@ -444,6 +444,42 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Serije"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba pola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "SECTPERF",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Svi sektori",
+                "Poslovni sektor",
+                "Vladin sektor",
+                "Sektor visokog obrazovanja",
+                "Privatni neprofitni sektor",
+                ""
+              ]
+            },
+            "title": "Sektor performansi"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

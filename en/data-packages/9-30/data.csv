@@ -1,10 +1,14 @@
-Year,Value
-2015,47.0
-2016,48.8
-2017,45.6
-2018,47.4
-2019,49.2
-2020,51.0
-2021,52.8
-2022,49.6
-2023,51.4
+Year,SERIES,Sex,Sector of performance,UNIT_MEASURE,Value
+2017,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",3489.0
+2018,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",2853.0
+2019,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",2883.0
+2020,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",2541.0
+2021,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",2492.0
+2022,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",2793.0
+2023,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",3631.0
+2024,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",3453.0
+2021,R&D personnel,Both sexes,All sectors,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.14
+2021,R&D personnel,Both sexes,Business enterprise sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.03
+2021,R&D personnel,Both sexes,Government sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.01
+2021,R&D personnel,Both sexes,Higher education sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.01
+2021,R&D personnel,Both sexes,Private non-profit sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.0

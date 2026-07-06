@@ -7,8 +7,8 @@ Labour_force_and_employment_status,2,8
 ORG_INST,1,2
 PROF_POS,1,2
 Reason,1,1
-SECTPERF,1,5
-SEX,10,3
+SECTPERF,2,5
+SEX,11,3
 Standard_international_energy_product_ classification,1,4
 STATINFO,1,2
 Type_of_skill,1,1
