@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2016,2017,2018,2019,2020,2021,2022,2023],"Value":[23.0,24.8,26.6,28.4,30.2,27.0,28.8,30.6,32.4]},"edges":[]}
+{"data":{"Year":[2021,2022,2023,2024,2025],"SERIES":["sdg_08_40","sdg_08_40","sdg_08_40","sdg_08_40","sdg_08_40"],"SEX":["BOTHSEX","BOTHSEX","BOTHSEX","BOTHSEX","BOTHSEX"],"AGE":["Y15-74","Y15-74","Y15-74","Y15-74","Y15-74"],"UNIT_MEASURE":["PC_ACT","PC_ACT","PC_ACT","PC_ACT","PC_ACT"],"Value":[13.4,11.4,9.6,9.0,9.1]},"edges":{"From":["SEX"],"To":["AGE"]}}

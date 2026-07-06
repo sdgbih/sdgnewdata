@@ -1,10 +1,6 @@
-Year,Value
-2015,23.0
-2016,24.8
-2017,26.6
-2018,28.4
-2019,30.2
-2020,27.0
-2021,28.8
-2022,30.6
-2023,32.4
+Year,SERIES,Spol,Godine,UNIT_MEASURE,Value
+2021,"Stopa dugotrajne nezaposlenosti, po polu",Oba pola,Od 15 do 74 godine,Procenat stanovništva u radnoj snazi,13.4
+2022,"Stopa dugotrajne nezaposlenosti, po polu",Oba pola,Od 15 do 74 godine,Procenat stanovništva u radnoj snazi,11.4
+2023,"Stopa dugotrajne nezaposlenosti, po polu",Oba pola,Od 15 do 74 godine,Procenat stanovništva u radnoj snazi,9.6
+2024,"Stopa dugotrajne nezaposlenosti, po polu",Oba pola,Od 15 do 74 godine,Procenat stanovništva u radnoj snazi,9.0
+2025,"Stopa dugotrajne nezaposlenosti, po polu",Oba pola,Od 15 do 74 godine,Procenat stanovništva u radnoj snazi,9.1
