@@ -1,15 +1,17 @@
 indicator_number: 2.60
-reporting_status: notstarted
+reporting_status: complete
 published: true
 sdg_goal: '2'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '02-60'
-
+indicator_name: global_indicators.2-60-title
 source_active_1: true
 source_organisation_1: EEA (CLRTAP)
-source_url_1: ''
-
+source_url_1: 'https://www.ceicdata.com/en/bosnia-and-herzegovina/environmental-air-pollutant-emissions-by-sources-non-oecd-member-annual/ammonia-total-man-made-emissions-stationary-sources-agriculture'
+graph_titles:
+- series: SERIES.sdg_02_60
+  title: SERIES.sdg_02_60
 indicator_definition: global_indicators.2-60-definition
 rationale: global_indicators.2-60-intention
 methodology_characteristics: global_indicators.2-60-methodology
