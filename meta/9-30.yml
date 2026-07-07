@@ -7,7 +7,7 @@ graph_type: line
 indicator_sort_order: '09-30'
 indicator_name: global_indicators.9-30-title
 source_active_1: true
-source_organisation_1: R&D 2025
+source_organisation_1: BHAS
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_09_30/default/table'
 graph_titles:
 - series: SERIES.sdg_09_30
