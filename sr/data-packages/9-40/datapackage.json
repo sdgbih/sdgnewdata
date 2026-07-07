@@ -16,6 +16,28 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "COOP_PTN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проналазач",
+                "Подносилац захтева",
+                ""
+              ]
+            },
+            "title": "Партнери за сарадњу"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

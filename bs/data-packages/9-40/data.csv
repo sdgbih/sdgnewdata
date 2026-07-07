@@ -1,10 +1,61 @@
-Year,Value
-2015,55.0
-2016,52.5
-2017,55.0
-2018,57.5
-2019,60.0
-2020,62.5
-2021,60.0
-2022,62.5
-2023,65.0
+Year,SERIES,Partneri za saradnju,UNIT_MEASURE,Value
+2011,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,1.0
+2012,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,1.0
+2013,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,2.0
+2014,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,3.0
+2015,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,2.0
+2016,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,1.0
+2017,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,2.0
+2018,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,4.0
+2019,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,3.0
+2020,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,4.0
+2021,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,0.0
+2022,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,8.0
+2023,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,9.0
+2024,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,6.0
+2025,Prijave patenata Evropskom uredu za patente,Pronalazač,Broj,4.0
+2011,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,0.27
+2012,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,0.27
+2013,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,0.53
+2014,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,0.79
+2015,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,0.55
+2016,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,0.29
+2017,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,0.58
+2018,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,1.15
+2019,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,
+2020,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,
+2021,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,
+2022,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,2.32
+2023,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,2.63
+2024,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,1.76
+2025,Prijave patenata Evropskom uredu za patente,Pronalazač,Na milion stanovnika,
+2011,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,1.0
+2012,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,1.0
+2013,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,2.0
+2014,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,3.0
+2015,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,2.0
+2016,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,1.0
+2017,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,2.0
+2018,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,4.0
+2019,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,3.0
+2020,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,4.0
+2021,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,0.0
+2022,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,8.0
+2023,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,9.0
+2024,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,6.0
+2025,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Broj,4.0
+2011,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,0.0
+2012,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,0.79
+2013,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,0.27
+2014,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,0.0
+2015,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,0.0
+2016,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,0.57
+2017,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,0.0
+2018,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,0.29
+2019,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,
+2020,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,
+2021,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,
+2022,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,2.03
+2023,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,2.34
+2024,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,1.76
+2024,Prijave patenata Evropskom uredu za patente,Podnosilac zahtjeva,Na milion stanovnika,

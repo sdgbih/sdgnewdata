@@ -3071,6 +3071,28 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "COOP_PTN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inventor",
+                "Applicant",
+                ""
+              ]
+            },
+            "title": "Cooperation partners"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
