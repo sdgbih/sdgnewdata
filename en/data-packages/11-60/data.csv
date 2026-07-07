@@ -1,10 +1,7 @@
-Year,Value
-2015,27.0
-2016,29.5
-2017,27.0
-2018,29.5
-2019,32.0
-2020,34.5
-2021,37.0
-2022,34.5
-2023,37.0
+Year,SERIES,UNIT_MEASURE,Value
+2018,Recycling rate of municipal waste,Percent,0.0
+2019,Recycling rate of municipal waste,Percent,0.0
+2021,Recycling rate of municipal waste,Percent,0.5
+2022,Recycling rate of municipal waste,Percent,0.8
+2023,Recycling rate of municipal waste,Percent,1.0
+2024,Recycling rate of municipal waste,Percent,1.0
