@@ -16,6 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "INDIC_PPP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Real expenditure per capita (in PPS_EU27_2020)",
+                "Volume indices of real expenditure per capita (in PPS_EU27_2020=100)",
+                ""
+              ]
+            },
+            "title": "Purchasing power parities indicator"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

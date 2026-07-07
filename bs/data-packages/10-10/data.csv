@@ -1,10 +1,21 @@
-Year,Value
-2015,69.0
-2016,68.8
-2017,68.6
-2018,63.4
-2019,63.2
-2020,63.0
-2021,62.8
-2022,62.6
-2023,57.4
+Year,SERIES,Indikator pariteta kupovne moći,UNIT_MEASURE,Value
+2016,BDP po glavi stanovnika prilagođen kupovnoj moći,Realni rashodi po glavi stanovnika (u PPS_EU27_2020),Procenat,8.9
+2017,BDP po glavi stanovnika prilagođen kupovnoj moći,Realni rashodi po glavi stanovnika (u PPS_EU27_2020),Procenat,9.2
+2018,BDP po glavi stanovnika prilagođen kupovnoj moći,Realni rashodi po glavi stanovnika (u PPS_EU27_2020),Procenat,9.8
+2019,BDP po glavi stanovnika prilagođen kupovnoj moći,Realni rashodi po glavi stanovnika (u PPS_EU27_2020),Procenat,10.2
+2020,BDP po glavi stanovnika prilagođen kupovnoj moći,Realni rashodi po glavi stanovnika (u PPS_EU27_2020),Procenat,9.9
+2021,BDP po glavi stanovnika prilagođen kupovnoj moći,Realni rashodi po glavi stanovnika (u PPS_EU27_2020),Procenat,11.0
+2022,BDP po glavi stanovnika prilagođen kupovnoj moći,Realni rashodi po glavi stanovnika (u PPS_EU27_2020),Procenat,12.5
+2023,BDP po glavi stanovnika prilagođen kupovnoj moći,Realni rashodi po glavi stanovnika (u PPS_EU27_2020),Procenat,13.6
+2024,BDP po glavi stanovnika prilagođen kupovnoj moći,Realni rashodi po glavi stanovnika (u PPS_EU27_2020),Procenat,14.6
+2025,BDP po glavi stanovnika prilagođen kupovnoj moći,Realni rashodi po glavi stanovnika (u PPS_EU27_2020),Procenat,15.1
+2016,BDP po glavi stanovnika prilagođen kupovnoj moći,Indeksi obima realnih rashoda po glavi stanovnika (u PPS_EU27_2020=100),Procenat,31.0
+2017,BDP po glavi stanovnika prilagođen kupovnoj moći,Indeksi obima realnih rashoda po glavi stanovnika (u PPS_EU27_2020=100),Procenat,31.0
+2018,BDP po glavi stanovnika prilagođen kupovnoj moći,Indeksi obima realnih rashoda po glavi stanovnika (u PPS_EU27_2020=100),Procenat,32.0
+2019,BDP po glavi stanovnika prilagođen kupovnoj moći,Indeksi obima realnih rashoda po glavi stanovnika (u PPS_EU27_2020=100),Procenat,32.0
+2020,BDP po glavi stanovnika prilagođen kupovnoj moći,Indeksi obima realnih rashoda po glavi stanovnika (u PPS_EU27_2020=100),Procenat,33.0
+2021,BDP po glavi stanovnika prilagođen kupovnoj moći,Indeksi obima realnih rashoda po glavi stanovnika (u PPS_EU27_2020=100),Procenat,33.0
+2022,BDP po glavi stanovnika prilagođen kupovnoj moći,Indeksi obima realnih rashoda po glavi stanovnika (u PPS_EU27_2020=100),Procenat,35.0
+2023,BDP po glavi stanovnika prilagođen kupovnoj moći,Indeksi obima realnih rashoda po glavi stanovnika (u PPS_EU27_2020=100),Procenat,35.0
+2024,BDP po glavi stanovnika prilagođen kupovnoj moći,Indeksi obima realnih rashoda po glavi stanovnika (u PPS_EU27_2020=100),Procenat,37.0
+2025,BDP po glavi stanovnika prilagođen kupovnoj moći,Indeksi obima realnih rashoda po glavi stanovnika (u PPS_EU27_2020=100),Procenat,36.0

@@ -15,6 +15,25 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "INDIC_PPP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EXP_PPS_EU27_2020_HAB",
+                "VI_PPS_EU27_2020_HAB",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }

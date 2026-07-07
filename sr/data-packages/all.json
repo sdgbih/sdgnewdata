@@ -1075,6 +1075,28 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "INDIC_PPP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Реални расходи по глави становника (у PPS_EU27_2020)",
+                "Индекси обима реалних расхода по глави становника (у PPS_EU27_2020=100)",
+                ""
+              ]
+            },
+            "title": "Индикатор паритета куповне моћи"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

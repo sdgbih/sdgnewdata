@@ -1075,6 +1075,28 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "INDIC_PPP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Realni rashodi po stanovniku (u PPS_EU27_2020)",
+                "Indeksi volumena realnih rashoda po stanovniku (u PPS_EU27_2020=100)",
+                ""
+              ]
+            },
+            "title": "Pokazatelj pariteta kupovne moći"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
