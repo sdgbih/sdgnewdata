@@ -12,10 +12,10 @@ source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_09_40/default/
 graph_titles:
 - series: SERIES.sdg_09_40
   title: SERIES.sdg_09_40
-indicator_definition: global_indicators.9-40-definition
-rationale: global_indicators.9-40-intention
-methodology_characteristics: global_indicators.9-40-methodology
-long_objective: global_indicators.9-40-long_term_objective
+national_indicator_definition: global_indicators.9-40-definition
+national_rationale: global_indicators.9-40-intention
+national_methodology_characteristics: global_indicators.9-40-methodology
+national_long_objective: global_indicators.9-40-long_term_objective
 eu_indicator_definition: global_indicators.9-40-definition
 eu_rationale: global_indicators.9-40-intention
 eu_methodology_characteristics: global_indicators.9-40-methodology
