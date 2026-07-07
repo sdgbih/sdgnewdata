@@ -1,10 +1,7 @@
-Year,Value
-2015,63.0
-2016,65.5
-2017,68.0
-2018,70.5
-2019,73.0
-2020,70.5
-2021,73.0
-2022,75.5
-2023,78.0
+Year,SERIES,UNIT_MEASURE,Value
+2006,Indeks prekrivanja tla,Kvadratni metri po glavi stanovnika,147.79
+2009,Indeks prekrivanja tla,Kvadratni metri po glavi stanovnika,148.28
+2012,Indeks prekrivanja tla,Kvadratni metri po glavi stanovnika,149.32
+2015,Indeks prekrivanja tla,Kvadratni metri po glavi stanovnika,157.46
+2018,Indeks prekrivanja tla,Kvadratni metri po glavi stanovnika,166.75
+2021,Indeks prekrivanja tla,Kvadratni metri po glavi stanovnika,170.77
