@@ -1,10 +1,15 @@
-Year,Value
-2015,79.0
-2016,80.8
-2017,82.6
-2018,79.4
-2019,81.2
-2020,83.0
-2021,84.8
-2022,86.6
-2023,83.4
+Year,SERIES,UNIT_MEASURE,Value
+2010,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,6311
+2011,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,6868
+2012,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,5127
+2013,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,4002
+2014,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,3899
+2015,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,5048
+2016,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,6999
+2017,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,5888
+2018,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,6864
+2019,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,5483
+2020,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,7920
+2021,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,7851
+2022,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,6038
+2023,"Prerane smrti zbog izloženosti finim česticama (PM2,5)",Broj,4783

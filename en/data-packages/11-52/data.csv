@@ -1,10 +1,15 @@
-Year,Value
-2015,79.0
-2016,80.8
-2017,82.6
-2018,79.4
-2019,81.2
-2020,83.0
-2021,84.8
-2022,86.6
-2023,83.4
+Year,SERIES,UNIT_MEASURE,Value
+2010,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,6311
+2011,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,6868
+2012,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,5127
+2013,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,4002
+2014,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,3899
+2015,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,5048
+2016,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,6999
+2017,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,5888
+2018,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,6864
+2019,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,5483
+2020,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,7920
+2021,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,7851
+2022,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,6038
+2023,Premature deaths due to exposure to fine particulate matter (PM2.5),Number,4783

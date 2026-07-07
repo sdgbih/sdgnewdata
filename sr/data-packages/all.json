@@ -114,8 +114,18 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
