@@ -1,10 +1,7 @@
-Year,Value
-2015,71.0
-2016,70.8
-2017,70.6
-2018,70.4
-2019,65.2
-2020,65.0
-2021,64.8
-2022,64.6
-2023,64.4
+Year,SERIES,UNIT_MEASURE,Value
+2019,Road traffic deaths,Number,261
+2020,Road traffic deaths,Number,244
+2021,Road traffic deaths,Number,255
+2022,Road traffic deaths,Number,222
+2023,Road traffic deaths,Number,255
+2024,Road traffic deaths,Number,222

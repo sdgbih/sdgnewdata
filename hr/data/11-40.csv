@@ -1,10 +1,7 @@
-Year,Value
-2015,71.0
-2016,70.8
-2017,70.6
-2018,70.4
-2019,65.2
-2020,65.0
-2021,64.8
-2022,64.6
-2023,64.4
+Year,SERIES,UNIT_MEASURE,Value
+2019,Smrtnost u cestovnom prometu,Broj,261
+2020,Smrtnost u cestovnom prometu,Broj,244
+2021,Smrtnost u cestovnom prometu,Broj,255
+2022,Smrtnost u cestovnom prometu,Broj,222
+2023,Smrtnost u cestovnom prometu,Broj,255
+2024,Smrtnost u cestovnom prometu,Broj,222
