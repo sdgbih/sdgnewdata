@@ -1,10 +1,27 @@
-Year,Value
-2015,37.0
-2016,36.8
-2017,31.6
-2018,31.4
-2019,31.2
-2020,31.0
-2021,30.8
-2022,25.6
-2023,25.4
+Year,SERIES,Statistical information,UNIT_MEASURE,Value
+2010,Climate-related economic losses,Annual value,Million euro at constant prices,488.0
+2015,Climate-related economic losses,Annual value,Million euro at constant prices,215.0
+2019,Climate-related economic losses,Annual value,Million euro at constant prices,22.0
+2020,Climate-related economic losses,Annual value,Million euro at constant prices,16.0
+2022,Climate-related economic losses,Annual value,Million euro at constant prices,6.0
+2023,Climate-related economic losses,Annual value,Million euro at constant prices,11.0
+2010,Climate-related economic losses,Annual value,Euro per inhabitant (at constant prices),126.96
+2015,Climate-related economic losses,Annual value,Euro per inhabitant (at constant prices),58.57
+2019,Climate-related economic losses,Annual value,Euro per inhabitant (at constant prices),6.3
+2020,Climate-related economic losses,Annual value,Euro per inhabitant (at constant prices),4.59
+2022,Climate-related economic losses,Annual value,Euro per inhabitant (at constant prices),1.74
+2023,Climate-related economic losses,Annual value,Euro per inhabitant (at constant prices),3.21
+2010,Climate-related economic losses,Thirty-year average,Million euro at constant prices,45.0
+2015,Climate-related economic losses,Thirty-year average,Million euro at constant prices,161.0
+2019,Climate-related economic losses,Thirty-year average,Million euro at constant prices,161.0
+2020,Climate-related economic losses,Thirty-year average,Million euro at constant prices,162.0
+2022,Climate-related economic losses,Thirty-year average,Million euro at constant prices,162.0
+2023,Climate-related economic losses,Thirty-year average,Million euro at constant prices,162.0
+2024,Climate-related economic losses,Thirty-year average,Million euro at constant prices,178.0
+2010,Climate-related economic losses,Thirty-year average,Euro per inhabitant (at constant prices),11.73
+2015,Climate-related economic losses,Thirty-year average,Euro per inhabitant (at constant prices),43.84
+2019,Climate-related economic losses,Thirty-year average,Euro per inhabitant (at constant prices),46.19
+2020,Climate-related economic losses,Thirty-year average,Euro per inhabitant (at constant prices),46.47
+2022,Climate-related economic losses,Thirty-year average,Euro per inhabitant (at constant prices),46.94
+2023,Climate-related economic losses,Thirty-year average,Euro per inhabitant (at constant prices),47.37
+2024,Climate-related economic losses,Thirty-year average,Euro per inhabitant (at constant prices),52.08

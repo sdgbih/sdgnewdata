@@ -999,6 +999,28 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "STATINFO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual value",
+                "Thirty-year average",
+                ""
+              ]
+            },
+            "title": "Statistical information"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
