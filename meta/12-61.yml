@@ -1,6 +1,6 @@
 indicator_number: 12.61
-reporting_status: complete
-published: true
+reporting_status: notstarted
+published: false
 sdg_goal: '12'
 data_non_statistical: false
 graph_type: line
@@ -13,7 +13,7 @@ source_url_1: ''
 indicator_definition: global_indicators.12-61-definition
 rationale: global_indicators.12-61-intention
 methodology_characteristics: global_indicators.12-61-methodology
-long_objective: global_indicators.12-10-long_term_objectiv
+long_objective: global_indicators.12-10-long_term_objective
 eu_indicator_definition: global_indicators.12-61-definition
 eu_rationale: global_indicators.12-61-intention
 eu_methodology_characteristics: global_indicators.12-61-methodology
