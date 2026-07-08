@@ -1,19 +1,19 @@
-Year,SERIES,HAZARD_WASTE,UNIT_MEASURE,Value
-2012,Nastali opasni otpad,HAZ_NHAZ,Kilogrami po glavi stanovnika,1161
-2014,Nastali opasni otpad,HAZ_NHAZ,Kilogrami po glavi stanovnika,1447
-2016,Nastali opasni otpad,HAZ_NHAZ,Kilogrami po glavi stanovnika,1744
-2018,Nastali opasni otpad,HAZ_NHAZ,Kilogrami po glavi stanovnika,1930
-2020,Nastali opasni otpad,HAZ_NHAZ,Kilogrami po glavi stanovnika,1835
-2022,Nastali opasni otpad,HAZ_NHAZ,Kilogrami po glavi stanovnika,2047
-2012,Nastali opasni otpad,HAZ,Kilogrami po glavi stanovnika,246
-2014,Nastali opasni otpad,HAZ,Kilogrami po glavi stanovnika,2
-2016,Nastali opasni otpad,HAZ,Kilogrami po glavi stanovnika,4
-2018,Nastali opasni otpad,HAZ,Kilogrami po glavi stanovnika,4
-2020,Nastali opasni otpad,HAZ,Kilogrami po glavi stanovnika,3
-2022,Nastali opasni otpad,HAZ,Kilogrami po glavi stanovnika,4
-2012,Nastali opasni otpad,NHAZ,Kilogrami po glavi stanovnika,915
-2014,Nastali opasni otpad,NHAZ,Kilogrami po glavi stanovnika,1445
-2016,Nastali opasni otpad,NHAZ,Kilogrami po glavi stanovnika,1740
-2018,Nastali opasni otpad,NHAZ,Kilogrami po glavi stanovnika,1926
-2020,Nastali opasni otpad,NHAZ,Kilogrami po glavi stanovnika,1832
-2022,Nastali opasni otpad,NHAZ,Kilogrami po glavi stanovnika,2044
+Year,SERIES,Klasa opasnog otpada,UNIT_MEASURE,Value
+2012,Nastali opasni otpad,"Opasan i neopasan otpad, ukupno",Kilogrami po glavi stanovnika,1161
+2014,Nastali opasni otpad,"Opasan i neopasan otpad, ukupno",Kilogrami po glavi stanovnika,1447
+2016,Nastali opasni otpad,"Opasan i neopasan otpad, ukupno",Kilogrami po glavi stanovnika,1744
+2018,Nastali opasni otpad,"Opasan i neopasan otpad, ukupno",Kilogrami po glavi stanovnika,1930
+2020,Nastali opasni otpad,"Opasan i neopasan otpad, ukupno",Kilogrami po glavi stanovnika,1835
+2022,Nastali opasni otpad,"Opasan i neopasan otpad, ukupno",Kilogrami po glavi stanovnika,2047
+2012,Nastali opasni otpad,Opasan otpad,Kilogrami po glavi stanovnika,246
+2014,Nastali opasni otpad,Opasan otpad,Kilogrami po glavi stanovnika,2
+2016,Nastali opasni otpad,Opasan otpad,Kilogrami po glavi stanovnika,4
+2018,Nastali opasni otpad,Opasan otpad,Kilogrami po glavi stanovnika,4
+2020,Nastali opasni otpad,Opasan otpad,Kilogrami po glavi stanovnika,3
+2022,Nastali opasni otpad,Opasan otpad,Kilogrami po glavi stanovnika,4
+2012,Nastali opasni otpad,Neopasan otpad,Kilogrami po glavi stanovnika,915
+2014,Nastali opasni otpad,Neopasan otpad,Kilogrami po glavi stanovnika,1445
+2016,Nastali opasni otpad,Neopasan otpad,Kilogrami po glavi stanovnika,1740
+2018,Nastali opasni otpad,Neopasan otpad,Kilogrami po glavi stanovnika,1926
+2020,Nastali opasni otpad,Neopasan otpad,Kilogrami po glavi stanovnika,1832
+2022,Nastali opasni otpad,Neopasan otpad,Kilogrami po glavi stanovnika,2044

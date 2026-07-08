@@ -1854,13 +1854,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HAZ_NHAZ",
-                "HAZ",
-                "NHAZ",
+                "Opasan i neopasan otpad, ukupno",
+                "Opasan otpad",
+                "Neopasan otpad",
                 ""
               ]
             },
-            "title": "HAZARD_WASTE"
+            "title": "Klasa opasnog otpada"
           },
           {
             "name": "UNIT_MEASURE",
