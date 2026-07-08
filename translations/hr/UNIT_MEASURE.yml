@@ -66,3 +66,5 @@ NUMBER_ACT_FTE: Ukupan broj (istraživači, tehničko osoblje, ostalo osoblje)
 M2_HAB: Kvadratni metri po glavi stanovnika
 RT: Stopa
 KG_HAB: Kilogrami po glavi stanovnika
+MEUR_KP: Milijun eura u stalnim cijenama
+EUR_HAB_KP: Euro po stanovniku (u stalnim cijenama)
