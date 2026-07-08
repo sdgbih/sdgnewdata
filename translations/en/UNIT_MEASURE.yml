@@ -3,9 +3,9 @@ CON_USD: Constant USD
 CON_USD_M: Millions of constant United States dollars
 CON_PPP_USD: Constant PPP USD
 CU_USD_M: Millions of current United States dollars
-CUR_LCU_M: Local currency (millions)
 CU_USD_B: (billions of nominal United States dollars)
 CU_USD: (Current United States dollars)
+CUR_LCU_M: Local currency (millions)
 GPERM3: Micrograms per cubic meter
 HA_TH: Thousands of hectares
 T_PER_HA: Tonnes per hectare
@@ -17,7 +17,7 @@ KM2: Square kilometers
 LITRES: LITRES
 MILLIONS: MILLIONS
 MJ_PER_GDP_CON_PPP_USD: Megajoules per USD constant PPP GDP
-W_PER_CAPITA: Watts per capita 
+W_PER_CAPITA: Watts per capita
 NUMBER: Number
 PER_1000000_POP: Per million population
 PER_100000_LIVE_BIRTHS: Per 100,000 live births
@@ -41,7 +41,6 @@ USD: USD
 USD/m3: USD/m3
 CUR_NAC_1000: in thousands of BAM
 CUR_LCU: in BAM
-NUMBER: Number
 GWh: GWh
 M_M3_PER_YR: Million of cubic metres per annum
 MT_CO2E: Million tons of CO2 equivalent
@@ -58,7 +57,7 @@ PC_IND: Percentage of individuals
 PC: Percentage of total population
 PC_INAC_WWRK: Percentage of population outside the labour force and wanting to work
 PC_WMN: Percentage of women
-CLV20_EUR_HAB:  Chain linked volumes (2020), euro per capita
+CLV20_EUR_HAB: Chain linked volumes (2020), euro per capita
 CLV_PCH_PRE_HAB: Chain linked volumes, percentage change on previous period, per capita
 PC_ACT: Percentage of population in the labour force
 PC_GDP: Percentage of gross domestic product (GDP)
@@ -66,3 +65,4 @@ PC_ACT_FTE: Percentage of population in the labour force - numerator in full - t
 NUMBER_ACT_FTE: Тotal number (researchers, technical staff, other staff)
 M2_HAB: Square metres per capita
 RT: Rate
+KG_HAB: Kilograms per capita
