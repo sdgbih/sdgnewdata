@@ -5,15 +5,17 @@ sdg_goal: '12'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '12-51'
-
+indicator_name: global_indicators.12-51-title
 source_active_1: true
-source_organisation_1: Waste Statistics
-source_url_1: ''
-
-indicator_definition: global_indicators.12-51-definition
-rationale: global_indicators.12-51-intention
-methodology_characteristics: global_indicators.12-51-methodology
-long_objective: global_indicators.12-51-long_term_objectiv
+source_organisation_1: Eurostat
+source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_12_51/default/table?lang=en'
+graph_titles:    
+- series: SERIES.sdg_12_51
+  title: SERIES.sdg_12_51
+national_indicator_definition: global_indicators.12-51-definition
+national_rationale: global_indicators.12-51-intention
+national_methodology_characteristics: global_indicators.12-51-methodology
+national_long_objective: global_indicators.12-51-long_term_objective
 eu_indicator_definition: global_indicators.12-51-definition
 eu_rationale: global_indicators.12-51-intention
 eu_methodology_characteristics: global_indicators.12-51-methodology
