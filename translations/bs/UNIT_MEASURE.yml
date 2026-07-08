@@ -6,7 +6,7 @@ CU_USD_M: Milioni tekućih američkih dolara
 CU_USD_B: (milijarde nominalnih američkih dolara)
 CU_USD: (tekući američki dolari)
 CUR_LCU_M: Lokalna valuta (milioni)
-GPERM3: Mikrogrami po kubnom metru
+GPERM3: Mikrogrami po kubnom mekanu
 HA_TH: Hiljade hektara
 T_PER_HA: Tona po hektaru
 IX: Index
@@ -55,7 +55,7 @@ EUR_KGOE: Euro po kilogramu ekvivalenta nafte (KGOE)
 PPS_KGOE: Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte
 PC_IND: Procenat pojedinaca
 PC: Procenat ukupnog stanovništva
-PC_INAC_WWRK: Procenat stanovništva izvan radne snage koje želi raditi
+PC_INAC_WWRK: Procenat stanovništva izvan radne snge koje želi raditi
 PC_WMN: Procenat žena
 CLV20_EUR_HAB: Lančano povezani obimi (2020), euro po glavi stanovnika
 CLV_PCH_PRE_HAB: Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika
@@ -66,3 +66,5 @@ NUMBER_ACT_FTE: Ukupan broj (istraživači, tehničko osoblje, ostalo osoblje)
 M2_HAB: Kvadratni metri po glavi stanovnika
 RT: Stopa
 KG_HAB: Kilogrami po glavi stanovnika
+MEUR_KP: Milion eura po konstantnim cijenama
+EUR_HAB_KP: Euro po stanovniku (po konstantnim cijenama)
