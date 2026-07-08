@@ -25,13 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HAZ_NHAZ",
-                "HAZ",
-                "NHAZ",
+                "Hazardous and non-hazardous waste, total",
+                "Hazardous waste",
+                "Non-hazardous waste",
                 ""
               ]
             },
-            "title": "HAZARD_WASTE"
+            "title": "Hazard waste class"
           },
           {
             "name": "UNIT_MEASURE",
