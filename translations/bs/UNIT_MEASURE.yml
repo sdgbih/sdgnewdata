@@ -40,10 +40,9 @@ USD: Američki dolar
 USD/m3: USD/m3
 CUR_NAC_1000: u hiljadama KM
 CUR_LCU: u KM
-NUMBER: Broj
 TONNES_T: OOOt
 GWh: GWh
-M_M3_PER_YR: Milion kubnih metara godišnje 
+M_M3_PER_YR: Milion kubnih metara godišnje
 MT_CO2E: Milion tona ekvivalenta CO2
 PER_MARW_20T24Y: (%) udatih žena starosti 20 - 24 godine
 MTOE: Milion tona ekvivalenta nafte
@@ -66,4 +65,4 @@ PC_ACT_FTE: Procenat stanovništva u radnoj snazi ​​- brojnik u ekvivalentu 
 NUMBER_ACT_FTE: Ukupan broj (istraživači, tehničko osoblje, ostalo osoblje)
 M2_HAB: Kvadratni metri po glavi stanovnika
 RT: Stopa
-
+KG_HAB: Kilogrami po glavi stanovnika
