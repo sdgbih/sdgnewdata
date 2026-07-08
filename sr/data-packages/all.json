@@ -181,6 +181,40 @@
       "title": "Петнаестогодишњаци са слабим успјехом у читању, математици или природним наукама"
     },
     {
+      "path": "15-11/data.csv",
+      "name": "15-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "15-11"
+    },
+    {
       "path": "16-40/data.csv",
       "name": "16-40",
       "profile": "tabular-data-resource",
