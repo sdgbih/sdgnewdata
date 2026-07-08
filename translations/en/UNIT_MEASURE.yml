@@ -66,3 +66,5 @@ NUMBER_ACT_FTE: Тotal number (researchers, technical staff, other staff)
 M2_HAB: Square metres per capita
 RT: Rate
 KG_HAB: Kilograms per capita
+MEUR_KP: Million euro at constant prices
+EUR_HAB_KP: Euro per inhabitant (at constant prices)
