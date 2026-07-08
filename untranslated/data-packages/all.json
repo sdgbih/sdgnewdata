@@ -1651,8 +1651,28 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "HAZARD_WASTE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "HAZ_NHAZ",
+                "HAZ",
+                "NHAZ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
