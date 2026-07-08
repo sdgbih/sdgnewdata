@@ -1,6 +1,6 @@
 BOOL: Logička ili binarna mjera
 CON_USD: Konstantni američki dolari
-CON_USD_M: Milioni konstantni američki dolari
+CON_USD_M: Milijuni konstantni američki dolari
 CON_PPP_USD: Konstantni PPP američki dolari
 CU_USD_M: Milijuni tekućih američkih dolara
 CUR_LCU_M: Lokalna valuta (milioni)
@@ -41,9 +41,8 @@ USD: Američki dolar
 USD/m3: USD/m3
 CUR_NAC_1000: u tisućama KM
 CUR_LCU: u KM
-NUMBER: Broj
 GWh: GWh
-M_M3_PER_YR: Milion kubnih metara godišnje 
+M_M3_PER_YR: Milijun kubnih metara godišnje
 MT_CO2E: Milijuna tona ekvivalenta CO2
 PER_MARW_20T24Y: (%) udanih žena u dobi od 20 - 24 god
 MTOE: Milijun tona ekvivalenta nafte
@@ -57,7 +56,7 @@ PPS_KGOE: Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte
 PC_IND: Postotak pojedinaca
 PC: Postotak ukupnog stanovništva
 PC_INAC_WWRK: Postotak stanovništva izvan radne snage koje želi raditi
-PC_WMN: Procenat žena
+PC_WMN: Postotak žena
 CLV20_EUR_HAB: Lančano povezani obimi (2020), euro po glavi stanovnika
 CLV_PCH_PRE_HAB: Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika
 PC_ACT: Postotak stanovništva u radnoj snazi
@@ -66,3 +65,4 @@ PC_ACT_FTE: Postotak stanovništva u radnoj snazi ​​- brojnik u ekvivalentu 
 NUMBER_ACT_FTE: Ukupan broj (istraživači, tehničko osoblje, ostalo osoblje)
 M2_HAB: Kvadratni metri po glavi stanovnika
 RT: Stopa
+KG_HAB: Kilogrami po glavi stanovnika
