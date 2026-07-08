@@ -1,0 +1,22 @@
+indicator_number: 15.11
+reporting_status: complete
+published: true
+sdg_goal: '15'
+data_non_statistical: false
+graph_type: line
+indicator_sort_order: '15-11'
+indicator_name: global_indicators.15-11-title
+source_active_1: true
+source_organisation_1: BHAS
+source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_15_11/default/table'
+graph_titles:
+- series: SERIES.sdg_15_11
+  title: SERIES.sdg_15_11
+national_indicator_definition: global_indicators.15-11-definition
+national_rationale: global_indicators.15-11-intention
+national_methodology_characteristics: global_indicators.15-11-methodology
+long_objective: global_indicators.15-11-long_term_objectiv
+eu_indicator_definition: global_indicators.15-11-definition
+eu_rationale: global_indicators.15-11-intention
+eu_methodology_characteristics: global_indicators.15-11-methodology
+eu_long_objective: global_indicators.15-11-long_term_objective
