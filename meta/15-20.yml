@@ -5,14 +5,18 @@ sdg_goal: '15'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '15-20'
-
+indicator_name: global_indicators.15-20-title
 source_active_1: true
-source_organisation_1: 
-source_url_1: ''
-
-indicator_definition: global_indicators.15-20-definition
-rationale: global_indicators.15-20-intention
-methodology_characteristics: global_indicators.15-20-methodology
+source_organisation_1: EEA
+source_url_1: 'https://www.eea.europa.eu/en/europe-environment-2025/countries/bosnia-and-herzegovina/terrestrial-protected-areas?activeTab=570bee2d-1316-48cf-adde-4b640f92119b'
+graph_titles:
+- series: SERIES.sdg_15_20
+  title: SERIES.sdg_15_20
+national_indicator_definition: global_indicators.15-20-definition
+national_rationale: global_indicators.15-20-intention
+national_methodology_characteristics: global_indicators.15-20-methodology
+national_long_objective: global_indicators.15-20-long_term_objective
 eu_indicator_definition: global_indicators.15-20-definition
 eu_rationale: global_indicators.15-20-intention
 eu_methodology_characteristics: global_indicators.15-20-methodology
+eu_long_objective: global_indicators.15-20-long_term_objective
