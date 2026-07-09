@@ -2266,30 +2266,6 @@
       "title": "9-50"
     },
     {
-      "path": "15-10/data.csv",
-      "name": "15-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "15-10"
-    },
-    {
       "path": "15-60/data.csv",
       "name": "15-60",
       "profile": "tabular-data-resource",
