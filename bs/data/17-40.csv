@@ -1,10 +1,21 @@
-Year,Value
-2015,24.0
-2016,23.8
-2017,23.6
-2018,18.4
-2019,18.2
-2020,18.0
-2021,17.8
-2022,17.6
-2023,12.4
+Year,SERIES,UNIT_MEASURE,Value
+2016,Bruto dug opće vlade,Procenat bruto domaćeg proizvoda (BDP),39.1
+2017,Bruto dug opće vlade,Procenat bruto domaćeg proizvoda (BDP),35.6
+2018,Bruto dug opće vlade,Procenat bruto domaćeg proizvoda (BDP),32.1
+2019,Bruto dug opće vlade,Procenat bruto domaćeg proizvoda (BDP),32.8
+2020,Bruto dug opće vlade,Procenat bruto domaćeg proizvoda (BDP),37.3
+2021,Bruto dug opće vlade,Procenat bruto domaćeg proizvoda (BDP),35.8
+2022,Bruto dug opće vlade,Procenat bruto domaćeg proizvoda (BDP),31.2
+2023,Bruto dug opće vlade,Procenat bruto domaćeg proizvoda (BDP),29.9
+2024,Bruto dug opće vlade,Procenat bruto domaćeg proizvoda (BDP),29.4
+2025,Bruto dug opće vlade,Procenat bruto domaćeg proizvoda (BDP),29.9
+2016,Bruto dug opće vlade,u milionima KM,12.1
+2017,Bruto dug opće vlade,u milionima KM,11.35
+2018,Bruto dug opće vlade,u milionima KM,11.2
+2019,Bruto dug opće vlade,u milionima KM,11.21
+2020,Bruto dug opće vlade,u milionima KM,12.19
+2021,Bruto dug opće vlade,u milionima KM,12.85
+2022,Bruto dug opće vlade,u milionima KM,13.1
+2023,Bruto dug opće vlade,u milionima KM,12.96
+2024,Bruto dug opće vlade,u milionima KM,13.74
+2025,Bruto dug opće vlade,u milionima KM,13.74

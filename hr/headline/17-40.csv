@@ -1,10 +1,21 @@
-Year,Value
-2015,24.0
-2016,23.8
-2017,23.6
-2018,18.4
-2019,18.2
-2020,18.0
-2021,17.8
-2022,17.6
-2023,12.4
+Year,Value,UNIT_MEASURE,SERIES
+2016,39.1,Postotak bruto domaćeg proizvoda (BDP),Bruto dug opće države
+2017,35.6,Postotak bruto domaćeg proizvoda (BDP),Bruto dug opće države
+2018,32.1,Postotak bruto domaćeg proizvoda (BDP),Bruto dug opće države
+2019,32.8,Postotak bruto domaćeg proizvoda (BDP),Bruto dug opće države
+2020,37.3,Postotak bruto domaćeg proizvoda (BDP),Bruto dug opće države
+2021,35.8,Postotak bruto domaćeg proizvoda (BDP),Bruto dug opće države
+2022,31.2,Postotak bruto domaćeg proizvoda (BDP),Bruto dug opće države
+2023,29.9,Postotak bruto domaćeg proizvoda (BDP),Bruto dug opće države
+2024,29.4,Postotak bruto domaćeg proizvoda (BDP),Bruto dug opće države
+2025,29.9,Postotak bruto domaćeg proizvoda (BDP),Bruto dug opće države
+2016,12.1,u milijunima KM,Bruto dug opće države
+2017,11.35,u milijunima KM,Bruto dug opće države
+2018,11.2,u milijunima KM,Bruto dug opće države
+2019,11.21,u milijunima KM,Bruto dug opće države
+2020,12.19,u milijunima KM,Bruto dug opće države
+2021,12.85,u milijunima KM,Bruto dug opće države
+2022,13.1,u milijunima KM,Bruto dug opće države
+2023,12.96,u milijunima KM,Bruto dug opće države
+2024,13.74,u milijunima KM,Bruto dug opće države
+2025,13.74,u milijunima KM,Bruto dug opće države
