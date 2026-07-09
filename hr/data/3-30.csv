@@ -1,2 +1,28 @@
-Year,Value
-2015,
+Year,SERIES,Godine,Spol,UNIT_MEASURE,Value
+2000,sdg_03_30,15 godina i više,Oba spola,Postotak ukupnog stanovništva,47.0
+2005,sdg_03_30,15 godina i više,Oba spola,Postotak ukupnog stanovništva,43.7
+2007,sdg_03_30,15 godina i više,Oba spola,Postotak ukupnog stanovništva,42.7
+2010,sdg_03_30,15 godina i više,Oba spola,Postotak ukupnog stanovništva,41.1
+2015,sdg_03_30,15 godina i više,Oba spola,Postotak ukupnog stanovništva,38.8
+2020,sdg_03_30,15 godina i više,Oba spola,Postotak ukupnog stanovništva,36.9
+2021,sdg_03_30,15 godina i više,Oba spola,Postotak ukupnog stanovništva,36.4
+2022,sdg_03_30,15 godina i više,Oba spola,Postotak ukupnog stanovništva,36.3
+2025,sdg_03_30,15 godina i više,Oba spola,Postotak ukupnog stanovništva,35.2
+2000,sdg_03_30,15 godina i više,Muškarci,Postotak ukupnog stanovništva,59.2
+2005,sdg_03_30,15 godina i više,Muškarci,Postotak ukupnog stanovništva,53.9
+2007,sdg_03_30,15 godina i više,Muškarci,Postotak ukupnog stanovništva,52.2
+2010,sdg_03_30,15 godina i više,Muškarci,Postotak ukupnog stanovništva,49.7
+2015,sdg_03_30,15 godina i više,Muškarci,Postotak ukupnog stanovništva,45.9
+2020,sdg_03_30,15 godina i više,Muškarci,Postotak ukupnog stanovništva,42.6
+2021,sdg_03_30,15 godina i više,Muškarci,Postotak ukupnog stanovništva,42.0
+2022,sdg_03_30,15 godina i više,Muškarci,Postotak ukupnog stanovništva,41.6
+2025,sdg_03_30,15 godina i više,Muškarci,Postotak ukupnog stanovništva,39.9
+2000,sdg_03_30,15 godina i više,Žene,Postotak ukupnog stanovništva,34.8
+2005,sdg_03_30,15 godina i više,Žene,Postotak ukupnog stanovništva,33.5
+2007,sdg_03_30,15 godina i više,Žene,Postotak ukupnog stanovništva,33.1
+2010,sdg_03_30,15 godina i više,Žene,Postotak ukupnog stanovništva,32.5
+2015,sdg_03_30,15 godina i više,Žene,Postotak ukupnog stanovništva,31.6
+2020,sdg_03_30,15 godina i više,Žene,Postotak ukupnog stanovništva,31.1
+2021,sdg_03_30,15 godina i više,Žene,Postotak ukupnog stanovništva,30.8
+2022,sdg_03_30,15 godina i više,Žene,Postotak ukupnog stanovništva,30.9
+2025,sdg_03_30,15 godina i više,Žene,Postotak ukupnog stanovništva,30.5

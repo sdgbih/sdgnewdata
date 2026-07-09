@@ -1,2 +1,28 @@
-Year,Value
-2015,
+Year,SERIES,Age,Sex,UNIT_MEASURE,Value
+2000,sdg_03_30,15 years old and over,Both sexes,Percentage of total population,47.0
+2005,sdg_03_30,15 years old and over,Both sexes,Percentage of total population,43.7
+2007,sdg_03_30,15 years old and over,Both sexes,Percentage of total population,42.7
+2010,sdg_03_30,15 years old and over,Both sexes,Percentage of total population,41.1
+2015,sdg_03_30,15 years old and over,Both sexes,Percentage of total population,38.8
+2020,sdg_03_30,15 years old and over,Both sexes,Percentage of total population,36.9
+2021,sdg_03_30,15 years old and over,Both sexes,Percentage of total population,36.4
+2022,sdg_03_30,15 years old and over,Both sexes,Percentage of total population,36.3
+2025,sdg_03_30,15 years old and over,Both sexes,Percentage of total population,35.2
+2000,sdg_03_30,15 years old and over,Male,Percentage of total population,59.2
+2005,sdg_03_30,15 years old and over,Male,Percentage of total population,53.9
+2007,sdg_03_30,15 years old and over,Male,Percentage of total population,52.2
+2010,sdg_03_30,15 years old and over,Male,Percentage of total population,49.7
+2015,sdg_03_30,15 years old and over,Male,Percentage of total population,45.9
+2020,sdg_03_30,15 years old and over,Male,Percentage of total population,42.6
+2021,sdg_03_30,15 years old and over,Male,Percentage of total population,42.0
+2022,sdg_03_30,15 years old and over,Male,Percentage of total population,41.6
+2025,sdg_03_30,15 years old and over,Male,Percentage of total population,39.9
+2000,sdg_03_30,15 years old and over,Female,Percentage of total population,34.8
+2005,sdg_03_30,15 years old and over,Female,Percentage of total population,33.5
+2007,sdg_03_30,15 years old and over,Female,Percentage of total population,33.1
+2010,sdg_03_30,15 years old and over,Female,Percentage of total population,32.5
+2015,sdg_03_30,15 years old and over,Female,Percentage of total population,31.6
+2020,sdg_03_30,15 years old and over,Female,Percentage of total population,31.1
+2021,sdg_03_30,15 years old and over,Female,Percentage of total population,30.8
+2022,sdg_03_30,15 years old and over,Female,Percentage of total population,30.9
+2025,sdg_03_30,15 years old and over,Female,Percentage of total population,30.5
