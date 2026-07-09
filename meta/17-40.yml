@@ -5,14 +5,18 @@ sdg_goal: '17'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '17-40'
-
+indicator_name: global_indicators.17-40-title
 source_active_1: true
-source_organisation_1: 
-source_url_1: ''
-
-indicator_definition: global_indicators.17-40-definition
-rationale: global_indicators.17-40-intention
-methodology_characteristics: global_indicators.17-40-methodology
+source_organisation_1: CBBiH, IMF
+source_url_1: 'https://www.imf.org/external/datamapper/GG_DEBT_GDP@GDD/SWE/BIH'
+graph_titles:    
+- series: SERIES.sdg_17_40
+  title: SERIES.sdg_17_40
+national_indicator_definition: global_indicators.17-40-definition
+national_rationale: global_indicators.17-40-intention
+national_methodology_characteristics: global_indicators.17-40-methodology
+national_long_objective: global_indicators.17-40-long_term_objective
 eu_indicator_definition: global_indicators.17-40-definition
 eu_rationale: global_indicators.17-40-intention
 eu_methodology_characteristics: global_indicators.17-40-methodology
+eu_long_objective: global_indicators.17-40-long_term_objective
