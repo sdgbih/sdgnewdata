@@ -875,7 +875,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Kao dio tranzicije prema klimatskoj neutralnosti i otpornosti na klimatske promjene, EU nastoji preusmjeriti javna i privatna ulaganja u područja u kojima će podržati taj cilj. Iz tog razloga, EU je usvojio Taksonomiju EU-a kao klasifikacijski sustav za održive gospodarske aktivnosti i Europski standard zelenih obveznica kao dobrovoljni „zlatni“ standard za tržište zelenih obveznica. Na razini EU-a, ublažavanje klimatskih promjena i prilagodba njima integrirani su u sve glavne programe potrošnje, a EU se također obvezao podržati međunarodne klimatske akcije.
   Ovaj pokazatelj glavni je pokazatelj za praćenje napretka prema ciljevima Osmog programa djelovanja za okoliš (8. EAP).
 13-70-long_term_objective: >-
-14-10-title: Marine protected areas
+14-10-title: Zaštićena morska područja
 14-10-definition: >-
   Ovaj pokazatelj mjeri opseg zaštićenih morskih područja (MPA) u morskim vodama EU. MPA su žarišta bioraznolikosti i mogu služiti raznim ciljevima, uključujući zaštitu vrsta i staništa, očuvanje i obnovu bioraznolikosti te korištenje resursa unutar definiranih ekoloških granica. MPA također mogu imati pozitivan utjecaj na susjedna područja.
 14-10-intention: >-
@@ -887,7 +887,7 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Zaštićena morska područja mogu služiti raznim svrhama, uključujući zaštitu vrsta i staništa, očuvanje i obnovu bioraznolikosti te korištenje resursa unutar definiranih ekoloških granica. Specifični ciljevi upravljanja postavljeni su za sva zaštićena morska područja (MPA), koja se često sastoje od različitih zona s dopuštenom i zabranjenom upotrebom.
   EU je također uključen u rasprave na Općoj skupštini Ujedinjenih naroda o međunarodnom pravno obvezujućem sporazumu o očuvanju bioraznolikosti u područjima izvan nacionalne jurisdikcije (BBNJ).
 14-10-long_term_objective: >-
-14-21-title: Estimated trends in fish stock biomass
+14-21-title: Procijenjeni trendovi u biomasi ribljeg fonda
 14-21-definition: >-
   Biomasa ribljeg fonda funkcija je bioloških karakteristika poput brojnosti i težine te može ukazivati na status ribljeg fonda kada se mjeri u odnosu na referentne vrijednosti. Ovo je pokazatelj temeljen na modelu koji se izračunava korištenjem rezultata kvantitativnih procjena fonda pojedinačnih vrsta. Prikazuje prosječnu vrijednost biomase ribljeg fonda u usporedbi s 2003. godinom. Puni vremenski niz ažurira se godišnje, ponekad uključujući nova sredstva zbog novo dostupnih kvantitativnih procjena, što može rezultirati malim razlikama od jedne godine puštanja do sljedeće.
 14-21-intention: >-
@@ -936,11 +936,6 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Cilj održivog razvoja 14 ima za cilj očuvanje i održivo korištenje oceana, mora i morskih resursa, što zahtijeva, između ostalog, sprječavanje i smanjenje onečišćenja mora i utjecaja zakiseljavanja oceana.
   Okvirna direktiva o morskoj strategiji (MSFD) zahtijeva od država članica da izvještavaju o eutrofikaciji za svoja regionalna mora svakih 6 godina.
 14-60-long_term_objective: >-
-15-10-title: Udio šumskog pokrova
-15-10-definition: >-
-15-10-intention: >-
-15-10-methodology: >-
-15-10-long_term_objective: >-
 15-11-title: Šumska površina
 15-11-definition: >-
  Pokazatelj mjeri udio šumskih površina u usporedbi s ukupnom površinom zemlje. Podaci korišteni za ovaj pokazatelj potječu iz Europskih šumskih računa (EFA) i u skladu su s FAO definicijom šuma.
