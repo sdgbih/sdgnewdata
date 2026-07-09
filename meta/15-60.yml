@@ -1,6 +1,6 @@
 indicator_number: 15.60
-reporting_status: complete
-published: true
+reporting_status: notstarted
+published: false
 sdg_goal: '15'
 data_non_statistical: false
 graph_type: line
