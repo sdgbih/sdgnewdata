@@ -1,10 +1,37 @@
-Year,Value
-2015,55.0
-2016,52.5
-2017,55.0
-2018,57.5
-2019,60.0
-2020,62.5
-2021,60.0
-2022,62.5
-2023,65.0
+Year,SERIES,Statističke informacije,UNIT_MEASURE,Value
+2015,Uticaj suše na ekosisteme,Godišnja vrijednost,Kvadratnih kilometara,1599.0
+2017,Uticaj suše na ekosisteme,Godišnja vrijednost,Kvadratnih kilometara,4255.0
+2019,Uticaj suše na ekosisteme,Godišnja vrijednost,Kvadratnih kilometara,15.0
+2020,Uticaj suše na ekosisteme,Godišnja vrijednost,Kvadratnih kilometara,723.0
+2021,Uticaj suše na ekosisteme,Godišnja vrijednost,Kvadratnih kilometara,4857.0
+2022,Uticaj suše na ekosisteme,Godišnja vrijednost,Kvadratnih kilometara,23788.0
+2023,Uticaj suše na ekosisteme,Godišnja vrijednost,Kvadratnih kilometara,667.0
+2024,Uticaj suše na ekosisteme,Godišnja vrijednost,Kvadratnih kilometara,2034.0
+2015,Uticaj suše na ekosisteme,Godišnja vrijednost,Procenat,3.1
+2017,Uticaj suše na ekosisteme,Godišnja vrijednost,Procenat,8.3
+2019,Uticaj suše na ekosisteme,Godišnja vrijednost,Procenat,0.0
+2020,Uticaj suše na ekosisteme,Godišnja vrijednost,Procenat,1.4
+2021,Uticaj suše na ekosisteme,Godišnja vrijednost,Procenat,9.6
+2022,Uticaj suše na ekosisteme,Godišnja vrijednost,Procenat,46.8
+2023,Uticaj suše na ekosisteme,Godišnja vrijednost,Procenat,1.3
+2024,Uticaj suše na ekosisteme,Godišnja vrijednost,Procenat,4.0
+2015,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Kvadratnih kilometara,2562.0
+2016,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Kvadratnih kilometara,2562.0
+2017,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Kvadratnih kilometara,2941.0
+2018,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Kvadratnih kilometara,2934.0
+2019,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Kvadratnih kilometara,2935.0
+2020,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Kvadratnih kilometara,3008.0
+2021,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Kvadratnih kilometara,3416.0
+2022,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Kvadratnih kilometara,3694.0
+2023,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Kvadratnih kilometara,3588.0
+2024,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Kvadratnih kilometara,3791.0
+2015,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Procenat,5.0
+2016,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Procenat,5.0
+2017,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Procenat,5.8
+2018,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Procenat,5.8
+2019,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Procenat,5.8
+2020,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Procenat,5.9
+2021,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Procenat,6.7
+2022,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Procenat,7.3
+2023,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Procenat,7.1
+2024,Uticaj suše na ekosisteme,Desetogodišnji prosjek,Procenat,7.5

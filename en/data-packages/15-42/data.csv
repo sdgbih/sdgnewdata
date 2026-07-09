@@ -1,10 +1,37 @@
-Year,Value
-2015,55.0
-2016,52.5
-2017,55.0
-2018,57.5
-2019,60.0
-2020,62.5
-2021,60.0
-2022,62.5
-2023,65.0
+Year,SERIES,Statistical information,UNIT_MEASURE,Value
+2015,Drought impact on ecosystems,Annual value,Square kilometers,1599.0
+2017,Drought impact on ecosystems,Annual value,Square kilometers,4255.0
+2019,Drought impact on ecosystems,Annual value,Square kilometers,15.0
+2020,Drought impact on ecosystems,Annual value,Square kilometers,723.0
+2021,Drought impact on ecosystems,Annual value,Square kilometers,4857.0
+2022,Drought impact on ecosystems,Annual value,Square kilometers,23788.0
+2023,Drought impact on ecosystems,Annual value,Square kilometers,667.0
+2024,Drought impact on ecosystems,Annual value,Square kilometers,2034.0
+2015,Drought impact on ecosystems,Annual value,Percent,3.1
+2017,Drought impact on ecosystems,Annual value,Percent,8.3
+2019,Drought impact on ecosystems,Annual value,Percent,0.0
+2020,Drought impact on ecosystems,Annual value,Percent,1.4
+2021,Drought impact on ecosystems,Annual value,Percent,9.6
+2022,Drought impact on ecosystems,Annual value,Percent,46.8
+2023,Drought impact on ecosystems,Annual value,Percent,1.3
+2024,Drought impact on ecosystems,Annual value,Percent,4.0
+2015,Drought impact on ecosystems,Ten-year average,Square kilometers,2562.0
+2016,Drought impact on ecosystems,Ten-year average,Square kilometers,2562.0
+2017,Drought impact on ecosystems,Ten-year average,Square kilometers,2941.0
+2018,Drought impact on ecosystems,Ten-year average,Square kilometers,2934.0
+2019,Drought impact on ecosystems,Ten-year average,Square kilometers,2935.0
+2020,Drought impact on ecosystems,Ten-year average,Square kilometers,3008.0
+2021,Drought impact on ecosystems,Ten-year average,Square kilometers,3416.0
+2022,Drought impact on ecosystems,Ten-year average,Square kilometers,3694.0
+2023,Drought impact on ecosystems,Ten-year average,Square kilometers,3588.0
+2024,Drought impact on ecosystems,Ten-year average,Square kilometers,3791.0
+2015,Drought impact on ecosystems,Ten-year average,Percent,5.0
+2016,Drought impact on ecosystems,Ten-year average,Percent,5.0
+2017,Drought impact on ecosystems,Ten-year average,Percent,5.8
+2018,Drought impact on ecosystems,Ten-year average,Percent,5.8
+2019,Drought impact on ecosystems,Ten-year average,Percent,5.8
+2020,Drought impact on ecosystems,Ten-year average,Percent,5.9
+2021,Drought impact on ecosystems,Ten-year average,Percent,6.7
+2022,Drought impact on ecosystems,Ten-year average,Percent,7.3
+2023,Drought impact on ecosystems,Ten-year average,Percent,7.1
+2024,Drought impact on ecosystems,Ten-year average,Percent,7.5
