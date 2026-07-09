@@ -1,10 +1,11 @@
-Year,Value
-2015,49.0
-2016,50.8
-2017,52.6
-2018,49.4
-2019,51.2
-2020,53.0
-2021,54.8
-2022,56.6
-2023,53.4
+Year,Value,UNIT_MEASURE,SERIES
+2016,39,SCOR,Corruption Perceptions Index
+2017,38,SCOR,Corruption Perceptions Index
+2018,38,SCOR,Corruption Perceptions Index
+2019,36,SCOR,Corruption Perceptions Index
+2020,35,SCOR,Corruption Perceptions Index
+2021,35,SCOR,Corruption Perceptions Index
+2022,34,SCOR,Corruption Perceptions Index
+2023,35,SCOR,Corruption Perceptions Index
+2024,33,SCOR,Corruption Perceptions Index
+2025,34,SCOR,Corruption Perceptions Index

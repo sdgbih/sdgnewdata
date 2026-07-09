@@ -1,10 +1,11 @@
-Year,Value
-2015,49.0
-2016,50.8
-2017,52.6
-2018,49.4
-2019,51.2
-2020,53.0
-2021,54.8
-2022,56.6
-2023,53.4
+Year,SERIES,UNIT_MEASURE,Value
+2016,Indeks percepcije korupcije,SCOR,39
+2017,Indeks percepcije korupcije,SCOR,38
+2018,Indeks percepcije korupcije,SCOR,38
+2019,Indeks percepcije korupcije,SCOR,36
+2020,Indeks percepcije korupcije,SCOR,35
+2021,Indeks percepcije korupcije,SCOR,35
+2022,Indeks percepcije korupcije,SCOR,34
+2023,Indeks percepcije korupcije,SCOR,35
+2024,Indeks percepcije korupcije,SCOR,33
+2025,Indeks percepcije korupcije,SCOR,34
