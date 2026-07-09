@@ -5,6 +5,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-42,STATINFO,1
 #16-70,SEX,1
 #2-10,Body_Mass_Index,1
+#3-30,"SEX, AGE",2
 #4-10,"SEX, AGE, Labour_force_and_employment_status",3
 #4-20,"SEX, AGE, EDUCATION_LEV",3
 #4-60,"SEX, AGE",2
