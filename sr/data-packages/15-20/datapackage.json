@@ -16,6 +16,16 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
@@ -26,5 +36,5 @@
   ],
   "profile": "data-package",
   "name": "15-20",
-  "title": "15-20"
+  "title": "Заштићена копнена подручја"
 }

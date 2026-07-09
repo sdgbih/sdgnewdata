@@ -1006,12 +1006,20 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "15-20"
+      "title": "global_indicators.15-20-title"
     },
     {
       "path": "9-60/data.csv",

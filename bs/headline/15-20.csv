@@ -1,10 +1,9 @@
-Year,Value
-2015,47.0
-2016,48.8
-2017,45.6
-2018,47.4
-2019,49.2
-2020,51.0
-2021,52.8
-2022,49.6
-2023,51.4
+Year,Value,UNIT_MEASURE,SERIES
+2015,8.4,Procenat,Zaštićena kopnena područja
+2016,8.4,Procenat,Zaštićena kopnena područja
+2017,8.5,Procenat,Zaštićena kopnena područja
+2018,8.5,Procenat,Zaštićena kopnena područja
+2019,8.6,Procenat,Zaštićena kopnena područja
+2020,8.9,Procenat,Zaštićena kopnena područja
+2021,9.0,Procenat,Zaštićena kopnena područja
+2022,9.0,Procenat,Zaštićena kopnena područja

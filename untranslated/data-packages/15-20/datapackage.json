@@ -15,6 +15,14 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -24,5 +32,5 @@
   ],
   "profile": "data-package",
   "name": "15-20",
-  "title": "15-20"
+  "title": "global_indicators.15-20-title"
 }
