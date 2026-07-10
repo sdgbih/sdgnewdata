@@ -1,0 +1,22 @@
+indicator_number: 5.61
+reporting_status: complete
+published: true
+sdg_goal: '5'
+data_non_statistical: false
+graph_type: line
+indicator_sort_order: '05-61'
+indicator_name: global_indicators.5-61-title
+source_active_1: true
+source_organisation_1: EIGE (GSD)
+source_url_1: ''
+graph_titles:
+- series: SERIES.sdg_05_61
+  title: SERIES.sdg_05_61
+national_indicator_definition: global_indicators.5-61-definition
+national_rationale: global_indicators.5-61-intention
+national_methodology_characteristics: global_indicators.5-61-methodology
+national_long_objective: global_indicators.5-61-long_term_objective
+eu_indicator_definition: global_indicators.5-61-definition
+eu_rationale: global_indicators.5-61-intention
+eu_methodology_characteristics: global_indicators.5-61-methodology
+eu_long_objective: global_indicators.5-61-long_term_objective
