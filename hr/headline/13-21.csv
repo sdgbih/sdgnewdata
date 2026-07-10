@@ -1,10 +1,10 @@
-Year,Value
-2015,21.0
-2016,22.8
-2017,24.6
-2018,26.4
-2019,23.2
-2020,25.0
-2021,26.8
-2022,28.6
-2023,30.4
+Year,Value,UNIT_MEASURE,SERIES
+2010,-5686.0,Tisuću tona ekvivalenta CO2,Neto emisije stakleničkih plinova u sektoru LULUCF
+2011,-5903.0,Tisuću tona ekvivalenta CO2,Neto emisije stakleničkih plinova u sektoru LULUCF
+2012,-7546.3,Tisuću tona ekvivalenta CO2,Neto emisije stakleničkih plinova u sektoru LULUCF
+2013,-6141.0,Tisuću tona ekvivalenta CO2,Neto emisije stakleničkih plinova u sektoru LULUCF
+2014,-6398.0,Tisuću tona ekvivalenta CO2,Neto emisije stakleničkih plinova u sektoru LULUCF
+2015,-6140.6,Tisuću tona ekvivalenta CO2,Neto emisije stakleničkih plinova u sektoru LULUCF
+2016,-5881.6,Tisuću tona ekvivalenta CO2,Neto emisije stakleničkih plinova u sektoru LULUCF
+2017,-5844.1,Tisuću tona ekvivalenta CO2,Neto emisije stakleničkih plinova u sektoru LULUCF
+2018,-5831.9,Tisuću tona ekvivalenta CO2,Neto emisije stakleničkih plinova u sektoru LULUCF

@@ -1,10 +1,10 @@
-Year,Value
-2015,21.0
-2016,22.8
-2017,24.6
-2018,26.4
-2019,23.2
-2020,25.0
-2021,26.8
-2022,28.6
-2023,30.4
+Year,Value,UNIT_MEASURE,SERIES
+2010,-5686.0,Thousand tonnes of CO2 equivalent,Net greenhouse gas emissions of the LULUCF sector
+2011,-5903.0,Thousand tonnes of CO2 equivalent,Net greenhouse gas emissions of the LULUCF sector
+2012,-7546.3,Thousand tonnes of CO2 equivalent,Net greenhouse gas emissions of the LULUCF sector
+2013,-6141.0,Thousand tonnes of CO2 equivalent,Net greenhouse gas emissions of the LULUCF sector
+2014,-6398.0,Thousand tonnes of CO2 equivalent,Net greenhouse gas emissions of the LULUCF sector
+2015,-6140.6,Thousand tonnes of CO2 equivalent,Net greenhouse gas emissions of the LULUCF sector
+2016,-5881.6,Thousand tonnes of CO2 equivalent,Net greenhouse gas emissions of the LULUCF sector
+2017,-5844.1,Thousand tonnes of CO2 equivalent,Net greenhouse gas emissions of the LULUCF sector
+2018,-5831.9,Thousand tonnes of CO2 equivalent,Net greenhouse gas emissions of the LULUCF sector
