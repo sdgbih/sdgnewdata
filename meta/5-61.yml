@@ -7,8 +7,8 @@ graph_type: line
 indicator_sort_order: '05-61'
 indicator_name: global_indicators.5-61-title
 source_active_1: true
-source_organisation_1: EIGE (GSD)
-source_url_1: ''
+source_organisation_1: European Institute for Gender Equality (EIGE)
+source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_05_61/default/table'
 graph_titles:
 - series: SERIES.sdg_05_61
   title: SERIES.sdg_05_61
