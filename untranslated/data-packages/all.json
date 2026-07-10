@@ -1968,7 +1968,7 @@
           }
         ]
       },
-      "title": "5-61"
+      "title": "global_indicators.5-61-title"
     },
     {
       "path": "7-30/data.csv",
@@ -3058,28 +3058,6 @@
         ]
       },
       "title": "global_indicators.7-20-title"
-    },
-    {
-      "path": "5-60/data.csv",
-      "name": "5-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-60-title"
     }
   ]
 }

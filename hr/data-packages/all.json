@@ -2183,7 +2183,7 @@
           }
         ]
       },
-      "title": "5-61"
+      "title": "Pozicije koje zauzimaju žene na višim rukovodećim pozicijama"
     },
     {
       "path": "7-30/data.csv",
@@ -3390,30 +3390,6 @@
         ]
       },
       "title": "Konačna potrošnja energije u kućanstvima po stanovniku"
-    },
-    {
-      "path": "5-60/data.csv",
-      "name": "5-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.5-60-title"
     }
   ]
 }
