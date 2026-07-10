@@ -13,7 +13,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-30,"AGE, Labour_force_and_employment_status",2
 #5-40,"SEX, AGE, Reason",3
 #5-50,"SEX, ORG_INST",2
-#5-60,"SEX, PROF_POS",2
+#5-61,"SEX, PROF_POS",2
 #6-20,WW_TP,1
 #6-60,STATINFO,1
 #7-40,Energy_balance,1

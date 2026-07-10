@@ -1017,63 +1017,6 @@
       "title": "Utjecaj suše na ekosustave"
     },
     {
-      "path": "5-60/data.csv",
-      "name": "5-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "PROF_POS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Neizvršni direktori",
-                "Neizvršni i izvršni direktori",
-                ""
-              ]
-            },
-            "title": "Profesionalna pozicija"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "global_indicators.5-60-title"
-    },
-    {
       "path": "13-40/data.csv",
       "name": "13-40",
       "profile": "tabular-data-resource",
@@ -2184,6 +2127,63 @@
         ]
       },
       "title": "Sudjelovanje u obrazovanju u ranom djetinjstvu prema spolu (djeca u dobi od 3 godine i više)"
+    },
+    {
+      "path": "5-61/data.csv",
+      "name": "5-61",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "PROF_POS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Neizvršni direktori",
+                "Neizvršni i izvršni direktori",
+                ""
+              ]
+            },
+            "title": "Profesionalna pozicija"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "5-61"
     },
     {
       "path": "7-30/data.csv",
@@ -3390,6 +3390,30 @@
         ]
       },
       "title": "Konačna potrošnja energije u kućanstvima po stanovniku"
+    },
+    {
+      "path": "5-60/data.csv",
+      "name": "5-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "global_indicators.5-60-title"
     }
   ]
 }

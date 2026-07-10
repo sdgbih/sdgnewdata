@@ -12,41 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "PROF_POS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Неизвршни директори",
-                "Неизвршни и извршни директори",
-                ""
-              ]
-            },
-            "title": "Професионална позиција"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
           },
           {
             "name": "Value",

@@ -12,41 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Serije"
-          },
-          {
-            "name": "PROF_POS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Neizvršni direktori",
-                "Neizvršni i izvršni direktori",
-                ""
-              ]
-            },
-            "title": "Profesionalna pozicija"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
