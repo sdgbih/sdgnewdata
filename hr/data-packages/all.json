@@ -3,32 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "14-21/data.csv",
-      "name": "14-21",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "14-21"
-    },
-    {
-      "path": "7-40/data.csv",
-      "name": "7-40",
+      "path": "4-31/data.csv",
+      "name": "4-31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -52,27 +28,13 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Energy_balance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obnovljiva energija, ukupno",
-                "Obnovljiva energija, transport",
-                "Obnovljiva energija, električna energija",
-                "Obnovljiva energija, grijanje i hlađenje",
-                ""
-              ]
-            },
-            "title": "Energetska bilanca"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
           }
         ]
       },
-      "title": "Udio obnovljive energije u bruto konačnoj potrošnji energije"
+      "title": "Sudjelovanje u obrazovanju u ranom djetinjstvu prema spolu (djeca u dobi od 3 godine i više)"
     },
     {
       "path": "13-31/data.csv",
@@ -97,6 +59,30 @@
         ]
       },
       "title": "13-31"
+    },
+    {
+      "path": "17-50/data.csv",
+      "name": "17-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "17-50"
     },
     {
       "path": "11-52/data.csv",
@@ -131,1204 +117,6 @@
         ]
       },
       "title": "Prerane smrti zbog izloženosti finim česticama (PM2,5)"
-    },
-    {
-      "path": "17-20/data.csv",
-      "name": "17-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "17-20"
-    },
-    {
-      "path": "4-40/data.csv",
-      "name": "4-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Petnaestogodišnjaci s niskim rezultatima u čitanju, matematici ili prirodnim znanostima"
-    },
-    {
-      "path": "15-11/data.csv",
-      "name": "15-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Šumska površina"
-    },
-    {
-      "path": "16-40/data.csv",
-      "name": "16-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "16-40"
-    },
-    {
-      "path": "2-30/data.csv",
-      "name": "2-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Državna potpora poljoprivrednom istraživanju i razvoju"
-    },
-    {
-      "path": "8-20/data.csv",
-      "name": "8-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Od 15 do 29 godina",
-                ""
-              ]
-            },
-            "title": "Godine"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Mladi koji nisu zaposleni niti uključeni u obrazovanje ili osposobljavanje"
-    },
-    {
-      "path": "1-41/data.csv",
-      "name": "1-41",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "1-41"
-    },
-    {
-      "path": "12-10/data.csv",
-      "name": "12-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "12-10"
-    },
-    {
-      "path": "11-60/data.csv",
-      "name": "11-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Postotak recikliranja komunalnog otpada"
-    },
-    {
-      "path": "3-12/data.csv",
-      "name": "3-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-12"
-    },
-    {
-      "path": "6-60/data.csv",
-      "name": "6-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "STATINFO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Godišnja vrijednost",
-                "Četverogodišnji prosjek",
-                ""
-              ]
-            },
-            "title": "Statistički podaci"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Indeks iskorištenosti vode, plus (WEI+)"
-    },
-    {
-      "path": "9-30/data.csv",
-      "name": "9-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "SECTPERF",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Svi sektori",
-                "Poslovni sektor",
-                "Vladin sektor",
-                "Sektor visokog obrazovanja",
-                "Privatni neprofitni sektor",
-                ""
-              ]
-            },
-            "title": "Sektor učinka"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Osoblje za istraživanje i razvoj (R&R)"
-    },
-    {
-      "path": "16-20/data.csv",
-      "name": "16-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "16-20"
-    },
-    {
-      "path": "14-50/data.csv",
-      "name": "14-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "14-50"
-    },
-    {
-      "path": "15-61/data.csv",
-      "name": "15-61",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "15-61"
-    },
-    {
-      "path": "9-70/data.csv",
-      "name": "9-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "9-70"
-    },
-    {
-      "path": "1-40/data.csv",
-      "name": "1-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "1-40"
-    },
-    {
-      "path": "10-60/data.csv",
-      "name": "10-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "10-60"
-    },
-    {
-      "path": "2-10/data.csv",
-      "name": "2-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "mac-roman",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Body_Mass_Index",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prekomjerna težina",
-                "Predgojaznost",
-                "Gojaznost",
-                ""
-              ]
-            },
-            "title": "Indeks tjelesne mase"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stopa pretilosti prema indeksu tjelesne mase (BMI)"
-    },
-    {
-      "path": "3-70/data.csv",
-      "name": "3-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-70"
-    },
-    {
-      "path": "5-10/data.csv",
-      "name": "5-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "5-10"
-    },
-    {
-      "path": "10-30/data.csv",
-      "name": "10-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "10-30"
-    },
-    {
-      "path": "5-30/data.csv",
-      "name": "5-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "Labour_force_and_employment_status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zaposlene osobe",
-                "Zaposlene osobe koje rade nepuno radno vrijeme",
-                "Zaposlene osobe s privremenim ugovorom",
-                "Nedovoljno zaposlene osobe koje rade nepuno radno vrijeme",
-                ""
-              ]
-            },
-            "title": "Radna snaga i status zaposlenosti"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "od 20 do 64 godine",
-                ""
-              ]
-            },
-            "title": "Godine"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Razlika u zaposlenosti među spolovima, prema vrsti zaposlenja"
-    },
-    {
-      "path": "6-30/data.csv",
-      "name": "6-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Biokemijska potrošnja kisika u rijekama"
-    },
-    {
-      "path": "3-30/data.csv",
-      "name": "3-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 godina i više",
-                ""
-              ]
-            },
-            "title": "Godine"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Prevalencija pušenja prema spolu"
-    },
-    {
-      "path": "17-31/data.csv",
-      "name": "17-31",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "17-31"
-    },
-    {
-      "path": "15-42/data.csv",
-      "name": "15-42",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "STATINFO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Godišnja vrijednost",
-                "Desetogodišnji prosjek",
-                ""
-              ]
-            },
-            "title": "Statistički podaci"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Utjecaj suše na ekosustave"
-    },
-    {
-      "path": "13-40/data.csv",
-      "name": "13-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "STATINFO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Godišnja vrijednost",
-                "Tridesetogodišnji prosjek",
-                ""
-              ]
-            },
-            "title": "Statistički podaci"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Ekonomski gubici povezani s klimom"
-    },
-    {
-      "path": "11-40/data.csv",
-      "name": "11-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Smrtnost u cestovnom prometu"
-    },
-    {
-      "path": "15-20/data.csv",
-      "name": "15-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Kopnena zaštićena područja"
-    },
-    {
-      "path": "9-60/data.csv",
-      "name": "9-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "9-60"
-    },
-    {
-      "path": "10-10/data.csv",
-      "name": "10-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "INDIC_PPP",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Realni rashodi po stanovniku (u PPS_EU27_2020)",
-                "Indeksi volumena realnih rashoda po stanovniku (u PPS_EU27_2020=100)",
-                ""
-              ]
-            },
-            "title": "Pokazatelj pariteta kupovne moći"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "BDP po stanovniku prilagođen kupovnoj moći"
-    },
-    {
-      "path": "10-41/data.csv",
-      "name": "10-41",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "10-41"
-    },
-    {
-      "path": "16-10/data.csv",
-      "name": "16-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "16-10"
-    },
-    {
-      "path": "12-31/data.csv",
-      "name": "12-31",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "12-31"
-    },
-    {
-      "path": "13-10/data.csv",
-      "name": "13-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Domaće neto emisije stakleničkih plinova"
-    },
-    {
-      "path": "3-42/data.csv",
-      "name": "3-42",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-42"
     },
     {
       "path": "4-70/data.csv",
@@ -1400,56 +188,8 @@
       "title": "Udio pojedinaca koji posjeduju barem osnovne digitalne vještine, po spolu"
     },
     {
-      "path": "13-70/data.csv",
-      "name": "13-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "13-70"
-    },
-    {
-      "path": "11-20/data.csv",
-      "name": "11-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "11-20"
-    },
-    {
-      "path": "13-21/data.csv",
-      "name": "13-21",
+      "path": "2-60/data.csv",
+      "name": "2-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1479,124 +219,7 @@
           }
         ]
       },
-      "title": "Neto emisije stakleničkih plinova u sektoru LULUCF"
-    },
-    {
-      "path": "2-20/data.csv",
-      "name": "2-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "2-20"
-    },
-    {
-      "path": "14-10/data.csv",
-      "name": "14-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "14-10"
-    },
-    {
-      "path": "15-50/data.csv",
-      "name": "15-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "15-50"
-    },
-    {
-      "path": "6-20/data.csv",
-      "name": "6-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "WW_TP",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Pročišćavanje urbanih, neovisnih i drugih otpadnih voda - barem sekundarno pročišćavanje",
-                ""
-              ]
-            },
-            "title": "Uređaji za pročišćavanje otpadnih voda"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stanovništvo spojeno na barem sekundarni sustav otpadnih voda"
+      "title": "Emisije amonijaka iz poljoprivrede"
     },
     {
       "path": "6-70/data.csv",
@@ -1623,6 +246,54 @@
       "title": "Pesticidi u rijekama"
     },
     {
+      "path": "17-60/data.csv",
+      "name": "17-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "17-60"
+    },
+    {
+      "path": "17-31/data.csv",
+      "name": "17-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "17-31"
+    },
+    {
       "path": "2-53/data.csv",
       "name": "2-53",
       "profile": "tabular-data-resource",
@@ -1647,80 +318,8 @@
       "title": "2-53"
     },
     {
-      "path": "5-20/data.csv",
-      "name": "5-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "5-20"
-    },
-    {
-      "path": "7-50/data.csv",
-      "name": "7-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "Standard_international_energy_product_ classification",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "Čvrsta fosilna goriva",
-                "Nafta i naftni derivati ​​(isključujući dio biogoriva)",
-                "Prirodni gas",
-                ""
-              ]
-            },
-            "title": "Standardna međunarodna klasifikacija energetskih proizvoda"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Ovisnost o uvozu energije"
-    },
-    {
-      "path": "16-50/data.csv",
-      "name": "16-50",
+      "path": "11-60/data.csv",
+      "name": "11-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1745,16 +344,40 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
       },
-      "title": "Indeks percepcije korupcije"
+      "title": "Postotak recikliranja komunalnog otpada"
     },
     {
-      "path": "4-60/data.csv",
-      "name": "4-60",
+      "path": "11-11/data.csv",
+      "name": "11-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "11-11"
+    },
+    {
+      "path": "8-30/data.csv",
+      "name": "8-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1790,7 +413,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Od 25 do 64 godinе",
+                "od 20 do 64 godine",
                 ""
               ]
             },
@@ -1808,75 +431,7 @@
           }
         ]
       },
-      "title": "Sudjelovanje odraslih u učenju po spolu"
-    },
-    {
-      "path": "1-10/data.csv",
-      "name": "1-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "1-10"
-    },
-    {
-      "path": "11-32/data.csv",
-      "name": "11-32",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Indeks prekrivanja tla"
+      "title": "Stopa zaposlenosti"
     },
     {
       "path": "10-50/data.csv",
@@ -1903,418 +458,6 @@
       "title": "10-50"
     },
     {
-      "path": "12-51/data.csv",
-      "name": "12-51",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "HAZARD_WASTE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Opasan i neopasan otpad, ukupno",
-                "Opasan otpad",
-                "Neopasan otpad",
-                ""
-              ]
-            },
-            "title": "Klasa opasnog otpada"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Nastajanje otpada"
-    },
-    {
-      "path": "1-20/data.csv",
-      "name": "1-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "1-20"
-    },
-    {
-      "path": "10-20/data.csv",
-      "name": "10-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "10-20"
-    },
-    {
-      "path": "13-50/data.csv",
-      "name": "13-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "13-50"
-    },
-    {
-      "path": "8-60/data.csv",
-      "name": "8-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "8-60"
-    },
-    {
-      "path": "9-10/data.csv",
-      "name": "9-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "SECTPERF",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Svi sektori",
-                "Poslovni sektor",
-                "Vladin sektor",
-                "Sektor visokog obrazovanja",
-                "Privatni neprofitni sektor",
-                ""
-              ]
-            },
-            "title": "Sektor učinka"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Bruto domaća potrošnja za istraživanje i razvoj (R&D)"
-    },
-    {
-      "path": "4-31/data.csv",
-      "name": "4-31",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Sudjelovanje u obrazovanju u ranom djetinjstvu prema spolu (djeca u dobi od 3 godine i više)"
-    },
-    {
-      "path": "5-61/data.csv",
-      "name": "5-61",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "PROF_POS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Neizvršni direktori",
-                "Neizvršni i izvršni direktori",
-                ""
-              ]
-            },
-            "title": "Profesionalna pozicija"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Pozicije koje zauzimaju žene na višim rukovodećim pozicijama"
-    },
-    {
-      "path": "7-30/data.csv",
-      "name": "7-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Produktivnost energije"
-    },
-    {
-      "path": "12-41/data.csv",
-      "name": "12-41",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "12-41"
-    },
-    {
-      "path": "16-70/data.csv",
-      "name": "16-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Žrtve trgovine ljudima prema spolu"
-    },
-    {
-      "path": "3-60/data.csv",
-      "name": "3-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-60"
-    },
-    {
       "path": "14-40/data.csv",
       "name": "14-40",
       "profile": "tabular-data-resource",
@@ -2339,8 +482,8 @@
       "title": "14-40"
     },
     {
-      "path": "9-50/data.csv",
-      "name": "9-50",
+      "path": "2-20/data.csv",
+      "name": "2-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2360,11 +503,11 @@
           }
         ]
       },
-      "title": "9-50"
+      "title": "2-20"
     },
     {
-      "path": "15-60/data.csv",
-      "name": "15-60",
+      "path": "7-60/data.csv",
+      "name": "7-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2384,31 +527,7 @@
           }
         ]
       },
-      "title": "15-60"
-    },
-    {
-      "path": "6-50/data.csv",
-      "name": "6-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Fosfat u rijekama"
+      "title": "Stanovništvo koje nije u stanju da zagrije dom adekvatno"
     },
     {
       "path": "4-20/data.csv",
@@ -2480,8 +599,239 @@
       "title": "Visoko obrazovanje prema spolu"
     },
     {
-      "path": "12-21/data.csv",
-      "name": "12-21",
+      "path": "12-51/data.csv",
+      "name": "12-51",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "HAZARD_WASTE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Opasan i neopasan otpad, ukupno",
+                "Opasan otpad",
+                "Neopasan otpad",
+                ""
+              ]
+            },
+            "title": "Klasa opasnog otpada"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Nastajanje otpada"
+    },
+    {
+      "path": "15-42/data.csv",
+      "name": "15-42",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "STATINFO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Godišnja vrijednost",
+                "Desetogodišnji prosjek",
+                ""
+              ]
+            },
+            "title": "Statistički podaci"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Utjecaj suše na ekosustave"
+    },
+    {
+      "path": "3-30/data.csv",
+      "name": "3-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 godina i više",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Prevalencija pušenja prema spolu"
+    },
+    {
+      "path": "13-40/data.csv",
+      "name": "13-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "STATINFO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Godišnja vrijednost",
+                "Tridesetogodišnji prosjek",
+                ""
+              ]
+            },
+            "title": "Statistički podaci"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ekonomski gubici povezani s klimom"
+    },
+    {
+      "path": "1-10/data.csv",
+      "name": "1-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "1-10"
+    },
+    {
+      "path": "14-50/data.csv",
+      "name": "14-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2501,7 +851,605 @@
           }
         ]
       },
-      "title": "12-21"
+      "title": "14-50"
+    },
+    {
+      "path": "10-10/data.csv",
+      "name": "10-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "INDIC_PPP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Realni rashodi po stanovniku (u PPS_EU27_2020)",
+                "Indeksi volumena realnih rashoda po stanovniku (u PPS_EU27_2020=100)",
+                ""
+              ]
+            },
+            "title": "Pokazatelj pariteta kupovne moći"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "BDP po stanovniku prilagođen kupovnoj moći"
+    },
+    {
+      "path": "1-41/data.csv",
+      "name": "1-41",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "1-41"
+    },
+    {
+      "path": "3-70/data.csv",
+      "name": "3-70",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "3-70"
+    },
+    {
+      "path": "9-10/data.csv",
+      "name": "9-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "SECTPERF",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Svi sektori",
+                "Poslovni sektor",
+                "Vladin sektor",
+                "Sektor visokog obrazovanja",
+                "Privatni neprofitni sektor",
+                ""
+              ]
+            },
+            "title": "Sektor učinka"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Bruto domaća potrošnja za istraživanje i razvoj (R&D)"
+    },
+    {
+      "path": "8-10/data.csv",
+      "name": "8-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stvarni BDP po stanovniku"
+    },
+    {
+      "path": "2-40/data.csv",
+      "name": "2-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Površina pod organskom poljoprivredom"
+    },
+    {
+      "path": "8-60/data.csv",
+      "name": "8-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "8-60"
+    },
+    {
+      "path": "16-50/data.csv",
+      "name": "16-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Indeks percepcije korupcije"
+    },
+    {
+      "path": "7-30/data.csv",
+      "name": "7-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Produktivnost energije"
+    },
+    {
+      "path": "12-10/data.csv",
+      "name": "12-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "12-10"
+    },
+    {
+      "path": "6-20/data.csv",
+      "name": "6-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "WW_TP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pročišćavanje urbanih, neovisnih i drugih otpadnih voda - barem sekundarno pročišćavanje",
+                ""
+              ]
+            },
+            "title": "Uređaji za pročišćavanje otpadnih voda"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stanovništvo spojeno na barem sekundarni sustav otpadnih voda"
+    },
+    {
+      "path": "9-40/data.csv",
+      "name": "9-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "COOP_PTN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Izumitelj",
+                "Podnositelj zahtjeva",
+                ""
+              ]
+            },
+            "title": "Partneri u suradnji"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Prijave patenata Europskom patentskom uredu"
+    },
+    {
+      "path": "9-30/data.csv",
+      "name": "9-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "SECTPERF",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Svi sektori",
+                "Poslovni sektor",
+                "Vladin sektor",
+                "Sektor visokog obrazovanja",
+                "Privatni neprofitni sektor",
+                ""
+              ]
+            },
+            "title": "Sektor učinka"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Osoblje za istraživanje i razvoj (R&R)"
+    },
+    {
+      "path": "13-10/data.csv",
+      "name": "13-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Domaće neto emisije stakleničkih plinova"
+    },
+    {
+      "path": "10-20/data.csv",
+      "name": "10-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "10-20"
+    },
+    {
+      "path": "12-41/data.csv",
+      "name": "12-41",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "12-41"
+    },
+    {
+      "path": "7-50/data.csv",
+      "name": "7-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "Standard_international_energy_product_ classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "Čvrsta fosilna goriva",
+                "Nafta i naftni derivati ​​(isključujući dio biogoriva)",
+                "Prirodni gas",
+                ""
+              ]
+            },
+            "title": "Standardna međunarodna klasifikacija energetskih proizvoda"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Ovisnost o uvozu energije"
     },
     {
       "path": "12-61/data.csv",
@@ -2528,8 +1476,8 @@
       "title": "12-61"
     },
     {
-      "path": "7-60/data.csv",
-      "name": "7-60",
+      "path": "13-70/data.csv",
+      "name": "13-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2549,11 +1497,11 @@
           }
         ]
       },
-      "title": "Stanovništvo koje nije u stanju da zagrije dom adekvatno"
+      "title": "13-70"
     },
     {
-      "path": "17-40/data.csv",
-      "name": "17-40",
+      "path": "6-60/data.csv",
+      "name": "6-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2572,143 +1520,16 @@
             "title": "SDG Varijable"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Bruto dug opće države"
-    },
-    {
-      "path": "6-40/data.csv",
-      "name": "6-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Nitrati u podzemnim vodama"
-    },
-    {
-      "path": "2-60/data.csv",
-      "name": "2-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Emisije amonijaka iz poljoprivrede"
-    },
-    {
-      "path": "1-50/data.csv",
-      "name": "1-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "1-50"
-    },
-    {
-      "path": "5-50/data.csv",
-      "name": "5-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "ORG_INST",
+            "name": "STATINFO",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nacionalni parlament",
-                "Nacionalna vlada",
+                "Godišnja vrijednost",
+                "Četverogodišnji prosjek",
                 ""
               ]
             },
-            "title": "Nacionalne i međunarodne organizacije i institucije"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
+            "title": "Statistički podaci"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2722,195 +1543,7 @@
           }
         ]
       },
-      "title": "Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama"
-    },
-    {
-      "path": "7-10/data.csv",
-      "name": "7-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Primarna i konačna potrošnja energije"
-    },
-    {
-      "path": "8-11/data.csv",
-      "name": "8-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "8-11"
-    },
-    {
-      "path": "1-31/data.csv",
-      "name": "1-31",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "1-31"
-    },
-    {
-      "path": "8-30/data.csv",
-      "name": "8-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "od 20 do 64 godine",
-                ""
-              ]
-            },
-            "title": "Godine"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Stopa zaposlenosti"
-    },
-    {
-      "path": "14-30/data.csv",
-      "name": "14-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "14-30"
-    },
-    {
-      "path": "3-20/data.csv",
-      "name": "3-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "3-20"
+      "title": "Indeks iskorištenosti vode, plus (WEI+)"
     },
     {
       "path": "5-40/data.csv",
@@ -2981,8 +1614,8 @@
       "title": "Osobe izvan radne snage zbog obveza brige o drugima po spolu"
     },
     {
-      "path": "16-30/data.csv",
-      "name": "16-30",
+      "path": "3-20/data.csv",
+      "name": "3-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3002,83 +1635,11 @@
           }
         ]
       },
-      "title": "16-30"
+      "title": "3-20"
     },
     {
-      "path": "17-50/data.csv",
-      "name": "17-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "17-50"
-    },
-    {
-      "path": "14-60/data.csv",
-      "name": "14-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "14-60"
-    },
-    {
-      "path": "11-11/data.csv",
-      "name": "11-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "11-11"
-    },
-    {
-      "path": "8-10/data.csv",
-      "name": "8-10",
+      "path": "16-70/data.csv",
+      "name": "16-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3097,18 +1658,31 @@
             "title": "SDG Varijable"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
       },
-      "title": "Stvarni BDP po stanovniku"
+      "title": "Žrtve trgovine ljudima prema spolu"
     },
     {
       "path": "4-10/data.csv",
@@ -3184,6 +1758,1584 @@
       "title": "Rano napuštanje obrazovanja i obuke po spolu"
     },
     {
+      "path": "2-30/data.csv",
+      "name": "2-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Državna potpora poljoprivrednom istraživanju i razvoju"
+    },
+    {
+      "path": "12-31/data.csv",
+      "name": "12-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "12-31"
+    },
+    {
+      "path": "3-60/data.csv",
+      "name": "3-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "3-60"
+    },
+    {
+      "path": "13-21/data.csv",
+      "name": "13-21",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Neto emisije stakleničkih plinova u sektoru LULUCF"
+    },
+    {
+      "path": "8-11/data.csv",
+      "name": "8-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "8-11"
+    },
+    {
+      "path": "6-30/data.csv",
+      "name": "6-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Biokemijska potrošnja kisika u rijekama"
+    },
+    {
+      "path": "2-10/data.csv",
+      "name": "2-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "mac-roman",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Body_Mass_Index",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prekomjerna težina",
+                "Predgojaznost",
+                "Gojaznost",
+                ""
+              ]
+            },
+            "title": "Indeks tjelesne mase"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Stopa pretilosti prema indeksu tjelesne mase (BMI)"
+    },
+    {
+      "path": "10-41/data.csv",
+      "name": "10-41",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "10-41"
+    },
+    {
+      "path": "10-30/data.csv",
+      "name": "10-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "10-30"
+    },
+    {
+      "path": "15-20/data.csv",
+      "name": "15-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Kopnena zaštićena područja"
+    },
+    {
+      "path": "5-50/data.csv",
+      "name": "5-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "ORG_INST",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacionalni parlament",
+                "Nacionalna vlada",
+                ""
+              ]
+            },
+            "title": "Nacionalne i međunarodne organizacije i institucije"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama"
+    },
+    {
+      "path": "15-11/data.csv",
+      "name": "15-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Šumska površina"
+    },
+    {
+      "path": "14-30/data.csv",
+      "name": "14-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "14-30"
+    },
+    {
+      "path": "3-42/data.csv",
+      "name": "3-42",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "3-42"
+    },
+    {
+      "path": "7-40/data.csv",
+      "name": "7-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Energy_balance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obnovljiva energija, ukupno",
+                "Obnovljiva energija, transport",
+                "Obnovljiva energija, električna energija",
+                "Obnovljiva energija, grijanje i hlađenje",
+                ""
+              ]
+            },
+            "title": "Energetska bilanca"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Udio obnovljive energije u bruto konačnoj potrošnji energije"
+    },
+    {
+      "path": "15-61/data.csv",
+      "name": "15-61",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "15-61"
+    },
+    {
+      "path": "3-12/data.csv",
+      "name": "3-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "3-12"
+    },
+    {
+      "path": "17-40/data.csv",
+      "name": "17-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Bruto dug opće države"
+    },
+    {
+      "path": "15-60/data.csv",
+      "name": "15-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "15-60"
+    },
+    {
+      "path": "14-60/data.csv",
+      "name": "14-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "14-60"
+    },
+    {
+      "path": "9-50/data.csv",
+      "name": "9-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "9-50"
+    },
+    {
+      "path": "17-10/data.csv",
+      "name": "17-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "17-10"
+    },
+    {
+      "path": "1-20/data.csv",
+      "name": "1-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "1-20"
+    },
+    {
+      "path": "1-40/data.csv",
+      "name": "1-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "1-40"
+    },
+    {
+      "path": "5-10/data.csv",
+      "name": "5-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "5-10"
+    },
+    {
+      "path": "5-20/data.csv",
+      "name": "5-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "5-20"
+    },
+    {
+      "path": "7-10/data.csv",
+      "name": "7-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Primarna i konačna potrošnja energije"
+    },
+    {
+      "path": "1-31/data.csv",
+      "name": "1-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "1-31"
+    },
+    {
+      "path": "16-40/data.csv",
+      "name": "16-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "16-40"
+    },
+    {
+      "path": "16-10/data.csv",
+      "name": "16-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "16-10"
+    },
+    {
+      "path": "4-40/data.csv",
+      "name": "4-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Petnaestogodišnjaci s niskim rezultatima u čitanju, matematici ili prirodnim znanostima"
+    },
+    {
+      "path": "14-21/data.csv",
+      "name": "14-21",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "14-21"
+    },
+    {
+      "path": "9-70/data.csv",
+      "name": "9-70",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "9-70"
+    },
+    {
+      "path": "12-21/data.csv",
+      "name": "12-21",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "12-21"
+    },
+    {
+      "path": "11-20/data.csv",
+      "name": "11-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "11-20"
+    },
+    {
+      "path": "13-50/data.csv",
+      "name": "13-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "13-50"
+    },
+    {
+      "path": "16-20/data.csv",
+      "name": "16-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "16-20"
+    },
+    {
+      "path": "16-30/data.csv",
+      "name": "16-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "16-30"
+    },
+    {
+      "path": "5-61/data.csv",
+      "name": "5-61",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "PROF_POS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Neizvršni direktori",
+                "Neizvršni i izvršni direktori",
+                ""
+              ]
+            },
+            "title": "Profesionalna pozicija"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Pozicije koje zauzimaju žene na višim rukovodećim pozicijama"
+    },
+    {
+      "path": "9-60/data.csv",
+      "name": "9-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "9-60"
+    },
+    {
+      "path": "6-40/data.csv",
+      "name": "6-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Nitrati u podzemnim vodama"
+    },
+    {
+      "path": "1-50/data.csv",
+      "name": "1-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "1-50"
+    },
+    {
+      "path": "8-20/data.csv",
+      "name": "8-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Od 15 do 29 godina",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Mladi koji nisu zaposleni niti uključeni u obrazovanje ili osposobljavanje"
+    },
+    {
+      "path": "14-10/data.csv",
+      "name": "14-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "14-10"
+    },
+    {
+      "path": "17-20/data.csv",
+      "name": "17-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "17-20"
+    },
+    {
+      "path": "11-32/data.csv",
+      "name": "11-32",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Indeks prekrivanja tla"
+    },
+    {
+      "path": "11-40/data.csv",
+      "name": "11-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Smrtnost u cestovnom prometu"
+    },
+    {
+      "path": "7-20/data.csv",
+      "name": "7-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Konačna potrošnja energije u kućanstvima po stanovniku"
+    },
+    {
+      "path": "15-50/data.csv",
+      "name": "15-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "15-50"
+    },
+    {
+      "path": "5-30/data.csv",
+      "name": "5-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "Labour_force_and_employment_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zaposlene osobe",
+                "Zaposlene osobe koje rade nepuno radno vrijeme",
+                "Zaposlene osobe s privremenim ugovorom",
+                "Nedovoljno zaposlene osobe koje rade nepuno radno vrijeme",
+                ""
+              ]
+            },
+            "title": "Radna snaga i status zaposlenosti"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "od 20 do 64 godine",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Razlika u zaposlenosti među spolovima, prema vrsti zaposlenja"
+    },
+    {
+      "path": "4-60/data.csv",
+      "name": "4-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Od 25 do 64 godinе",
+                ""
+              ]
+            },
+            "title": "Godine"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Sudjelovanje odraslih u učenju po spolu"
+    },
+    {
+      "path": "10-60/data.csv",
+      "name": "10-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "10-60"
+    },
+    {
+      "path": "6-50/data.csv",
+      "name": "6-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Fosfat u rijekama"
+    },
+    {
       "path": "8-40/data.csv",
       "name": "8-40",
       "profile": "tabular-data-resource",
@@ -3238,158 +3390,6 @@
         ]
       },
       "title": "Stopa zaposlenosti"
-    },
-    {
-      "path": "17-60/data.csv",
-      "name": "17-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "17-60"
-    },
-    {
-      "path": "2-40/data.csv",
-      "name": "2-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Površina pod organskom poljoprivredom"
-    },
-    {
-      "path": "17-10/data.csv",
-      "name": "17-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "17-10"
-    },
-    {
-      "path": "9-40/data.csv",
-      "name": "9-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "COOP_PTN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Izumitelj",
-                "Podnositelj zahtjeva",
-                ""
-              ]
-            },
-            "title": "Partneri u suradnji"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Prijave patenata Europskom patentskom uredu"
-    },
-    {
-      "path": "7-20/data.csv",
-      "name": "7-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Varijable"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Konačna potrošnja energije u kućanstvima po stanovniku"
     }
   ]
 }
