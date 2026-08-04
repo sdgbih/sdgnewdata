@@ -34,9 +34,9 @@ table: Табела
 map: Мапа
 loading: Учитавање
 loading_map: Учитавање мапе
-national_metadata: Национални метаподаци
+national_metadata: Национални Индикатор ИНФО
 national_metadata_blurb: 
-global_metadata: EU метаподаци
+global_metadata: ЕУ СДГ Индикатор ИНФО
 global_metadata_blurb: Ова таблица пружа информације о метаподацима за СДГ индикаторе како их је дефинисала Статистичка комисија УН-а. Комплетне глобалне метаподатке пружа Ођел за статистику УН-a.
 edit: Уреди
 edit_data: Уреди податке
