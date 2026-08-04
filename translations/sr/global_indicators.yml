@@ -3,7 +3,7 @@ national_rationale-label: НАМЈЕРА
 national_methodology-label: САДРЖАЈ И НАПРЕДАК
 national_indicator_definition-label: ОПИС
 national_indicator_definition: ОПИС ИНДИКАТОРА
-national_rationale: НАМЈЕРА
+national_rationale: ОБРАЗЛОЖЕЊЕ
 national_methodology_characteristics: САДРЖАЈ И НАПРЕДАК
 national_long_objective: ДУГОРОЧНИ ЦИЉ
 national_long_term_objective-label: ДУГОРОЧНИ ЦИЉ
@@ -14,13 +14,13 @@ long_term_objective-label: ДУГОРОЧНИ ЦИЉ
 eu_definition-label: ОПИС
 eu_indicator_definition: ОПИС
 eu_indicator_definition-label: ОПИС
-eu_rationale: НАМЈЕРА
+eu_rationale: ОБРАЗЛОЖЕЊЕ
 eu_intention-label: НАМЈЕРА
 eu_intention: НАМЈЕРА
 eu_methodology_characteristics: САДРЖАЈ И НАПРЕДАК
 eu_long_objective: ДУГОРОЧНИ ЦИЉ
 eu_long_term_objective-label: ДУГОРОЧНИ ЦИЉ
-metadata-footer-label: Nacionalni referentni metapodaci
+metadata-footer-label: Национални референтни метаподаци
 
 1-10-title: Лица у ризику од сиромаштва или социјалне искључености
 1-10-definition: >-
