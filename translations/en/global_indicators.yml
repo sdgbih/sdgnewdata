@@ -3,7 +3,7 @@ national_rationale-label: Intention
 national_methodology-label: Content and progress
 national_indicator_definition-label: Indicator description
 national_indicator_definition: Description
-national_rationale: Intention
+national_rationale: Rationale
 national_methodology_characteristics: Content and progress
 national_long_objective: Long-term objective
 national_long_term_objective-label: Long-term objective
@@ -14,7 +14,7 @@ long_term_objective-label: Long-term objective
 eu_definition-label: Description
 eu_indicator_definition: Description
 eu_indicator_definition-label: Description
-eu_rationale: Intention
+eu_rationale: Rationale
 eu_intention-label: Intention
 eu_intention: Intention
 eu_methodology_characteristics: Content and progress
