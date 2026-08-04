@@ -22,21 +22,15 @@ eu_long_objective: DUGOROČNI CILJ
 eu_long_term_objective-label: DUGOROČNI CILJ
 metadata-footer-label: Nacionalni referentni metapodaci
 
-1-10-title: Osobe u riziku od siromaštva ili socijalne isključenosti
+1-10-title: Stopa siromaštva prema kriteriju od 6,85 dolara dnevno - zamjenski pokazatelj
 1-10-definition: >-
-  Pokazatelj je dio skupa pokazatelja ciljeva održivog razvoja EU-a (SDG). Koristi se za praćenje napretka prema cilju održivog razvoja 1 o iskorjenjivanju siromaštva u svim njegovim oblicima svugdje i cilju održivog razvoja 10 o smanjenju nejednakosti unutar i među zemljama koje su ugrađene u prioritet Europske komisije pod „Podrška ljudima, jačanje našeg društva i našeg socijalnog modela”.
-  Ovaj pokazatelj odgovara zbroju osoba koje su: u riziku od siromaštva nakon socijalnih transfera, teško materijalno i socijalno ugrožene ili žive u kućanstvima s vrlo niskim intenzitetom rada. Pojedinci se broje samo jednom, čak i ako je na njih utjecalo više od jednog od tih događaja.
-
-  •	Smatra se da su ljudi izloženi riziku od siromaštva nakon socijalnih transfera ako njihov ekvivalentni raspoloživi dohodak nije veći od praga rizika od siromaštva, koji je postavljen na 60% nacionalnog medijana ekvivalentnog raspoloživog dohotka.
-
-  •	Stopa teške materijalne i socijalne deprivacije je udio stanovništva koje doživljava prisilni nedostatak od najmanje 7 od 13 stavki deprivacije (6 se odnosi na pojedinca, a 7 na kućanstvo)
+  Procijenjeni procenat stanovništva svake zemlje koji živi ispod praga siromaštva od 6,85 USD dnevno prema paritetu kupovne moći (PPP) pri konstantnim cijenama iz 2011. godine.
 1-10-intention: >-
   Siromaštvo i socijalna isključenost štetni su za živote pojedinaca i ograničavaju mogućnosti ljudi da ostvare svoj puni potencijal utječući na njihovo zdravlje i dobrobit te smanjujući obrazovne ishode. To zauzvrat smanjuje mogućnosti za uspješan život i dodatno povećava rizik od siromaštva. Bez učinkovitog sustava obrazovanja, zdravstvene zaštite, socijalne zaštite, poreznih olakšica i zapošljavanja, rizik od siromaštva prenosi se s generacije na generaciju. To uzrokuje ustrajnost siromaštva i time stvara još veću nejednakost, što može dovesti do dugoročnog gubitka ekonomske produktivnosti cijelih skupina društva i ometati inkluzivni i održivi gospodarski rast.
 1-10-methodology: >-
-  Podaci koji se koriste za ovaj pokazatelj temelje se na usklađenom godišnjem istraživanju o dohotku i životnim uvjetima (EU-SILC) na razini cijele Europe. U 2020. godini istraživanja EU-SILC je prošao opsežne metodološke revizije i integriran je u mikrocenzus kao odgovor na sve veće zahtjeve za ažuriranim podacima i pružanjem detaljnijih regionalnih rezultata. Kao rezultat ovog usklađivanja, podaci od 2020. nadalje nisu usporedivi s podacima iz prethodnih godina.
-  Od 2021. godine, Uredba (EU) 2019/1700 predviđa zahtjeve koji se odnose na zemljopisnu pokrivenost, detaljne karakteristike uzorka, uključujući poduzorkovanje, u skladu s Prilogom III., zajednička razdoblja prikupljanja podataka, zajedničke standarde za uređivanje i imputaciju, ponderiranje, procjenu i procjenu varijance.
+  Paritet kupovne moći (PPP) koristi se u procjeni globalnog siromaštva kako bi se prilagodile razlike u cijenama među zemljama. PPP su indeksi cijena koje objavljuje Međunarodni program za usporedbu (ICP) i koji mjere koliko košta kupnja košarice roba i usluga u jednoj zemlji u usporedbi s time koliko košta kupnja iste košarice roba i usluga u referentnoj zemlji, obično Sjedinjenim Američkim Državama. Faktori konverzije PPP-a poželjniji su od tržišnih deviznih tečajeva za mjerenje globalnog siromaštva jer ovi drugi precjenjuju siromaštvo u zemljama u razvoju, gdje su netrgovinske usluge relativno jeftine (fenomen poznat kao Balassa-Samuelson-Penn efekt).
 1-10-long_term_objective: >-
-  Dugoročni cilj za ovaj pokazatelj je vrijednost  0
+  Smanjiti broj ljudi koji su u riziku od siromaštva ili socijalne isključenosti za 15 milijuna do 2030. godine u usporedbi s 2019. godinom (referenca politike: Akcijski plan za europski stup socijalnih prava)
 1-20-title: Osobe u opasnosti od monetarnog siromaštva nakon socijalnih transfera
 1-20-definition: >-
   EU-SILC ključni je instrument za pružanje informacija koje se zahtijevaju u Europskom semestru ([1]) i Europskom stupu socijalnih prava. Također je glavni izvor podataka za potrebe mikrosimulacije i za izradu brzih procjena raspodjele dohotka i stopa siromaštva. Pokazatelj osoba u riziku od siromaštva ili socijalne isključenosti (AROPE) i dalje je ključan za praćenje europskih socijalnih politika, posebno za praćenje cilja EU-a za 2030. godinu o siromaštvu i socijalnoj isključenosti.
