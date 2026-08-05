@@ -2,7 +2,7 @@ definition-label: Description
 national_rationale-label: Intention
 national_methodology-label: Content and progress
 national_indicator_definition-label: Indicator description
-national_indicator_definition: Description
+national_indicator_definition: Goal Description
 national_rationale: Rationale
 national_methodology_characteristics: Content and progress
 national_long_objective: Long-term objective
@@ -12,8 +12,8 @@ intention-label: Intention
 methodology-label: Content and progress
 long_term_objective-label: Long-term objective
 eu_definition-label: Description
-eu_indicator_definition: Description
-eu_indicator_definition-label: Description
+eu_indicator_definition: Goal Description
+eu_indicator_definition-label: Goal Description
 eu_rationale: Rationale
 eu_intention-label: Intention
 eu_intention: Intention
@@ -31,25 +31,15 @@ metadata-footer-label: National reference metadata
   Purchasing power parities (PPPs) are used in global poverty estimation to adjust for price differences across countries. PPPs are price indices published by the International Comparison Program (ICP) that measure how much it costs to purchase a basket of goods and services in one country compared to how much it costs to purchase the same basket of goods and services in a reference country, typically the United States. PPP conversion factors are preferred to market exchange rates for the measurement of global poverty because the latter overestimate poverty in developing countries, where non-tradable services are relatively cheap (a phenomenon known as the Balassa-Samuelson-Penn effect).
 1-10-long_term_objective: >-
   Reduce the number of people at risk of poverty or social exclusion by 15 million by 2030 compared with 2019 (policy reference: European pillar of social rights Action Plan)
-1-20-title: Persons at risk of monetary poverty after social transfers - EU SILC and ECHP surveys
+1-20-title: Distribution of social protection transfers to the population in Bosnia and Herzegovina - proxy indicator
 1-20-definition: >-
-  The EU-SILC collection is a key instrument for providing the information required by the European Semester([1]) and the European Pillar of Social Rights. It is also the main source of data for microsimulation purposes and for producing flash estimates of income distribution and poverty rates. The indicator of persons at risk of poverty or social exclusion (AROPE) remains crucial for monitoring European social policies, especially for monitoring the EU 2030 target on poverty and social exclusion.
-  The European Union Statistics on Income and Living Conditions (EU-SILC) collects timely and comparable multidimensional microdata on income, poverty, social exclusion and living conditions. Statistical concepts and definitions for EU-SILC are specified in EU regulation 2019/1700, EU regulation 2019/2181, and EU regulation 2019/2242. The basic Regulation and its implementing and delegated acts provided for multiple changes to the EU-SILC data collection starting from 2021.
-  Countries must follow Annex II to EU regulation  2019/2242, where the list of variables is set out, including their modalities, flags, unit and reference period.
+  The chart provides an overview of the distribution of selected social transfers by population quintiles (fifths) from the poorest to the richest in Bosnia and Herzegovina. The study, based on APD data from 2011, estimates that the poorest fifth of the population receives only 17.3% of the total budget allocated for social protection cash benefits, meaning the impact of these benefits on reducing poverty is almost negligible. In fact, if these benefits didn’t exist at all, relative poverty in BiH would only increase by 1.7 percentage points (from 17.9% to 19.6%).
 1-20-intention: >-
-  The indicator of persons at risk of poverty or social exclusion (AROPE) remains crucial for monitoring European social policies, especially for monitoring the EU 2030 target on poverty and social exclusion. For more information, please consult EU social indicators.
-  The EU-SILC instrument provides two types of data:
-
-  •	cross-sectional data pertaining to a given time or a certain time period with variables on income, poverty, social exclusion and other living conditions;
-
-  •	longitudinal data pertaining to individual-level changes over time, observed periodically with a rotation scheme of four or more years (Annex III(2) to EU Regulation 2019/1700).
+  The relative poverty line set at 60% of the median consumption per adult equivalent in BiH in 2011 was 416.4 KM per month for a single-member adult household in BiH.
 1-20-methodology: >-
-  The target population is private households and all persons composing these households having their usual residence in the national territory. A private household means a person living alone or a group of persons who live together, providing for themselves the essentials of living.
-  The concept of accuracy refers to the precision of estimates computed from a sample rather than from the entire population. Accuracy depends on sample size, sampling design effects and the structure of the population being studied. In addition, sampling errors and non-sampling errors need to be considered. Sampling error means the variability that occurs at random due to using a sample rather than a census, and non-sampling errors are errors that occur in all phases of the data collection and production process.
-  From 2021
-  EU regulation 2019/1700 lays down the requirements relating to geographical coverage, detailed sample characteristics, including subsampling, in accordance with Annex III to that Regulation, sampling characteristics, common data gathering periods, common standards for editing and imputation, weighting, estimation and variance estimation.
+  The main objective of this research is to assess the effects of existing cash social protection programs in BiH on the incomes of poor households. 
 1-20-long_term_objective: >-
-  The long-term objective for this indicator is a value of 0
+  Reduce the number of people at risk of poverty or social exclusion by 15 million by 2030 compared with 2019 (polici reference: European pillar of social rights Action Plan)
 1-31-title: Severe material and social deprivation rate by age group and sex
 1-31-definition: >-
   The ‘Income and Living Conditions’ (EU-SILC) domain covers the following topics: persons at risk of poverty or social exclusion, income inequality, income distribution and monetary poverty, living conditions and material deprivation. It also covers EU-SILC ad hoc modules, which are organised into collections of indicators on specific topics.
