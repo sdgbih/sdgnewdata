@@ -2,7 +2,7 @@
 national_rationale-label: NAMJERA
 national_methodology-label: SADRŽAJ I NAPREDAK
 national_indicator_definition-label: OPIS
-national_indicator_definition: OPIS
+national_indicator_definition: OPIS CILJA
 national_rationale: OBRAZLOŽENJE
 national_methodology_characteristics: SADRŽAJ I NAPREDAK
 national_long_objective: DUGOROČNI CILJ
@@ -12,7 +12,7 @@ intention-label: NAMJERA
 methodology-label: SADRŽAJ I NAPREDAK
 long_term_objective-label: DUGOROČNI CILJ
 eu_definition-label: OPIS
-eu_indicator_definition: OPIS
+eu_indicator_definition: OPIS CILJA
 eu_indicator_definition-label: OPIS
 eu_rationale: OBRAZLOŽENJE
 eu_intention-label: NAMJERA
@@ -31,23 +31,15 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Paritet kupovne moći (PPP) se koristi u procjeni globalnog siromaštva kako bi se prilagodile razlike u cijenama među zemljama. PPP su indeksi cijena koje objavljuje Međunarodni program za poređenje (ICP) i koji mjere koliko košta kupovina korpe roba i usluga u jednoj zemlji u poređenju sa tim koliko košta kupovina iste korpe roba i usluga u referentnoj zemlji, obično Sjedinjenim Američkim Državama. Faktori konverzije PPP su poželjniji od tržišnih deviznih kurseva za mjerenje globalnog siromaštva jer ovi drugi precjenjuju siromaštvo u zemljama u razvoju, gdje su netrgovinske usluge relativno jeftine (fenomen poznat kao Balassa-Samuelson-Penn efekat).
 1-10-long_term_objective: >-
   Smanjiti broj ljudi koji su u riziku od siromaštva ili socijalne isključenosti za 15 miliona do 2030. godine u poređenju sa 2019. godinom (referenca politike: Akcioni plan za evropski stub socijalnih prava)
-1-20-title: Osobe u opasnosti od monetarnog siromaštva nakon socijalnih transfera
+1-20-title: Raspodjela transfera socijalne zaštite stanovništvu u Bosni i Hercegovini - zamjenski indikator
 1-20-definition: >-
-  Statistika Evropske unije o prihodima i životnim uslovima (EU-SILC) prikuplja pravovremene i uporedive multidimenzionalne mikropodatke o prihodima, siromaštvu, socijalnoj isključenosti i životnim uslovima. Statistički koncepti i definicije za EU-SILC navedeni su u Uredbi EU 2019/1700, Uredbi EU2019/2181 i Uredbi EU 2019/2242. Osnovna uredba i njeni implementacioni i delegirani akti predviđali su višestruke izmjene u prikupljanju podataka EU-SILC počevši od 2021. godine.
-  Zemlje moraju slijediti Aneks II Uredbe EU  2019/2242, gdje je navedena lista varijabli, uključujući njihove modalitete, zastave, jedinicu i referentni period.
+  Tabela daje pregled raspodjele odabranih socijalnih transfera po kvintilima stanovništva (petinama) od najsiromašnijih do najbogatijih u Bosni i Hercegovini. Studija, zasnovana na podacima APD iz 2011. godine, procenjuje da najsiromašnija petina stanovništva prima samo 17,3% ukupnog budžeta izdvojenog za novčane naknade socijalne zaštite, što znači da je uticaj ovih naknada na smanjenje siromaštva gotovo zanemarljiv. U stvari, ako ove naknade uopšte ne bi postojale, relativno siromaštvo u BiH bi se povećalo samo za 1,7 procentnih poena (sa 17,9% na 19,6%).
 1-20-intention: >-
-  Indikator osoba u riziku od siromaštva ili socijalne isključenosti (AROPE) ostaje ključan za praćenje evropskih socijalnih politika, posebno za praćenje cilja EU za 2030. godinu o siromaštvu i socijalnoj isključenosti. Za više informacija pogledajte socijalne indikatore EU.
-  EU-SILC instrument pruža dvije vrste podataka:
-
-  •	presječni podaci koji se odnose na određeno vrijeme ili određeni vremenski period sa varijablama o prihodima, siromaštvu, socijalnoj isključenosti i drugim životnim uslovima;
-  longitudinalni podaci koji se odnose na promjene na individualnom nivou tokom vremena, koji se periodično posmatraju sa šemom rotacije od četiri ili više godina (Aneks III(2) Uredbe EU 2019/1700).
+  Relativna linija siromaštva postavljena na iznos od 60% medijana potrošnje po ekvivalentu odrasle osobe u BiH u 2011. godini iznosila je 416,4 KM mjesečno za jednočlano odraslo domaćinstvo u BiH.
 1-20-methodology: >-
-  Ciljna populacija su privatna domaćinstva i sve osobe koje sačinjavaju ova domaćinstva koja imaju svoje uobičajeno prebivalište na nacionalnoj teritoriji. Privatno domaćinstvo je osoba koja živi sama ili grupa osoba koje žive zajedno, pružajući sebi osnovne životne potrebe.
-  Koncept tačnosti se odnosi na preciznost procjena izračunatih iz uzorka, a ne iz cijele populacije. Tačnost zavisi od veličine uzorka, efekata dizajna uzorkovanja i strukture populacije koja se proučava. Pored toga, potrebno je uzeti u obzir greške u uzorkovanju i greške koje nisu u uzorkovanju. Greška uzorkovanja znači varijabilnost koja se javlja nasumično zbog upotrebe uzorka, a ne popisa, a greške koje nisu uzorkovane su greške koje se javljaju u svim fazama procesa prikupljanja i proizvodnje podataka.
-  Od 2021
-  Uredba EU 2019/1700 utvrđuje zahtjeve koji se odnose na geografsku pokrivenost, detaljne karakteristike uzorka, uključujući poduzorkovanje, u skladu sa Aneksom III te uredbe, karakteristike uzorkovanja, zajedničke periode prikupljanja podataka, zajedničke standarde za uređivanje i imputaciju, ponderisanje, procjenu i procjenu varijanse.
+  Ovo istraživanje ima za osnovni cilj ocijeniti efekte postojećih novčanih programa socijalne zaštite u BiH na prihode siromašnih domaćinstava.
 1-20-long_term_objective: >-
-  Dugoročni cilj za ovaj indikator je vrijednost od 0
+  Smanjiti broj ljudi koji su u riziku od siromaštva ili socijalne isključenosti za 15 miliona do 2030. godine u poređenju sa 2019. godinom (referenca politike: Akcioni plan za evropski stub socijalnih prava)
 1-31-title: Stopa teške materijalne i socijalne uskraćenosti prema starosnoj grupi i spolu
 1-31-definition: >-
   Domen „Dohodak i životni uslovi“ (EU-SILC) obuhvata sljedeće teme: osobe u riziku od siromaštva ili socijalne isključenosti, nejednakost prihoda, raspodjelu prihoda i monetarno siromaštvo, životne uslove i materijalnu deprivaciju. Obuhvata i EU-SILC ad hoc module, koji su organizovani u kolekcije indikatora o određenim temama.
