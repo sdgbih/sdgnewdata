@@ -1,8 +1,8 @@
 ﻿﻿definition-label: OPIS
 national_rationale-label: NAMJERA
 national_methodology-label: SADRŽAJ I NAPREDAK
-national_indicator_definition-label: OPIS
-national_indicator_definition: OPIS
+national_indicator_definition-label: OPIS CILJA
+national_indicator_definition: OPIS CILJA
 national_rationale: OBRAZLOŽENJE
 national_methodology_characteristics: SADRŽAJ I NAPREDAK
 national_long_objective: DUGOROČNI CILJ
@@ -13,7 +13,7 @@ methodology-label: SADRŽAJ I NAPREDAK
 long_term_objective-label: DUGOROČNI CILJ
 eu_definition-label: OPIS
 eu_indicator_definition-label: OPIS
-eu_indicator_definition: OPIS
+eu_indicator_definition: OPIS CILJA
 eu_rationale: OBRAZLOŽENJE
 eu_intention-label: NAMJERA
 eu_intention: NAMJERA
@@ -31,25 +31,15 @@ metadata-footer-label: Nacionalni referentni metapodaci
   Paritet kupovne moći (PPP) koristi se u procjeni globalnog siromaštva kako bi se prilagodile razlike u cijenama među zemljama. PPP su indeksi cijena koje objavljuje Međunarodni program za usporedbu (ICP) i koji mjere koliko košta kupnja košarice roba i usluga u jednoj zemlji u usporedbi s time koliko košta kupnja iste košarice roba i usluga u referentnoj zemlji, obično Sjedinjenim Američkim Državama. Faktori konverzije PPP-a poželjniji su od tržišnih deviznih tečajeva za mjerenje globalnog siromaštva jer ovi drugi precjenjuju siromaštvo u zemljama u razvoju, gdje su netrgovinske usluge relativno jeftine (fenomen poznat kao Balassa-Samuelson-Penn efekt).
 1-10-long_term_objective: >-
   Smanjiti broj ljudi koji su u riziku od siromaštva ili socijalne isključenosti za 15 milijuna do 2030. godine u usporedbi s 2019. godinom (referenca politike: Akcijski plan za europski stup socijalnih prava)
-1-20-title: Osobe u opasnosti od monetarnog siromaštva nakon socijalnih transfera
+1-20-title: Raspodjela transfera socijalne skrbi stanovništvu u Bosni i Hercegovini - zamjenski pokazatelj
 1-20-definition: >-
-  EU-SILC ključni je instrument za pružanje informacija koje se zahtijevaju u Europskom semestru ([1]) i Europskom stupu socijalnih prava. Također je glavni izvor podataka za potrebe mikrosimulacije i za izradu brzih procjena raspodjele dohotka i stopa siromaštva. Pokazatelj osoba u riziku od siromaštva ili socijalne isključenosti (AROPE) i dalje je ključan za praćenje europskih socijalnih politika, posebno za praćenje cilja EU-a za 2030. godinu o siromaštvu i socijalnoj isključenosti.
-  Statistika Europske unije o dohotku i životnim uvjetima (EU-SILC) prikuplja pravodobne i usporedive višedimenzionalne mikropodatke o dohotku, siromaštvu, socijalnoj isključenosti i životnim uvjetima. Statistički koncepti i definicije za EU-SILC navedeni su u Uredbi EU 2019/1700, Uredbi EU2019/2181 i Uredbi EU 2019/2242. Osnovna uredba i njezini provedbeni i delegirani akti predvidjeli su višestruke izmjene u prikupljanju podataka EU-SILC-a počevši od 2021. godine.
-  Zemlje moraju slijediti Prilog II. Uredbi  EU 2019/2242, gdje je naveden popis varijabli, uključujući njihove modalitete, zastave, jedinicu i referentno razdoblje.
+  Tabela daje pregled raspodjele odabranih socijalnih transfera po kvintilima stanovništva (petinama) od najsiromašnijih do najbogatijih u Bosni i Hercegovini. Studija, zasnovana na podacima APD iz 2011. godine, procenjuje da najsiromašnija petina stanovništva prima samo 17,3% ukupnog budžeta izdvojenog za novčane naknade socijalne zaštite, što znači da je uticaj ovih naknada na smanjenje siromaštva gotovo zanemarljiv. U stvari, ako ove naknade uopšte ne bi postojale, relativno siromaštvo u BiH bi se povećalo samo za 1,7 procentnih poena (sa 17,9% na 19,6%). 
 1-20-intention: >-
-  Pokazatelj osoba u riziku od siromaštva ili socijalne isključenosti (AROPE) i dalje je ključan za praćenje europskih socijalnih politika, posebno za praćenje cilja EU-a za 2030. godinu o siromaštvu i socijalnoj isključenosti. Za više informacija pogledajte socijalne pokazatelje EU-a.
-  Instrument EU-SILC pruža dvije vrste podataka:
-
-  •	Više domenske podatke koji se odnose na određeno vrijeme ili određeno vremensko razdoblje s varijablama o dohotku, siromaštvu, socijalnoj isključenosti i drugim životnim uvjetima;
-
-  •	longitudinalni podaci koji se odnose na promjene na pojedinačnoj razini tijekom vremena, promatrani periodično s shemom rotacije od četiri ili više godina (Prilog III(2) Uredbi EU 2019/1700).
+  Relativna linija siromaštva postavljena na iznos od 60% medijana potrošnje po ekvivalentu odrasle osobe u BiH u 2011. godini iznosila je 416,4 KM mjesečno za jednočlano odraslo domaćinstvo u BiH.
 1-20-methodology: >-
-  Ciljana populacija su privatna kućanstva i sve osobe koje čine ta kućanstva s uobičajenim boravištem na državnom području. Privatnim kućanstvom smatra se osoba koja živi sama ili skupina osoba koje žive zajedno, osiguravajući sebi osnovne životne potrebe.
-  Koncept točnosti odnosi se na preciznost procjena izračunatih iz uzorka, a ne iz cijele populacije. Točnost ovisi o veličini uzorka, učincima dizajna uzorkovanja i strukturi populacije koja se proučava. Osim toga, potrebno je uzeti u obzir pogreške uzorkovanja i pogreške koje nisu uzorkovane. Pogreška uzorkovanja znači varijabilnost koja se javlja nasumično zbog korištenja uzorka, a ne popisa, a pogreške koje nisu uzorkovane pogreške su koje se javljaju u svim fazama procesa prikupljanja i proizvodnje podataka.
-  Od 2021
-  Uredba EU-a 2019/1700 utvrđuje zahtjeve koji se odnose na zemljopisnu pokrivenost, detaljne karakteristike uzorka, uključujući poduzorkovanje, u skladu s Prilogom III. toj Uredbi, karakteristike uzorkovanja, zajednička razdoblja prikupljanja podataka, zajedničke standarde za uređivanje i imputaciju, ponderiranje, procjenu i procjenu varijance.
+  Relativna linija siromaštva postavljena na iznos od 60% medijana potrošnje po ekvivalentu odrasle osobe u BiH u 2011. godini iznosila je 416,4 KM mjesečno za jednočlano odraslo domaćinstvo u BiH.
 1-20-long_term_objective: >-
-  Dugoročni cilj za ovaj pokazatelj je vrijednost  0
+  Smanjiti broj ljudi koji su u riziku od siromaštva ili socijalne isključenosti za 15 miliona do 2030. godine u poređenju sa 2019. godinom (referenca politike: Akcioni plan za evropski stub socijalnih prava)
 1-31-title: Stopa teške materijalne i socijalne deprivacije prema dobroj grupi i spolu
 1-31-definition: >-
   Područje „Dohodak i životni uvjeti” (EU-SILC) obuhvaća sljedeće teme: osobe u riziku od siromaštva ili socijalne isključenosti, nejednakost dohotka, raspodjelu dohotka i monetarno siromaštvo, životne uvjete i materijalnu deprivaciju. Obuhvaća i EU-SILC ad hoc module koji su organizirani u zbirke pokazatelja o određenim temama.
