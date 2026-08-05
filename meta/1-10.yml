@@ -10,8 +10,8 @@ source_active_1: true
 source_organisation_1: World Poverty Clock
 source_url_1: 'https://worldpoverty.io'
 graph_titles:
-- series: SERIES.sdg_02_10
-  title: SERIES.sdg_02_10
+- series: SERIES.sdg_01_10
+  title: SERIES.sdg_01_10
 footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://datanalytics.worldbank.org/PIP-Methodology/">PIP Methodology</a>'
