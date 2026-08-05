@@ -68,6 +68,8 @@ RT: Rate
 KG_HAB: Kilograms per capita
 MEUR_KP: Million euro at constant prices
 EUR_HAB_KP: Euro per inhabitant (at constant prices)
-CUR_NAC_M: in millions of KM
+CUR_NAC_M: in millions of BAM
 T_HAB: Tonnes per capita
 KTCO2E: Thousand tonnes of CO2 equivalent
+PRICE_INC_R: Price to income Ratio
+AFF_INDEX: Affordability index
