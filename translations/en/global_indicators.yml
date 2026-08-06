@@ -90,17 +90,15 @@ metadata-footer-label: National reference metadata
   From 2021 Regulation (EU) 2019/1700 foresees the requirements relating to geographical coverage, detailed sample characteristics, including subsampling, in accordance with Annex III, common data gathering periods, common standards for editing and imputation, weighting, estimation and variance estimation
 1-41-long_term_objective: >-
   The long-term objective for this indicator is a value of 0
-1-50-title: Housing cost overburden rate by poverty status
+1-50-title: Affordable Housing - proxy indicator
 1-50-definition: >-
-  The indicator is part of the EU Sustainable Development Goals (SDG) indicator set where it is used to monitor progress towards SDG 1 on ending poverty in all its forms everywhere, which is embedded in the European Commission’s Priorities under 'Supporting people, Strenghtening our societes and our social model'.
-  The indicator is included as a secondary indicator in the Social Scoreboard for the European Pillar of Social Rights and the EPSR Action Plan, and is part of the multidimensional poverty index. It can be considered as part of the global SDG indicator 1.2.2 "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions".
+  Housing affordability in BiH has reached a critical point, with poor households spending over 40% of their income on housing. Many factors such as demand from diaspora and foreign investors, fragmented and poorly coordinated housing policies, have pushed prices beyond the reach of residents. Social housing systems remain underdeveloped, while informal rental markets induce tenants’ vulnerability and deprive governments of tax revenue.
 1-50-intention: >-
   Poverty and social exclusion harm individual lives and limit the opportunities for people to achieve their full potential by affecting their health and well-being and lowering educational outcomes. This, in turn, reduces opportunities to lead a successful life and further increases the risk of poverty. Without effective education, health, social, tax benefit and employment systems, the risk of poverty is passed on from one generation to the next. This causes poverty to persist and hence creates more inequality, which can lead to long-term loss of economic productivity from whole groups of society and hamper inclusive and sustainable economic growth.
 1-50-methodology: >-
-  The indicator measures the share of population living in households that spend 40 % or more of the household disposable income on housing ('net' of housing allowances). Housing costs include rental or mortgage interest payments but also the cost of utilities such as water, electricity, gas or heating.
-  From 2021 Regulation (EU) 2019/1700 foresees the requirements relating to geographical coverage, detailed sample characteristics, including subsampling, in accordance with Annex III, common data gathering periods, common standards for editing and imputation, weighting, estimation and variance estimation.
+  In addition to desk research, this paper draws on insights from eight semi-structured interviews conducted with stakeholders in Bosnia and Herzegovina, Montenegro, Denmark, and the Netherlands. Interviewees included representatives from cantonal ministries, municipal governments, NGOs working on tenant rights and housing affordability, and researchers specializing in housing systems. These interviews provided practical perspectives on the challenges of social housing, informal rental markets, vacant properties, and affordability. 
 1-50-long_term_objective: >-
-  The long-term objective for this indicator is a value of 0
+ Bosnia and Herzegovina ranks among Europe’s least affordable countries for housing, with average price-to-income ratios exceeding 13, which is far above, for example, the Netherlands' 7.7 and Denmark's 6.6.
 2-10-title: Obesity rate by body mass index (BMI)
 2-10-definition: >-
   The European Health Interview Survey (EHIS) aims to measure the health status (including disability), health determinants (lifestyle) of EU citizens, the use of health services, and barriers to accessing those services, in a harmonized manner and with a high degree of comparability among Member States (MS). 
@@ -110,7 +108,7 @@ metadata-footer-label: National reference metadata
   Data are collected through national surveys. EHIS can be conducted as a separate national survey or can be integrated into an existing national survey (e.g., national health survey, labor force survey, other household survey). In this way, member countries had maximum flexibility in implementation. However, across the EU the same data were collected according to a common list of variables and response categories.
 2-10-methodology: >-
   EHIS aims to achieve standardization of data entry. A standard questionnaire model (questions, response categories, filters, etc.) has been prepared, as well as conceptual guidelines and explanations. A conceptual translation into all EU languages has been requested.  
-  In the methodological manual for EHIS wave 3, an evaluation of the comparability of variables with those from wave 2 is provided using the scale: "identical question"; "slightly modified question"; "strongly modified question"; or "not available: new question in EHIS wave 3."
+   "identical question"; "slightly modified question"; "strongly modified question"; or "not available: new question in EHIS wave 3."
 2-10-long_term_objective: >-
   The long-term goal for this indicator is a BMI of 3.
 2-20-title: Agricultural real factor income per annual work unit (AWU)
