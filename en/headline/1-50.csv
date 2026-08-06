@@ -1,2 +1,3 @@
-Year,Value
-2015,
+Year,Value,UNIT_MEASURE,SERIES
+2025,13.5,Price to income Ratio,Affordable Housing - proxy indicator
+2025,1.0,Affordability index,Affordable Housing - proxy indicator
