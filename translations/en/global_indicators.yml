@@ -378,7 +378,9 @@ metadata-footer-label: Reference metadata
 6-30-definition: >-
   The indicator is defined as the proportion of water bodies in the country that have good ambient water quality. Ambient water quality refers to natural, untreated water in rivers, lakes and groundwaters and represents a combination of natural influences together with the impacts of all anthropogenic activities. The indicator relies on water quality data derived from in situ measurements and the analysis of samples collected from surface and groundwaters. Water quality is assessed by means of core physical and chemical parameters that reflect natural water quality related to climatological and geological factors, together with major impacts on water quality.
 6-30-intention: >-
+  Text in progress
 6-30-methodology: >-
+  Text in progress
 6-30-long_term_objective: >-
   By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.
 6-40-title: Nitrate in groundwater
@@ -402,6 +404,7 @@ metadata-footer-label: Reference metadata
 6-50-methodology: >-
   The 8th Environment Action Programme sets the environmental policy agenda for the years from 2021 to 2030 and explicitly mentions water-related issues in two of its six priority objectives. These two objectives are: (1) pursuing a zero-pollution ambition for a toxic free-environment, including for air, water and soil and protecting the health and well-being of citizens from environment-related risks and impacts; and (2) protecting, preserving and restoring biodiversity and enhancing natural capital, notably air, water, soil, and forest, freshwater, wetland and marine ecosystems.
 6-50-long_term_objective: >-
+  No description
 6-60-title: Water exploitation index, plus (WEI+)
 6-60-definition: >-
   The water exploitation index (WEI+) provides a measure of total water consumption as a percentage of the renewable freshwater resources available for a given territory and period. It quantifies how much water is abstracted and how much water is returned to the environment by economic sectors before or after use. The difference between water abstractions and water returns is regarded as ‘water consumption’. In the absence of Europe-wide agreed formal targets, values above 20 % are generally considered to be a sign of water scarcity, while values equal or greater than 40 % indicate situations of severe water scarcity, meaning the use of freshwater resources is unsustainable.
