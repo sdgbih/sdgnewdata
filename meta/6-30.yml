@@ -7,8 +7,8 @@ graph_type: line
 indicator_sort_order: '06-30'
 indicator_name: global_indicators.6-30-title
 source_active_1: true
-source_organisation_1: Ministry of Foreign Trade and Economic Relations of Bosnia and Herzegovina, UNEP-United Nations Environment Programme
-source_url_1: 'https://sdg.bhas.gov.ba/6-3-2/'
+source_organisation_1: Ministry of Foreign Trade and Economic Relations of Bosnia and Herzegovina
+source_url_1: 'https://unstats.un.org/sdgs/indicators/database/'
 footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-02.pdf">Metadata</a>'
