@@ -648,13 +648,13 @@ metadata-footer-label: Referentni metapodaci
 10-30-long_term_objective: >-
   SDG 10 poziva nacije da prilagode politike i zakonodavstvo kako bi povećale prihod donjih 40% stanovništva i smanjile nejednakosti na osnovu prihoda, spola, starosti, invaliditeta, rase, klase, etničke pripadnosti, religije i mogućnosti.
 10-41-title: Raspodjela prihoda - zamjenski indikator
-10-41-definition: > -
+10-41-definition: >-
   Procentualni udio prihoda ili potrošnje predstavlja udio koji pripada podgrupama stanovništva podijeljenim na decile ili kvintile. Procentualni udjeli po kvintilima možda neće iznositi tačno 100% zbog zaokruživanja brojeva. Podaci se zasnivaju na primarnim podacima iz anketa o potrošnji domaćinstava, prikupljenim od državnih zavoda za statistiku i odjela Svjetske banke za pojedine zemlje.
-10-41-intention: > -
+10-41-intention: >-
   Uprkos napretku u posljednjoj deceniji, izazovi u mjerenju siromaštva i dalje postoje. Pravovremenost, učestalost, kvalitet i uporedivost anketa domaćinstava moraju se značajno povećati, posebno u najsiromašnijim zemljama. Ankete sadrže detaljna pitanja o izvorima prihoda i načinu na koji su oni potrošeni, što obučeno osoblje mora pažljivo evidentirati. Prihode je generalno teže precizno izmjeriti, dok je potrošnja bliža samom pojmu životnog standarda. Većina podataka iz anketa danas uključuje i procjene vrednovanja potrošnje ili prihoda iz sopstvene proizvodnje, ali se metode vrednovanja razlikuju.
-10-41-methodology: > -
+10-41-methodology: >-
   Nejednakost u raspodjeli prihoda ogleda se u udjelu prihoda ili potrošnje koji pripada dijelu stanovništva rangiranom prema nivou prihoda ili potrošnje. Dijelovi stanovništva koji su najniže rangirani po ličnom dohotku ostvaruju najmanje udjele u ukupnom dohotku. Podaci o raspodjeli prihoda ili potrošnje potiču iz nacionalno reprezentativnih anketa domaćinstava. Tamo gdje su originalni podaci iz ankete domaćinstava bili dostupni, korišteni su za direktno izračunavanje udjela dohotka ili potrošnje po kvintilima. U suprotnom, udjeli su procijenjeni na osnovu najboljih dostupnih grupisanih podataka. Podaci o raspodjeli prilagođeni su veličini domaćinstva, čime se obezbjeđuje konzistentnija mjera dohotka ili potrošnje po glavi stanovnika. Godina istraživanja je godina u kojoj su prikupljeni osnovni podaci iz anketa domaćinstava ili, kada period prikupljanja podataka obuhvata dvije kalendarske godine, godina u kojoj je prikupljena većina podataka. Procentualni udjeli po kvintilima možda neće iznositi 100% zbog zaokruživanja.
-10-41-long_term_objective: > -
+10-41-long_term_objective: >-
   Cilj Grupe Svjetske banke o promovisanju zajedničkog prosperiteta definisan je kao podsticanje rasta dohotka najsiromašnijih 40 posto stanovništva prema raspodjeli blagostanja u svakoj zemlji. Podaci o raspodjeli dohotka i Ginijev koeficijent mjere nejednakost u dohotku ili potrošnji te predstavljaju važne indikatore za mjerenje zajedničkog prosperiteta.
 10-50-title: Udio prihoda donjih 40% stanovništva
 10-50-definition: >-
