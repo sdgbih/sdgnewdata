@@ -12,7 +12,7 @@ source_url_1: 'https://www.researchgate.net/publication/311922608_Socijalni_tran
 graph_titles:
 - series: SERIES.sdg_01_20
   title: SERIES.sdg_01_20
-eu_indicator_definition: global_indicators.1-20-definition
-eu_rationale: global_indicators.1-20-intention
-eu_methodology_characteristics: global_indicators.1-20-methodology
-eu_long_objective: global_indicators.1-20-long_term_objective
+national_indicator_definition: global_indicators.1-20-definition
+national_rationale: global_indicators.1-20-intention
+national_methodology_characteristics: global_indicators.1-20-methodology
+national_long_objective: global_indicators.1-20-long_term_objective
