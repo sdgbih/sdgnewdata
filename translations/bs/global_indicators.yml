@@ -647,16 +647,15 @@ metadata-footer-label: Referentni metapodaci
   Evropski semestar je ključni alat za ostvarivanje Stuba i koordinira ekonomske i fiskalne politike država članica EU. U okviru svog Zelenog plana, Evropska komisija je najavila da će se evropski semestar preusmjeriti na integraciju ciljeva održivog razvoja i stavljanje održivosti i dobrobiti građana u središte ekonomske politike.
 10-30-long_term_objective: >-
   SDG 10 poziva nacije da prilagode politike i zakonodavstvo kako bi povećale prihod donjih 40% stanovništva i smanjile nejednakosti na osnovu prihoda, spola, starosti, invaliditeta, rase, klase, etničke pripadnosti, religije i mogućnosti.
-10-41-title: Nejednakost u dohotku - omjer udjela dohotka po kvintilima
-10-41-definition: >-
-  Indikator je mjera nejednakosti raspodjele dohotka. Izračunava se kao odnos ukupnog dohotka koji prima 20% stanovništva s najvišim dohotkom (gornji kvintil) i onog koji prima 20% stanovništva s najnižim dohotkom (donji kvintil).
-  Svi prihodi se sastavljaju kao ekvivalentni raspoloživi prihodi.
-10-41-intention: >-
-  Cilj održivog razvoja 10 ima za cilj smanjenje nejednakosti unutar i između zemalja; što je ugrađeno u prioritete Evropske komisije pod „Podrška ljudima, jačanje naših društava i našeg socijalnog modela“. SDG 10 poziva nacije da prilagode politike i zakonodavstvo kako bi povećale prihod donjih 40% stanovništva i smanjile nejednakosti na osnovu prihoda, spola, starosti, invaliditeta, rase, klase, etničke pripadnosti, religije i mogućnosti.
-  Indikator je uključen kao glavni indikator u Pregled socijalnih indikatora za Evropski stub socijalnih prava.
-10-41-methodology: >-
-  Jedan od ciljeva socijalnih politika u EU je smanjenje nejednakosti pružanjem jednakih mogućnosti za sve. Analiza nejednakosti raspodjele dohotka jedan je od načina mjerenja nejednakosti unutar zemalja EU. Kao mjera nejednakosti raspodjele dohotka unutar zemlje, indikator nadopunjuje indikatore o udjelu dohotka najnižih 40% i o riziku od jaza u siromaštvu.
-10-41-long_term_objective: >-
+10-41-title: Raspodjela prihoda - zamjenski indikator
+10-41-definition: > -
+  Procentualni udio prihoda ili potrošnje predstavlja udio koji pripada podgrupama stanovništva podijeljenim na decile ili kvintile. Procentualni udjeli po kvintilima možda neće iznositi tačno 100% zbog zaokruživanja brojeva. Podaci se zasnivaju na primarnim podacima iz anketa o potrošnji domaćinstava, prikupljenim od državnih zavoda za statistiku i odjela Svjetske banke za pojedine zemlje.
+10-41-intention: > -
+  Uprkos napretku u posljednjoj deceniji, izazovi u mjerenju siromaštva i dalje postoje. Pravovremenost, učestalost, kvalitet i uporedivost anketa domaćinstava moraju se značajno povećati, posebno u najsiromašnijim zemljama. Ankete sadrže detaljna pitanja o izvorima prihoda i načinu na koji su oni potrošeni, što obučeno osoblje mora pažljivo evidentirati. Prihode je generalno teže precizno izmjeriti, dok je potrošnja bliža samom pojmu životnog standarda. Većina podataka iz anketa danas uključuje i procjene vrednovanja potrošnje ili prihoda iz sopstvene proizvodnje, ali se metode vrednovanja razlikuju.
+10-41-methodology: > -
+  Nejednakost u raspodjeli prihoda ogleda se u udjelu prihoda ili potrošnje koji pripada dijelu stanovništva rangiranom prema nivou prihoda ili potrošnje. Dijelovi stanovništva koji su najniže rangirani po ličnom dohotku ostvaruju najmanje udjele u ukupnom dohotku. Podaci o raspodjeli prihoda ili potrošnje potiču iz nacionalno reprezentativnih anketa domaćinstava. Tamo gdje su originalni podaci iz ankete domaćinstava bili dostupni, korišteni su za direktno izračunavanje udjela dohotka ili potrošnje po kvintilima. U suprotnom, udjeli su procijenjeni na osnovu najboljih dostupnih grupisanih podataka. Podaci o raspodjeli prilagođeni su veličini domaćinstva, čime se obezbjeđuje konzistentnija mjera dohotka ili potrošnje po glavi stanovnika. Godina istraživanja je godina u kojoj su prikupljeni osnovni podaci iz anketa domaćinstava ili, kada period prikupljanja podataka obuhvata dvije kalendarske godine, godina u kojoj je prikupljena većina podataka. Procentualni udjeli po kvintilima možda neće iznositi 100% zbog zaokruživanja.
+10-41-long_term_objective: > -
+  Cilj Grupe Svjetske banke o promovisanju zajedničkog prosperiteta definisan je kao podsticanje rasta dohotka najsiromašnijih 40 posto stanovništva prema raspodjeli blagostanja u svakoj zemlji. Podaci o raspodjeli dohotka i Ginijev koeficijent mjere nejednakost u dohotku ili potrošnji te predstavljaju važne indikatore za mjerenje zajedničkog prosperiteta.
 10-50-title: Udio prihoda donjih 40% stanovništva
 10-50-definition: >-
   Indikator mjeri udio prihoda koji je primilo donjih 40% stanovništva. Koncept prihoda koji se koristi je ukupni raspoloživi dohodak domaćinstva.
@@ -670,6 +669,7 @@ metadata-footer-label: Referentni metapodaci
   Evropski semestar je ključni alat za ostvarivanje Stuba i koordinira ekonomske i fiskalne politike država članica EU. U okviru svog Zelenog plana, Evropska komisija je najavila da će se evropski semestar preusmjeriti na integraciju ciljeva održivog razvoja i stavljanje održivosti i dobrobiti građana u središte ekonomske politike.
   Evropski socijalni fond (ESF) je glavni instrument EU za ulaganje u ljude od usvajanja Rimskog ugovora. Pomaže u rješavanju nejednakosti, kako u smislu ishoda tako i mogućnosti, finansiranjem akcija u oblastima zapošljavanja, socijalne inkluzije, obrazovanja, obuke i reformi administrativnih kapaciteta. Revidirani Evropski socijalni fond plus (ESF+), sa budžetom od 101 milijarde eura u okviru Višegodišnjeg finansijskog okvira 2021–2027, dodatno će pomoći u smanjenju nejednakosti.
 10-50-long_term_objective: >-
+  Nema opisa
 10-60-title: Zahtjevi za azil
 10-60-definition: >-
   Indikator prikazuje broj podnosilaca zahtjeva za azil po prvi put na milion stanovnika i broj pozitivnih prvostepenih odluka na milion stanovnika. Imajte na umu da je potreban oprez prilikom poređenja ove dvije vrijednosti, jer prijave primljene u određenoj godini možda neće biti obrađene do kasnije godine.
