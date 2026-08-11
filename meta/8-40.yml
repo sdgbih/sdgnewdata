@@ -5,7 +5,7 @@ sdg_goal: '8'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '08-40'
-indicator_name: global_indicators.8-30-title
+indicator_name: global_indicators.8-40-title
 source_active_1: true
 source_organisation_1: ESS (LFS)
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_08_40/default/table'
