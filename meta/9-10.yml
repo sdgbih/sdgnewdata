@@ -7,8 +7,14 @@ graph_type: line
 indicator_sort_order: '09-10'
 indicator_name: global_indicators.9-10-title
 source_active_1: true
-source_organisation_1: R&D 2025
+source_organisation_1: Eurostat
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_09_10/default/table'
+source_active_2: true
+source_organisation_2: BHAS
+source_url_2: 'https://bhas.gov.ba/data/Publikacije/Saopstenja/2025/RDE_01_2024_Y1_1_BS.pdf'
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_09_10_esmsip2.htm">Metadata</a>'
 graph_titles:
 - series: SERIES.sdg_09_10
   title: SERIES.sdg_09_10
