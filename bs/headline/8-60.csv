@@ -1,2 +1,8 @@
-Year,Value
-2015,
+Year,Value,UNIT_MEASURE,SERIES
+2019,2.19,Stopa incidencije,Smrtonosne nesreće na radu na 100 000 radnika
+2020,1.85,Stopa incidencije,Smrtonosne nesreće na radu na 100 000 radnika
+2021,3.15,Stopa incidencije,Smrtonosne nesreće na radu na 100 000 radnika
+2022,2.62,Stopa incidencije,Smrtonosne nesreće na radu na 100 000 radnika
+2023,2.46,Stopa incidencije,Smrtonosne nesreće na radu na 100 000 radnika
+2024,2.22,Stopa incidencije,Smrtonosne nesreće na radu na 100 000 radnika
+2025,2.57,Stopa incidencije,Smrtonosne nesreće na radu na 100 000 radnika

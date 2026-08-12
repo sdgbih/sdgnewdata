@@ -1,2 +1,8 @@
-Year,Value
-2015,
+Year,Value,UNIT_MEASURE,SERIES
+2019,2.19,Incidence rate,Fatal accidents at work per 100 000 workers
+2020,1.85,Incidence rate,Fatal accidents at work per 100 000 workers
+2021,3.15,Incidence rate,Fatal accidents at work per 100 000 workers
+2022,2.62,Incidence rate,Fatal accidents at work per 100 000 workers
+2023,2.46,Incidence rate,Fatal accidents at work per 100 000 workers
+2024,2.22,Incidence rate,Fatal accidents at work per 100 000 workers
+2025,2.57,Incidence rate,Fatal accidents at work per 100 000 workers
