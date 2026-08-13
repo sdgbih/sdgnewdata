@@ -75,3 +75,4 @@ PRICE_INC_R: Odnos cijene i prihoda
 AFF_INDEX: Indeks pristupačnosti
 PC_TSCO_X_ISCO: Procenat od ukupnih prihoda od poreza i socijalnih doprinosa (isključujući imputirane socijalne doprinose)
 RT_INC: Stopa incidencije
+RT_PER_100000_POP: Stopa na 100 000 stanovnika
