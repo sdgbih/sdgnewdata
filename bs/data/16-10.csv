@@ -1,10 +1,31 @@
-Year,Value
-2015,22.0
-2016,21.8
-2017,16.6
-2018,16.4
-2019,16.2
-2020,16.0
-2021,15.8
-2022,10.6
-2023,10.4
+Year,SERIES,Spol,UNIT_MEASURE,Value
+2012,Standardizovana stopa smrtnosti zbog ubistava,Oba pola,Stopa na 100.000 stanovnika,1.8
+2013,Standardizovana stopa smrtnosti zbog ubistava,Oba pola,Stopa na 100.000 stanovnika,1.7
+2014,Standardizovana stopa smrtnosti zbog ubistava,Oba pola,Stopa na 100.000 stanovnika,1.7
+2015,Standardizovana stopa smrtnosti zbog ubistava,Oba pola,Stopa na 100.000 stanovnika,1.7
+2016,Standardizovana stopa smrtnosti zbog ubistava,Oba pola,Stopa na 100.000 stanovnika,1.6
+2017,Standardizovana stopa smrtnosti zbog ubistava,Oba pola,Stopa na 100.000 stanovnika,1.6
+2018,Standardizovana stopa smrtnosti zbog ubistava,Oba pola,Stopa na 100.000 stanovnika,1.5
+2019,Standardizovana stopa smrtnosti zbog ubistava,Oba pola,Stopa na 100.000 stanovnika,1.5
+2020,Standardizovana stopa smrtnosti zbog ubistava,Oba pola,Stopa na 100.000 stanovnika,1.4
+2021,Standardizovana stopa smrtnosti zbog ubistava,Oba pola,Stopa na 100.000 stanovnika,1.4
+2012,Standardizovana stopa smrtnosti zbog ubistava,Muškarci,Stopa na 100.000 stanovnika,2.7
+2013,Standardizovana stopa smrtnosti zbog ubistava,Muškarci,Stopa na 100.000 stanovnika,2.6
+2014,Standardizovana stopa smrtnosti zbog ubistava,Muškarci,Stopa na 100.000 stanovnika,2.6
+2015,Standardizovana stopa smrtnosti zbog ubistava,Muškarci,Stopa na 100.000 stanovnika,2.6
+2016,Standardizovana stopa smrtnosti zbog ubistava,Muškarci,Stopa na 100.000 stanovnika,2.4
+2017,Standardizovana stopa smrtnosti zbog ubistava,Muškarci,Stopa na 100.000 stanovnika,2.4
+2018,Standardizovana stopa smrtnosti zbog ubistava,Muškarci,Stopa na 100.000 stanovnika,2.3
+2019,Standardizovana stopa smrtnosti zbog ubistava,Muškarci,Stopa na 100.000 stanovnika,2.2
+2020,Standardizovana stopa smrtnosti zbog ubistava,Muškarci,Stopa na 100.000 stanovnika,2.0
+2021,Standardizovana stopa smrtnosti zbog ubistava,Muškarci,Stopa na 100.000 stanovnika,2.0
+2012,Standardizovana stopa smrtnosti zbog ubistava,Žene,Stopa na 100.000 stanovnika,0.9
+2013,Standardizovana stopa smrtnosti zbog ubistava,Žene,Stopa na 100.000 stanovnika,0.9
+2014,Standardizovana stopa smrtnosti zbog ubistava,Žene,Stopa na 100.000 stanovnika,0.9
+2015,Standardizovana stopa smrtnosti zbog ubistava,Žene,Stopa na 100.000 stanovnika,0.9
+2016,Standardizovana stopa smrtnosti zbog ubistava,Žene,Stopa na 100.000 stanovnika,0.9
+2017,Standardizovana stopa smrtnosti zbog ubistava,Žene,Stopa na 100.000 stanovnika,0.8
+2018,Standardizovana stopa smrtnosti zbog ubistava,Žene,Stopa na 100.000 stanovnika,0.8
+2019,Standardizovana stopa smrtnosti zbog ubistava,Žene,Stopa na 100.000 stanovnika,0.8
+2020,Standardizovana stopa smrtnosti zbog ubistava,Žene,Stopa na 100.000 stanovnika,0.8
+2021,Standardizovana stopa smrtnosti zbog ubistava,Žene,Stopa na 100.000 stanovnika,0.8
