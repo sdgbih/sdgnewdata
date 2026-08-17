@@ -1,19 +1,24 @@
 indicator_number: 3.12
-reporting_status: notstarted
+reporting_status: complete
 published: true
 sdg_goal: '3'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '03-12'
-
+indicator_name: global_indicators.3-12-title
 source_active_1: true
-source_organisation_1: 
-source_url_1: ''
-
-indicator_definition: global_indicators.3-12-definition
-rationale: global_indicators.3-12-intention
-methodology_characteristics: global_indicators.3-12-methodology
-long_objective: global_indicators.3-12-long_term_objective
+source_organisation_1: WHO 
+source_url_1: 'https://data.who.int/countries/070'
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-life-expectancy-and-healthy-life-expectancy">WHO Life Expectancy Data</a>'
+graph_titles:
+- series: SERIES.sdg_03_12
+  title: SERIES.sdg_03_12
+national_indicator_definition: global_indicators.3-12-definition
+national_rationale: global_indicators.3-12-intention
+national_methodology_characteristics: global_indicators.3-12-methodology
+national_long_objective: global_indicators.3-12-long_term_objective
 eu_indicator_definition: global_indicators.3-12-definition
 eu_rationale: global_indicators.3-12-intention
 eu_methodology_characteristics: global_indicators.3-12-methodology
