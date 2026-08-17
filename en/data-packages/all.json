@@ -2150,36 +2150,6 @@
             "title": "SDG Series"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Quintile 1 (poorest)",
-                "Quintile 2",
-                "Quintile 3",
-                "Quintile 4",
-                "Quintile 5 (richest)",
-                ""
-              ]
-            },
-            "title": "Income or wealth quantile"
-          },
-          {
-            "name": "SOC_TRANSFER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Overall social protection (B1-B29)",
-                "Total status transfers (B6-B23, B25-B29)",
-                "Allowances for civilian persons with disabilities (B18-B20)",
-                "Child protection benefits (B21-B23)",
-                "Social assistance benefits (B26-B29)",
-                ""
-              ]
-            },
-            "title": "Social protection transfers"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

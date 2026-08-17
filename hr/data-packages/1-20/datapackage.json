@@ -21,36 +21,6 @@
             "title": "SDG Varijable"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kvantil 1 (najsiromašniji)",
-                "Kvantil 2",
-                "Kvantil 3",
-                "Kvantil 4",
-                "Kvantil 5 (najbogatiji)",
-                ""
-              ]
-            },
-            "title": "Kvantil dohotka ili bogatstva"
-          },
-          {
-            "name": "SOC_TRANSFER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Opća socijalna skrb (B1-B29)",
-                "Ukupni transferi po osnovi statusa (B6-B23, B25-B29)",
-                "Naknade za civilne osobe s invaliditetom (B18-B20)",
-                "Naknade za dječju skrb (B21-B23)",
-                "Naknade za socijalnu pomoć (B26-B29)",
-                ""
-              ]
-            },
-            "title": "Transferi socijalne skrbi"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"

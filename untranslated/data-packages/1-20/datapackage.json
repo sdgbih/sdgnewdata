@@ -19,34 +19,6 @@
             "type": "string"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOC_TRANSFER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "B1_B29",
-                "T_ALL",
-                "B18_B20",
-                "B21_B23",
-                "B26_B29",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
