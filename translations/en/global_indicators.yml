@@ -33,7 +33,7 @@ metadata-footer-label: Reference metadata
   Reduce the number of people at risk of poverty or social exclusion by 15 million by 2030 compared with 2019 (policy reference: European pillar of social rights Action Plan)
 1-20-title: Poverty gap at $3.00 a day (2021 PPP) (%) - proxy indicator
 1-20-definition: >-
-  The presented data includes poverty and inequality metrics sourced from analytical reports, national poverty monitoring programs, and the World Bank’s Development Research Group, which has been producing internationally comparable estimates and global poverty lines since 1990.
+  Poverty gap at $3.00 a day (2021 PPP) is the mean shortfall in income or consumption from the poverty line $3.00 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects both the depth and the incidence of poverty.
 1-20-intention: >-
   For countries with active poverty monitoring programs, the World Bank—in collaboration with national institutions, other development agencies, and civil society—regularly conducts analytical activities to assess the extent and causes of poverty and inequality, examine the impact of economic growth and public policies, and review household survey data and measurement methodology.
 1-20-methodology: >-
