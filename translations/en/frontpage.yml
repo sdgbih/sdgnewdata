@@ -1,6 +1,6 @@
 instructions: "Click on each goal, or %before_link search, %after_link for %name statistics of global sustainable development goal indicators."
 heading: "Sustainable Development Goals Indicators for Bosnia and Herzegovina"
-download_all: Download all data
-zip_file: ZIP file
-intro_title: A set of indicators has been developed to measure progress in achieving the Sustainable Development Goals at the European level (EU SDG)
-intro_body: <a href="https://ec.europa.eu/eurostat/web/sdi/database/">The indicator set</a> consists of around 100 indicators structured across the 17 Agenda 2030 goals, with six indicators per sustainability goal, ensuring all goals receive equal weight and enabling a balanced measurement of progress across all dimensions of sustainability. This portal provides an overview of the current status of availability and development of EU SDG indicators in Bosnia and Herzegovina.
+download_all: "Download all data"
+zip_file: "ZIP file"
+intro_title: "Sustainable Development Goals at the European level (EU SDG)"
+intro_body: '<a href="https://ec.europa.eu/eurostat/web/sdi/database/">The indicator set</a> consists of around 100 indicators structured across the 17 Agenda 2030 goals, with six indicators per sustainability goal, ensuring all goals receive equal weight and enabling a balanced measurement of progress across all dimensions of sustainability. This portal provides an overview of the current status of availability and development of EU SDG indicators in Bosnia and Herzegovina.'
