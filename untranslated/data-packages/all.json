@@ -177,6 +177,26 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
