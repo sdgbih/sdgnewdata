@@ -7,8 +7,11 @@ graph_type: bar
 indicator_sort_order: '01-20'
 indicator_name: global_indicators.1-20-title
 source_active_1: true
-source_organisation_1: GEA; IBHI; Maastricht Graduate School of Governance
-source_url_1: 'https://www.researchgate.net/publication/311922608_Socijalni_transferi_u_BiH_-_Sta_siromasni_gradani_imaju_od_njih'
+source_organisation_1: World Bank, Poverty and Inequality Platform
+source_url_1: 'https://data.worldbank.org/indicator/SI.POV.GAPS?end=2025&locations=BA&start=2000&view=chart'
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://datanalytics.worldbank.org/PIP-Methodology/">World Bank PIP Methodology</a>'
 graph_titles:
 - series: SERIES.sdg_01_20
   title: SERIES.sdg_01_20
