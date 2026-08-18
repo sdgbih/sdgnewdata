@@ -78,3 +78,4 @@ RT_INC: Incidence rate
 RT_PER_100000_POP: Rate per 100,000 population
 YR: Year
 P_THAB: Defined daily doses (DDD) per thousand inhabitants per day
+PC_HH: Percentage of households
