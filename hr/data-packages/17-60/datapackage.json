@@ -16,6 +16,38 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sva područja",
+                ""
+              ]
+            },
+            "title": "Stupanj urbanizacije"
+          },
+          {
+            "name": "INET_TEC",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fiksne mreže vrlo visokog kapaciteta (VHCN)",
+                ""
+              ]
+            },
+            "title": "Internetske tehnologije"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
