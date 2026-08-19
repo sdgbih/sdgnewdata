@@ -2,7 +2,7 @@
 national_rationale-label: NAMJERA
 national_methodology-label: SADRŽAJ I NAPREDAK
 national_indicator_definition-label: OPIS
-national_indicator_definition: OPIS CILJA
+national_indicator_definition: OPIS
 national_rationale: OBRAZLOŽENJE
 national_methodology_characteristics: SADRŽAJ I NAPREDAK
 national_long_objective: DUGOROČNI CILJ
@@ -12,7 +12,7 @@ intention-label: NAMJERA
 methodology-label: SADRŽAJ I NAPREDAK
 long_term_objective-label: DUGOROČNI CILJ
 eu_definition-label: OPIS
-eu_indicator_definition: OPIS CILJA
+eu_indicator_definition: OPIS
 eu_indicator_definition-label: OPIS
 eu_rationale: OBRAZLOŽENJE
 eu_intention-label: NAMJERA
