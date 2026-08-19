@@ -1,2 +1,7 @@
-Year,Value
-2015,
+Year,SERIES,Applicant type,UNIT_MEASURE,Value
+2023,Asylum applications,First-time applicant,Per million inhabitants,43
+2024,Asylum applications,First-time applicant,Per million inhabitants,68
+2025,Asylum applications,First-time applicant,Per million inhabitants,32
+2023,Asylum applications,Positive first instance decision,Per million inhabitants,20
+2024,Asylum applications,Positive first instance decision,Per million inhabitants,28
+2025,Asylum applications,Positive first instance decision,Per million inhabitants,11

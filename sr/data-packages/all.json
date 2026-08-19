@@ -579,8 +579,30 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "APPLICANT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Подносилац који први пут подноси захтјев",
+                "Позитивна првостепена одлука",
+                ""
+              ]
+            },
+            "title": "Врста подносиоца"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

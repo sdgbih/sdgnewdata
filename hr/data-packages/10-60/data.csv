@@ -1,2 +1,7 @@
-Year,Value
-2015,
+Year,SERIES,Vrsta podnositelja,UNIT_MEASURE,Value
+2023,Zahtjevi za azil,Podnositelj koji prvi put podnosi zahtjev,Na milijun stanovnika,43
+2024,Zahtjevi za azil,Podnositelj koji prvi put podnosi zahtjev,Na milijun stanovnika,68
+2025,Zahtjevi za azil,Podnositelj koji prvi put podnosi zahtjev,Na milijun stanovnika,32
+2023,Zahtjevi za azil,Pozitivna prvostupanjska odluka,Na milijun stanovnika,20
+2024,Zahtjevi za azil,Pozitivna prvostupanjska odluka,Na milijun stanovnika,28
+2025,Zahtjevi za azil,Pozitivna prvostupanjska odluka,Na milijun stanovnika,11

@@ -16,8 +16,30 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Serije"
+          },
+          {
+            "name": "APPLICANT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Podnosilac koji prvi put aplicira",
+                "Pozitivna prvostepena odluka",
+                ""
+              ]
+            },
+            "title": "Vrsta podnosioca zahtjeva"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

@@ -16,8 +16,30 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "APPLICANT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "First-time applicant",
+                "Positive first instance decision",
+                ""
+              ]
+            },
+            "title": "Applicant type"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
