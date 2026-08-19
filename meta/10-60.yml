@@ -1,19 +1,21 @@
 indicator_number: 10.60
-reporting_status: notstarted
-published: false
+reporting_status: complete
+published: true
 sdg_goal: '10'
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: '10-60'
-
+indicator_name: global_indicators.10-60-title
 source_active_1: true
-source_organisation_1: 
-source_url_1: ''
-
-indicator_definition: global_indicators.10-60-definition
-rationale: global_indicators.10-60-intention
+source_organisation_1: 'UNHCR BiH, Ministry of Security (MoS).'
+source_url_1: 'https://data.unhcr.org/en/documents/details/119288'
+graph_titles:
+- series: SERIES.sdg_10_60
+  title: SERIES.sdg_10_60  
+national_indicator_definition: global_indicators.10-60-definition
+national_rationale: global_indicators.10-60-intention
 methodology_characteristics: global_indicators.10-60-methodology
-long_objective: global_indicators.10-60-long_term_objectiv
+national_methodology_characteristics: global_indicators.10-60-long_term_objective
 eu_indicator_definition: global_indicators.10-60-definition
 eu_rationale: global_indicators.10-60-intention
 eu_methodology_characteristics: global_indicators.10-60-methodology
