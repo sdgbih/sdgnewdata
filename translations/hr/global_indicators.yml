@@ -427,7 +427,7 @@ metadata-footer-label: Referentni metapodaci
   Osmi akcijski program za okoliš utvrđuje agendu politike zaštite okoliša za razdoblje od 2021. do 2030. i izričito spominje pitanja vezana uz vodu u dva od svojih šest prioritetnih ciljeva. Ta dva cilja su: (1) ostvarivanje ambicije nultog onečišćenja za okoliš bez toksina, uključujući zrak, vodu i tlo, te zaštita zdravlja i dobrobiti građana od rizika i utjecaja povezanih s okolišem; i (2) zaštita, očuvanje i obnova bioraznolikosti te poboljšanje prirodnog kapitala, posebno zraka, vode, tla te šumskih, slatkovodnih, močvarnih i morskih ekosustava.
 6-70-long_term_objective: >-
   Nema opisa
-7-10-title: Primarna i konačna potrošnja energije
+7-10-title: Primarna potrošnja energije
 7-10-definition: >-
   Pokazatelj mjeri ukupne energetske potrebe zemlje isključujući svu neenergetsku upotrebu nositelja energije (npr. prirodni plin koji se ne koristi za izgaranje, već za proizvodnju kemikalija).
   „Potrošnja primarne energije“ obuhvaća potrošnju energije od strane krajnjih korisnika kao što su industrija, promet, kućanstva, usluge i poljoprivreda, plus potrošnju energije samog energetskog sektora za proizvodnju i transformaciju energije, gubitke koji nastaju tijekom transformacije energije (npr. učinkovitost proizvodnje električne energije iz gorivih goriva) te gubitke prijenosa i distribucije energije.
@@ -437,6 +437,16 @@ metadata-footer-label: Referentni metapodaci
 7-10-methodology: >-
   Europski zeleni plan uključuje energetsku učinkovitost kao ključnu mjeru za smanjenje međusektorskih emisija stakleničkih plinova. Direktive o energetskoj učinkovitosti i energiji iz obnovljivih izvora postavljaju ambiciozne ciljeve EU-a koje treba postići do 2030.
 7-10-long_term_objective: >-
+  Nema opisa
+7-11-title: Krajnja potrošnja energije
+7-11-definition: >-
+  Pokazatelj mjeri krajnju potrošnju energije u zemlji, isključujući svu neenergetsku upotrebu energenata (npr. prirodni plin koji se ne koristi za izgaranje, već za proizvodnju kemikalija). „Krajnja potrošnja energije“ obuhvaća samo energiju koju troše krajnji korisnici, kao što su industrija, promet, kućanstva, usluge i poljoprivreda; isključuje potrošnju energije samog energetskog sektora i gubitke koji nastaju tijekom transformacije i distribucije energije.
+7-11-intention: >-
+  Pokazatelj se koristi za praćenje napretka prema cilju održivog razvoja 7 o pristupačnoj i čistoj energiji, koji je ugrađen u prioritete Europske komisije u okviru „Podrška ljudima, jačanje naših društava i našeg socijalnog modela”.
+  EU provodi međusobno povezani skup mjera "Fit for 55" kako bi postigla nove klimatske ciljeve za 2030. godinu i slijedila je novi strateški plan REPowerEU za smanjenje ovisnosti EU-a o uvozu energije.
+7-11-methodology: >-
+  Europski zeleni plan uključuje energetsku učinkovitost kao ključnu mjeru za smanjenje međusektorskih emisija stakleničkih plinova. Direktive o energetskoj učinkovitosti i energiji iz obnovljivih izvora postavljaju ambiciozne ciljeve EU-a koje treba postići do 2030.
+7-11-long_term_objective: >-
   Nema opisa
 7-20-title: Konačna potrošnja energije u kućanstvima po stanovniku
 7-20-definition: >-
