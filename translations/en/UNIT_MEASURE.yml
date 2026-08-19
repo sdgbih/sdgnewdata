@@ -71,7 +71,7 @@ EUR_HAB_KP: Euro per inhabitant (at constant prices)
 CUR_NAC_M: in millions of BAM
 T_HAB: Tonnes per capita
 KTCO2E: Thousand tonnes of CO2 equivalent
-PRICE_INC_R: Price to income Ratio
+PRICE_INC_R: Price-to-income ratio
 AFF_INDEX: Affordability index
 PC_TSCO_X_ISCO: Percentage of total revenues from taxes and social contributions (excluding imputed social contributions)
 RT_INC: Incidence rate
@@ -79,3 +79,4 @@ RT_PER_100000_POP: Rate per 100,000 population
 YR: Year
 P_THAB: Defined daily doses (DDD) per thousand inhabitants per day
 PC_HH: Percentage of households
+P_MHAB: Per million inhabitants
