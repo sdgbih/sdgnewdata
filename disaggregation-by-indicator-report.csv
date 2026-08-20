@@ -15,6 +15,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-20,"SEX, AGE, EDUCATION_LEV",3
 #4-60,"SEX, AGE",2
 #4-70,"SEX, AGE, Type_of_skill",3
+#5-11,AGE,1
 #5-30,"AGE, Labour_force_and_employment_status",2
 #5-40,"SEX, AGE, Reason",3
 #5-50,"SEX, ORG_INST",2
