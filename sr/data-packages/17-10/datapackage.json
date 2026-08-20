@@ -16,6 +16,27 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "PARTNER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Примаоци службене развојне помоћи (ОДА) од Одбора за развојну помоћ (ДАЦ)",
+                ""
+              ]
+            },
+            "title": "Геополитички субјект (партнер)"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

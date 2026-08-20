@@ -16,6 +16,27 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "PARTNER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC)",
+                ""
+              ]
+            },
+            "title": "Geopolitical entity (partner)"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
