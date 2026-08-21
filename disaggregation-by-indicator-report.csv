@@ -10,6 +10,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-10,PARTNER,1
 #17-60,"URBANISATION, INET_TEC",2
 #2-10,Body_Mass_Index,1
+#2-40,AGPRDMET,1
 #3-12,SEX,1
 #3-30,"SEX, AGE",2
 #4-10,"SEX, AGE, Labour_force_and_employment_status",3
