@@ -1865,6 +1865,24 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "AGPRDMET",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }

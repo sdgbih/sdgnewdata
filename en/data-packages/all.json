@@ -2074,6 +2074,27 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "AGPRDMET",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total fully converted and under conversion to organic farming",
+                ""
+              ]
+            },
+            "title": "Agricultural production methods"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

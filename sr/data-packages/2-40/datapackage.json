@@ -16,6 +16,27 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "AGPRDMET",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупне сертификоване површине и површине у прелазном периоду на органску производњу",
+                ""
+              ]
+            },
+            "title": "Методе пољопривредне производње"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
