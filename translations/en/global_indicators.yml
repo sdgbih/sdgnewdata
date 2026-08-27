@@ -22,11 +22,11 @@ eu_long_objective: Long-term objective
 eu_long_term_objective-label: Long-term objective
 metadata-footer-label: Reference metadata
 
-1-10-title: Poverty headcount ratio at $6.85/day - proxy indicator
+1-10-title: "Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population) - proxy indicator"
 1-10-definition: >-
-  Estimated percentage of each country's population that is living under the poverty threshold of US$6.85 a day in purchasing power parity (PPP) at constant 2011 prices.
+  Estimated percentage of each country's population that is living under the poverty threshold of US$4.20 a day in purchasing power parity (PPP) at constant 2021 prices.
 1-10-intention: >-
-  Poverty and social exclusion are harmful to individual lives and limit people's opportunities to reach their full potential by affecting their health and well-being and reducing educational outcomes. This, in turn, reduces opportunities for a successful life and further increases the risk of poverty. Without an effective system of education, healthcare, social protection, tax relief, and employment, the risk of poverty is passed from one generation to the next. This causes the persistence of poverty and thereby creates even more inequality, which can lead to long-term loss of economic productivity of entire groups of society and hinder inclusive and sustainable economic growth.
+  For countries with active poverty monitoring programs, the World Bank—in collaboration with national institutions, other development agencies, and civil society—regularly conducts analytical activities to assess the extent and causes of poverty and inequality, examine the impact of economic growth and public policies, and review household survey data and measurement methodology.
 1-10-methodology: >-
   Purchasing power parities (PPPs) are used in global poverty estimation to adjust for price differences across countries. PPPs are price indices published by the International Comparison Program (ICP) that measure how much it costs to purchase a basket of goods and services in one country compared to how much it costs to purchase the same basket of goods and services in a reference country, typically the United States. PPP conversion factors are preferred to market exchange rates for the measurement of global poverty because the latter overestimate poverty in developing countries, where non-tradable services are relatively cheap (a phenomenon known as the Balassa-Samuelson-Penn effect).
 1-10-long_term_objective: >-
