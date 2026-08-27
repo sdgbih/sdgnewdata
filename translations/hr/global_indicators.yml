@@ -22,15 +22,15 @@ eu_long_objective: DUGOROČNI CILJ
 eu_long_term_objective-label: DUGOROČNI CILJ
 metadata-footer-label: Referentni metapodaci
 
-1-10-title: Stopa siromaštva prema kriteriju od 6,85 dolara dnevno - zamjenski pokazatelj
+1-10-title: "Udio stanovništva ispod linije siromaštva od 4,20 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski pokazatelj"
 1-10-definition: >-
-  Procijenjeni procenat stanovništva svake zemlje koji živi ispod praga siromaštva od 6,85 USD dnevno prema paritetu kupovne moći (PPP) pri konstantnim cijenama iz 2011. godine.
+  Procijenjeni postotak stanovništva svake zemlje koji živi ispod praga siromaštva od 4,20 USD dnevno prema paritetu kupovne moći (PPP) pri konstantnim cijenama iz 2021. godine.
 1-10-intention: >-
-  Siromaštvo i socijalna isključenost štetni su za živote pojedinaca i ograničavaju mogućnosti ljudi da ostvare svoj puni potencijal utječući na njihovo zdravlje i dobrobit te smanjujući obrazovne ishode. To zauzvrat smanjuje mogućnosti za uspješan život i dodatno povećava rizik od siromaštva. Bez učinkovitog sustava obrazovanja, zdravstvene zaštite, socijalne zaštite, poreznih olakšica i zapošljavanja, rizik od siromaštva prenosi se s generacije na generaciju. To uzrokuje ustrajnost siromaštva i time stvara još veću nejednakost, što može dovesti do dugoročnog gubitka ekonomske produktivnosti cijelih skupina društva i ometati inkluzivni i održivi gospodarski rast.
+  Za zemlje s aktivnim programom praćenja siromaštva, Svjetska banka — u suradnji s nacionalnim institucijama, drugim razvojnim agencijama i civilnim društvom — redovito provodi analitičke aktivnosti kako bi procijenila opseg i uzroke siromaštva i nejednakosti, ispitala utjecaj gospodarskog rasta i javnih politika te pregledala podatke iz anketa o kućanstvima i metode mjerenja.
 1-10-methodology: >-
   Paritet kupovne moći (PPP) koristi se u procjeni globalnog siromaštva kako bi se prilagodile razlike u cijenama među zemljama. PPP su indeksi cijena koje objavljuje Međunarodni program za usporedbu (ICP) i koji mjere koliko košta kupnja košarice roba i usluga u jednoj zemlji u usporedbi s time koliko košta kupnja iste košarice roba i usluga u referentnoj zemlji, obično Sjedinjenim Američkim Državama. Faktori konverzije PPP-a poželjniji su od tržišnih deviznih tečajeva za mjerenje globalnog siromaštva jer ovi drugi precjenjuju siromaštvo u zemljama u razvoju, gdje su netrgovinske usluge relativno jeftine (fenomen poznat kao Balassa-Samuelson-Penn efekt).
 1-10-long_term_objective: >-
-  Smanjiti broj ljudi koji su u riziku od siromaštva ili socijalne isključenosti za 15 milijuna do 2030. godine u usporedbi s 2019. godinom (referenca politike: Akcijski plan za europski stup socijalnih prava)
+  Smanjiti broj ljudi koji su u riziku od siromaštva ili socijalne isključenosti za 15 milijuna do 2030. godine u usporedbi s 2019. godinom (referenca politike : Akcijski plan za europski stup socijalnih prava)
 1-20-title: Jaz siromaštva na 3,00 USD dnevno (PPP za 2021. godinu) (%) – zamjenski pokazatelj
 1-20-definition: >-
   Jaz siromaštva na razini od 3,00 dolara dnevno (PPP iz 2021.) predstavlja prosječni deficit prihoda ili potrošnje u odnosu na granicu siromaštva od 3,00 dolara dnevno (pri čemu se uzima da nesiromašni nemaju deficita), izražen kao postotak te granice siromaštva. Ova mjera odražava kako dubinu siromaštva, tako i njegovu obuhvatnost.
