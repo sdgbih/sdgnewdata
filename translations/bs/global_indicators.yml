@@ -22,7 +22,7 @@ eu_long_objective: DUGOROČNI CILJ
 eu_long_term_objective-label: DUGOROČNI CILJ
 metadata-footer-label: Referentni metapodaci
 
-1-10-title: "Udio stanovništva ispod linije siromaštva od 4,20 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski indikator"
+1-10-title: "Udio stanovništva ispod linije siromaštva od 8,30 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski indikator"
 1-10-definition: >-
   Procijenjeni procenat stanovništva svake zemlje koji živi ispod praga siromaštva od 4,20 USD dnevno prema paritetu kupovne moći (PKM) pri konstantnim cijenama iz 2021. godine
 1-10-intention: >-
@@ -659,7 +659,7 @@ metadata-footer-label: Referentni metapodaci
   Evropski semestar je ključni alat za ostvarivanje Stuba i koordinira ekonomske i fiskalne politike država članica EU. U okviru svog Zelenog plana, Evropska komisija je najavila da će se evropski semestar preusmjeriti na integraciju ciljeva održivog razvoja i stavljanje održivosti i dobrobiti građana u središte ekonomske politike.
 10-30-long_term_objective: >-
   SDG 10 poziva nacije da prilagode politike i zakonodavstvo kako bi povećale prihod donjih 40% stanovništva i smanjile nejednakosti na osnovu prihoda, spola, starosti, invaliditeta, rase, klase, etničke pripadnosti, religije i mogućnosti.
-10-41-title: Raspodjela prihoda - zamjenski indikator
+10-41-title: Gini indeks - zamjenski indikator
 10-41-definition: >-
   Procentualni udio prihoda ili potrošnje predstavlja udio koji pripada podgrupama stanovništva podijeljenim na decile ili kvintile. Procentualni udjeli po kvintilima možda neće iznositi tačno 100% zbog zaokruživanja brojeva. Podaci se zasnivaju na primarnim podacima iz anketa o potrošnji domaćinstava, prikupljenim od državnih zavoda za statistiku i odjela Svjetske banke za pojedine zemlje.
 10-41-intention: >-
