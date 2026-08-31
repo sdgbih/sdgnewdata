@@ -14,7 +14,7 @@ graph_titles:
   title: SERIES.sdg_01_10
 footer_fields:
   - label: global_indicators.metadata-footer-label
-    value: '<a href="https://datanalytics.worldbank.org/PIP-Methodology/">World Bank PIP Methodology</a>'
+    value : '<a href="https://databank.worldbank.org/source/world-development-indicators">Metadata</a>'
 national_indicator_definition: global_indicators.1-10-definition
 national_rationale: global_indicators.1-10-intention
 national_methodology_characteristics: global_indicators.1-10-methodology
