@@ -1334,23 +1334,6 @@
             "title": "SDG Series"
           },
           {
-            "name": "PT_SH_INCOM_HH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Income share held by second 20%",
-                "Income share held by third 20%",
-                "Income share held by fourth 20%",
-                "Income share held by highest 20%",
-                "Income share held by highest 10%",
-                "Income share held by lowest 10%",
-                "Income share held by lowest 20%",
-                ""
-              ]
-            },
-            "title": "Percentage share of income divided by quintiles (%)"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

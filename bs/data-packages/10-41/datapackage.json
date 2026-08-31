@@ -21,23 +21,6 @@
             "title": "SDG Serije"
           },
           {
-            "name": "PT_SH_INCOM_HH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Udio prihoda drugog kvintila (20%)",
-                "Udio prihoda trećeg kvintila (20%)",
-                "Udio prihoda četvrtog kvintila (20%)",
-                "Udio prihoda najbogatijih 20%",
-                "Udio prihoda najbogatijih 10%",
-                "Udio prihoda najsiromašnijih 10%",
-                "Udio prihoda najsiromašnijih 20%",
-                ""
-              ]
-            },
-            "title": "Procentualni udio prihoda podijeljenih na kvintile (%)"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"

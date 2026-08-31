@@ -1,29 +1,7 @@
-Year,SERIES,Procentualni udio prihoda podijeljenih na kvintile (%),UNIT_MEASURE,Value
-2001,Gini indeks - zamjenski pokazatelj,Udio prihoda drugog kvintila (20%),Postotak,13.3
-2004,Gini indeks - zamjenski pokazatelj,Udio prihoda drugog kvintila (20%),Postotak,12.1
-2007,Gini indeks - zamjenski pokazatelj,Udio prihoda drugog kvintila (20%),Postotak,12.2
-2011,Gini indeks - zamjenski pokazatelj,Udio prihoda drugog kvintila (20%),Postotak,12.3
-2001,Gini indeks - zamjenski pokazatelj,Udio prihoda trećeg kvintila (20%),Postotak,17.0
-2004,Gini indeks - zamjenski pokazatelj,Udio prihoda trećeg kvintila (20%),Postotak,16.3
-2007,Gini indeks - zamjenski pokazatelj,Udio prihoda trećeg kvintila (20%),Postotak,16.6
-2011,Gini indeks - zamjenski pokazatelj,Udio prihoda trećeg kvintila (20%),Postotak,16.7
-2001,Gini indeks - zamjenski pokazatelj,Udio prihoda četvrtog kvintila (20%),Postotak,22.1
-2004,Gini indeks - zamjenski pokazatelj,Udio prihoda četvrtog kvintila (20%),Postotak,22.4
-2007,Gini indeks - zamjenski pokazatelj,Udio prihoda četvrtog kvintila (20%),Postotak,23.0
-2011,Gini indeks - zamjenski pokazatelj,Udio prihoda četvrtog kvintila (20%),Postotak,22.0
-2001,Gini indeks - zamjenski pokazatelj,Udio prihoda najbogatijih 20%,Postotak,38.8
-2004,Gini indeks - zamjenski pokazatelj,Udio prihoda najbogatijih 20%,Postotak,41.8
-2007,Gini indeks - zamjenski pokazatelj,Udio prihoda najbogatijih 20%,Postotak,40.7
-2011,Gini indeks - zamjenski pokazatelj,Udio prihoda najbogatijih 20%,Postotak,40.7
-2001,Gini indeks - zamjenski pokazatelj,Udio prihoda najbogatijih 10%,Postotak,24.8
-2004,Gini indeks - zamjenski pokazatelj,Udio prihoda najbogatijih 10%,Postotak,26.4
-2007,Gini indeks - zamjenski pokazatelj,Udio prihoda najbogatijih 10%,Postotak,25.1
-2011,Gini indeks - zamjenski pokazatelj,Udio prihoda najbogatijih 10%,Postotak,25.1
-2001,Gini indeks - zamjenski pokazatelj,Udio prihoda najsiromašnijih 10%,Postotak,3.6
-2004,Gini indeks - zamjenski pokazatelj,Udio prihoda najsiromašnijih 10%,Postotak,2.9
-2007,Gini indeks - zamjenski pokazatelj,Udio prihoda najsiromašnijih 10%,Postotak,3.0
-2011,Gini indeks - zamjenski pokazatelj,Udio prihoda najsiromašnijih 10%,Postotak,2.9
-2001,Gini indeks - zamjenski pokazatelj,Udio prihoda najsiromašnijih 20%,Postotak,8.8
-2004,Gini indeks - zamjenski pokazatelj,Udio prihoda najsiromašnijih 20%,Postotak,7.4
-2007,Gini indeks - zamjenski pokazatelj,Udio prihoda najsiromašnijih 20%,Postotak,7.5
-2011,Gini indeks - zamjenski pokazatelj,Udio prihoda najsiromašnijih 20%,Postotak,7.5
+Year,SERIES,UNIT_MEASURE,Value
+2001,Gini indeks - zamjenski pokazatelj,Postotak,30.0
+2004,Gini indeks - zamjenski pokazatelj,Postotak,34.0
+2007,Gini indeks - zamjenski pokazatelj,Postotak,34.3
+2011,Gini indeks - zamjenski pokazatelj,Postotak,33.3
+2015,Gini indeks - zamjenski pokazatelj,Postotak,32.9
+2021,Gini indeks - zamjenski pokazatelj,Postotak,30.3

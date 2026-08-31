@@ -1199,22 +1199,6 @@
             "type": "string"
           },
           {
-            "name": "PT_SH_INCOM_HH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_SEC_Q_20",
-                "SH_THI_Q_20",
-                "SH_FOUR_Q_20",
-                "SH_HIGH_Q_20",
-                "SH_HIGH_Q_10",
-                "SH_LOW_Q_10",
-                "SH_LOW_Q_20",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
