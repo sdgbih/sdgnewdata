@@ -22,7 +22,7 @@ eu_long_objective: Long-term objective
 eu_long_term_objective-label: Long-term objective
 metadata-footer-label: Reference metadata
 
-1-10-title: "Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population) - proxy indicator"
+1-10-title: "Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator"
 1-10-definition: >-
   Estimated percentage of each country's population that is living under the poverty threshold of US$4.20 a day in purchasing power parity (PPP) at constant 2021 prices.
 1-10-intention: >-
@@ -656,7 +656,7 @@ metadata-footer-label: Reference metadata
   The European Semester is a key delivery tool of the Pillar and coordinates the economic and fiscal policies of EU Member States. As part of its Green Deal, the European Commission has announced that the European Semester will be refocused to integrate the SDGs and to put sustainability and the well-being of citizens at the centre of economic policy.
 10-30-long_term_objective: >-
   SDG 10 calls for nations to adapt policies and legislation to increase the income of the bottom 40% of the population and to reduce inequalities based on income, sex, age, disability, race, class, ethnicity, religion, and opportunity.
-10-41-title: Income distribution - proxy indicator
+10-41-title: Gini index - proxy indicator
 10-41-definition: >-
   Percentage share of income or consumption is the share that accrues to subgroups of the population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments.
 10-41-intention: >-
