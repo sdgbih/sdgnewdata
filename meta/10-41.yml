@@ -8,10 +8,10 @@ indicator_sort_order: '10-41'
 indicator_name: global_indicators.10-41-title
 source_active_1: true
 source_organisation_1:  World Bank, Development Research Group.
-source_url_1: 'https://www.indexmundi.com/facts/bosnia-and-herzegovina/income-distribution'
+source_url_1: 'https://databank.worldbank.org/source/world-development-indicators#'
 footer_fields:
   - label: global_indicators.metadata-footer-label
-    value: '<a href="https://www.indexmundi.com/facts/bosnia-and-herzegovina/indicator/SI.DST.FRST.20">IndexMundi</a>'
+    value : '<a href="https://databank.worldbank.org/source/world-development-indicators">Metadata</a>'
 graph_titles:
 - series: SERIES.sdg_10_41
   title: SERIES.sdg_10_41
