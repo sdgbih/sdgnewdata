@@ -1362,7 +1362,7 @@
           }
         ]
       },
-      "title": "Raspodjela prihoda - zamjenski indikator"
+      "title": "Gini indeks - zamjenski indikator"
     },
     {
       "path": "12-21/data.csv",
@@ -2638,7 +2638,7 @@
           }
         ]
       },
-      "title": "Udio stanovništva ispod linije siromaštva od 4,20 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski indikator"
+      "title": "Udio stanovništva ispod linije siromaštva od 8,30 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski indikator"
     },
     {
       "path": "5-61/data.csv",
