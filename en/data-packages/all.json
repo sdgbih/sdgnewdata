@@ -1362,7 +1362,7 @@
           }
         ]
       },
-      "title": "Income distribution - proxy indicator"
+      "title": "Gini index - proxy indicator"
     },
     {
       "path": "12-21/data.csv",
@@ -2638,7 +2638,7 @@
           }
         ]
       },
-      "title": "Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population) - proxy indicator"
+      "title": "Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator"
     },
     {
       "path": "5-61/data.csv",
