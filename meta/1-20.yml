@@ -8,10 +8,10 @@ indicator_sort_order: '01-20'
 indicator_name: global_indicators.1-20-title
 source_active_1: true
 source_organisation_1: World Bank, Poverty and Inequality Platform
-source_url_1: 'https://data.worldbank.org/indicator/SI.POV.GAPS?end=2025&locations=BA&start=2000&view=chart'
+source_url_1: 'https://databank.worldbank.org/source/world-development-indicators#'
 footer_fields:
   - label: global_indicators.metadata-footer-label
-    value: '<a href="https://datanalytics.worldbank.org/PIP-Methodology/">World Bank PIP Methodology</a>'
+    value : '<a href="https://databank.worldbank.org/source/world-development-indicators">Metadata</a>'
 graph_titles:
 - series: SERIES.sdg_01_20
   title: SERIES.sdg_01_20
