@@ -21,8 +21,8 @@ graph_series_order:
   - O4000XBIO
   - G3000
 data_start_values:
-  - field: Standard_international_energy_product_ classification
-    value: TOTAL 
+  - field: Standard_international_energy_product_classification
+    value: TOTAL
 national_indicator_definition: global_indicators.7-50-definition
 national_rationale: global_indicators.7-50-intention
 national_methodology_characteristics: global_indicators.7-50-methodology
