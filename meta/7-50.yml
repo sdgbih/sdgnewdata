@@ -15,6 +15,11 @@ footer_fields:
 graph_titles:
 - series: SERIES.sdg_07_50
   title: SERIES.sdg_07_50
+graph_series_order:
+  - TOTAL
+  - C0000X0350_0370
+  - O4000XBIO
+  - G3000
 national_indicator_definition: global_indicators.7-50-definition
 national_rationale: global_indicators.7-50-intention
 national_methodology_characteristics: global_indicators.7-50-methodology
