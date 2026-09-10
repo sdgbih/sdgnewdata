@@ -20,7 +20,7 @@ graph_series_order:
   - C0000X0350_0370
   - O4000XBIO
   - G3000
- data_start_values:
+data_start_values:
   - field: Standard_international_energy_product_ classification
     value: TOTAL 
 national_indicator_definition: global_indicators.7-50-definition
