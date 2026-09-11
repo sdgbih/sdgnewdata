@@ -25,14 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
-                "C0000X0350_0370",
-                "O4000XBIO",
-                "G3000",
+                "Ukupno",
+                "Čvrsta fosilna goriva",
+                "Nafta i naftni derivati ​​(isključujući dio biogoriva)",
+                "Prirodni gas",
                 ""
               ]
             },
-            "title": "Standard_international_energy_product_classification"
+            "title": "Standardna međunarodna klasifikacija energetskih proizvoda"
           },
           {
             "name": "UNIT_MEASURE",
