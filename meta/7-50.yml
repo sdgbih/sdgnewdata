@@ -15,11 +15,6 @@ footer_fields:
 graph_titles:
 - series: SERIES.sdg_07_50
   title: SERIES.sdg_07_50
-graph_series_order:
-- TOTAL
-- C0000X0350_0370
-- O4000XBIO
-- G3000
 data_start_values:
 - field: Standard_international_energy_product_classification
   value: TOTAL
