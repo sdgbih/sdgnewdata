@@ -2979,14 +2979,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
-                "C0000X0350_0370",
-                "O4000XBIO",
-                "G3000",
+                "Total",
+                "Solid fossil fuels",
+                "Oil and petroleum products (excluding biofuel portion)",
+                "Natural gas",
                 ""
               ]
             },
-            "title": "Standard_international_energy_product_classification"
+            "title": "Standard international energy product classification"
           },
           {
             "name": "UNIT_MEASURE",
