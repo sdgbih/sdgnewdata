@@ -19,7 +19,7 @@
             "type": "string"
           },
           {
-            "name": "Standard_international_energy_product_ classification",
+            "name": "Standard_international_energy_product_classification",
             "type": "string",
             "constraints": {
               "enum": [

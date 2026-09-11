@@ -21,18 +21,18 @@
             "title": "SDG Варијабле"
           },
           {
-            "name": "Standard_international_energy_product_ classification",
+            "name": "Standard_international_energy_product_classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
-                "Чврста фосилна горива",
-                "Нафта и нафтни производи (искључујући дио биогорива)",
-                "Природни гас",
+                "TOTAL",
+                "C0000X0350_0370",
+                "O4000XBIO",
+                "G3000",
                 ""
               ]
             },
-            "title": "Стандардна међународна класификација енергетских производа"
+            "title": "Standard_international_energy_product_classification"
           },
           {
             "name": "UNIT_MEASURE",
