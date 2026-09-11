@@ -17,7 +17,7 @@ graph_titles:
   title: SERIES.sdg_07_50
 data_start_values:
 - field: Standard_international_energy_product_classification
-  value: Total
+  value: TOTAL
 national_indicator_definition: global_indicators.7-50-definition
 national_rationale: global_indicators.7-50-intention
 national_methodology_characteristics: global_indicators.7-50-methodology
