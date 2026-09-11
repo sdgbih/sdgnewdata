@@ -2979,14 +2979,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
-                "C0000X0350_0370",
-                "O4000XBIO",
-                "G3000",
+                "Укупно",
+                "Чврста фосилна горива",
+                "Нафта и нафтни производи (искључујући дио биогорива)",
+                "Природни гас",
                 ""
               ]
             },
-            "title": "Standard_international_energy_product_classification"
+            "title": "Стандардна међународна класификација енергетских производа"
           },
           {
             "name": "UNIT_MEASURE",
