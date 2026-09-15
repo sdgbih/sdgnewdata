@@ -90,6 +90,20 @@ jobs:
                 pass
         PY
         
+    - name: Inspect Indicator language method
+      run: |
+        python - <<'PY'
+        import inspect
+        import sdg.Indicator as indicator_module
+
+        print("INDICATOR MODULE:")
+        print(inspect.getfile(indicator_module))
+
+        print("\nLANGUAGE METHOD SOURCE:")
+        source = inspect.getsource(indicator_module.Indicator.language)
+        print(source)
+        PY
+        
     - name: Build data
       run: |
         python scripts/build_data.py
