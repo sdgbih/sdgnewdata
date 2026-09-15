@@ -94,13 +94,16 @@ jobs:
       run: |
         python - <<'PY'
         import inspect
-        import sdg.Indicator as indicator_module
+        from sdg.Indicator import Indicator
 
-        print("INDICATOR MODULE:")
-        print(inspect.getfile(indicator_module))
+        print("INDICATOR CLASS:")
+        print(Indicator)
+
+        print("\nINDICATOR SOURCE FILE:")
+        print(inspect.getfile(Indicator))
 
         print("\nLANGUAGE METHOD SOURCE:")
-        source = inspect.getsource(indicator_module.Indicator.language)
+        source = inspect.getsource(Indicator.language)
         print(source)
         PY
         
