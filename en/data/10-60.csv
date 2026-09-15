@@ -1,7 +1,7 @@
 Year,SERIES,Applicant type,UNIT_MEASURE,Value
-2023,Asylum applications,First-time applicant,Per million inhabitants,43
-2024,Asylum applications,First-time applicant,Per million inhabitants,68
-2025,Asylum applications,First-time applicant,Per million inhabitants,32
-2023,Asylum applications,Positive first instance decision,Per million inhabitants,20
-2024,Asylum applications,Positive first instance decision,Per million inhabitants,28
-2025,Asylum applications,Positive first instance decision,Per million inhabitants,11
+2023,sdg_10_60,First-time applicant,P_MHAB,43
+2024,sdg_10_60,First-time applicant,P_MHAB,68
+2025,sdg_10_60,First-time applicant,P_MHAB,32
+2023,sdg_10_60,Positive first instance decision,P_MHAB,20
+2024,sdg_10_60,Positive first instance decision,P_MHAB,28
+2025,sdg_10_60,Positive first instance decision,P_MHAB,11

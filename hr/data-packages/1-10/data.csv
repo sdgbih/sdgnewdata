@@ -1,7 +1,7 @@
 Year,SERIES,UNIT_MEASURE,Value
-2001,"Udio stanovništva ispod linije siromaštva od 8,30 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski pokazatelj",Postotak ukupnog stanovništva,20.2
-2004,"Udio stanovništva ispod linije siromaštva od 8,30 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski pokazatelj",Postotak ukupnog stanovništva,9.7
-2007,"Udio stanovništva ispod linije siromaštva od 8,30 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski pokazatelj",Postotak ukupnog stanovništva,16.0
-2011,"Udio stanovništva ispod linije siromaštva od 8,30 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski pokazatelj",Postotak ukupnog stanovništva,16.0
-2015,"Udio stanovništva ispod linije siromaštva od 8,30 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski pokazatelj",Postotak ukupnog stanovništva,17.3
-2021,"Udio stanovništva ispod linije siromaštva od 8,30 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski pokazatelj",Postotak ukupnog stanovništva,11.7
+2001,sdg_01_10,PC,20.2
+2004,sdg_01_10,PC,9.7
+2007,sdg_01_10,PC,16.0
+2011,sdg_01_10,PC,16.0
+2015,sdg_01_10,PC,17.3
+2021,sdg_01_10,PC,11.7

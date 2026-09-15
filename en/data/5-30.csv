@@ -1,21 +1,21 @@
 Year,SERIES,Labour force and employment status,Age,UNIT_MEASURE,Value
-2021,"Gender employment gap, by type of employment",Employed persons,20 to 64 years old,Percent,26.9
-2022,"Gender employment gap, by type of employment",Employed persons,20 to 64 years old,Percent,27.7
-2023,"Gender employment gap, by type of employment",Employed persons,20 to 64 years old,Percent,27.4
-2024,"Gender employment gap, by type of employment",Employed persons,20 to 64 years old,Percent,27.6
-2025,"Gender employment gap, by type of employment",Employed persons,20 to 64 years old,Percent,28.3
-2021,"Gender employment gap, by type of employment",Employed persons working part-time,20 to 64 years old,Percent,-0.7
-2022,"Gender employment gap, by type of employment",Employed persons working part-time,20 to 64 years old,Percent,0.0
-2023,"Gender employment gap, by type of employment",Employed persons working part-time,20 to 64 years old,Percent,-0.1
-2024,"Gender employment gap, by type of employment",Employed persons working part-time,20 to 64 years old,Percent,-0.4
-2025,"Gender employment gap, by type of employment",Employed persons working part-time,20 to 64 years old,Percent,-1.8
-2021,"Gender employment gap, by type of employment",Employed persons with temporary contract,20 to 64 years old,Percent,-2.9
-2022,"Gender employment gap, by type of employment",Employed persons with temporary contract,20 to 64 years old,Percent,-2.8
-2023,"Gender employment gap, by type of employment",Employed persons with temporary contract,20 to 64 years old,Percent,-2.4
-2024,"Gender employment gap, by type of employment",Employed persons with temporary contract,20 to 64 years old,Percent,-2.1
-2025,"Gender employment gap, by type of employment",Employed persons with temporary contract,20 to 64 years old,Percent,-2.0
-2021,"Gender employment gap, by type of employment",Underemployed persons working part-time,20 to 64 years old,Percent,0.2
-2022,"Gender employment gap, by type of employment",Underemployed persons working part-time,20 to 64 years old,Percent,0.4
-2023,"Gender employment gap, by type of employment",Underemployed persons working part-time,20 to 64 years old,Percent,0.5
-2024,"Gender employment gap, by type of employment",Underemployed persons working part-time,20 to 64 years old,Percent,0.2
-2025,"Gender employment gap, by type of employment",Underemployed persons working part-time,20 to 64 years old,Percent,-0.2
+2021,sdg_05_30,Employed persons,20 to 64 years old,PT,26.9
+2022,sdg_05_30,Employed persons,20 to 64 years old,PT,27.7
+2023,sdg_05_30,Employed persons,20 to 64 years old,PT,27.4
+2024,sdg_05_30,Employed persons,20 to 64 years old,PT,27.6
+2025,sdg_05_30,Employed persons,20 to 64 years old,PT,28.3
+2021,sdg_05_30,Employed persons working part-time,20 to 64 years old,PT,-0.7
+2022,sdg_05_30,Employed persons working part-time,20 to 64 years old,PT,0.0
+2023,sdg_05_30,Employed persons working part-time,20 to 64 years old,PT,-0.1
+2024,sdg_05_30,Employed persons working part-time,20 to 64 years old,PT,-0.4
+2025,sdg_05_30,Employed persons working part-time,20 to 64 years old,PT,-1.8
+2021,sdg_05_30,Employed persons with temporary contract,20 to 64 years old,PT,-2.9
+2022,sdg_05_30,Employed persons with temporary contract,20 to 64 years old,PT,-2.8
+2023,sdg_05_30,Employed persons with temporary contract,20 to 64 years old,PT,-2.4
+2024,sdg_05_30,Employed persons with temporary contract,20 to 64 years old,PT,-2.1
+2025,sdg_05_30,Employed persons with temporary contract,20 to 64 years old,PT,-2.0
+2021,sdg_05_30,Underemployed persons working part-time,20 to 64 years old,PT,0.2
+2022,sdg_05_30,Underemployed persons working part-time,20 to 64 years old,PT,0.4
+2023,sdg_05_30,Underemployed persons working part-time,20 to 64 years old,PT,0.5
+2024,sdg_05_30,Underemployed persons working part-time,20 to 64 years old,PT,0.2
+2025,sdg_05_30,Underemployed persons working part-time,20 to 64 years old,PT,-0.2

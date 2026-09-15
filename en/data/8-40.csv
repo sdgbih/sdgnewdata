@@ -1,6 +1,6 @@
 Year,SERIES,Sex,Age,UNIT_MEASURE,Value
-2021,Long-term unemployment rate by sex,Both sexes,15 to 74 years old,Percentage of population in the labour force,13.4
-2022,Long-term unemployment rate by sex,Both sexes,15 to 74 years old,Percentage of population in the labour force,11.4
-2023,Long-term unemployment rate by sex,Both sexes,15 to 74 years old,Percentage of population in the labour force,9.6
-2024,Long-term unemployment rate by sex,Both sexes,15 to 74 years old,Percentage of population in the labour force,9.0
-2025,Long-term unemployment rate by sex,Both sexes,15 to 74 years old,Percentage of population in the labour force,9.1
+2021,sdg_08_40,Both sexes,15 to 74 years old,PC_ACT,13.4
+2022,sdg_08_40,Both sexes,15 to 74 years old,PC_ACT,11.4
+2023,sdg_08_40,Both sexes,15 to 74 years old,PC_ACT,9.6
+2024,sdg_08_40,Both sexes,15 to 74 years old,PC_ACT,9.0
+2025,sdg_08_40,Both sexes,15 to 74 years old,PC_ACT,9.1

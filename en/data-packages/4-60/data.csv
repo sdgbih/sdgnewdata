@@ -1,16 +1,16 @@
 Year,SERIES,Sex,Age,UNIT_MEASURE,Value
-2021,Adult participation in learning in the past four weeks by sex,Both sexes,25 to 64 years old,Percent,2.1
-2022,Adult participation in learning in the past four weeks by sex,Both sexes,25 to 64 years old,Percent,1.8
-2023,Adult participation in learning in the past four weeks by sex,Both sexes,25 to 64 years old,Percent,1.8
-2024,Adult participation in learning in the past four weeks by sex,Both sexes,25 to 64 years old,Percent,1.6
-2025,Adult participation in learning in the past four weeks by sex,Both sexes,25 to 64 years old,Percent,1.8
-2021,Adult participation in learning in the past four weeks by sex,Male,25 to 64 years old,Percent,2.0
-2022,Adult participation in learning in the past four weeks by sex,Male,25 to 64 years old,Percent,1.6
-2023,Adult participation in learning in the past four weeks by sex,Male,25 to 64 years old,Percent,1.5
-2024,Adult participation in learning in the past four weeks by sex,Male,25 to 64 years old,Percent,1.2
-2025,Adult participation in learning in the past four weeks by sex,Male,25 to 64 years old,Percent,1.5
-2021,Adult participation in learning in the past four weeks by sex,Female,25 to 64 years old,Percent,2.1
-2022,Adult participation in learning in the past four weeks by sex,Female,25 to 64 years old,Percent,2.0
-2023,Adult participation in learning in the past four weeks by sex,Female,25 to 64 years old,Percent,2.0
-2024,Adult participation in learning in the past four weeks by sex,Female,25 to 64 years old,Percent,2.0
-2025,Adult participation in learning in the past four weeks by sex,Female,25 to 64 years old,Percent,2.2
+2021,sdg_04_60,Both sexes,25 to 64 years old,PT,2.1
+2022,sdg_04_60,Both sexes,25 to 64 years old,PT,1.8
+2023,sdg_04_60,Both sexes,25 to 64 years old,PT,1.8
+2024,sdg_04_60,Both sexes,25 to 64 years old,PT,1.6
+2025,sdg_04_60,Both sexes,25 to 64 years old,PT,1.8
+2021,sdg_04_60,Male,25 to 64 years old,PT,2.0
+2022,sdg_04_60,Male,25 to 64 years old,PT,1.6
+2023,sdg_04_60,Male,25 to 64 years old,PT,1.5
+2024,sdg_04_60,Male,25 to 64 years old,PT,1.2
+2025,sdg_04_60,Male,25 to 64 years old,PT,1.5
+2021,sdg_04_60,Female,25 to 64 years old,PT,2.1
+2022,sdg_04_60,Female,25 to 64 years old,PT,2.0
+2023,sdg_04_60,Female,25 to 64 years old,PT,2.0
+2024,sdg_04_60,Female,25 to 64 years old,PT,2.0
+2025,sdg_04_60,Female,25 to 64 years old,PT,2.2

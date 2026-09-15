@@ -1,16 +1,16 @@
 Year,SERIES,Spol,Godine,UNIT_MEASURE,Value
-2021,Stopa zaposlenosti,Oba pola,od 20 do 64 godine,Procenat ukupnog stanovništva,52.6
-2022,Stopa zaposlenosti,Oba pola,od 20 do 64 godine,Procenat ukupnog stanovništva,53.9
-2023,Stopa zaposlenosti,Oba pola,od 20 do 64 godine,Procenat ukupnog stanovništva,55.9
-2024,Stopa zaposlenosti,Oba pola,od 20 do 64 godine,Procenat ukupnog stanovništva,58.2
-2025,Stopa zaposlenosti,Oba pola,od 20 do 64 godine,Procenat ukupnog stanovništva,59.5
-2021,Stopa zaposlenosti,Muškarci,od 20 do 64 godine,Procenat ukupnog stanovništva,66.0
-2022,Stopa zaposlenosti,Muškarci,od 20 do 64 godine,Procenat ukupnog stanovništva,67.7
-2023,Stopa zaposlenosti,Muškarci,od 20 do 64 godine,Procenat ukupnog stanovništva,69.5
-2024,Stopa zaposlenosti,Muškarci,od 20 do 64 godine,Procenat ukupnog stanovništva,71.9
-2025,Stopa zaposlenosti,Muškarci,od 20 do 64 godine,Procenat ukupnog stanovništva,73.5
-2021,Stopa zaposlenosti,Žene,od 20 do 64 godine,Procenat ukupnog stanovništva,39.1
-2022,Stopa zaposlenosti,Žene,od 20 do 64 godine,Procenat ukupnog stanovništva,40.0
-2023,Stopa zaposlenosti,Žene,od 20 do 64 godine,Procenat ukupnog stanovništva,42.1
-2024,Stopa zaposlenosti,Žene,od 20 do 64 godine,Procenat ukupnog stanovništva,44.3
-2025,Stopa zaposlenosti,Žene,od 20 do 64 godine,Procenat ukupnog stanovništva,45.2
+2021,sdg_08_30,Oba pola,od 20 do 64 godine,PC,52.6
+2022,sdg_08_30,Oba pola,od 20 do 64 godine,PC,53.9
+2023,sdg_08_30,Oba pola,od 20 do 64 godine,PC,55.9
+2024,sdg_08_30,Oba pola,od 20 do 64 godine,PC,58.2
+2025,sdg_08_30,Oba pola,od 20 do 64 godine,PC,59.5
+2021,sdg_08_30,Muškarci,od 20 do 64 godine,PC,66.0
+2022,sdg_08_30,Muškarci,od 20 do 64 godine,PC,67.7
+2023,sdg_08_30,Muškarci,od 20 do 64 godine,PC,69.5
+2024,sdg_08_30,Muškarci,od 20 do 64 godine,PC,71.9
+2025,sdg_08_30,Muškarci,od 20 do 64 godine,PC,73.5
+2021,sdg_08_30,Žene,od 20 do 64 godine,PC,39.1
+2022,sdg_08_30,Žene,od 20 do 64 godine,PC,40.0
+2023,sdg_08_30,Žene,od 20 do 64 godine,PC,42.1
+2024,sdg_08_30,Žene,od 20 do 64 godine,PC,44.3
+2025,sdg_08_30,Žene,od 20 do 64 godine,PC,45.2

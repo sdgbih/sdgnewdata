@@ -1,7 +1,7 @@
 Year,SERIES,UNIT_MEASURE,Value
-2001,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator,Percentage of total population,20.2
-2004,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator,Percentage of total population,9.7
-2007,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator,Percentage of total population,16.0
-2011,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator,Percentage of total population,16.0
-2015,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator,Percentage of total population,17.3
-2021,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator,Percentage of total population,11.7
+2001,sdg_01_10,PC,20.2
+2004,sdg_01_10,PC,9.7
+2007,sdg_01_10,PC,16.0
+2011,sdg_01_10,PC,16.0
+2015,sdg_01_10,PC,17.3
+2021,sdg_01_10,PC,11.7

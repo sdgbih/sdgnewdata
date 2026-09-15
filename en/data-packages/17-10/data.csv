@@ -1,9 +1,9 @@
 Year,SERIES,Geopolitical entity (partner),UNIT_MEASURE,Value
-2016,Official development assistance,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),Percentage of gross national income (GNI),2.6
-2017,Official development assistance,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),Percentage of gross national income (GNI),2.4
-2018,Official development assistance,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),Percentage of gross national income (GNI),1.7
-2019,Official development assistance,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),Percentage of gross national income (GNI),2.3
-2020,Official development assistance,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),Percentage of gross national income (GNI),2.2
-2021,Official development assistance,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),Percentage of gross national income (GNI),2.4
-2022,Official development assistance,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),Percentage of gross national income (GNI),1.2
-2023,Official development assistance,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),Percentage of gross national income (GNI),1.1
+2016,sdg_17_10,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),PC_GNI,2.6
+2017,sdg_17_10,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),PC_GNI,2.4
+2018,sdg_17_10,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),PC_GNI,1.7
+2019,sdg_17_10,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),PC_GNI,2.3
+2020,sdg_17_10,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),PC_GNI,2.2
+2021,sdg_17_10,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),PC_GNI,2.4
+2022,sdg_17_10,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),PC_GNI,1.2
+2023,sdg_17_10,Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC),PC_GNI,1.1

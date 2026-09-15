@@ -1,22 +1,22 @@
 Year,SERIES,Sector of performance,UNIT_MEASURE,Value
-2019,Gross domestic expenditure on R&D by sector,All sectors,PC_BDP,0.19
-2020,Gross domestic expenditure on R&D by sector,All sectors,PC_BDP,0.2
-2021,Gross domestic expenditure on R&D by sector,All sectors,PC_BDP,0.19
-2022,Gross domestic expenditure on R&D by sector,All sectors,PC_BDP,0.19
-2023,Gross domestic expenditure on R&D by sector,All sectors,PC_BDP,0.18
-2024,Gross domestic expenditure on R&D by sector,All sectors,PC_BDP,0.2
-2019,Gross domestic expenditure on R&D by sector,Business enterprise sector,PC_BDP,0.07
-2020,Gross domestic expenditure on R&D by sector,Business enterprise sector,PC_BDP,0.08
-2021,Gross domestic expenditure on R&D by sector,Business enterprise sector,PC_BDP,0.07
-2029,Gross domestic expenditure on R&D by sector,Government sector,PC_BDP,0.01
-2020,Gross domestic expenditure on R&D by sector,Government sector,PC_BDP,0.01
-2021,Gross domestic expenditure on R&D by sector,Government sector,PC_BDP,0.01
-2019,Gross domestic expenditure on R&D by sector,Higher education sector,PC_BDP,0.11
-2020,Gross domestic expenditure on R&D by sector,Higher education sector,PC_BDP,0.11
-2021,Gross domestic expenditure on R&D by sector,Higher education sector,PC_BDP,0.11
-2022,Gross domestic expenditure on R&D by sector,Higher education sector,PC_BDP,0.11
-2023,Gross domestic expenditure on R&D by sector,Higher education sector,PC_BDP,0.1
-2024,Gross domestic expenditure on R&D by sector,Higher education sector,PC_BDP,0.11
-2019,Gross domestic expenditure on R&D by sector,Private non-profit sector,PC_BDP,0.0
-2020,Gross domestic expenditure on R&D by sector,Private non-profit sector,PC_BDP,0.0
-2021,Gross domestic expenditure on R&D by sector,Private non-profit sector,PC_BDP,0.0
+2019,sdg_09_10,All sectors,PC_BDP,0.19
+2020,sdg_09_10,All sectors,PC_BDP,0.2
+2021,sdg_09_10,All sectors,PC_BDP,0.19
+2022,sdg_09_10,All sectors,PC_BDP,0.19
+2023,sdg_09_10,All sectors,PC_BDP,0.18
+2024,sdg_09_10,All sectors,PC_BDP,0.2
+2019,sdg_09_10,Business enterprise sector,PC_BDP,0.07
+2020,sdg_09_10,Business enterprise sector,PC_BDP,0.08
+2021,sdg_09_10,Business enterprise sector,PC_BDP,0.07
+2029,sdg_09_10,Government sector,PC_BDP,0.01
+2020,sdg_09_10,Government sector,PC_BDP,0.01
+2021,sdg_09_10,Government sector,PC_BDP,0.01
+2019,sdg_09_10,Higher education sector,PC_BDP,0.11
+2020,sdg_09_10,Higher education sector,PC_BDP,0.11
+2021,sdg_09_10,Higher education sector,PC_BDP,0.11
+2022,sdg_09_10,Higher education sector,PC_BDP,0.11
+2023,sdg_09_10,Higher education sector,PC_BDP,0.1
+2024,sdg_09_10,Higher education sector,PC_BDP,0.11
+2019,sdg_09_10,Private non-profit sector,PC_BDP,0.0
+2020,sdg_09_10,Private non-profit sector,PC_BDP,0.0
+2021,sdg_09_10,Private non-profit sector,PC_BDP,0.0
