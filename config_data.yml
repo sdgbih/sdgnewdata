@@ -47,6 +47,13 @@ inputs:
     path_pattern: meta/*.yml
     git: false # Set to false for now to speed up the build
 indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - UNIT_MEASURE
+    - SERIES
   series_column: SERIES
   unit_column: UNIT_MEASURE
 # Translations
