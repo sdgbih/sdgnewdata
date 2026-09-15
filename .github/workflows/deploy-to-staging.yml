@@ -67,6 +67,28 @@ jobs:
         print("\nPROGRESS SOURCE:")
         print(inspect.getsource(pm))
         PY
+
+    - name: Locate language method
+      run: |
+        python - <<'PY'
+        import os
+        import glob
+
+        import sdg
+
+        root = os.path.dirname(sdg.__file__)
+        print("SDG PACKAGE:", root)
+        print("LANGUAGE METHODS:")
+
+        for path in glob.glob(os.path.join(root, "**", "*.py"), recursive=True):
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    for number, line in enumerate(f, 1):
+                        if "def language(" in line:
+                            print(f"{path}:{number}: {line.strip()}")
+            except Exception:
+                pass
+        PY
         
     - name: Build data
       run: |
