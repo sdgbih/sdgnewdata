@@ -142,13 +142,13 @@ jobs:
       run: |
         python - <<'PY'
         import inspect
-        import sdg.OutputOpenSdg as output
+        from sdg.OutputOpenSdg import OutputOpenSdg
 
         print("OUTPUT FILE:")
-        print(inspect.getfile(output))
+        print(inspect.getfile(OutputOpenSdg))
 
         print("\nOUTPUT SOURCE:")
-        print(inspect.getsource(output))
+        print(inspect.getsource(OutputOpenSdg))
         PY  
     - name: Build data
       run: |
