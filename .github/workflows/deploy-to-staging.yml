@@ -138,7 +138,18 @@ jobs:
         print("INDICATOR TRANSLATE METHOD:")
         print(inspect.getsource(Indicator.translate))
         PY
-      
+    - name: Inspect OutputOpenSdg
+      run: |
+        python - <<'PY'
+        import inspect
+        import sdg.OutputOpenSdg as output
+
+        print("OUTPUT FILE:")
+        print(inspect.getfile(output))
+
+        print("\nOUTPUT SOURCE:")
+        print(inspect.getsource(output))
+        PY  
     - name: Build data
       run: |
         python scripts/build_data.py
