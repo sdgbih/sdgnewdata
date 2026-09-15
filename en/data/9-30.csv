@@ -1,14 +1,14 @@
 Year,SERIES,Sex,Sector of performance,UNIT_MEASURE,Value
-2017,sdg_09_30,Both sexes,All sectors,NUMBER_ACT_FTE,3489.0
-2018,sdg_09_30,Both sexes,All sectors,NUMBER_ACT_FTE,2853.0
-2019,sdg_09_30,Both sexes,All sectors,NUMBER_ACT_FTE,2883.0
-2020,sdg_09_30,Both sexes,All sectors,NUMBER_ACT_FTE,2541.0
-2021,sdg_09_30,Both sexes,All sectors,NUMBER_ACT_FTE,2492.0
-2022,sdg_09_30,Both sexes,All sectors,NUMBER_ACT_FTE,2793.0
-2023,sdg_09_30,Both sexes,All sectors,NUMBER_ACT_FTE,3631.0
-2024,sdg_09_30,Both sexes,All sectors,NUMBER_ACT_FTE,3453.0
-2021,sdg_09_30,Both sexes,All sectors,PC_ACT_FTE,0.14
-2021,sdg_09_30,Both sexes,Business enterprise sector,PC_ACT_FTE,0.03
-2021,sdg_09_30,Both sexes,Government sector,PC_ACT_FTE,0.01
-2021,sdg_09_30,Both sexes,Higher education sector,PC_ACT_FTE,0.01
-2021,sdg_09_30,Both sexes,Private non-profit sector,PC_ACT_FTE,0.0
+2017,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",3489.0
+2018,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",2853.0
+2019,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",2883.0
+2020,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",2541.0
+2021,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",2492.0
+2022,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",2793.0
+2023,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",3631.0
+2024,R&D personnel,Both sexes,All sectors,"Тotal number (researchers, technical staff, other staff)",3453.0
+2021,R&D personnel,Both sexes,All sectors,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.14
+2021,R&D personnel,Both sexes,Business enterprise sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.03
+2021,R&D personnel,Both sexes,Government sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.01
+2021,R&D personnel,Both sexes,Higher education sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.01
+2021,R&D personnel,Both sexes,Private non-profit sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.0

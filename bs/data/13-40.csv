@@ -1,29 +1,29 @@
 Year,SERIES,Statističke informacije,UNIT_MEASURE,Value
-2010,sdg_13_40,Godišnja vrijednost,MEUR_KP,488.0
-2015,sdg_13_40,Godišnja vrijednost,MEUR_KP,215.0
-2019,sdg_13_40,Godišnja vrijednost,MEUR_KP,22.0
-2020,sdg_13_40,Godišnja vrijednost,MEUR_KP,16.0
-2022,sdg_13_40,Godišnja vrijednost,MEUR_KP,6.0
-2023,sdg_13_40,Godišnja vrijednost,MEUR_KP,11.0
-2024,sdg_13_40,Godišnja vrijednost,MEUR_KP,458.0
-2010,sdg_13_40,Godišnja vrijednost,EUR_HAB_KP,126.96
-2015,sdg_13_40,Godišnja vrijednost,EUR_HAB_KP,58.57
-2019,sdg_13_40,Godišnja vrijednost,EUR_HAB_KP,6.3
-2020,sdg_13_40,Godišnja vrijednost,EUR_HAB_KP,4.59
-2022,sdg_13_40,Godišnja vrijednost,EUR_HAB_KP,1.74
-2023,sdg_13_40,Godišnja vrijednost,EUR_HAB_KP,3.21
-2024,sdg_13_40,Godišnja vrijednost,EUR_HAB_KP,134.24
-2010,sdg_13_40,Tridesetogodišnji prosjek,MEUR_KP,45.0
-2015,sdg_13_40,Tridesetogodišnji prosjek,MEUR_KP,161.0
-2019,sdg_13_40,Tridesetogodišnji prosjek,MEUR_KP,161.0
-2020,sdg_13_40,Tridesetogodišnji prosjek,MEUR_KP,162.0
-2022,sdg_13_40,Tridesetogodišnji prosjek,MEUR_KP,162.0
-2023,sdg_13_40,Tridesetogodišnji prosjek,MEUR_KP,162.0
-2024,sdg_13_40,Tridesetogodišnji prosjek,MEUR_KP,178.0
-2010,sdg_13_40,Tridesetogodišnji prosjek,EUR_HAB_KP,11.73
-2015,sdg_13_40,Tridesetogodišnji prosjek,EUR_HAB_KP,43.84
-2019,sdg_13_40,Tridesetogodišnji prosjek,EUR_HAB_KP,46.19
-2020,sdg_13_40,Tridesetogodišnji prosjek,EUR_HAB_KP,46.47
-2022,sdg_13_40,Tridesetogodišnji prosjek,EUR_HAB_KP,46.94
-2023,sdg_13_40,Tridesetogodišnji prosjek,EUR_HAB_KP,47.37
-2024,sdg_13_40,Tridesetogodišnji prosjek,EUR_HAB_KP,52.08
+2010,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Milion eura po konstantnim cijenama,488.0
+2015,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Milion eura po konstantnim cijenama,215.0
+2019,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Milion eura po konstantnim cijenama,22.0
+2020,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Milion eura po konstantnim cijenama,16.0
+2022,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Milion eura po konstantnim cijenama,6.0
+2023,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Milion eura po konstantnim cijenama,11.0
+2024,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Milion eura po konstantnim cijenama,458.0
+2010,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Euro po stanovniku (po konstantnim cijenama),126.96
+2015,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Euro po stanovniku (po konstantnim cijenama),58.57
+2019,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Euro po stanovniku (po konstantnim cijenama),6.3
+2020,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Euro po stanovniku (po konstantnim cijenama),4.59
+2022,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Euro po stanovniku (po konstantnim cijenama),1.74
+2023,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Euro po stanovniku (po konstantnim cijenama),3.21
+2024,Ekonomski gubici povezani s klimom,Godišnja vrijednost,Euro po stanovniku (po konstantnim cijenama),134.24
+2010,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Milion eura po konstantnim cijenama,45.0
+2015,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Milion eura po konstantnim cijenama,161.0
+2019,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Milion eura po konstantnim cijenama,161.0
+2020,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Milion eura po konstantnim cijenama,162.0
+2022,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Milion eura po konstantnim cijenama,162.0
+2023,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Milion eura po konstantnim cijenama,162.0
+2024,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Milion eura po konstantnim cijenama,178.0
+2010,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Euro po stanovniku (po konstantnim cijenama),11.73
+2015,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Euro po stanovniku (po konstantnim cijenama),43.84
+2019,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Euro po stanovniku (po konstantnim cijenama),46.19
+2020,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Euro po stanovniku (po konstantnim cijenama),46.47
+2022,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Euro po stanovniku (po konstantnim cijenama),46.94
+2023,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Euro po stanovniku (po konstantnim cijenama),47.37
+2024,Ekonomski gubici povezani s klimom,Tridesetogodišnji prosjek,Euro po stanovniku (po konstantnim cijenama),52.08

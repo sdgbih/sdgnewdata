@@ -1,29 +1,29 @@
 Year,Value,UNIT_MEASURE,SERIES
-2010,6311,NUMBER,sdg_11_52
-2011,6868,NUMBER,sdg_11_52
-2012,5127,NUMBER,sdg_11_52
-2013,4002,NUMBER,sdg_11_52
-2014,3899,NUMBER,sdg_11_52
-2015,5048,NUMBER,sdg_11_52
-2016,6999,NUMBER,sdg_11_52
-2017,5888,NUMBER,sdg_11_52
-2018,6864,NUMBER,sdg_11_52
-2019,5483,NUMBER,sdg_11_52
-2020,7920,NUMBER,sdg_11_52
-2021,7851,NUMBER,sdg_11_52
-2022,6038,NUMBER,sdg_11_52
-2023,4783,NUMBER,sdg_11_52
-2010,164,RT,sdg_11_52
-2011,179,RT,sdg_11_52
-2012,134,RT,sdg_11_52
-2013,104,RT,sdg_11_52
-2014,102,RT,sdg_11_52
-2015,138,RT,sdg_11_52
-2016,199,RT,sdg_11_52
-2017,168,RT,sdg_11_52
-2018,196,RT,sdg_11_52
-2019,157,RT,sdg_11_52
-2020,227,RT,sdg_11_52
-2021,226,RT,sdg_11_52
-2022,175,RT,sdg_11_52
-2023,139,RT,sdg_11_52
+2010,6311,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2011,6868,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2012,5127,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2013,4002,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2014,3899,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2015,5048,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2016,6999,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2017,5888,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2018,6864,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2019,5483,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2020,7920,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2021,7851,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2022,6038,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2023,4783,Broj,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2010,164,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2011,179,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2012,134,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2013,104,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2014,102,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2015,138,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2016,199,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2017,168,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2018,196,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2019,157,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2020,227,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2021,226,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2022,175,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"
+2023,139,Stopa,"Prerane smrti zbog izloženosti finim česticama (PM2,5)"

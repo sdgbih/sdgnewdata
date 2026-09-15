@@ -1,16 +1,16 @@
 Year,SERIES,Sex,Age,UNIT_MEASURE,Value
-2021,sdg_08_30,Both sexes,20 to 64 years old,PC,52.6
-2022,sdg_08_30,Both sexes,20 to 64 years old,PC,53.9
-2023,sdg_08_30,Both sexes,20 to 64 years old,PC,55.9
-2024,sdg_08_30,Both sexes,20 to 64 years old,PC,58.2
-2025,sdg_08_30,Both sexes,20 to 64 years old,PC,59.5
-2021,sdg_08_30,Male,20 to 64 years old,PC,66.0
-2022,sdg_08_30,Male,20 to 64 years old,PC,67.7
-2023,sdg_08_30,Male,20 to 64 years old,PC,69.5
-2024,sdg_08_30,Male,20 to 64 years old,PC,71.9
-2025,sdg_08_30,Male,20 to 64 years old,PC,73.5
-2021,sdg_08_30,Female,20 to 64 years old,PC,39.1
-2022,sdg_08_30,Female,20 to 64 years old,PC,40.0
-2023,sdg_08_30,Female,20 to 64 years old,PC,42.1
-2024,sdg_08_30,Female,20 to 64 years old,PC,44.3
-2025,sdg_08_30,Female,20 to 64 years old,PC,45.2
+2021,Employment rate,Both sexes,20 to 64 years old,Percentage of total population,52.6
+2022,Employment rate,Both sexes,20 to 64 years old,Percentage of total population,53.9
+2023,Employment rate,Both sexes,20 to 64 years old,Percentage of total population,55.9
+2024,Employment rate,Both sexes,20 to 64 years old,Percentage of total population,58.2
+2025,Employment rate,Both sexes,20 to 64 years old,Percentage of total population,59.5
+2021,Employment rate,Male,20 to 64 years old,Percentage of total population,66.0
+2022,Employment rate,Male,20 to 64 years old,Percentage of total population,67.7
+2023,Employment rate,Male,20 to 64 years old,Percentage of total population,69.5
+2024,Employment rate,Male,20 to 64 years old,Percentage of total population,71.9
+2025,Employment rate,Male,20 to 64 years old,Percentage of total population,73.5
+2021,Employment rate,Female,20 to 64 years old,Percentage of total population,39.1
+2022,Employment rate,Female,20 to 64 years old,Percentage of total population,40.0
+2023,Employment rate,Female,20 to 64 years old,Percentage of total population,42.1
+2024,Employment rate,Female,20 to 64 years old,Percentage of total population,44.3
+2025,Employment rate,Female,20 to 64 years old,Percentage of total population,45.2

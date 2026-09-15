@@ -1,7 +1,7 @@
 Year,Value,UNIT_MEASURE,SERIES
-2019,261,NUMBER,sdg_11_40
-2020,244,NUMBER,sdg_11_40
-2021,255,NUMBER,sdg_11_40
-2022,222,NUMBER,sdg_11_40
-2023,255,NUMBER,sdg_11_40
-2024,222,NUMBER,sdg_11_40
+2019,261,Broj,Smrtnost u cestovnom saobraćaju
+2020,244,Broj,Smrtnost u cestovnom saobraćaju
+2021,255,Broj,Smrtnost u cestovnom saobraćaju
+2022,222,Broj,Smrtnost u cestovnom saobraćaju
+2023,255,Broj,Smrtnost u cestovnom saobraćaju
+2024,222,Broj,Smrtnost u cestovnom saobraćaju
