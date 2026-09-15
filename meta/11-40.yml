@@ -4,14 +4,19 @@ published: true
 sdg_goal: '11'
 data_non_statistical: false
 graph_type: line
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_11_40
+    unit: NUMBER
+    direction: negative
 indicator_sort_order: '11-40'
 indicator_name: global_indicators.11-40-title
 source_active_1: true
 source_organisation_1: The Transport Community
 source_url_1: 'https://www.transport-community.org/'
 graph_titles:    
-- series: SERIES.sdg_11_40
-  title: SERIES.sdg_11_40
+  - series: SERIES.sdg_11_40
+    title: SERIES.sdg_11_40
 national_indicator_definition: global_indicators.11-40-definition
 national_rationale: global_indicators.11-40-intention
 national_methodology_characteristics: global_indicators.11-40-methodology
