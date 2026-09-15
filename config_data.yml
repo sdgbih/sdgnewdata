@@ -46,7 +46,9 @@ inputs:
   - class: InputYamlMeta
     path_pattern: meta/*.yml
     git: false # Set to false for now to speed up the build
-
+indicator_options:
+  series_column: SERIES
+  unit_column: UNIT_MEASURE
 # Translations
 # ------------
 # The allows control over the imported translations. This can be omitted if you
