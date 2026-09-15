@@ -54,7 +54,20 @@ jobs:
         for path in glob.glob(os.path.join(root, "**", "*Progress*.py"), recursive=True):
             print(path)
         PY
-       
+        
+    - name: Inspect ProgressMeasure
+      run: |
+        python - <<'PY'
+        import inspect
+        import sdg.ProgressMeasure as pm
+
+        print("PROGRESS MODULE:")
+        print(inspect.getfile(pm))
+
+        print("\nPROGRESS SOURCE:")
+        print(inspect.getsource(pm))
+        PY
+        
     - name: Build data
       run: |
         python scripts/build_data.py
