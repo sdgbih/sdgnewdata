@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_09_40",
+                ""
+              ]
+            }
           },
           {
             "name": "COOP_PTN",
@@ -31,7 +37,14 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                "PER_1000000_POP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

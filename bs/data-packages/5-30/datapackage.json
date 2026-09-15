@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Razlika u zaposlenosti među spolovima, prema vrsti zaposlenja",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -48,6 +54,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

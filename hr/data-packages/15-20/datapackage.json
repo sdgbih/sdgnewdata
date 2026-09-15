@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Kopnena zaštićena područja",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Postotak",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

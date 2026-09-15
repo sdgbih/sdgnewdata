@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Poverty gap at $8.30 a day (2021 PPP) (%) - proxy indicator",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

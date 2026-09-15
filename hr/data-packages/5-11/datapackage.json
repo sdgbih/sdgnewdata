@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Fizičko i seksualno nasilje nad ženama po dobnim skupinama",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
@@ -34,6 +40,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Postotak",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

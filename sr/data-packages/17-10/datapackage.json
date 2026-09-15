@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Званична развојна помоћ",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -34,6 +40,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат бруто националног дохотка (БНД)",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

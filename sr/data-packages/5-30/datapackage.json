@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Разлика у запослености међу половима, према врсти запослења",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -48,6 +54,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

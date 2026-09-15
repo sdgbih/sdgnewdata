@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_10_10",
+                ""
+              ]
+            }
           },
           {
             "name": "INDIC_PPP",
@@ -31,7 +37,13 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

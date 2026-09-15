@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Smrtnost u cestovnom saobraćaju",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Broj",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

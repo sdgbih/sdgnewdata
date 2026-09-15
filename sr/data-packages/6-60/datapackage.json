@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Индекс експлоатације воде, плус (WEI+)",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -35,6 +41,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

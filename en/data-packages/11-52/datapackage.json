@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Premature deaths due to exposure to fine particulate matter (PM2.5)",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Rate",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

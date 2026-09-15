@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Državna potpora poljoprivrednom istraživanju i razvoju",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Milijun eura",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

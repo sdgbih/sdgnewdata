@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Victims of trafficking in human beings by sex",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -36,6 +42,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

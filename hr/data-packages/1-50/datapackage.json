@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Pristupačno stanovanje - zamjenski pokazatelj",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Odnos cijene i prihoda",
+                "Indeks pristupačnosti",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

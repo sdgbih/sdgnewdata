@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Area under organic farming",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -34,6 +40,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of total utilised agricultural area",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

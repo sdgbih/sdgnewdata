@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Prijave patenata Evropskom uredu za patente",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -35,6 +41,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Broj",
+                "Na milion stanovnika",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

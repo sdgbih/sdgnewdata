@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_05_40",
+                ""
+              ]
+            }
           },
           {
             "name": "Reason",
@@ -51,7 +57,13 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

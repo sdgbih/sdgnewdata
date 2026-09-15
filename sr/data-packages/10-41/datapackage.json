@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Џинијев индекс - замјенски индикатор",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

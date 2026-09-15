@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Покривеност брзим интернетом према врсти подручја",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -45,6 +51,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат домаћинстава",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

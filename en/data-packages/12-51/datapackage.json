@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Generation of waste by hazardousness",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -36,6 +42,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilograms per capita",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

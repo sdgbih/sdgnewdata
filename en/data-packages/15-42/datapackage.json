@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Drought impact on ecosystems",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -35,6 +41,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Square kilometers",
+                "Percent",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

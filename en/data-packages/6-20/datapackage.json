@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Population connected to at least secondary wastewater treatment",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -34,6 +40,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

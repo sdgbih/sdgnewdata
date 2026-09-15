@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Real GDP per capita",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Chain linked volumes (2020), euro per capita",
+                "Chain linked volumes, percentage change on previous period, per capita",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

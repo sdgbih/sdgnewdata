@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Udio vodnih tijela s dobrom kvalitetom površinskih i podzemnih voda - zamjenski indikator",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

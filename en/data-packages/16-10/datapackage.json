@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Standardised death rate due to homicide",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -36,6 +42,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

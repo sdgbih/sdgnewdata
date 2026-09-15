@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Fizičko i seksualno nasilje nad ženama po starosnim grupama",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -34,6 +40,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

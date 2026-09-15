@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Индекс прекривања тла",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Квадратни метри по глави становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Finalna potrošnja energije",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Milion tona ekvivalenta nafte",
+                "Tone ekvivalenta nafte (TOE) po glavi stanovnika",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

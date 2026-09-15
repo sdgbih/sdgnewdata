@@ -16,11 +16,24 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_17_40",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC_BDP",
+                "CUR_NAC_M",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

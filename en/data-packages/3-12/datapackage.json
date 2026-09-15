@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Healthy life expectancy based on self-perceived health",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -36,6 +42,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Year",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Osoblje za istraživanje i razvoj (R&D)",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -49,6 +55,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupan broj (istraživači, tehničko osoblje, ostalo osoblje)",
+                "Procenat stanovništva u radnoj snazi ​​- brojnik u ekvivalentu punog radnog vremena (FTE)",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Udio obnovljive energije u bruto konačnoj potrošnji energije",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Postotak",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

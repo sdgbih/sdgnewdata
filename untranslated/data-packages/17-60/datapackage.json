@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_17_60",
+                ""
+              ]
+            }
           },
           {
             "name": "URBANISATION",
@@ -40,7 +46,13 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC_HH",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

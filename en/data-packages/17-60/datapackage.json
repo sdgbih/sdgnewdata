@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "High-speed internet coverage, by type of area",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -45,6 +51,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of households",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_03_30",
+                ""
+              ]
+            }
           },
           {
             "name": "AGE",
@@ -42,7 +48,13 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

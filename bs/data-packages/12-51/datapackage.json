@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Nastali opasni otpad",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -36,6 +42,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilogrami po glavi stanovnika",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

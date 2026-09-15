@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Early leavers from education and training by sex",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -62,6 +68,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

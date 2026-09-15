@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Rano napuštanje obrazovanja i obuke po spolu",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
@@ -62,6 +68,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Postotak",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

@@ -16,11 +16,24 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_08_10",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CLV20_EUR_HAB",
+                "CLV_PCH_PRE_HAB",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

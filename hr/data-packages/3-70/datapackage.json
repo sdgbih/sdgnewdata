@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Potrošnja antibiotika u zajednici i bolničkom sektoru – definirane dnevne doze (DDD) dnevno",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Definirane dnevne doze (DDD) na 1.000 stanovnika dnevno",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

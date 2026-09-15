@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Shares of environmental taxes in total tax revenues",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of total revenues from taxes and social contributions (excluding imputed social contributions)",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

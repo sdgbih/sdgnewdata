@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "БДП по глави становника прилагођен куповној моћи",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -35,6 +41,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

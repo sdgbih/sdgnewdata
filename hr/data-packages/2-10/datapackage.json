@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Stopa pretilosti prema indeksu tjelesne mase (BMI)",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Postotak",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

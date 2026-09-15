@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Površina pod organskom poljoprivredom",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
@@ -34,6 +40,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Udio u ukupnoj korištenoj poljoprivrednoj površini",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

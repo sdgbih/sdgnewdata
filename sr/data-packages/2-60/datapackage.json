@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Емисије амонијака из пољопривреде",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "OOOт",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

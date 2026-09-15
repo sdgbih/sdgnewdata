@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Utjecaj suše na ekosustave",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
@@ -35,6 +41,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Kvadratnih kilometara",
+                "Postotak",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

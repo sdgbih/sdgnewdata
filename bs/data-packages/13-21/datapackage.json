@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Neto emisije stakleničkih plinova sektora LULUCF",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Hiljadu tona ekvivalenta CO2",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

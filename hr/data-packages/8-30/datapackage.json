@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Stopa zaposlenosti",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
@@ -47,6 +53,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Postotak ukupnog stanovništva",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

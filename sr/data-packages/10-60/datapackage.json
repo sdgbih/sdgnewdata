@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Захтjеви за азил",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -35,6 +41,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "На милион становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

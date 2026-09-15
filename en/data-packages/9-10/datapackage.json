@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross domestic expenditure on R&D by sector",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -38,6 +44,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "PC_BDP",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

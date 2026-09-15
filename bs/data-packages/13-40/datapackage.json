@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Ekonomski gubici povezani s klimom",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -35,6 +41,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Milion eura po konstantnim cijenama",
+                "Euro po stanovniku (po konstantnim cijenama)",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

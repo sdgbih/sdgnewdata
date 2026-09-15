@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Realni BDP po glavi stanovnika",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Lančano povezani obimi (2020), euro po glavi stanovnika",
+                "Lančano povezani obimi, procentualna promjena u odnosu na prethodni period, po glavi stanovnika",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

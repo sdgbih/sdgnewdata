@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Učešće odraslih u učenju u protekle četiri sedmice po spolu",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -47,6 +53,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

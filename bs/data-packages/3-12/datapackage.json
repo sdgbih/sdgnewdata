@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Očekivani životni vijek u dobrom zdravlju na osnovu samoprocjene zdravstvenog stanja",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -36,6 +42,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Godina",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

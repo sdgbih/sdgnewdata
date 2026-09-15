@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Standardizirana stopa smrtnosti zbog ubojstava",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
@@ -36,6 +42,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Stopa na 100.000 stanovnika",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

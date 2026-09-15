@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of total population",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

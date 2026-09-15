@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Нето емисије гасова стаклене баште у сектору LULUCF",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Хиљаду тона еквивалента CO2",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

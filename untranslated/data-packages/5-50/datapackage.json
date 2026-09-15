@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_05_50",
+                ""
+              ]
+            }
           },
           {
             "name": "ORG_INST",
@@ -41,7 +47,13 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC_WMN",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

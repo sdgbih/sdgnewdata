@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Net greenhouse gas emissions",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes per capita",
+                "Million tons of CO2 equivalent",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

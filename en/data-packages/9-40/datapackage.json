@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Patent applications to the European Patent Office",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -35,6 +41,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Per million population",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

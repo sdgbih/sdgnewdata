@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_09_10",
+                ""
+              ]
+            }
           },
           {
             "name": "SECTPERF",
@@ -34,7 +40,13 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC_BDP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

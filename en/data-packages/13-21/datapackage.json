@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Net greenhouse gas emissions of the LULUCF sector",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Thousand tonnes of CO2 equivalent",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

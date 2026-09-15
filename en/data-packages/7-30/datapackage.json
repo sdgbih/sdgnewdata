@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Energy productivity",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Euro per kilogram of oil equivalent (KGOE)",
+                "Purchasing power standard (PPS) per kilogram of oil equivalent",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Жртве трговине људима по полу",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -36,6 +42,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Број",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

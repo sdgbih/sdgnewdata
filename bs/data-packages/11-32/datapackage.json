@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Indeks pokrivenosti tla",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Kvadratni metri po glavi stanovnika",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

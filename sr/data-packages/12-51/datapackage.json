@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Настали опасни отпад",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -36,6 +42,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Килограми по глави становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

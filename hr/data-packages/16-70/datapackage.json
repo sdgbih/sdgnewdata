@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Žrtve trgovine ljudima prema spolu",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
@@ -36,6 +42,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Broj",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

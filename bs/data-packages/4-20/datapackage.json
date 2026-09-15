@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Visoko obrazovanje prema spolu, Osobe u dobi od 25 do 34 godine s visokoškolskom diplomom",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -58,6 +64,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

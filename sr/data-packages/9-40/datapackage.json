@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Пријаве патената Европском патентном бироу",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -35,6 +41,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Број",
+                "На милион становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

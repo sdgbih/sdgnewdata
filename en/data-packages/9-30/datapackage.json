@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "R&D personnel",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -49,6 +55,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Тotal number (researchers, technical staff, other staff)",
+                "Percentage of population in the labour force - numerator in full - time equivalent (FTE)",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

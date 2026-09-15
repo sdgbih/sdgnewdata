@@ -16,11 +16,24 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_13_10",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T_HAB",
+                "MT_CO2E",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

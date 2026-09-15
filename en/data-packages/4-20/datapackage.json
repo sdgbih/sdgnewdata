@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Tertiary educational attainment by sex, Persons aged 25-34 with a tertiary educational attainment level",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -58,6 +64,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

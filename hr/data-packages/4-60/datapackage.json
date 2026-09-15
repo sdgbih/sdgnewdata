@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Sudjelovanje odraslih u učenju u protekla četiri tjedna po spolu",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
@@ -47,6 +53,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Postotak",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

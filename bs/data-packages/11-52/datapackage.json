@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Prerane smrti zbog izloženosti finim česticama (PM2,5)",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Broj",
+                "Stopa",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Udio pojedinaca koji posjeduju barem osnovne digitalne vještine, po spolu",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat pojedinaca",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

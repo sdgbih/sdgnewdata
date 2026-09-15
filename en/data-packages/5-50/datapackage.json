@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Seats held by women in national parliaments and governments",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -46,6 +52,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of women",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

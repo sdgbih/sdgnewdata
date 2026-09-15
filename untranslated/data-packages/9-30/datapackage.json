@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_09_30",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",
@@ -44,7 +50,14 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER_ACT_FTE",
+                "PC_ACT_FTE",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

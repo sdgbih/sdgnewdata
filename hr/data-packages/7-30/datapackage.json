@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Energetska produktivnost",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Euro po kilogramu ekvivalenta nafte (KGOE)",
+                "Standard kupovne moći (PPS) po kilogramu ekvivalenta nafte",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_03_12",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",
@@ -32,7 +38,13 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "YR",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

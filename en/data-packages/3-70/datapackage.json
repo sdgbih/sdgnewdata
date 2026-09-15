@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Defined daily doses (DDD) per thousand inhabitants per day",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

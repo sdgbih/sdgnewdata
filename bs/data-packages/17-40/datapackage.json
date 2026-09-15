@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Bruto dug opće vlade",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat bruto domaćeg proizvoda (BDP)",
+                "u milionima KM",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Službena razvojna pomoć",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -34,6 +40,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat bruto nacionalnog dohotka (BND)",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

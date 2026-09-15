@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Позиције које заузимају жене на вишим руководећим позицијама",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -46,6 +52,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

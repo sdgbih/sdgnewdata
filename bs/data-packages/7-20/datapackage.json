@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Konačna potrošnja energije u domaćinstvima po stanovniku",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilogram ekvivalenta nafte",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

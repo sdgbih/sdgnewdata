@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Mjesta koja zauzimaju žene u nacionalnim parlamentima i vladama",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -46,6 +52,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat žena",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

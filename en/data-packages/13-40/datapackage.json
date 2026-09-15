@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Climate-related economic losses",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -35,6 +41,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Million euro at constant prices",
+                "Euro per inhabitant (at constant prices)",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

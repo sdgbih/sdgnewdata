@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Long-term unemployment rate by sex",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -45,6 +51,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of population in the labour force",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

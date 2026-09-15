@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Osobe izvan radne snage zbog obaveza brige o drugima po spolu",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
@@ -57,6 +63,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat ukupnog stanovništva",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Neto emisije stakleničkih plinova",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Tone po glavi stanovnika",
+                "Milion tona ekvivalenta CO2",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

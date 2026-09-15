@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Bruto dug opće države",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Postotak bruto domaćeg proizvoda (BDP)",
+                "u milijunima KM",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

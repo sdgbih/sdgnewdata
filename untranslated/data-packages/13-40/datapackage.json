@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_13_40",
+                ""
+              ]
+            }
           },
           {
             "name": "STATINFO",
@@ -31,7 +37,14 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MEUR_KP",
+                "EUR_HAB_KP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

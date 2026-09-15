@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Asylum applications",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -35,6 +41,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Per million inhabitants",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

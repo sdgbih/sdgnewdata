@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Примарна потрошња енергије",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Милион тона еквивалента nafte",
+                "Тоне еквивалента нафте (TOE) по глави становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

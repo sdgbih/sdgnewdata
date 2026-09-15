@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Приступачно становање - замјенски индикатор",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Однос цjене и прихода",
+                "Индекс приступачности",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

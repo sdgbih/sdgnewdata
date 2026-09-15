@@ -20,11 +20,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Смртни случајеви у друмском саобраћају",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Број",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -102,11 +114,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Удио водних тијела са добром квалитетом површинских и подземних вода - замјенски индикатор",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -184,6 +208,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Позиције које заузимају жене на вишим руководећим позицијама",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -212,6 +242,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -241,6 +277,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Особље за истраживање и развој",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -272,6 +314,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупан број (истраживачи, техничко особље, остало особље)",
+                "Проценат становништва у радној снази - бројилац у еквиваленту пуног радног времена (FTE)",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -301,6 +350,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Економски губици повезани са климатским промjенама",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -318,6 +373,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Милион евра по константним цијенама",
+                "Евро по становнику (по константним цијенама)",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -371,6 +433,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Површина под органском пољопривредом",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -387,6 +455,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Удио у укупној коришћеној пољопривредној површини",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -416,6 +490,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "БДП по глави становника прилагођен куповној моћи",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -433,6 +513,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -462,6 +548,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Учешће одраслих у учењу у посљедње четири недеље по полу",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -491,6 +583,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -520,6 +618,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Физичко и сексуално насиље над женама по старосним групама",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -536,6 +640,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -661,11 +771,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Јаз сиромаштва на 8,30 USD дневно (ПКМ за 2021. годину) (%) - замјенски индикатор",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -719,6 +841,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа дуготрајне незапослености по полу",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -746,6 +874,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат становништва у радној снази",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -775,11 +909,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Реални БДП по глави становника",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Ланчано повезани обими (2020), евро по глави становника",
+                "Ланчано повезани обими, процентуална промјена у относу на претходни период, по глави становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -857,11 +1004,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Нето емисије гасова стаклене баште",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Тоне по глави становника",
+                "Милион тона еквивалента CO2",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -891,11 +1051,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Индекс прекривања тла",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Квадратни метри по глави становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -925,11 +1097,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Џинијев индекс - замјенски индикатор",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -959,11 +1143,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Приступачно становање - замјенски индикатор",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Однос цjене и прихода",
+                "Индекс приступачности",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -993,6 +1190,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Рано напуштање образовања и обуке по полу",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -1037,6 +1240,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1066,6 +1275,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Настали опасни отпад",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -1084,6 +1299,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Килограми по глави становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1113,11 +1334,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа сиромаштва према прагу од 8,30 USD дневно (ПКМ за 2021. годину) (% становништва) - замјенски индикатор",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1147,11 +1380,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Удио обновљиве енергије у укупној коначној потрошњи енергије",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1195,11 +1440,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Смртоносне несреће на раду на 100 000 радника",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа инциденције",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1229,11 +1486,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Коначна потрошња енергије у домаћинствима по глави становника",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Килограм еквивалента нафте",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1263,11 +1532,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Учешће у образовању у раном дјетињству по полу (дјеца узраста 3 године и више)",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1297,6 +1578,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Млади који нису запослени и нису у образовању или обуци",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -1326,6 +1613,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1379,6 +1672,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Званична развојна помоћ",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -1395,6 +1694,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат бруто националног дохотка (БНД)",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1472,6 +1777,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Захтjеви за азил",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -1489,6 +1800,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "На милион становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1518,6 +1835,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Пријаве патената Европском патентном бироу",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -1535,6 +1858,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Број",
+                "На милион становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1636,11 +1966,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Преране смртности због изложености финим честицама (PM2,5)",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Број",
+                "Стопа",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1694,6 +2037,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Покривеност брзим интернетом према врсти подручја",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -1721,6 +2070,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат домаћинстава",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1750,6 +2105,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Индекс експлоатације воде, плус (WEI+)",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -1767,6 +2128,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1796,6 +2163,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Мjеста која жене заузимају у националним парламентима и владама",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -1824,6 +2197,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат жена",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -1973,6 +2352,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Лица ван радне снаге због обавеза бриге о другима по полу",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -2012,6 +2397,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2041,11 +2432,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Бруто дуг опште државе",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат бруто домаћег производа (БДП)",
+                "у милионима KM",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2099,11 +2503,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Удио појединаца који посједују барем основне дигиталне вјештине, по полу",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат појединаца",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2216,6 +2632,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Становништво повезано на најмање секундарни третман отпадних вода",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -2232,6 +2654,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2285,11 +2713,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Индекс перцепције корупције",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Резултат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2319,11 +2759,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Примарна потрошња енергије",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Милион тона еквивалента nafte",
+                "Тоне еквивалента нафте (TOE) по глави становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2353,11 +2806,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Емисије амонијака из пољопривреде",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "OOOт",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2387,6 +2852,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Разлика у запослености међу половима, према врсти запослења",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -2417,6 +2888,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2446,11 +2923,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа рециклирања комуналног отпада",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2504,6 +2993,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Утицај суше на екосистеме",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -2521,6 +3016,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Квадратних километара",
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2598,11 +3100,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Удио еколошких пореза у укупним пореским приходима",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат од укупних прихода од пореза и социјалних доприноса (искључујући импутиране социјалне доприносе)",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2704,6 +3218,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа запослености",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -2733,6 +3253,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2762,11 +3288,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Потрошња антибиотика у заједници и болничком сектору – дефинисане дневне дозе (ДДД) дневно",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Дефинисане дневне дозе (DDD) на хиљаду становника дневно",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2820,11 +3358,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа гојазности према индексу тjелесне масе (BMI)",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2891,11 +3441,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Финална потрошња енергије",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Милион тона еквивалента nafte",
+                "Тоне еквивалента нафте (TOE) по глави становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2925,6 +3488,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Стандардизована стопа смртности због убистава",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -2943,6 +3512,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа на 100.000 становника",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -2972,6 +3547,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Завиност од увоза енергије",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -2991,6 +3572,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -3044,11 +3631,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Нето емисије гасова стаклене баште у сектору LULUCF",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Хиљаду тона еквивалента CO2",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -3078,6 +3677,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Високо образовање према полу, особе старости од 25 до 34 године са високошколском дипломом",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -3118,6 +3723,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -3171,11 +3782,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Шумска површина",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -3205,11 +3828,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Земљишта под заштитом",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -3263,6 +3898,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Жртве трговине људима по полу",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -3281,6 +3922,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Број",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -3310,6 +3957,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Очекивани животни вијек у добром здрављу на основу самопроцјене здравственог стања",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -3328,6 +3981,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Година",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -3357,6 +4016,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Преваленција пушења према полу",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -3386,6 +4051,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -3415,11 +4086,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Државна подршка истраживању и развоју пољопривреде",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Милион евра",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -3449,6 +4132,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Бруто домаћа потрошња за истраживање и развој по секторима",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -3469,6 +4158,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат бруто домаћег производа (БДП)",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {
@@ -3618,11 +4313,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Енергетска продуктивност",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Евро по килограму еквивалента нафте (KGOE)",
+                "Стандард куповне моћи (PPS) по килограму еквивалента нафте",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

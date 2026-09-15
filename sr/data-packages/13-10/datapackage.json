@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Нето емисије гасова стаклене баште",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Тоне по глави становника",
+                "Милион тона еквивалента CO2",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

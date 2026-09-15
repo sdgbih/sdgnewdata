@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -34,6 +40,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of gross national income (GNI)",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Коначна потрошња енергије у домаћинствима по глави становника",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Килограм еквивалента нафте",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

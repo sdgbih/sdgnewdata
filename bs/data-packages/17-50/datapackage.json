@@ -18,11 +18,23 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Udio poreza na okoliš u ukupnim poreskim prihodima",
+                ""
+              ]
+            },
             "title": "SDG Serije"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat od ukupnih prihoda od poreza i socijalnih doprinosa (isključujući imputirane socijalne doprinose)",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

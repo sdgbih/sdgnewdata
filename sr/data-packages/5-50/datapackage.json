@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Мjеста која жене заузимају у националним парламентима и владама",
+                ""
+              ]
+            },
             "title": "SDG Варијабле"
           },
           {
@@ -46,6 +52,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат жена",
+                ""
+              ]
+            },
             "title": "Мјерна јединица"
           },
           {

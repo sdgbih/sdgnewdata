@@ -16,7 +16,13 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_02_40",
+                ""
+              ]
+            }
           },
           {
             "name": "AGPRDMET",
@@ -30,7 +36,13 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC_UAA",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -18,6 +18,12 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Bruto domaća potrošnja za istraživanje i razvoj (R&D) po sektorima",
+                ""
+              ]
+            },
             "title": "SDG Varijable"
           },
           {
@@ -38,6 +44,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Postotak bruto domaćeg proizvoda (BDP)",
+                ""
+              ]
+            },
             "title": "Mjerna jedinica"
           },
           {

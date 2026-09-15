@@ -16,11 +16,24 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_01_50",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PRICE_INC_R",
+                "AFF_INDEX",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

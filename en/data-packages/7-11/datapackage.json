@@ -18,11 +18,24 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Final energy consumption",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Million tonnes of oil equivalent",
+                "Tonnes of oil equivalent (TOE) per capita",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
