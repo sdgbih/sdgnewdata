@@ -7,3 +7,9 @@ not_applicable: Није примјењиво
 status_by_goal: Статус према циљу
 status_by_field: Статус по %field
 no_data_available: Подаци нису доступни
+substantial_progress: Значајан напредак
+moderate_progress: Умјерен напредак
+limited_progress: Ограничен напредак
+deterioration: Погоршање
+target_achieved: Циљ остварен
+progress_not_available: Подаци нису доступни
