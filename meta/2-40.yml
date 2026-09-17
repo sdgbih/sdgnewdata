@@ -4,11 +4,13 @@ published: true
 sdg_goal: '2'
 data_non_statistical: false
 auto_progress_calculation: true
-
 progress_calculation_options:
   - series: sdg_02_40
     unit: PC_UAA
     unit_column: UNIT_MEASURE
+    disaggregation:
+      - field: AGPRDMET
+        value: TOTAL
     direction: positive
     target: 0.36
     target_year: 2030
