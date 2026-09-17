@@ -3,6 +3,11 @@ reporting_status: complete
 published: true
 sdg_goal: '2'
 data_non_statistical: false
+progress_calculation_options:
+  - series: sdg_02_60
+    unit: TONNES_T
+    unit_column: UNIT_MEASURE
+    direction: negative
 graph_type: line
 indicator_sort_order: '02-60'
 indicator_name: global_indicators.2-60-title
