@@ -12,7 +12,7 @@ progress_calculation_options:
     direction: positive
     target: 0.36
     target_year: 2030
-    base_year: 2022
+    base_year: 2016
 graph_type: line
 indicator_sort_order: '02-40'
 indicator_name: global_indicators.2-40-title
