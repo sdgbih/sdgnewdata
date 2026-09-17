@@ -3,6 +3,7 @@ reporting_status: complete
 published: true
 sdg_goal: '2'
 data_non_statistical: false
+auto_progress_calculation: true
 progress_calculation_options:
   - series: sdg_02_60
     unit: TONNES_T
