@@ -3,6 +3,16 @@ reporting_status: complete
 published: true
 sdg_goal: '2'
 data_non_statistical: false
+auto_progress_calculation: true
+
+progress_calculation_options:
+  - series: sdg_02_40
+    unit: PC_UAA
+    unit_column: UNIT_MEASURE
+    direction: positive
+    target: 0.36
+    target_year: 2030
+    
 graph_type: line
 indicator_sort_order: '02-40'
 indicator_name: global_indicators.2-40-title
