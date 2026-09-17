@@ -8,6 +8,7 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: sdg_11_40
     unit: NUMBER
+    unit_column: UNIT_MEASURE
     direction: negative
 indicator_sort_order: '11-40'
 indicator_name: global_indicators.11-40-title
