@@ -3,6 +3,12 @@ reporting_status: complete
 published: true
 sdg_goal: '2'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_02_30
+    unit: MIO_EUR
+    unit_column: UNIT_MEASURE
+    direction: positive
 graph_type: line
 indicator_sort_order: '02-30'
 indicator_name: global_indicators.2-30-title
