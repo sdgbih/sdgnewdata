@@ -3,6 +3,20 @@ reporting_status: complete
 published: true
 sdg_goal: '4'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_04_70
+    unit: PC_IND
+    disaggregation:
+      - field: Type_of_skill
+        value: I_DSK2_BAB
+      - field: SEX
+        value: BOTHSEX
+      - field: AGE
+        value: Y16_74
+    target: 80
+    target_year: 2030
+    direction: positive
 graph_type: line
 indicator_sort_order: '04-70'
 indicator_name: global_indicators.4-70-title
