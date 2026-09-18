@@ -3,6 +3,18 @@ reporting_status: complete
 published: true
 sdg_goal: '4'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_04_60
+    unit: PT
+    disaggregation:
+      - field: SEX
+        value: BOTHSEX
+      - field: AGE
+        value: Y25_64
+    target: 28
+    target_year: 2030
+    direction: positive
 graph_type: line
 indicator_sort_order: '04-60'
 indicator_name: global_indicators.4-60-title
