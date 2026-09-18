@@ -3,6 +3,14 @@ reporting_status: complete
 published: true
 sdg_goal: '3'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_03_12
+    unit: YR
+    disaggregation:
+      - field: SEX
+        value: BOTHSEX
+    direction: positive
 graph_type: line
 indicator_sort_order: '03-12'
 indicator_name: global_indicators.3-12-title
