@@ -6,6 +6,18 @@ data_non_statistical: false
 graph_type: line
 indicator_sort_order: '04-10'
 indicator_name: global_indicators.4-10-title
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_04_10
+    unit: PT
+    disaggregation:
+      - field: Labour_force_and_employment_status
+        value: POP
+      - field: SEX
+        value: BOTHSEX
+      - field: AGE
+        value: Y18_24
+    direction: negative
 source_active_1: true
 source_organisation_1: BHAS, EUROSTAT (EU-LFS)
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_04_10/default/table'
