@@ -3,6 +3,11 @@ reporting_status: complete
 published: true
 sdg_goal: '3'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_03_70
+    unit: P_THAB
+    direction: negative
 graph_type: line
 indicator_sort_order: '03-70'
 indicator_name: global_indicators.3-70-title
