@@ -32,10 +32,6 @@
             "constraints": {
               "enum": [
                 "Population",
-                "Employed persons",
-                "Not employed persons",
-                "Persons would like to work (seeking employment or not)",
-                "Persons do not want to work",
                 ""
               ]
             },

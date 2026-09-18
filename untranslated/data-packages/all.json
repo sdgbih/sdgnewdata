@@ -1102,10 +1102,6 @@
             "constraints": {
               "enum": [
                 "POP",
-                "EMP",
-                "NEMP",
-                "WANT",
-                "NWANT",
                 ""
               ]
             }

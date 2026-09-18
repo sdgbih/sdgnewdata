@@ -32,10 +32,6 @@
             "constraints": {
               "enum": [
                 "Stanovništvo",
-                "Zaposlene osobe",
-                "Nezaposlene osobe",
-                "Osobe koje bi željele raditi (traže li zaposlenje ili ne)",
-                "Osobe ne žele raditi",
                 ""
               ]
             },
