@@ -14,7 +14,7 @@ progress_calculation_options:
         value: BOTHSEX
       - field: AGE
         value: Y25_34
-    target: 52
+    target: 45
     target_year: 2030
     direction: positive
 graph_type: line
