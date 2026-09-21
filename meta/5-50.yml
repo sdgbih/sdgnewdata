@@ -14,15 +14,6 @@ progress_calculation_options:
       - field: SEX
         value: F
     direction: positive
-  - series: sdg_05_50
-    unit: PC_WMN
-    unit_column: UNIT_MEASURE
-    disaggregation:
-      - field: ORG_INST
-        value: GOV_NAT
-      - field: SEX
-        value: F
-    direction: positive
 graph_type: line
 indicator_sort_order: '05-50'
 indicator_name: global_indicators.5-50-title
