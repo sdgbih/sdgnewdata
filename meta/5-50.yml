@@ -10,7 +10,7 @@ progress_calculation_options:
     unit_column: UNIT_MEASURE
     disaggregation:
       - field: ORG_INST
-        value: PARL_NAT
+        value: GOV_NAT
       - field: SEX
         value: F
     direction: positive
