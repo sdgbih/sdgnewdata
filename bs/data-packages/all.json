@@ -2362,6 +2362,7 @@
             "constraints": {
               "enum": [
                 "Briga o odraslima s invaliditetom ili djeci",
+                "PC_INAC_WWRK",
                 ""
               ]
             },
