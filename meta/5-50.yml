@@ -10,6 +10,16 @@ progress_calculation_options:
     unit_column: UNIT_MEASURE
     disaggregation:
       - field: ORG_INST
+        value: PARL_NAT
+      - field: SEX
+        value: F
+    direction: positive
+
+  - series: sdg_05_50
+    unit: PC_WMN
+    unit_column: UNIT_MEASURE
+    disaggregation:
+      - field: ORG_INST
         value: GOV_NAT
       - field: SEX
         value: F
