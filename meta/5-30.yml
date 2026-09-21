@@ -7,9 +7,12 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: sdg_05_30
     unit: PT
+    unit_column: UNIT_MEASURE
     disaggregation:
       - field: Labour_force_and_employment_status
         value: EMP
+      - field: AGE
+        value: Y20_64
     direction: negative
 graph_type: line
 indicator_sort_order: '05-30'
