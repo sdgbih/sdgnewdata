@@ -71,10 +71,9 @@ jobs:
 
     - name: Locate data_start_values code
       run: |
-        echo "=== SEARCH FOR data_start_values ==="
+        echo "=== SEARCH ALL SITE-PACKAGES FOR data_start_values ==="
         grep -Rni "data_start_values" \
-          /opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/sdg/ \
-          /opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/jekyll_open_sdg_plugins/ \
+          /opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/ \
           2>/dev/null || true
 
     - name: Locate language method
