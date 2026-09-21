@@ -32,7 +32,6 @@
             "constraints": {
               "enum": [
                 "Care of adults with disabilities or children",
-                "PC_INAC_WWRK",
                 ""
               ]
             },
@@ -67,6 +66,7 @@
             "constraints": {
               "enum": [
                 "Percentage of total population",
+                "Percentage of population outside the labour force and wanting to work",
                 ""
               ]
             },

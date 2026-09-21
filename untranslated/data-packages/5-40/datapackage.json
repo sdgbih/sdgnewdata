@@ -30,7 +30,6 @@
             "constraints": {
               "enum": [
                 "FAM_CARE",
-                "PC_INAC_WWRK",
                 ""
               ]
             }
@@ -62,6 +61,7 @@
             "constraints": {
               "enum": [
                 "PC",
+                "PC_INAC_WWRK",
                 ""
               ]
             }

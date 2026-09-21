@@ -32,7 +32,6 @@
             "constraints": {
               "enum": [
                 "Briga o odraslima s invaliditetom ili djeci",
-                "PC_INAC_WWRK",
                 ""
               ]
             },
@@ -67,6 +66,7 @@
             "constraints": {
               "enum": [
                 "Procenat ukupnog stanovništva",
+                "Procenat stanovništva izvan radne snge koje želi raditi",
                 ""
               ]
             },

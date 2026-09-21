@@ -32,7 +32,6 @@
             "constraints": {
               "enum": [
                 "Skrb za odrasle osobe s invaliditetom ili djecu",
-                "PC_INAC_WWRK",
                 ""
               ]
             },
@@ -67,6 +66,7 @@
             "constraints": {
               "enum": [
                 "Postotak ukupnog stanovništva",
+                "Postotak stanovništva izvan radne snage koje želi raditi",
                 ""
               ]
             },
