@@ -4,11 +4,6 @@ published: true
 sdg_goal: '5'
 data_non_statistical: false
 auto_progress_calculation: true
-data_start_values:
-  - field: Labour_force_and_employment_status
-    value: EMP
-  - field: AGE
-    value: Y20_64
 progress_calculation_options:
   - series: sdg_05_30
     unit: PT
