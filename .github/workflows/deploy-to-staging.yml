@@ -69,6 +69,14 @@ jobs:
         print(inspect.getsource(pm))
         PY
 
+    - name: Locate data_start_values code
+      run: |
+        echo "=== SEARCH FOR data_start_values ==="
+        grep -Rni "data_start_values" \
+          /opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/sdg/ \
+          /opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages/jekyll_open_sdg_plugins/ \
+          2>/dev/null || true
+
     - name: Locate language method
       run: |
         python - <<'PY'
