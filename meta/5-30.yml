@@ -3,6 +3,14 @@ reporting_status: complete
 published: true
 sdg_goal: '5'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_05_30
+    unit: PT
+    disaggregation:
+      - field: Labour_force_and_employment_status
+        value: EMP
+    direction: negative
 graph_type: line
 indicator_sort_order: '05-30'
 indicator_name: global_indicators.5-30-title
