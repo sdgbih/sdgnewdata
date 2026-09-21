@@ -3,6 +3,19 @@ reporting_status: complete
 published: true
 sdg_goal: '5'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_05_40
+    unit: PC
+    unit_column: UNIT_MEASURE
+    disaggregation:
+      - field: Reason
+        value: FAM_CARE
+      - field: AGE
+        value: Y20_64
+      - field: SEX
+        value: BOTHSEX
+    direction: negative
 graph_type: line
 indicator_sort_order: '05-40'
 indicator_name: global_indicators.5-40-title
