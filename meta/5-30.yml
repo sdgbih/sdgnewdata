@@ -3,6 +3,9 @@ reporting_status: complete
 published: true
 sdg_goal: '5'
 data_non_statistical: false
+graph_type: line
+indicator_sort_order: '05-30'
+indicator_name: global_indicators.5-30-title
 auto_progress_calculation: true
 progress_calculation_options:
   - series: sdg_05_30
@@ -14,9 +17,6 @@ progress_calculation_options:
       - field: AGE
         value: Y20_64
     direction: negative
-graph_type: line
-indicator_sort_order: '05-30'
-indicator_name: global_indicators.5-30-title
 source_active_1: true
 source_organisation_1: ESS (LFS)
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_05_30/default/table'
