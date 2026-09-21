@@ -139,46 +139,7 @@ jobs:
         print("INDICATOR TRANSLATE METHOD:")
         print(inspect.getsource(Indicator.translate))
         PY
-    - name: Inspect Progress calculation 5.61
-      run: |
-        python - <<'PY'
-        from pathlib import Path
-        import inspect
-        import sdg.ProgressMeasure as pm
-
-        path = Path(inspect.getfile(pm))
-        source = path.read_text()
-
-        needle = "            self.score = self.get_score()\n"
-
-        addition = """            self.score = self.get_score()
-
-            if self.inid in ('5-61', '5.61'):
-                print("\\n===== PROGRESS DEBUG 5.61 =====")
-                print("TAG:", self.tag)
-                print("FILTERED DATA:")
-                print(self.data.to_string(index=False))
-                print("base_year:", self.base_year)
-                print("base_value:", self.base_value)
-                print("current_year:", self.current_year)
-                print("current_value:", self.current_value)
-                print("target:", self.target)
-                print("target_year:", self.target_year)
-                print("direction:", self.direction)
-                print("progress_value:", self.progress_value)
-                print("status:", self.status)
-                print("score:", self.score)
-                print("===== END PROGRESS DEBUG 5.61 =====\\n")
-        """
-
-        if needle not in source:
-            raise Exception("Could not find insertion point in ProgressMeasure.py")
-
-        source = source.replace(needle, addition, 1)
-        path.write_text(source)
-
-        print("Diagnostic code inserted into:", path)
-        PY
+    
     - name: Build data
       run: |
         python scripts/build_data.py
