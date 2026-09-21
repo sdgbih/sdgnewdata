@@ -10,18 +10,6 @@ progress_calculation_options:
     unit_column: UNIT_MEASURE
     disaggregation:
       - field: PROF_POS
-        value: NEXEC
-      - field: SEX
-        value: F
-    direction: positive
-    target: 40
-    target_year: 2026
-
-  - series: sdg_05_61
-    unit: PT
-    unit_column: UNIT_MEASURE
-    disaggregation:
-      - field: PROF_POS
         value: NEXEC_EXEC
       - field: SEX
         value: F
