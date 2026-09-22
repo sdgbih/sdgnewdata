@@ -139,7 +139,21 @@ jobs:
         print("INDICATOR TRANSLATE METHOD:")
         print(inspect.getsource(Indicator.translate))
         PY
-    
+        
+    - name: Inspect Progress calculation methods
+      run: |
+        python - <<'PY'
+        import inspect
+        import sdg.ProgressMeasure as pm
+
+        print("PROGRESS MODULE:")
+        print(pm.__file__)
+        print()
+
+        print("INDICATOR PROGRESS SOURCE:")
+        print(inspect.getsource(pm.IndicatorProgress))
+        PY
+        
     - name: Build data
       run: |
         python scripts/build_data.py
