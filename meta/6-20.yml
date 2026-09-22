@@ -6,7 +6,9 @@ data_non_statistical: false
 auto_progress_calculation: true
 progress_calculation_options:
   - series: sdg_06_20
-    disaggregation: WW_TP=WWT_GE2
+    disaggregation:
+      - field: WW_TP
+        value: WWT_GE2
     unit: PT
     unit_column: UNIT_MEASURE
     direction: positive
