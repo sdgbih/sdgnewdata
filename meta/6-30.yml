@@ -3,6 +3,12 @@ reporting_status: complete
 published: true
 sdg_goal: '6'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_06_30
+    unit: PT
+    unit_column: UNIT_MEASURE
+    direction: positive
 graph_type: line
 indicator_sort_order: '06-30'
 indicator_name: global_indicators.6-30-title
