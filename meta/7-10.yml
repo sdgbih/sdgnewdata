@@ -9,6 +9,8 @@ progress_calculation_options:
     unit: MTOE
     unit_column: UNIT_MEASURE
     direction: negative
+    target: 6.50
+    target_year: 2030
 graph_type: line
 indicator_sort_order: '07-10'
 indicator_name: global_indicators.7-10-title
