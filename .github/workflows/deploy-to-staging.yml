@@ -154,6 +154,20 @@ jobs:
         print(inspect.getsource(pm.IndicatorProgress))
         PY
         
+    - name: Inspect Progress calculation functions
+      run: |
+        python - <<'PY'
+        import inspect
+        import sdg.ProgressMeasure as pm
+
+        print("GROUPED SCORE SOURCE:")
+        print(inspect.getsource(pm.grouped_score))
+        print()
+
+        print("PROGRESS STATUS SOURCE:")
+        print(inspect.getsource(pm.get_progress_status_from_score))
+        PY
+        
     - name: Build data
       run: |
         python scripts/build_data.py
