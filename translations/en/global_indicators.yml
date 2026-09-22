@@ -449,12 +449,18 @@ metadata-footer-label: Reference metadata
 7-20-title: Final energy consumption in households per capita
 7-20-definition: >-
   The indicator measures how much energy every citizen consumes at home excluding energy used for transportation. Since the indicator refers to final energy consumption, only energy used by end consumers is considered. The related consumption of the energy sector itself is excluded.
+7-20-definition_national: >-
+  The indicator measures final energy consumption in households per capita and is expressed in kilograms of oil equivalent (KGOE). It covers the energy used by final consumers in households, while energy used for transport and the related energy sector's own consumption are excluded. The data are based on annual energy balances and are aligned with the Eurostat methodological concept for indicator sdg_07_20.
 7-20-intention: >-
   Indicator is used to monitor progress towards SDG 7 on affordable and clean energy, which is embedded in the European Commission’s Priorities under 'Supporting people, strengthening our societies and our social model'.
+7-20-intention_national: >-
+  The indicator provides information on final energy consumption in households per capita and enables monitoring of trends in the energy consumption used by citizens in their households, excluding energy used for transport. Monitoring this indicator contributes to the assessment of progress in energy efficiency and the sustainable use of energy in Bosnia and Herzegovina, within Sustainable Development Goal 7 – Affordable and Clean Energy.
 7-20-methodology: >-
-  SDG 7 calls for ensuring universal access to modern energy services, improving energy efficiency and increasing the share of renewable energy. To accelerate the transition to an affordable, reliable, and sustainable energy system, countries need to facilitate access to clean energy research, promote investment in energy infrastructure and clean energy technology. Households account for about a quarter of final energy consumption. At home, people use electricity and fuels in particular for heating, cooling, warm water, lighting and appliances
+  SDG 7 calls for ensuring universal access to modern energy services, improving energy efficiency and increasing the share of renewable energy. To accelerate the transition to an affordable, reliable, and sustainable energy system, countries need to facilitate access to clean energy research, promote investment in energy infrastructure and clean energy technology. Households account for about a quarter of final energy consumption. At home, people use electricity and fuels in particular for heating, cooling, warm water, lighting and appliances.
 7-20-long_term_objective: >-
-  No description
+  Long-term reduction in final energy consumption in households per capita, contributing to increased energy efficiency.
+7-20-long_term_objective_national: >-
+  Long-term reduction in final energy consumption in households per capita, contributing to increased energy efficiency in Bosnia and Herzegovina.
 7-30-title: Energy productivity
 7-30-definition: >-
   The indicator measures the amount of economic output that is produced per unit of gross available energy. The gross available energy represents the quantity of energy products necessary to satisfy all demand of entities in the geographical area under consideration. The economic output is either given as in the unit of Euros in chain-linked volumes to the reference year 2010 at 2010 exchange rates or in the unit PPS (Purchasing Power Standard).
