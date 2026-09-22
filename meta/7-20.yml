@@ -3,6 +3,12 @@ reporting_status: complete
 published: true
 sdg_goal: '7'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_07_20
+    unit: KGOE
+    unit_column: UNIT_MEASURE
+    direction: negative
 graph_type: line
 indicator_sort_order: '07-20'
 indicator_name: global_indicators.7-20-title
