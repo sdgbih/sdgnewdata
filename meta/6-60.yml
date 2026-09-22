@@ -3,6 +3,15 @@ reporting_status: complete
 published: true
 sdg_goal: '6'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_06_60
+    disaggregation:
+      - field: STATINFO
+        value: VAL_A
+    unit: PT
+    unit_column: UNIT_MEASURE
+    direction: negative
 graph_type: line
 indicator_sort_order: '06-60'
 indicator_name: global_indicators.6-60-title
