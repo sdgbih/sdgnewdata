@@ -445,7 +445,9 @@ metadata-footer-label: Reference metadata
 7-11-methodology: >-
   The European Green Deal includes energy efficiency as a key measure for reducing cross-sectoral GHG emissions. Energy efficiency and Renewable energy Directives set ambitious EU targets to be reached by 2030.
 7-11-long_term_objective: >-
-  No description  
+  The long-term objective of the European Union under indicator SDG_07_11 is to reduce final energy consumption to no more than 763 Mtoe by 2030, in line with EU objectives to increase energy efficiency and reduce energy consumption.  
+7-11-long_term_objective_national: >-
+   The long-term objective for Bosnia and Herzegovina under indicator SDG_07_11 is to reduce final energy consumption to no more than 4.34 Mtoe by 2030, in line with the binding target for Bosnia and Herzegovina established by the Ministerial Council of the Energy Community, while increasing energy efficiency and promoting more sustainable use of energy.
 7-20-title: Final energy consumption in households per capita
 7-20-definition: >-
   The indicator measures how much energy every citizen consumes at home excluding energy used for transportation. Since the indicator refers to final energy consumption, only energy used by end consumers is considered. The related consumption of the energy sector itself is excluded.
