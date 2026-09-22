@@ -474,7 +474,9 @@ metadata-footer-label: Reference metadata
   SDG7 is embedded in the European Commission’s Priorities under 'Supporting people, strengthening our societies and our social model'.
   SDG 7 calls for ensuring universal access to modern energy services, improving energy efficiency and increasing the share of renewable energy. To accelerate the transition to an affordable, reliable, and sustainable energy system, countries need to facilitate access to clean energy research, promote investment in energy infrastructure and clean energy technology. SDG 12 calls for a comprehensive set of actions from businesses, policy-makers, researchers and consumers to adapt to sustainable practices. It envisions sustainable production and consumption based on advanced technological capacity, resource efficiency and reduced global waste.
 7-30-long_term_objective: >-
-  No description
+  Long-term increase in energy productivity, contributing to increased energy efficiency and sustainable use of energy.
+7-30-long_term_objective_national: >-
+  Long-term increase in energy productivity in Bosnia and Herzegovina, contributing to increased energy efficiency and sustainable use of energy.
 7-40-title: Share of renewable energy in gross final energy consumption
 7-40-definition: >-
   The indicator measures the share of renewable energy consumption in gross final energy consumption according to the Renewable Energy Directive. The gross final energy consumption is the energy used by end-consumers (final energy consumption) plus grid losses and self-consumption of power plants.
