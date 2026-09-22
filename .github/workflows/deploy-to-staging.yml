@@ -167,7 +167,16 @@ jobs:
         print("PROGRESS STATUS SOURCE:")
         print(inspect.getsource(pm.get_progress_status_from_score))
         PY
-        
+    - name: Inspect SeriesProgress source
+      run: |
+        python - <<'PY'
+        import inspect
+        import sdg.ProgressMeasure as pm
+
+        print("SERIES PROGRESS SOURCE:")
+        print(inspect.getsource(pm.SeriesProgress))
+        PY
+     
     - name: Build data
       run: |
         python scripts/build_data.py
