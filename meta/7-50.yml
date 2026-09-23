@@ -3,6 +3,15 @@ reporting_status: complete
 published: true
 sdg_goal: '7'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_07_50
+    unit: PT
+    unit_column: UNIT_MEASURE
+    disaggregation:
+      - field: Standard_international_energy_product_classification
+        value: TOTAL
+    direction: negative
 graph_type: line
 indicator_sort_order: '07-50'
 indicator_name: global_indicators.7-50-title
