@@ -3,6 +3,12 @@ reporting_status: complete
 published: true
 sdg_goal: '8'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_08_10
+    unit: CLV20_EUR_HAB
+    unit_column: UNIT_MEASURE
+    direction: positive
 graph_type: line
 indicator_sort_order: '08-10'
 indicator_name: global_indicators.8-10-title
