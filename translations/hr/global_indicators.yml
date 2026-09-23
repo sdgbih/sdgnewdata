@@ -516,14 +516,15 @@ metadata-footer-label: Referentni metapodaci
   Dugoročni cilj za ovaj pokazatelj je vrijednost od 0
 8-10-title: Stvarni BDP po stanovniku
 8-10-definition: >-
-  Pokazatelj se izračunava kao omjer realnog BDP-a (BDP prilagođen inflaciji) i prosječnog stanovništva određene godine, gdje se BDP izražava u milijunima, a stanovništvo u tisućama. Realni BDP objavljuje se bez decimala.
+  Pokazatelj se izračunava kao odnos realnog BDP-a, odnosno BDP-a prilagođenog za inflaciju, i prosječnog stanovništva u određenoj godini. BDP se izražava u milijunima eura, a stanovništvo u tisućama. Realni BDP objavljuje se bez decimala.
 8-10-intention: >-
-  Pokazatelj se koristi za praćenje napretka prema 8. cilju održivog razvoja o dostojanstvenom radu i gospodarskom rastu, koji je ugrađen u prioritete Europske komisije pod „Novi plan za održivi prosperitet i konkurentnost Europe” i „Podrška ljudima, jačanje naših društava i našeg socijalnog modela”.
-  Pokazatelj se može smatrati identičnim globalnom pokazatelju ciljeva održivog razvoja 8.1.1 „Godišnja stopa rasta realnog BDP-a po stanovniku“.
+  Pokazatelj se koristi za praćenje napretka prema cilju održivog razvoja 8 – Dostojanstven rad i gospodarski rast. Pokazatelj se može smatrati identičnim globalnom pokazatelju SDG 8.1.1 „Godišnja stopa rasta realnog BDP-a po stanovniku“.
 8-10-methodology: >-
-  BDP mjeri vrijednost ukupne konačne proizvodnje dobara i usluga koje je proizvelo gospodarstvo u određenom vremenskom razdoblju. Uključuje robu i usluge koje imaju tržišta (ili koje bi mogle imati tržišta) i proizvode koje proizvode opća država i neprofitne institucije. To je mjera gospodarske aktivnosti i obično se koristi kao zamjena za razvoj materijalnog životnog standarda zemlje. Međutim, to nije potpuna mjera ekonomske dobrobiti. Primjerice, BDP ne uključuje većinu neplaćenih kućanskih poslova. BDP također ne uzima u obzir negativne učinke gospodarske aktivnosti, kao što je degradacija okoliša.
+  BDP mjeri vrijednost ukupne konačne proizvodnje dobara i usluga proizvedenih u gospodarstvu tijekom određenog vremenskog razdoblja. Realni BDP prilagođava se za promjene cijena i omogućuje praćenje promjena gospodarske aktivnosti neovisno o inflaciji. Realni BDP po stanovniku često se koristi kao pokazatelj gospodarskog rasta i razvoja materijalnog životnog standarda. Međutim, BDP nije potpuna mjera gospodarskog blagostanja. Na primjer, ne uključuje većinu neplaćenog rada u kućanstvu niti u potpunosti odražava negativne učinke gospodarske aktivnosti, kao što je degradacija okoliša.
 8-10-long_term_objective: >-
-  Dugoročni cilj Indikatora je jačanje kapaciteta domaćih financijskih institucija za poticanje i širenje pristupa bankarstvu, osiguranju i financijskim uslugama za sve.
+  Dugoročni cilj indikatora je održiv rast realnog BDP-a po stanovniku, uz istodobno poticanje uključivog gospodarskog rasta i poboljšanje materijalnih životnih uvjeta stanovništva.
+8-10-long_term_objective_national: >-
+  Dugoročni cilj indikatora je održiv rast realnog BDP-a po stanovniku, uz istodobno poticanje uključivog gospodarskog rasta i poboljšanje materijalnih životnih uvjeta stanovništva.
 8-11-title: Udio ulaganja u BDP
 8-11-definition: >-
   Pokazatelj se izračunava kao omjer realnog BDP-a (BDP prilagođen inflaciji) i prosječnog stanovništva određene godine, gdje se BDP izražava u milijunima, a stanovništvo u tisućama. Realni BDP objavljuje se bez decimala.
