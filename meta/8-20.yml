@@ -3,6 +3,17 @@ reporting_status: complete
 published: true
 sdg_goal: '8'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_08_20
+    unit: PC
+    unit_column: UNIT_MEASURE
+    disaggregation:
+      - field: SEX
+        value: BOTHSEX
+      - field: AGE
+        value: Y15-29
+    direction: negative
 graph_type: line
 indicator_sort_order: '08-20'
 indicator_name: global_indicators.8-20-title
