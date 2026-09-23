@@ -514,14 +514,15 @@ metadata-footer-label: Reference metadata
   The long-term objective for this indicator is a value of 0.
 8-10-title: Real GDP per capita
 8-10-definition: >-
-  The indicator is calculated as the ratio of real GDP (GDP adjusted for inflation) to the average population of a specific year, where GDP is expressed in millions and population is expressed in thousands. Real GDP is published without decimals.
+  The indicator is calculated as the ratio of real GDP, i.e. GDP adjusted for inflation, to the average population in a given year. GDP is expressed in million euro and population in thousand persons. Real GDP is published without decimals.
 8-10-intention: >-
-  Indicator is used to monitor progress towards SDG 8 on decent work and economic growth, which is embedded in the European Commission’s Priorities under ‘A new plan for Europe's sustainable prosperity and competitiveness’ and ‘Supporting people, strengthening our societies and our social model’.
-  The indicator can be considered as identical to global SDG indicator 8.1.1 "Annual growth rate of real GDP per capita".
+  The indicator is used to monitor progress towards Sustainable Development Goal 8 – Decent Work and Economic Growth. The indicator can be considered identical to the global SDG indicator 8.1.1, “Annual growth rate of real GDP per capita”.
 8-10-methodology: >-
-  GDP measures the value of the total final output of goods and services produced by an economy within a certain period of time. It includes goods and services that have markets (or which could have markets) and products which are produced by general government and non-profit institutions. It is a measure of economic activity and is commonly used as a proxy for the development in a country’s material living standards. However, it is not a complete measure of economic welfare. For example, GDP does not include most unpaid household work. Neither does GDP take account of negative effects of economic activity, like environmental degradation.
+  GDP measures the value of the total final production of goods and services produced in an economy over a given period. Real GDP is adjusted for price changes and allows changes in economic activity to be monitored independently of inflation. Real GDP per capita is commonly used as an indicator of economic growth and the development of material living standards. However, GDP is not a comprehensive measure of economic well-being. For example, it does not include most unpaid household work and does not fully reflect the negative effects of economic activity, such as environmental degradation.
 8-10-long_term_objective: >-
-  The long-term objective for Indicator is to strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance, and financial services for all.
+  The long-term objective of the indicator is sustainable growth in real GDP per capita, while promoting inclusive economic growth and improving the material living conditions of the population.
+8-10-long_term_objective_national: >-
+  The long-term objective of the indicator is sustainable growth in real GDP per capita, while promoting inclusive economic growth and improving the material living conditions of the population.
 8-11-title: Investment share of GDP
 8-11-definition: >-
   The indicator is calculated as the ratio of real GDP (GDP adjusted for inflation) to the average population of a specific year, where GDP is expressed in millions and population is expressed in thousands. Real GDP is published without decimals.
