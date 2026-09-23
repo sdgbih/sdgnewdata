@@ -3,6 +3,17 @@ reporting_status: complete
 published: true
 sdg_goal: '7'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_07_40
+    unit: PT
+    unit_column: UNIT_MEASURE
+    disaggregation:
+      - field: Energy_balance
+        value: REN
+    direction: positive
+    target: 43.6
+    target_year: 2030
 graph_type: line
 indicator_sort_order: '07-40'
 indicator_name: global_indicators.7-40-title
