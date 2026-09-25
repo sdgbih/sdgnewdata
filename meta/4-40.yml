@@ -7,7 +7,7 @@ graph_type: bar
 indicator_sort_order: '04-40'
 indicator_name: global_indicators.4-40-title
 source_active_1: true
-source_organisation_1: Agencija za predškolsko, osnovno i srednje obrazovanje Bosne i Hercegovine
+source_organisation_1: Agency for Preschool, Primary and Secondary Education of Bosnia and Herzegovina, Programme for International Student Assessment (PISA).
 source_url_1: 'https://aposo.gov.ba/bs/medunarodna-istrazivanja/pisa/'
 footer_fields:
   - label: global_indicators.metadata-footer-label
