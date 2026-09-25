@@ -638,14 +638,21 @@ metadata-footer-label: Referentni metapodaci
   Za Bosnu i Hercegovinu u okviru ovog pokazatelja nije utvrđen poseban nacionalni numerički dugoročni cilj koji bi se koristio za automatski izračun statusa napretka. Cilj EU-a od 3 % BDP-a predstavlja referentni cilj na razini Europske unije i ne predstavlja automatski nacionalni cilj Bosne i Hercegovine.
 9-30-title: 'Osoblje za istraživanje i razvoj (R&R)'
 9-30-definition: >-
-  Pokazateljem se mjeri udio osoblja za istraživanje i razvoj u sljedećim institucionalnim sektorima: poslovno poduzeće (bes), vlada (gov), visoko obrazovanje (Hes) i privatna neprofitna organizacija (PNP). Podaci su prikazani u ekvivalentima punog radnog vremena kao udio radne snage.
+  Pokazatelj mjeri udio osoblja za istraživanje i razvoj u sljedećim institucionalnim sektorima: poslovni sektor (BES), sektor države (GOV), sektor visokog obrazovanja (HES) i privatni neprofitni sektor (PNP). Podaci su izraženi u ekvivalentima punog radnog vremena (FTE) kao udio radne snage.
+9-30-definition_national: >-
+  Pokazatelj mjeri udio osoblja za istraživanje i razvoj u Bosni i Hercegovini, izraženog u ekvivalentima punog radnog vremena (FTE) kao udio radne snage. Obuhvaćeni su poslovni sektor (BES), sektor države (GOV), sektor visokog obrazovanja (HES) i privatni neprofitni sektor (PNP).
 9-30-intention: >-
-  Pokazatelj se koristi za praćenje napretka prema cilju održivog razvoja 9 o izgradnji otporne infrastrukture, promicanju uključive i održive industrijalizacije i poticanju inovacija koje su ugrađene u prioritete Europske komisije za razdoblje 2024.-2029. pod naslovom „Novo doba za europsku obranu i sigurnost”.
-  Pokazatelj se može smatrati sličnim globalnom pokazatelju SDG-a 9.5.2 "Istraživači (u ekvivalentu punog radnog vremena) na milijun stanovnika"
+  Pokazatelj je dio skupa pokazatelja EU-a za ciljeve održivog razvoja i koristi se za praćenje napretka prema cilju održivog razvoja 9 o izgradnji otporne infrastrukture, promicanju uključive i održive industrijalizacije i poticanju inovacija. Istraživanje i razvoj te inovacije važni su pokretači konkurentnosti i zapošljavanja u gospodarstvu utemeljenom na znanju.
+9-30-intention_national: >-
+  Pokazatelj omogućuje praćenje ljudskih resursa angažiranih u istraživanju i razvoju u Bosni i Hercegovini i usporedbu s podacima za Europsku uniju i druge zemlje koji se temelje na istoj metodologiji. Na taj način pokazatelj pruža informacije o kapacitetu zemlje u području istraživanja i razvoja i ljudskim resursima raspoloživima za istraživačke i razvojne aktivnosti.
 9-30-methodology: >-
-  Istraživanje i razvoj te inovacije glavni su pokretači konkurentnosti i zapošljavanja u gospodarstvu temeljenom na znanju. Veća ulaganja u istraživanje i razvoj osiguravaju nova radna mjesta u poslovanju i akademskoj zajednici, povećavajući potražnju za znanstvenicima i istraživačima na tržištu rada.
+  Istraživanje i razvoj predstavljaju važnu osnovu za stvaranje novog znanja, tehnološki razvoj i inovacije. Pokazatelj obuhvaća istraživače i drugo osoblje koje pruža izravnu potporu aktivnostima istraživanja i razvoja. Praćenje njihovog udjela u radnoj snazi omogućuje praćenje razvoja ljudskih resursa angažiranih u istraživanju i razvoju. Eurostat napredak prati kroz promjene vrijednosti pokazatelja tijekom vremena.
+9-30-methodology_national: >-
+  Podaci za Bosnu i Hercegovinu obuhvaćaju osoblje koje je neposredno angažirano u istraživanju i razvoju, uključujući istraživače i drugo osoblje koje pruža izravnu potporu aktivnostima istraživanja i razvoja. Vrijednost pokazatelja za Bosnu i Hercegovinu za 2021. godinu iznosi 0,14 % radne snage. Podatak je preuzet iz Eurostatove baze podataka za pokazatelj SDG 9.30.
 9-30-long_term_objective: >-
-  Dugoročni cilj za ovaj pokazatelj je vrijednost od 2.
+  Za ovaj pokazatelj nije utvrđena posebna kvantitativna ciljna vrijednost na razini Europske unije. Napredak se procjenjuje na temelju promjene vrijednosti pokazatelja tijekom vremena.
+9-30-long_term_objective_national: >-
+  Za ovaj pokazatelj nije utvrđena posebna kvantitativna ciljna vrijednost na razini Bosne i Hercegovine. Napredak se može pratiti na temelju promjene vrijednosti pokazatelja tijekom vremena, kada budu dostupni podaci za više referentnih godina.
 9-40-title: Prijave patenata Europskom patentskom uredu
 9-40-definition: >-
   Ovaj pokazatelj mjeri zahtjeve za zaštitu izuma podnesene Europskom patentnom uredu (EPO) bez obzira na to jesu li odobreni ili ne. Prijave se raspoređuju prema zemlji prebivališta prvog podnositelja prijave koji je naveden na obrascu prijave (načelo prvoimenovanog podnositelja prijave) kao i prema zemlji prebivališta izumitelja.
