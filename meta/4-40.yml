@@ -1,18 +1,24 @@
 indicator_number: 4.40
-reporting_status: notstarted
+reporting_status: complete
 published: true
 sdg_goal: '4'
 data_non_statistical: false
-graph_type: line
+graph_type: bar
 indicator_sort_order: '04-40'
 indicator_name: global_indicators.4-40-title
 source_active_1: true
-source_organisation_1: OECD (PISA)
-source_url_1: ''
-indicator_definition: global_indicators.4-40-definition
-rationale: global_indicators.4-40-intention
-methodology_characteristics: global_indicators.4-40-methodology
-long_objective: global_indicators.4-40-long_term_objective
+source_organisation_1: Agencija za predškolsko, osnovno i srednje obrazovanje Bosne i Hercegovine
+source_url_1: 'https://aposo.gov.ba/bs/medunarodna-istrazivanja/pisa/'
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_04_40_esmsip2.htm">Metadata</a>'
+graph_titles:
+  - series: SERIES.sdg_04_40
+    title: SERIES.sdg_04_40
+national_indicator_definition: global_indicators.4-40-definition_national
+national_rationale: global_indicators.4-40-intention_national
+national_methodology_characteristics: global_indicators.4-40-methodology_national
+national_long_objective: global_indicators.4-40-long_term_objective_national
 eu_indicator_definition: global_indicators.4-40-definition
 eu_rationale: global_indicators.4-40-intention
 eu_methodology_characteristics: global_indicators.4-40-methodology
