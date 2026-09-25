@@ -636,14 +636,21 @@ metadata-footer-label: Reference metadata
   No specific national numerical long-term objective has been established for Bosnia and Herzegovina under this indicator for use in the automatic calculation of progress status. The EU objective of 3% of GDP represents a reference target at European Union level and does not automatically constitute a national target for Bosnia and Herzegovina.
 9-30-title: 'R&D personnel'
 9-30-definition: >-
-  The indicator measures the share of R&D personnel in the following institutional sectors: business enterprise (BES), government (GOV), higher education (HES) and private non-profit (PNP). Data are presented in full-time equivalents as a share of the labour force.
+  The indicator measures the share of R&D personnel in the following institutional sectors: business enterprise (BES), government (GOV), higher education (HES) and private non-profit (PNP). Data are presented in full-time equivalents (FTE) as a share of the labour force.
+9-30-definition_national: >-
+  The indicator measures the share of R&D personnel in Bosnia and Herzegovina, expressed in full-time equivalents (FTE) as a share of the labour force. It covers the business enterprise (BES), government (GOV), higher education (HES) and private non-profit (PNP) sectors.
 9-30-intention: >-
-  Indicator is used to monitor progress towards SDG 9 on building resilient infrastructure, promoting inclusive and sustainable industrialisation and fostering innovation which is embedded in the European Commission’s 2024-2029 Priorities under 'A new era for European defence and security'.
-  The indicator can be considered as similar to global SDG indicator 9.5.2 "Researchers (in full-time equivalent) per million inhabitants"
+  The indicator is part of the EU Sustainable Development Goals indicator set and is used to monitor progress towards Sustainable Development Goal 9 on building resilient infrastructure, promoting inclusive and sustainable industrialisation and fostering innovation. Research and development and innovation are important drivers of competitiveness and employment in a knowledge-based economy.
+9-30-intention_national: >-
+  The indicator enables monitoring of human resources engaged in research and development in Bosnia and Herzegovina and comparison with data for the European Union and other countries based on the same methodology. It therefore provides information on the country's research and development capacity and the human resources available for research and development activities.
 9-30-methodology: >-
-  R&D and innovation are major drivers of competitiveness and employment in a knowledge-based economy. Greater investment in R&D provides new jobs in business and academia, increasing demand for scientists and researchers in the labour market.
+  Research and development provide an important basis for the creation of new knowledge, technological development and innovation. The indicator covers researchers and other personnel providing direct support to R&D activities. Monitoring their share of the labour force provides information on the development of human resources engaged in research and development. Eurostat monitors progress through changes in the indicator value over time.
+9-30-methodology_national: >-
+  The data for Bosnia and Herzegovina cover personnel directly engaged in research and development, including researchers and other personnel providing direct support to R&D activities. The value of the indicator for Bosnia and Herzegovina in 2021 was 0.14% of the labour force. The data were obtained from the Eurostat database for SDG indicator 9.30.
 9-30-long_term_objective: >-
-  The long-term objective for this indicator is a value of 2.
+  No specific quantitative target value has been established for this indicator at EU level. Progress is assessed based on changes in the indicator value over time.
+9-30-long_term_objective_national: >-
+  No specific quantitative target value has been established for this indicator at the level of Bosnia and Herzegovina. Progress can be monitored based on changes in the indicator value over time when data for additional reference years become available.
 9-40-title: Patent applications to the European Patent Office
 9-40-definition: >-
   This indicator measures requests for the protection of an invention filed with the European Patent Office (EPO) regardless of whether they are granted or not. Applications are allocated according to the country of residence of the first applicant listed on the application form (first-named applicant principle) as well as according to the country of residence of the inventor.
