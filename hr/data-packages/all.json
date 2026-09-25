@@ -2832,7 +2832,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupan broj (istraživači, tehničko osoblje, ostalo osoblje)",
                 "Postotak stanovništva u radnoj snazi ​​- brojnik u ekvivalentu punog radnog vremena (FTE)",
                 ""
               ]

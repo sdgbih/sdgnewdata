@@ -2591,7 +2591,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER_ACT_FTE",
                 "PC_ACT_FTE",
                 ""
               ]

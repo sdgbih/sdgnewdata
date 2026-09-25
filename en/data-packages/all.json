@@ -2832,7 +2832,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Тotal number (researchers, technical staff, other staff)",
                 "Percentage of population in the labour force - numerator in full - time equivalent (FTE)",
                 ""
               ]
