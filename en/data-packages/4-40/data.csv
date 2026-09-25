@@ -1,1 +1,4 @@
-Year,Value
+Year,SERIES,EDUCATIONAL AREA,Sex,UNIT_MEASURE,Value
+2018,"Low achieving 15-year-olds in reading, mathematics or science",Reading,Both sexes,Percentage of total population,53.6
+2018,"Low achieving 15-year-olds in reading, mathematics or science",Mathematics,Both sexes,Percentage of total population,57.6
+2018,"Low achieving 15-year-olds in reading, mathematics or science",Science,Both sexes,Percentage of total population,56.7

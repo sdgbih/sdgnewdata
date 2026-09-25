@@ -12,12 +12,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Value",
+            "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Low achieving 15-year-olds in reading, mathematics or science",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "EDUCATIONAL_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reading",
+                "Mathematics",
+                "Science",
+                ""
+              ]
+            },
+            "title": "EDUCATIONAL AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of total population",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

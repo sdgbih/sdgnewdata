@@ -12,11 +12,53 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_04_40",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "EDUCATIONAL_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "READING",
+                "MATHEMATICS",
+                "SCIENCE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

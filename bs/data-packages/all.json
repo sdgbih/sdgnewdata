@@ -1350,12 +1350,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "Value",
+            "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Petnaestogodišnjaci sa slabim uspjehom  u čitanju, matematici ili prirodnim naukama",
+                ""
+              ]
+            },
+            "title": "SDG Serije"
+          },
+          {
+            "name": "EDUCATIONAL_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Čitanje",
+                "Matematika",
+                "Prirodne nauke",
+                ""
+              ]
+            },
+            "title": "OBRAZOVNO PODRUČJE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba pola",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Procenat ukupnog stanovništva",
+                ""
+              ]
+            },
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
