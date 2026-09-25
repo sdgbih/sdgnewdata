@@ -276,14 +276,23 @@ metadata-footer-label: Reference metadata
   The goal is to achieve a participation rate of 96% of children (from the age of 3 to the beginning of compulsory primary education) by 2030.
 4-40-title: Low achieving 15-year-olds in reading, mathematics or science
 4-40-definition: >-
-  The indicator measures the share of 15-year-old students failing to reach level 2 (‘basic skills level’) on the PISA scale for the three core school subjects of reading, mathematics and science. The data stem from the Programme for International Student Assessment (PISA), a regularly conducted international survey which aims to evaluate education systems by testing the skills and knowledge of 15-year-old students.
+  The indicator measures the share of 15-year-old students failing to reach level 2 (“minimum level of proficiency”) on the PISA scale in three domains: reading, mathematics and science. The data come from the Programme for International Student Assessment (PISA), an international survey that assesses the knowledge and skills of 15-year-old students and provides data for monitoring education outcomes.
+4-40-definition_national: >-
+  The indicator measures the share of 15-year-old students in Bosnia and Herzegovina who did not reach level 2, i.e. the minimum level of proficiency, in reading, mathematics and science.
 4-40-intention: >-
-  Indicator is used to monitor progress towards SDG 4 on quality education, which is embedded in the European Commission’s Priorities under 'A new plan for Europe's sustainable prosperity and competitiveness’, ‘Supporting people, strengthening our societies and our social model’ and ‘Protecting our democracy, upholding our values’.
-  The Council of the European Union on 26 February 2021 adopted the Resolution on a strategic framework for European cooperation in education and training towards the European Education Area and beyond (2021–2030), a framework that addresses five strategic priorities: (1) Improving quality, equity, inclusion and success for all in education and training; (2) Making lifelong learning and mobility a reality for all; (3) Enhancing competences and motivation in the education profession; (4) Reinforcing European higher education; and (5) Supporting green and digital transitions in and through education and training.
+  The indicator is used to monitor progress towards Sustainable Development Goal 4 – Quality Education. Monitoring the share of low-achieving 15-year-old students provides information on basic levels of knowledge and skills in reading, mathematics and science.
+  The indicator is linked to the European Union strategic framework for cooperation in education and training towards the European Education Area for the period 2021–2030.
+4-40-intention_national: >-
+  The indicator monitors education outcomes in Bosnia and Herzegovina and contributes to monitoring Sustainable Development Goal 4 – Quality Education. It enables monitoring of the share of 15-year-old students who did not reach the minimum level of proficiency in key areas of knowledge and skills.
+  Bosnia and Herzegovina participated in the PISA assessment for the first time in 2018. The assessment in Bosnia and Herzegovina was prepared and conducted by the Agency for Pre-Primary, Primary and Secondary Education in cooperation with the education authorities.
 4-40-methodology: >-
-  The Council Resolution sets the EU target for the share of low-achieving 15-year-olds in reading, mathematics and science as measured by this SDG indicator to be less than 15% by 2030.
+  The Council Resolution on the strategic framework for European cooperation in education and training for the period 2021–2030 sets the target that the share of 15-year-olds with low achievement in reading, mathematics and science should be below 15% by 2030. A lower indicator value represents a more favourable result, as it indicates a smaller share of students failing to reach level 2.
+4-40-methodology_national: >-
+  The data for Bosnia and Herzegovina are based on the results of the PISA 2018 assessment. The indicator values represent the share of 15-year-old students who did not reach level 2 in reading, mathematics and science. Data for this indicator are available for 2018 only. Therefore, no automatic progress status is calculated at the national level.
 4-40-long_term_objective: >-
-  The long-term objective for this indicator is a value of 525.6.
+  The European Union target is for the share of 15-year-old students with low achievement in reading, mathematics and science to be below 15% by 2030.
+4-40-long_term_objective_national: >-
+  The long-term objective is to improve the quality of education in Bosnia and Herzegovina and reduce the share of 15-year-old students who do not reach the minimum level of proficiency in reading, mathematics and science.
 4-60-title: Adult participation in learning by sex
 4-60-definition: >-
   The indicator measures the share of people aged 25 to 64 who stated that they received formal or non-formal education and training in the four weeks preceding the survey (numerator). The denominator consists of the total population of the same age group, excluding those who did not answer the question 'participation in education and training'. Adult learning covers job-related and non-job-related formal and non-formal learning activities. It usually refers to learning activities after the end of initial education.
