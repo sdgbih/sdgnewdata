@@ -60,7 +60,7 @@ PC_WMN: Percentage of women
 CLV20_EUR_HAB: Chain linked volumes (2020), euro per capita
 CLV_PCH_PRE_HAB: Chain linked volumes, percentage change on previous period, per capita
 PC_ACT: Percentage of population in the labour force
-PC_GDP: Percentage of gross domestic product (GDP)
+PC_BDP: Percentage of gross domestic product (GDP)
 PC_ACT_FTE: Percentage of population in the labour force - numerator in full - time equivalent (FTE)
 NUMBER_ACT_FTE: Тotal number (researchers, technical staff, other staff)
 M2_HAB: Square metres per capita
