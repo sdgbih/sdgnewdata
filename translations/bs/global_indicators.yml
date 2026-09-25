@@ -279,14 +279,23 @@ metadata-footer-label: Referentni metapodaci
   Cilj je postići stopu učešća od 96% djece (od navršene 3 godine do početka obaveznog osnovnog obrazovanja) do 2030. godine.
 4-40-title: Petnaestogodišnjaci sa slabim uspjehom u čitanju, matematici ili prirodnim naukama
 4-40-definition: >-
-  Indikator mjeri udio 15-godišnjih učenika koji ne dostižu nivo 2 (‘nivo osnovnih vještina’) na PISA skali za tri osnovna školska predmeta čitanja, matematike i nauke. Podaci potiču iz Programa za međunarodnu procjenu učenika (PISA), redovno sprovedenog međunarodnog istraživanja čiji je cilj evaluacija obrazovnih sistema testiranjem vještina i znanja 15-godišnjih učenika.
+  Indikator mjeri udio 15-godišnjih učenika koji ne dostižu nivo 2 („nivo osnovnih vještina“) na PISA skali u tri osnovne oblasti: čitanju, matematici i prirodnim naukama. Podaci potiču iz Programa za međunarodnu procjenu učenika (PISA), međunarodnog istraživanja koje procjenjuje znanja i vještine 15-godišnjih učenika i pruža podatke za praćenje ishoda obrazovnih sistema.
+4-40-definition_national: >-
+  Indikator mjeri udio 15-godišnjih učenika u Bosni i Hercegovini koji nisu dostigli nivo 2, odnosno osnovni nivo postignuća, u oblastima čitanja, matematike i prirodnih nauka.
 4-40-intention: >-
-  Indikatori koji se koriste za praćenje napretka prema cilju održivog razvoja 4 o kvalitetnom obrazovanju, koji je ugrađen u prioritete Evropske komisije pod „Novi plan za održivi prosperitet i konkurentnost Evrope“, „Podrška ljudima, jačanje naših društava i našeg socijalnog modela“ i „Zaštita naše demokratije, podržavanje naših vrijednosti“.
-  Vijeće Evropske unije je 26. februara 2021. godine usvojilo  Rezoluciju o strateškom okviru za evropsku saradnju u obrazovanju i osposobljavanju prema Evropskom obrazovnom prostoru i šire (2021–2030), okvir koji se bavi pet strateških prioriteta: (1) Poboljšanje kvaliteta, jednakosti, inkluzije i uspjeha za sve u obrazovanju i osposobljavanju; (2) Ostvarivanje cjeloživotnog učenja i mobilnosti za sve; (3) Jačanje kompetencija i motivacije u obrazovnoj profesiji; (4) Jačanje evropskog visokog obrazovanja; i (5) Podrška zelenoj i digitalnoj tranziciji u obrazovanju i osposobljavanju i kroz njih.
+  Indikator se koristi za praćenje napretka prema Cilju održivog razvoja 4 – Kvalitetno obrazovanje. Praćenje udjela 15-godišnjih učenika s niskim postignućima omogućava praćenje osnovnih nivoa znanja i vještina u čitanju, matematici i prirodnim naukama.
+  Indikator je povezan sa strateškim okvirom Evropske unije za saradnju u obrazovanju i osposobljavanju prema Evropskom obrazovnom prostoru za period 2021–2030. godine.
+4-40-intention_national: >-
+  Indikator prati ishode obrazovanja u Bosni i Hercegovini i doprinosi praćenju Cilja održivog razvoja 4 – Kvalitetno obrazovanje. Omogućava praćenje udjela 15-godišnjih učenika koji nisu dostigli osnovni nivo postignuća u ključnim oblastima znanja i vještina.
+  Bosna i Hercegovina je prvi put učestvovala u PISA istraživanju 2018. godine. Istraživanje u Bosni i Hercegovini priprema i provodi Agencija za predškolsko, osnovno i srednje obrazovanje u saradnji s obrazovnim vlastima.
 4-40-methodology: >-
-  Rezolucija Vijeća postavlja cilj EU da udio 15-godišnjaka s niskim postignućima u čitanju, matematici i nauci, mjeren ovim indikatorom ciljeva održivog razvoja, bude manji od 15% do 2030. godine.
+  Rezolucijom Vijeća Evropske unije o strateškom okviru za evropsku saradnju u obrazovanju i osposobljavanju za period 2021–2030. godine postavljen je cilj da udio 15-godišnjaka s niskim postignućima u čitanju, matematici i prirodnim naukama bude manji od 15% do 2030. godine. Niža vrijednost indikatora predstavlja povoljniji rezultat, jer označava manji udio učenika koji ne dostižu nivo 2.
+4-40-methodology_national: >-
+  Podaci za Bosnu i Hercegovinu zasnivaju se na rezultatima PISA 2018 istraživanja. Vrijednosti indikatora predstavljaju udio 15-godišnjih učenika koji nisu dostigli nivo 2 u čitanju, matematici i prirodnim naukama. Za ovaj indikator dostupni su podaci za 2018. godinu. Zbog toga se na nacionalnom nivou ne izračunava automatski status napretka.
 4-40-long_term_objective: >-
-  Dugoročni cilj za ovaj indikator je vrijednost od 525,6
+  Cilj Evropske unije je da udio 15-godišnjih učenika s niskim postignućima u čitanju, matematici i prirodnim naukama bude manji od 15% do 2030. godine.
+4-40-long_term_objective_national: >-
+  Dugoročni cilj je unapređenje kvaliteta obrazovanja u Bosni i Hercegovini i smanjenje udjela 15-godišnjih učenika koji ne dostižu osnovni nivo postignuća u čitanju, matematici i prirodnim naukama.
 4-60-title: Učešće odraslih u učenju po spolu
 4-60-definition: >-
   Indikator mjeri udio ljudi u dobi od 25 do 64 godine koji su izjavili da su dobili formalno ili neformalno obrazovanje i obuku u četiri sedmice koje su prethodile istraživanju (brojilac). Imenilac se sastoji od ukupne populacije iste starosne grupe, isključujući one koji nisu odgovorili na pitanje „učešće u obrazovanju i obuci“. Učenje odraslih obuhvata aktivnosti formalnog i neformalnog učenja koje se odnose na posao i koje se ne odnose na posao. Obično se odnosi na aktivnosti učenja nakon završetka inicijalnog obrazovanja.
