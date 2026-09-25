@@ -594,13 +594,22 @@ metadata-footer-label: Referentni metapodaci
 8-60-title: Smrtonosne nesreće na radu na 100 000 radnika
 8-60-definition: >-
   Pokazatelj mjeri broj nesreća sa smrtnim ishodom koje se dogode tijekom rada i dovedu do smrti žrtve u roku od jedne godine od nesreće. Stopa incidencije odnosi se na broj nesreća sa smrtnim ishodom na 100 000 zaposlenih osoba.
+8-60-definition_national: >-
+  Pokazatelj mjeri broj nesreća sa smrtnim ishodom koje se dogode tijekom rada i dovedu do smrti žrtve u roku od jedne godine od nesreće. Stopa incidencije odnosi se na broj nesreća sa smrtnim ishodom na 100 000 zaposlenih osoba.
 8-60-intention: >-
-  Pružatelj podataka u ESS-u je Eurostat, statistički ured Europske unije, Europska statistika o nesrećama na radu (ESAW). Harmonizirani podaci o nesrećama na radu prikupljaju se u okviru administrativnog prikupljanja podataka Europske statistike o nesrećama na radu (ESAW). U Bosni i Hercegovini istraživanje ESAW ne provodi se kao takvo. Agencija za statistiku Bosne i Hercegovine primjenjuje metode prikupljanja sekundarnih podataka (sekundarne metode uključuju korištenje postojećih podataka koje je već prikupilo Ministarstvo civilnih poslova Bosne i Hercegovine), analizirajući postojeće dokumente poput izvješća radi prikupljanja specifičnih informacija.
+  Pokazatelj prati sigurnost i zaštitu zdravlja na radu te doprinosi praćenju Cilja održivog razvoja 8 – Dostojanstven rad i gospodarski rast. Harmonizirani podaci o nesrećama na radu u Europskoj uniji prikupljaju se u okviru administrativnog prikupljanja podataka Europska statistika o nesrećama na radu (ESAW), a Eurostat je pružatelj podataka za ovaj pokazatelj u okviru Europskog statističkog sustava.
+8-60-intention_national: >-
+  Pokazatelj prati sigurnost i zaštitu zdravlja na radu u Bosni i Hercegovini te doprinosi praćenju Cilja održivog razvoja 8 – Dostojanstven rad i gospodarski rast. Smanjenje broja smrtnih nesreća na radu predstavlja važan aspekt unapređenja sigurnosti i zaštite zdravlja zaposlenih. U Bosni i Hercegovini Europska statistika o nesrećama na radu (ESAW) ne provodi se kao zasebno istraživanje. Agencija za statistiku Bosne i Hercegovine koristi sekundarne izvore podataka, uključujući postojeće podatke Ministarstva civilnih poslova Bosne i Hercegovine, za praćenje ovog pokazatelja.
 8-60-methodology: >-
-  Nacionalni izvori „Europske statistike o nesrećama na radu (ESAW)” su izjave poslodavaca o nesrećama na radu, bilo relevantnim osiguravajućim društvima, nacionalnom sustavu socijalne sigurnosti, inspekcijama rada ili sličnim nacionalnim tijelima.
-  Direktiva o transparentnim i predvidljivim radnim uvjetima u Europskoj uniji postavlja minimalne standarde o radnim uvjetima. Strateškim okvirom EU-a za zdravlje i sigurnost na radu za razdoblje 2021. - 2027. utvrđuju se ključni prioriteti za poboljšanje zdravlja i sigurnosti radnika.
+  Pokazatelj prati stopu smrtnih nesreća na radu na 100 000 zaposlenih osoba i omogućuje praćenje dugoročnih promjena u sigurnosti i zaštiti zdravlja na radu. Smanjenje vrijednosti pokazatelja predstavlja povoljan trend jer ukazuje na smanjenje učestalosti nesreća sa smrtnim ishodom.
+  Na razini Europske unije zaštita zdravlja i sigurnosti radnika predstavlja važan dio politika usmjerenih na unapređenje uvjeta rada. Europska statistika o nesrećama na radu (ESAW) koristi harmonizirani metodološki okvir za praćenje smrtonosnih i nesmrtonosnih nesreća na radu.
+8-60-methodology_national: >-
+  Pokazatelj prati stopu smrtnih nesreća na radu na 100 000 zaposlenih osoba i omogućuje praćenje promjena u sigurnosti i zaštiti zdravlja na radu u Bosni i Hercegovini. Smanjenje vrijednosti pokazatelja predstavlja povoljan trend jer ukazuje na smanjenje učestalosti nesreća sa smrtnim ishodom. Praćenje vremenskog trenda omogućuje praćenje dugoročnih promjena u sigurnosti i zaštiti zdravlja na radu i napretka Bosne i Hercegovine u ostvarivanju Cilja održivog razvoja 8.
+  Metodološka definicija pokazatelja usklađena je s relevantnim načelima Europske statistike o nesrećama na radu (ESAW).
 8-60-long_term_objective: >-
-  Dugoročni cilj za ovaj pokazatelj je vrijednost od 0
+  Dugoročni cilj za ovaj pokazatelj je vrijednost 0, što predstavlja znanstveno utemeljen, odnosno tehnički optimum i dugoročnu težnju ka sprječavanju smrtnih ishoda na radu.
+8-60-long_term_objective_national: >-
+  Dugoročni cilj je smanjenje stope smrtnih nesreća na radu u Bosni i Hercegovini i kontinuirano unapređenje sigurnosti i zaštite zdravlja na radu. Dugoročni tehnički optimum za ovaj pokazatelj je vrijednost 0, što predstavlja težnju ka sprječavanju smrtnih ishoda na radu.
 9-10-title: 'Bruto domaća potrošnja za istraživanje i razvoj (R&D)'
 9-10-definition: >-
   Pokazatelj mjeri bruto domaće rashode za istraživanje i razvoj (GERB) kao postotak bruto domaćeg proizvoda (BDP) — naziva se i intenzitet istraživanja i razvoja. OECD-ov Frascati priručnik: Smjernice za prikupljanje i izvješćivanje o podacima o istraživanju i eksperimentalnom razvoju definira istraživanje i eksperimentalni razvoj (R&D) kao kreativan i sustavan rad koji se poduzima kako bi se povećala zaliha znanja — uključujući znanje o čovječanstvu, kulturi i društvu — i osmislile nove primjene dostupnog znanja.
