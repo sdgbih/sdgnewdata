@@ -46,7 +46,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PC_BDP",
+                "Percentage of gross domestic product (GDP)",
                 ""
               ]
             },

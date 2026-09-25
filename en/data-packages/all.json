@@ -631,7 +631,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PC_BDP",
+                "Percentage of gross domestic product (GDP)",
                 "in millions of BAM",
                 ""
               ]
@@ -2457,7 +2457,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PC_BDP",
+                "Percentage of gross domestic product (GDP)",
                 ""
               ]
             },
