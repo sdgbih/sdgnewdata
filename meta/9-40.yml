@@ -3,19 +3,28 @@ reporting_status: complete
 published: true
 sdg_goal: '9'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_09_40
+    unit: NUMBER
+    unit_column: UNIT_MEASURE
+    direction: positive
+    disaggregation:
+      - field: COOP_PTN
+        value: INVT
 graph_type: line
 indicator_sort_order: '09-40'
 indicator_name: global_indicators.9-40-title
 source_active_1: true
-source_organisation_1: European Patent Office (EPO)
+source_organisation_1: Institute for Intellectual Property of Bosnia and Herzegovina (IIP-BIH); European Patent Office (EPO); Eurostat
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_09_40/default/table'
 graph_titles:
 - series: SERIES.sdg_09_40
   title: SERIES.sdg_09_40
-national_indicator_definition: global_indicators.9-40-definition
-national_rationale: global_indicators.9-40-intention
-national_methodology_characteristics: global_indicators.9-40-methodology
-national_long_objective: global_indicators.9-40-long_term_objective
+national_indicator_definition: global_indicators.9-40-definition_national
+national_rationale: global_indicators.9-40-intention_national
+national_methodology_characteristics: global_indicators.9-40-methodology_national
+national_long_objective: global_indicators.9-40-long_term_objective_national
 eu_indicator_definition: global_indicators.9-40-definition
 eu_rationale: global_indicators.9-40-intention
 eu_methodology_characteristics: global_indicators.9-40-methodology
