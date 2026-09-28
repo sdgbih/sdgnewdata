@@ -101,16 +101,24 @@ metadata-footer-label: Referentni metapodaci
   Nema opisa
 2-10-title: Stopa gojaznosti prema indeksu tjelesne mase (BMI)
 2-10-definition: >-
-  Evropsko istraživanje zdravstvenog stanja (EHIS) ima za cilj mjerenje zdravstvenog stanja (uključujući invaliditet), faktora koji utiču na zdravlje (stil života) građana EU, korištenje zdravstvenih usluga i ograničenja u pristupu tim uslugama, na harmonizovan način i sa visokim stepenom uporedivosti među državama članicama (DC). 
-  Opšti obuhvat istraživanja odnosi se na populaciju stariju od 15 godina koja živi u privatnim domaćinstvima na teritoriji zemlje.
-  EHIS se sastoji od četiri modula: zdravstveno stanje, faktori koji utiču na zdravlje, zdravstvena zaštita i osnovne varijable (sociodemografske karakteristike populacije).
+  Ovaj indikator mjeri stopu gojaznosti prema indeksu tjelesne mase (BMI). BMI se izračunava kao tjelesna masa u kilogramima podijeljena kvadratom tjelesne visine izražene u metrima. Osobe starosti 18 godina i više smatraju se gojaznim ako je njihov BMI jednak ili veći od 30. 
+  Kategorija prekomjerne tjelesne mase obuhvata osobe sa BMI vrijednošću 25 ili većom i uključuje kategorije pre-gojaznosti i gojaznosti. Indikator se izražava kao procenat stanovništva starosti 18 godina i više.
+2-10-definition_national:
+  Indikator mjeri udio stanovništva starosti 18 godina i više koje se, na osnovu indeksa tjelesne mase (BMI), klasifikuje kao gojazno. BMI se izračunava na osnovu tjelesne mase i tjelesne visine, a vrijednost BMI od 30 ili više koristi se za klasifikaciju gojaznosti.
 2-10-intention: >-
-  Podaci se prikupljaju putem nacionalnih anketa. EHIS se može provesti kao zasebna nacionalna anketa ili se može integrirati u postojeću nacionalnu anketu (npr. nacionalna anketa o zdravlju, anketa o radnoj snazi, druga anketa domaćinstava). Na taj način zemlje članice su imale maksimalnu fleksibilnost u provedbi. Međutim, širom EU prikupljeni su isti podaci prema zajedničkom popisu varijabli i kategorija odgovora.
+  Indikator se koristi za praćenje nutritivnog i zdravstvenog stanja stanovništva u kontekstu ciljeva održivog razvoja. Povećana prevalencija gojaznosti predstavlja jedan od izazova povezanih sa ishranom, fizičkom aktivnošću i zdravljem stanovništva. Indikator je dio skupa indikatora EU za ciljeve održivog razvoja i koristi se za praćenje napretka u okviru ciljeva 2 i 3.
+2-10-intention_national: >-
+  Indikator pruža informacije o rasprostranjenosti gojaznosti među stanovništvom Bosne i Hercegovine starosti 18 godina i više. Praćenje ovog pokazatelja omogućava sagledavanje promjena u zdravstvenom i nutritivnom stanju stanovništva kroz vrijeme i doprinosi praćenju ciljeva održivog razvoja koji se odnose na zdravlje i dobrobit.
 2-10-methodology: >-
-  EHIS ima za cilj postizanje standardizacije unosa. Pripremljen je standardni model upitnika (pitanja, kategorije odgovora, filteri itd.) kao i konceptualne smjernice i obrazloženja. Zatražen je konceptualni prijevod na sve jezike EU.  
-  U metodološkom priručniku za EHIS talas 3, pružena je evaluacija usporedivosti varijabli s onima iz talasa 2 koristeći skalu: "identično pitanje"; "blaga izmjena pitanja"; "snažna izmjena pitanja"; ili "nema: novo pitanje u EHIS talasu 3".
+  Indikator se zasniva na indeksu tjelesne mase (BMI), koji predstavlja odnos tjelesne mase u kilogramima i kvadrata tjelesne visine u metrima. Prema metodologiji Eurostata, osobe starosti 18 godina i više sa BMI vrijednošću 30 ili većom klasifikuju se kao gojazne. Podaci za ovaj indikator potiču iz Evropskog istraživanja o zdravlju (EHIS) i Istraživanja o prihodima i uslovima života (SILC).  
+  EHIS podaci odnose se na 2008, 2014. i 2019. godinu, dok su podaci iz SILC-a dostupni za 2017. i 2022. godinu. SILC podaci za 2017. godinu koriste se za premošćavanje perioda između podataka EHIS-a za 2014. i 2019. godinu.
+2-10-methodology_national: >-
+  Indikator se na nivou Bosne i Hercegovine prikazuje u okviru skupa podataka Eurostata sdg_02_10. Prema metodologiji Eurostata, indikator se zasniva na podacima Evropskog istraživanja o zdravlju (EHIS) i Istraživanja o prihodima i uslovima života (SILC). Za podatke iz SILC-a referentne 2022. godine koristi se varijabla PH110, koja se odnosi na indeks tjelesne mase (BMI).  
+  Eurostat podatke za indikator dobija na osnovu podataka prikupljenih putem nacionalnih istraživanja. Vrijednost indikatora predstavlja procenat stanovništva starosti 18 godina i više koje je klasifikovano kao gojazno, odnosno koje ima BMI vrijednost 30 ili više. Za međunarodno poređenje koristi se serija koju objavljuje Eurostat u okviru skupa podataka sdg_02_10.
 2-10-long_term_objective: >-
-  Dugoročni cilj za ovaj pokazatelj je BMI 3.
+  Za ovaj indikator nije utvrđena posebna politička kvantitativna ciljna vrijednost na nivou Evropske unije. Indikator se koristi za praćenje promjena u stopi gojaznosti i napretka u ostvarivanju ciljeva održivog razvoja povezanih sa ishranom, zdravljem i dobrobiti stanovništva.
+2-10-long_term_objective_national: >-
+  Za ovaj indikator nije utvrđena posebna kvantitativna ciljna vrijednost na nivou Bosne i Hercegovine. Napredak se prati na osnovu promjene stope gojaznosti kroz dostupne uporedive podatke, uzimajući u obzir metodologiju i periodičnost izvora podataka.
 2-20-title: Realni faktorski dohodak poljoprivrede po godišnjoj radnoj jedinici (AWU)
 2-20-definition: >-
   Indikator se koristi za praćenje napretka prema Cilju održivog razvoja 2 o iskorjenjivanju gladi i pothranjenosti; koji je ugrađen u Prioritete Europske komisije za 2024-2029 pod 'Održavanje naše kvalitete života: Sigurnost hrane, voda i priroda'.
