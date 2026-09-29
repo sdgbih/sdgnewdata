@@ -165,13 +165,22 @@ metadata-footer-label: Referentni metapodaci
   Za ovaj indikator nije utvrđena posebna kvantitativna ciljna vrijednost na nivou Bosne i Hercegovine. Kretanje indikatora prati se kroz promjene izdvajanja javnih sredstava za istraživanje i razvoj u oblasti poljoprivrede kroz vrijeme, na osnovu dostupne vremenske serije.
 2-40-title: Površina pod organskom poljoprivredom
 2-40-definition: >-
+  Ovaj indikator predstavlja udio ukupne korištene poljoprivredne površine (UAA) koja je pod organskom poljoprivredom, uključujući postojeće površine pod organskom proizvodnjom i površine koje su u procesu konverzije. Organska poljoprivreda je metoda proizvodnje koja stavlja poseban naglasak na zaštitu okoliša i divljih životinja, a u pogledu stočarske proizvodnje i na dobrobit životinja. Ona izbjegava ili u velikoj mjeri smanjuje upotrebu sintetičkih hemijskih inputa, kao što su gnojiva, pesticidi, aditivi i medicinski proizvodi.
+2-40-definition_national: >-
   Ovaj indikator se definiše kao udio ukupne korištene poljoprivredne površine (UAA) koju zauzima organska poljoprivreda (postojeća organski obrađena područja i područja koja su u procesu konverzije). Organska poljoprivreda je metoda proizvodnje koja stavlja najveći naglasak na zaštitu okoliša i divljih životinja, a u pogledu stočarske proizvodnje i na pitanja dobrobiti životinja. Izbjegava ili uveliko smanjuje upotrebu sintetičkih hemijskih inputa, kao što su gnojiva, pesticidi, aditivi i medicinski proizvodi.
 2-40-intention: >-
+  Organska poljoprivreda predstavlja jedan od pristupa unapređenju održivosti poljoprivredne proizvodnje i zaštiti prirodnih resursa. Evropska unija uključuje ovaj indikator u svoj okvir za praćenje ciljeva održivog razvoja jer je povećanje površina pod organskom poljoprivredom povezano s ciljevima EU u oblasti održive poljoprivrede, zaštite okoliša i biodiverziteta.
+2-40-intention_national: >-
   Organska poljoprivreda u Bosni i Hercegovini počela se razvijati 1990-ih godina. Uprkos tome što se površina pod organskom proizvodnjom između 2014. i 2022. godine povećala osam puta, ukupno poljoprivredno zemljište pod ovim uzgojem dostiglo je skromnih 2.495 ha u 2022. godini. Jedan od ciljeva strategija ruralnog razvoja za period 2021–2027. jeste ostvarivanje značajnog rasta organske poljoprivrede.
 2-40-methodology: >-
+  Indikator se može povezati s globalnim ciljem održivog razvoja 2.4, koji se odnosi na održive sisteme proizvodnje hrane i primjenu otpornih poljoprivrednih praksi. Međutim, indikator SDG 2.40 je dio EU okvira za praćenje ciljeva održivog razvoja i posebno prati udio korištene poljoprivredne površine pod organskom poljoprivredom.
+  U okviru Evropskog zelenog plana i strategije „Od polja do stola“, Evropska unija je postavila cilj da najmanje 25% poljoprivrednog zemljišta u EU bude pod organskom poljoprivredom do 2030. godine. Indikator prati napredak prema ovom cilju kroz godišnje podatke o udjelu korištene poljoprivredne površine pod organskom proizvodnjom, uključujući površine u procesu konverzije.
+2-40-methodology_national: >-
   Indikator se može smatrati dijelom globalnog pokazatelja ciljeva održivog razvoja 2.4.1 "Udio poljoprivrednog područja pod produktivnom i održivom poljoprivredom". Iako organska poljoprivreda nije eksplicitno spomenuta u Agendi 2030, EU smatra organsku poljoprivredu metodom proizvodnje koja stavlja najveći naglasak na zaštitu okoliša i divljih životinja, a u pogledu stočarstva i na pitanja dobrobiti životinja. Izbjegava ili uveliko smanjuje upotrebu sintetičkih hemijskih inputa kao što su gnojiva, pesticidi, aditivi i medicinski proizvodi. Proizvodnja genetski modificiranih organizama (GMO) i njihova upotreba u stočnoj hrani su zabranjeni.
   Strategija biodiverziteta za 2030. godinu ključna je komponenta Evropskog zelenog plana. Cilj strategije je smanjiti upotrebu i rizik od hemijskih pesticida, smanjiti gubitke hranjivih tvari i smanjiti upotrebu gnojiva i antibiotika. Strategija biodiverziteta postavlja cilj da se do 2030. godine 25% ukupnog poljoprivrednog zemljišta EU podvrgne organskoj poljoprivredi.
 2-40-long_term_objective: >-
+  Povećati udio poljoprivrednog zemljišta u Evropskoj uniji pod organskom poljoprivredom na najmanje 25% do 2030. godine.
+2-40-long_term_objective_national: >-
   Povećati udio poljoprivrednog zemljišta u Bosni i Hercegovini pod organskom proizvodnjom na 0,36% do 2030. godine, što odgovara ciljanoj površini od oko 4.000 ha.
 2-53-title: Upotreba i rizik od hemijskih pesticida
 2-53-definition: >-
