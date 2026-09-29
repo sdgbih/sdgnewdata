@@ -785,13 +785,13 @@ metadata-footer-label: Referentni metapodaci
 10-30-long_term_objective: >-
   SDG 10 poziva nacije da prilagode politike i zakonodavstvo kako bi povećale dohodak donjih 40 % stanovništva i smanjile nejednakosti na temelju dohotka, spola, dobi, invaliditeta, rase, klase, etničke pripadnosti, vjere i mogućnosti.
 10-41-title: Gini indeks - zamjenski pokazatelj
-10-41-definition: >-
+10-41-definition_national: >-
   Gini indeks mjeri stupanj u kojem raspodjela dohotka (ili, u nekim slučajevima, izdataka za potrošnju) među pojedincima ili kućanstvima unutar gospodarstva odstupa od savršeno jednake raspodjele. Lorenzova krivulja prikazuje kumulativne postotke ukupno primljenog dohotka u odnosu na kumulativni broj primatelja, počevši od najsiromašnijeg pojedinca ili kućanstva. Gini indeks mjeri površinu između Lorenzove krivulje i hipotetske linije apsolutne jednakosti, izraženu kao postotak maksimalne površine ispod linije.
-10-41-intention: >-
+10-41-intention_national: >-
   Gini koeficijenti nisu jedinstveni. Moguće je da dvije različite Lorenzove krivulje daju isti Gini koeficijent. Nadalje, moguće je da Gini koeficijent zemlje u razvoju raste (zbog rastuće nejednakosti dohotka) dok se broj ljudi u apsolutnom siromaštvu smanjuje. To je zato što Gini koeficijent mjeri relativno, a ne apsolutno bogatstvo. Još jedno ograničenje Gini koeficijenta jest to što nije aditivan među grupama, tj. ukupni Gini koeficijent društva nije jednak zbroju Gini koeficijenata njegovih podskupina. Stoga se Gini koeficijenti na razini zemlje ne mogu agregirati u regionalne ili globalne Gini koeficijente, iako se Gini koeficijent može izračunati za cjelokupni agregat.
-10-41-methodology: >-
+10-41-methodology_national: >-
   Gini indeks mjeri površinu između Lorenzove krivulje i hipotetske linije apsolutne jednakosti, izraženu kao postotak maksimalne površine ispod linije. Lorenzova krivulja prikazuje kumulativne postotke ukupno primljenog dohotka u odnosu na kumulativni broj primatelja, počevši od najsiromašnijeg pojedinca. Dakle, Gini indeks od 0 predstavlja savršenu jednakost, dok indeks od 100 implicira savršenu nejednakost. Gini indeks pruža praktičnu sažetu mjeru stupnja nejednakosti. Podaci o raspodjeli dohotka ili potrošnje potječu iz nacionalno reprezentativnih anketa kućanstava. Tamo gdje su bili dostupni izvorni podaci iz ankete kućanstava, upotrijebljeni su za izračunavanje udjela dohotka ili potrošnje po kvintilima. U suprotnom, udjeli su procijenjeni na temelju najboljih dostupnih grupiranih podataka.
-10-41-long_term_objective: >-
+10-41-long_term_objective_national: >-
   Gini indeks od 0 predstavlja savršenu jednakost, dok indeks od 100 implicira savršenu nejednakost. Dugoročni cilj za Gini indeks jeste smanjenje njegove vrijednosti prema nuli (0).
 10-50-title: Udio prihoda donjih 40% stanovništva
 10-50-definition: >-
