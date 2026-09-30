@@ -880,15 +880,21 @@ metadata-footer-label: Referentni metapodaci
   Za procjenu progresa na BHAS EU SDG portalu koristi se smjer promjene indikatora, pri čemu se smanjenje broja poginulih smatra napretkom. Cilj EU politike sigurnosti saobraćaja o smanjenju broja poginulih za 50% do 2030. godine u odnosu na 2019. godinu predstavlja evropski referentni okvir i ne tretira se kao posebno utvrđen nacionalni cilj Bosne i Hercegovine.
 11-52-title: Prerane smrti zbog izloženosti finim česticama (PM2,5)
 11-52-definition: >-
-  Ovaj indikator procjenjuje broj prijevremenih smrti koje se mogu pripisati dugotrajnoj izloženosti koncentracijama PM2.5 iznad 5µg/m3 (smjernica Svjetske zdravstvene organizacije). PM2.5 su čestice čiji je promjer manji od 2,5 mikrometara i koje se mogu duboko unijeti u pluća gdje mogu izazvati upalu i pogoršati stanje osoba koje pate od srčanih i plućnih bolesti.
+  Indikator mjeri procijenjeni broj prijevremenih smrti pripisivih dugotrajnoj izloženosti finim česticama PM2.5. Procjena se odnosi na izloženost koncentracijama PM2.5 iznad 5 µg/m³. Indikator se iskazuje kao ukupan broj prijevremenih smrti i kao broj prijevremenih smrti na 100 000 stanovnika.
+11-52-definition_national: >-
+  Indikator mjeri procijenjeni broj prijevremenih smrti u Bosni i Hercegovini koje se pripisuju dugotrajnoj izloženosti finim česticama PM2.5.
 11-52-intention: >-
-  Koristi se za praćenje napretka prema Cilju održivog razvoja 11 o tome da gradovi i ljudska naselja budu inkluzivni, sigurni, otporni i održivi, ​​te Cilju održivog razvoja 3 o dobrom zdravlju i blagostanju. Cilj održivog razvoja 11 ugrađen je u prioritete Evropske komisije u okviru „Nova era za evropsku odbranu i sigurnost“, „Podrška ljudima, jačanje naših društava i našeg socijalnog modela“, „Održavanje našeg kvaliteta života: sigurnost hrane, voda i priroda“ i „Zaštita naše demokratije, poštovanje naših vrijednosti“. Cilj održivog razvoja 3 ugrađen je u prioritete Evropske komisije u okviru „Podrška ljudima, jačanje naših društava i našeg socijalnog modela“.
+  Indikator prati zdravstvene posljedice dugotrajne izloženosti finim česticama PM2.5 i doprinosi praćenju napretka u smanjenju uticaja zagađenja zraka na zdravlje stanovništva.
+11-52-intention_national: >-
+  Indikator omogućava praćenje promjena procijenjenog broja prijevremenih smrti povezanih s dugotrajnom izloženošću PM2.5 u Bosni i Hercegovini.
 11-52-methodology: >-
-  EU se bavi problemom zagađenja zraka putem svojih specifičnih zakona o kvaliteti zraka i industrijskim emisijama, kao što su Paket za čisti zrak i direktive koje su usvojili Vijeće i Evropski parlament u vezi s kvalitetom ambijentalnog zraka, kao i putem dodatnih koristi koje proizlaze iz provedbe određenih klimatskih politika.
-  Akcijski plan za nulto zagađenje zraka, vode i tla uključuje cilj smanjenja utjecaja na zdravlje uzrokovanog zagađenjem zraka za 55% do 2030. godine, u usporedbi s 2005. godinom.
-  Okvir za praćenje 8. Akcionog programa za okoliš koristi broj prijevremenih smrti kao glavni pokazatelj s ciljem smanjenja broja trajnih smrti uzrokovanih PM2.5 za 55% do 2030. godine, u usporedbi s 2005. godinom.
+  Podatke priprema Evropska agencija za okoliš (EEA). Broj prijevremenih smrti procjenjuje se na osnovu koncentracija PM2.5 i metodologije zasnovane na koncentracijsko-odgovornim funkcijama za procjenu zdravstvenih posljedica izloženosti. Procjenjuje se samo uticaj izloženosti iznad 5 µg/m³. Podaci se iskazuju na godišnjem nivou.
+11-52-methodology_national: >-
+  Podaci za Bosnu i Hercegovinu preuzimaju se od EEA i prikazuju u skladu s metodologijom EU pokazatelja. Podaci su dostupni kao ukupan broj prijevremenih smrti i kao broj prijevremenih smrti na 100 000 stanovnika. Za automatski obračun progresa na portalu koristi se serija izražena kao ukupan broj prijevremenih smrti. Progres se računa na osnovu složene prosječne godišnje stope promjene (CAGR), pri čemu je 2015. godina početna godina obračuna, jer su za tu godinu dostupni podaci. Smanjenje vrijednosti indikatora predstavlja napredak.
 11-52-long_term_objective: >-
-  Dugoročni cilj za ovaj indikator je vrijednost 5.
+  U okviru Akcionog plana EU „Prema nultom zagađenju zraka, vode i tla“ postavljen je cilj smanjenja zdravstvenih posljedica zagađenja zraka za 55% do 2030. godine u odnosu na 2005. godinu.
+11-52-long_term_objective_national: >-
+  Bosna i Hercegovina nema posebno utvrđen kvantitativni dugoročni nacionalni cilj za ovaj indikator. Cilj EU smanjenja zdravstvenih posljedica zagađenja zraka za 55% do 2030. godine u odnosu na 2005. godinu odnosi se na okvir politike EU i ne tretira se kao nacionalni cilj Bosne i Hercegovine.
 11-60-title: Postotak recikliranja komunalnog otpada
 11-60-definition: >-
   Indikator mjeri tonažu recikliranog komunalnog otpada podijeljenu s ukupnom količinom nastalog komunalnog otpada. Recikliranje uključuje recikliranje materijala, kompostiranje, pripremu za ponovnu upotrebu i anaerobnu digestiju. Komunalni otpad se uglavnom sastoji od otpada koji proizvode domaćinstva, ali može uključivati ​​i sličan otpad koji proizvode mala preduzeća i javne institucije, a koji prikuplja opština. Ovaj posljednji dio komunalnog otpada može varirati od opštine do opštine i od zemlje do zemlje, ovisno o lokalnom sistemu upravljanja otpadom. Za područja koja nisu obuhvaćena programom sakupljanja komunalnog otpada, procjenjuje se količina proizvedenog otpada.
