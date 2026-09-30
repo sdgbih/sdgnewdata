@@ -884,15 +884,21 @@ metadata-footer-label: Reference metadata
   For progress assessment on the BHAS EU SDG portal, the direction of change of the indicator is used, with a reduction in the number of road traffic deaths representing improvement. The EU road safety policy target of reducing road deaths by 50% by 2030 compared with 2019 is used as a European reference framework and is not treated as a specific national target of Bosnia and Herzegovina.
 11-52-title: Premature deaths due to exposure to fine particulate matter (PM2.5)
 11-52-definition: >-
-  This indicator estimates the number of premature deaths attributable to long-term exposure to concentrations of PM2.5 above 5µg/m3 (the World Health Organization's guideline level). PM2.5 are particulates whose diameter is less than 2.5 micrometres and which can be carried deep into the lungs where they can cause inflammation and exacerbate the condition of people suffering heart and lung diseases.
+  The indicator measures the estimated number of premature deaths attributable to long-term exposure to fine particulate matter (PM2.5). The assessment refers to exposure to PM2.5 concentrations above 5 µg/m³. The indicator is expressed as the total number of premature deaths and as the number of premature deaths per 100,000 inhabitants.
+11-52-definition_national: >-
+  The indicator measures the estimated number of premature deaths in Bosnia and Herzegovina attributable to long-term exposure to fine particulate matter (PM2.5).
 11-52-intention: >-
-  is used to monitor progress towards SDG 11 on making cities and human settlements inclusive, safe, resilient and sustainable and SDG 3 on good health and well-being. SDG 11 is embedded in the European Commission’s Priorities under 'A new era for European Defence and Security', 'Supporting people, strengthening our societies and our social model', 'Sustaining our quality of life: food security, water and nature' and 'Protecting our democracy, upholding our values'. SDG 3 is embedded in the European Commission’s Priorities under 'Supporting people, strengthening our societies and our social model'.
+  The indicator monitors the health impacts of long-term exposure to fine particulate matter (PM2.5) and contributes to monitoring progress in reducing the health impacts of air pollution.
+11-52-intention_national: >-
+  The indicator enables monitoring of changes in the estimated number of premature deaths associated with long-term exposure to PM2.5 in Bosnia and Herzegovina.
 11-52-methodology: >-
-  The EU addresses the problem of air pollution through its specific air quality and industrial emissions legislation such as the Clean Air Package and the directives adopted by the Council and the European Parliament in relation to ambient air quality, as well as through co-benefits resulting from implementation of certain climate policies.
-  The Action Plan Towards a Zero Pollution for Air, Water and Soil’ includes the target of reducing the health impacts due to air pollution by 55 % by 2030, compared with 2005.
-  The monitoring framework for the 8th Environment Action Programme uses the number of premature deaths as a headline indicator with the target to reduce the number of permature deaths due to PM2.5 by 55 % by 2030, compared with 2005.
+  The data are produced by the European Environment Agency (EEA). The number of premature deaths is estimated using PM2.5 concentrations and a methodology based on concentration-response functions for assessing the health impacts of exposure. Only the impact of exposure above 5 µg/m³ is estimated. Data are reported annually.
+11-52-methodology_national: >-
+  Data for Bosnia and Herzegovina are obtained from the EEA and presented in accordance with the methodology of the EU indicator. Data are available as the total number of premature deaths and as the number of premature deaths per 100,000 inhabitants. For the automatic progress calculation on the portal, the series expressed as the total number of premature deaths is used. Progress is calculated using the compound annual growth rate (CAGR), with 2015 as the base year because data are available for that year. A decrease in the indicator value represents progress.
 11-52-long_term_objective: >-
-  The long-term objective for this indicator is a value of 5.
+  Under the EU Zero Pollution Action Plan, the EU has set a target of reducing the health impacts of air pollution by 55% by 2030 compared with 2005.
+11-52-long_term_objective_national: >-
+  Bosnia and Herzegovina has no specific quantitative national long-term target for this indicator. The EU target of reducing the health impacts of air pollution by 55% by 2030 compared with 2005 applies to the EU policy framework and is not treated as a national target for Bosnia and Herzegovina.
 11-60-title: Recycling rate of municipal waste
 11-60-definition: >-
   The indicator measures the tonnage recycled from municipal waste divided by the total municipal waste arising. Recycling includes material recycling, composting, preparing for re-use and anaerobic digestion. Municipal waste consists mostly of waste generated by households, but may also include similar wastes generated by small businesses and public institutions and collected by the municipality. This latter part of municipal waste may vary from municipality to municipality and from country to country, depending on the local waste management system. For areas not covered by a municipal waste collection scheme the amount of waste generated is estimated.
