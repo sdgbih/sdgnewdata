@@ -10,11 +10,11 @@ indicator_name: global_indicators.10-60-title
 
 source_active_1: true
 source_organisation_1: 'Ministry of Security of Bosnia and Herzegovina (MoS BiH); Eurostat (ESS)'
-source_url_1: 'https://ec.europa.eu/eurostat/cache/metadata/en/migr_asyapp_esms.htm'
+source_url_1: 'https://ec.europa.eu/eurostat/cache/metadata/en/sdg_10_60_esmsip2.htm'
 
 footer_fields:
   - label: global_indicators.metadata-footer-label
-    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/migr_asyapp_esms.htm" target="_blank">Eurostat Metadata Report – Asylum applications</a>'
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_10_60_esmsip2.htm" target="_blank">Eurostat Metadata – SDG 10.60: Asylum applications by state of procedure</a>'
 
 graph_titles:
   - series: SERIES.sdg_10_60
