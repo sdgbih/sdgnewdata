@@ -13,15 +13,15 @@ progress_calculation_options:
 indicator_sort_order: '11-40'
 indicator_name: global_indicators.11-40-title
 source_active_1: true
-source_organisation_1: The Transport Community
+source_organisation_1: 'Police authorities in Bosnia and Herzegovina'
 source_url_1: 'https://www.transport-community.org/'
 graph_titles:    
   - series: SERIES.sdg_11_40
     title: SERIES.sdg_11_40
-national_indicator_definition: global_indicators.11-40-definition
-national_rationale: global_indicators.11-40-intention
-national_methodology_characteristics: global_indicators.11-40-methodology
-national_long_objective: global_indicators.11-40-long_term_objective
+national_indicator_definition: global_indicators.11-40-definition_national
+national_rationale: global_indicators.11-40-intention_national
+national_methodology_characteristics: global_indicators.11-40-methodology_national
+national_long_objective: global_indicators.11-40-long_term_objective_national
 eu_indicator_definition: global_indicators.11-40-definition
 eu_rationale: global_indicators.11-40-intention
 eu_methodology_characteristics: global_indicators.11-40-methodology
