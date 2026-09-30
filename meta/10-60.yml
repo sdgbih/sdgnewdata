@@ -10,7 +10,7 @@ indicator_name: global_indicators.10-60-title
 
 source_active_1: true
 source_organisation_1: 'Ministry of Security of Bosnia and Herzegovina (MoS BiH); Eurostat (ESS)'
-source_url_1: 'https://ec.europa.eu/eurostat/cache/metadata/en/sdg_10_60_esmsip2.htm'
+source_url_1: 'https://msb.gov.ba/en/sector-for-asylum'
 
 footer_fields:
   - label: global_indicators.metadata-footer-label
