@@ -3,19 +3,28 @@ reporting_status: complete
 published: true
 sdg_goal: '10'
 data_non_statistical: false
+
 graph_type: line
 indicator_sort_order: '10-60'
 indicator_name: global_indicators.10-60-title
+
 source_active_1: true
-source_organisation_1: 'UNHCR BiH, Ministry of Security BIH (MoS).'
-source_url_1: 'https://data.unhcr.org/en/documents/details/119288'
+source_organisation_1: 'Ministry of Security of Bosnia and Herzegovina (MoS BiH); Eurostat (ESS)'
+source_url_1: 'https://ec.europa.eu/eurostat/cache/metadata/en/migr_asyapp_esms.htm'
+
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/migr_asyapp_esms.htm" target="_blank">Eurostat Metadata Report – Asylum applications</a>'
+
 graph_titles:
-- series: SERIES.sdg_10_60
-  title: SERIES.sdg_10_60  
+  - series: SERIES.sdg_10_60
+    title: SERIES.sdg_10_60
+
 national_indicator_definition: global_indicators.10-60-definition
 national_rationale: global_indicators.10-60-intention
 national_methodology_characteristics: global_indicators.10-60-methodology
 national_long_objective: global_indicators.10-60-long_term_objective
+
 eu_indicator_definition: global_indicators.10-60-definition
 eu_rationale: global_indicators.10-60-intention
 eu_methodology_characteristics: global_indicators.10-60-methodology
