@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T_HAB",
                 "MT_CO2E",
+                "T_HAB",
                 ""
               ]
             }

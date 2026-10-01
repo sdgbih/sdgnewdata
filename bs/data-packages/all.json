@@ -340,8 +340,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tone po glavi stanovnika",
                 "Milion tona ekvivalenta CO2",
+                "Tone po glavi stanovnika",
                 ""
               ]
             },

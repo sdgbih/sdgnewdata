@@ -340,8 +340,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tonnes per capita",
                 "Million tons of CO2 equivalent",
+                "Tonnes per capita",
                 ""
               ]
             },
