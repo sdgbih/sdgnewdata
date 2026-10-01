@@ -4,14 +4,26 @@ published: true
 sdg_goal: '12'
 data_non_statistical: false
 graph_type: line
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_12_51
+    unit: KG_HAB
+    unit_column: UNIT_MEASURE
+    disaggregation:
+      - field: HAZARD_WASTE
+        value: HAZ_NHAZ
+    direction: negative
 indicator_sort_order: '12-51'
 indicator_name: global_indicators.12-51-title
 source_active_1: true
-source_organisation_1: Eurostat
+source_organisation_1: 'Agency for Statistics of Bosnia and Herzegovina (BHAS); Eurostat'
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_12_51/default/table?lang=en'
-graph_titles:    
-- series: SERIES.sdg_12_51
-  title: SERIES.sdg_12_51
+graph_titles:
+  - series: SERIES.sdg_12_51
+    title: SERIES.sdg_12_51
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_12_51_esmsip2.htm" target="_blank">Eurostat Metadata – SDG 12.51: Generation of waste by hazardousness</a>'
 national_indicator_definition: global_indicators.12-51-definition
 national_rationale: global_indicators.12-51-intention
 national_methodology_characteristics: global_indicators.12-51-methodology
