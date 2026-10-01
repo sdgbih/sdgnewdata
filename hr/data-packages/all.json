@@ -342,6 +342,7 @@
               "enum": [
                 "Milijuna tona ekvivalenta CO2",
                 "Tone po glavi stanovnika",
+                "Indeks, 1990=100",
                 ""
               ]
             },

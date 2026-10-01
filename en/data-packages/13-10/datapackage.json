@@ -33,6 +33,7 @@
               "enum": [
                 "Million tons of CO2 equivalent",
                 "Tonnes per capita",
+                "Index, 1990=100",
                 ""
               ]
             },
