@@ -20,6 +20,9 @@ source_url_1: 'https://unfccc.int/documents/660093'
 source_active_2: true
 source_organisation_2: 'Agency for Statistics of Bosnia and Herzegovina – Demography 2023'
 source_url_2: 'https://bhas.gov.ba/data/Publikacije/Bilteni/2024/DEM_00_2023_TB_1_BS.pdf'
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_13_10_esmsip2.htm" target="_blank">Eurostat Metadata – SDG 13.10: Domestic net greenhouse gas emissions</a>'
 graph_titles:    
 - series: SERIES.sdg_13_10
   title: SERIES.sdg_13_10
