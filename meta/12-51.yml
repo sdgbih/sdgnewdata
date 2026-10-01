@@ -24,10 +24,10 @@ graph_titles:
 footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_12_51_esmsip2.htm" target="_blank">Eurostat Metadata – SDG 12.51: Generation of waste by hazardousness</a>'
-national_indicator_definition: global_indicators.12-51-definition
-national_rationale: global_indicators.12-51-intention
-national_methodology_characteristics: global_indicators.12-51-methodology
-national_long_objective: global_indicators.12-51-long_term_objective
+national_indicator_definition: global_indicators.12-51-definition_national
+national_rationale: global_indicators.12-51-intention_national
+national_methodology_characteristics: global_indicators.12-51-methodology_national
+national_long_objective: global_indicators.12-51-long_term_objective_national
 eu_indicator_definition: global_indicators.12-51-definition
 eu_rationale: global_indicators.12-51-intention
 eu_methodology_characteristics: global_indicators.12-51-methodology
