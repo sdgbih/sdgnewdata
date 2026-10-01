@@ -5,12 +5,12 @@ sdg_goal: '7'
 data_non_statistical: false
 auto_progress_calculation: true
 progress_calculation_options:
-  - series: sdg_07_10
-    unit: MTOE
-    unit_column: UNIT_MEASURE
-    direction: negative
-    target: 6.50
-    target_year: 2030
+- series: sdg_13_10
+  unit: I90
+  unit_column: UNIT_MEASURE
+  direction: negative
+  base_year: 2015
+  target_year: 2030
 graph_type: line
 indicator_sort_order: '07-10'
 indicator_name: global_indicators.7-10-title
