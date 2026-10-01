@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nastali opasni otpad",
+                "Nastanak otpada prema opasnosti",
                 ""
               ]
             },
