@@ -971,6 +971,7 @@
               "enum": [
                 "Thousand tonnes of CO2 equivalent",
                 "Tonnes per capita",
+                "Tonnes per square kilometre",
                 ""
               ]
             },

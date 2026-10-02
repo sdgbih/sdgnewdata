@@ -33,6 +33,7 @@
               "enum": [
                 "Tisuću tona ekvivalenta CO2",
                 "Tone po glavi stanovnika",
+                "Tone po kvadratnom kilometru",
                 ""
               ]
             },
