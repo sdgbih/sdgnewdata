@@ -9,7 +9,7 @@ progress_calculation_options:
   unit: MT_CO2E
   unit_column: UNIT_MEASURE
   direction: negative
-  base_year: 2015
+  base_year: 2017
   target_year: 2030
 graph_type: line
 indicator_sort_order: '13-10'
