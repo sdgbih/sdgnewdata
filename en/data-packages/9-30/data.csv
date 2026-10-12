@@ -1,6 +1,22 @@
 Year,SERIES,Sex,Sector of performance,UNIT_MEASURE,Value
+2020,R&D personnel,Both sexes,All sectors,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.14
 2021,R&D personnel,Both sexes,All sectors,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.14
+2022,R&D personnel,Both sexes,All sectors,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.17
+2023,R&D personnel,Both sexes,All sectors,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.2
+2024,R&D personnel,Both sexes,All sectors,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.19
+2020,R&D personnel,Both sexes,Business enterprise sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.02
 2021,R&D personnel,Both sexes,Business enterprise sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.03
+2022,R&D personnel,Both sexes,Business enterprise sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.04
+2023,R&D personnel,Both sexes,Business enterprise sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.03
+2024,R&D personnel,Both sexes,Business enterprise sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.03
+2020,R&D personnel,Both sexes,Government sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.01
 2021,R&D personnel,Both sexes,Government sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.01
-2021,R&D personnel,Both sexes,Higher education sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.01
+2022,R&D personnel,Both sexes,Government sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.0
+2023,R&D personnel,Both sexes,Government sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.01
+2024,R&D personnel,Both sexes,Government sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.01
+2020,R&D personnel,Both sexes,Higher education sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.11
+2021,R&D personnel,Both sexes,Higher education sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.1
+2022,R&D personnel,Both sexes,Higher education sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.13
+2023,R&D personnel,Both sexes,Higher education sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.15
+2024,R&D personnel,Both sexes,Higher education sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.15
 2021,R&D personnel,Both sexes,Private non-profit sector,Percentage of population in the labour force - numerator in full - time equivalent (FTE),0.0
