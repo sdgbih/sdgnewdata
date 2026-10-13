@@ -1,21 +1,33 @@
+
 indicator_number: 15.20
 reporting_status: complete
 published: true
 sdg_goal: '15'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_15_20
+    unit: PT
+    unit_column: UNIT_MEASURE
+    direction: positive
+    base_year: 2015
+    target_year: 2022
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_15_20_esmsip2.htm" target="_blank" rel="noopener noreferrer">Eurostat Metadata – SDG 15.20: Surface of the terrestrial protected areas</a>'
 graph_type: line
 indicator_sort_order: '15-20'
 indicator_name: global_indicators.15-20-title
 source_active_1: true
 source_organisation_1: EEA
-source_url_1: 'https://www.eea.europa.eu/en/europe-environment-2025/countries/bosnia-and-herzegovina/terrestrial-protected-areas?activeTab=570bee2d-1316-48cf-adde-4b640f92119b'
+source_url_1: 'https://www.eea.europa.eu/en/europe-environment-2025/countries/bosnia-and-herzegovina/terrestrial-protected-areas'
 graph_titles:
-- series: SERIES.sdg_15_20
-  title: SERIES.sdg_15_20
-national_indicator_definition: global_indicators.15-20-definition
-national_rationale: global_indicators.15-20-intention
-national_methodology_characteristics: global_indicators.15-20-methodology
-national_long_objective: global_indicators.15-20-long_term_objective
+  - series: SERIES.sdg_15_20
+    title: SERIES.sdg_15_20
+national_indicator_definition: global_indicators.15-20-definition_national
+national_rationale: global_indicators.15-20-intention_national
+national_methodology_characteristics: global_indicators.15-20-methodology_national
+national_long_objective: global_indicators.15-20-long_term_objective_national
 eu_indicator_definition: global_indicators.15-20-definition
 eu_rationale: global_indicators.15-20-intention
 eu_methodology_characteristics: global_indicators.15-20-methodology
