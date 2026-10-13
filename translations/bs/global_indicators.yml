@@ -1148,13 +1148,21 @@ metadata-footer-label: Referentni metapodaci
   Bez opisa
 15-11-title: Šumsko područje
 15-11-definition: >-
-  Indikator mjeri udio šumskih površina u odnosu na ukupnu površinu zemlje. Podaci korišteni za ovaj indikator potiču iz Evropskih šumarskih računa (EFA) i u skladu su s definicijom šuma FAO-a.
+  Indikator mjeri udio površine pod šumom u ukupnoj površini zemlje. Podaci za ovaj indikator potiču iz Evropskih šumarskih računa (EFA) i usklađeni su s definicijom šume Organizacije za hranu i poljoprivredu Ujedinjenih nacija (FAO).
+15-11-definition_national: >-
+  Indikator prikazuje udio površine pod šumom u ukupnoj površini Bosne i Hercegovine. Podaci se preuzimaju iz statistike šumarstva Agencije za statistiku Bosne i Hercegovine (BHAS). Prikazana je površina pod šumom, bez uključivanja ostalog šumskog zemljišta.
 15-11-intention: >-
-  Indikator se koristi za praćenje napretka prema cilju održivog razvoja 15 o zaštiti, obnovi i promociji održivog korištenja zemljišta, koji je ugrađen u prioritete Evropske komisije u okviru „Održavanje kvalitete života: sigurnost hrane, voda i priroda“. Indikator se može smatrati identičnim globalnom indikatoru cilja održivog razvoja 15.1.1 „Šumska površina kao udio ukupne površine zemljišta“.
+  Indikator se koristi za praćenje napretka prema Cilju održivog razvoja 15, koji se odnosi na zaštitu, obnovu i promociju održivog korištenja kopnenih ekosistema. Ovaj cilj uključen je u prioritete Evropske komisije u okviru inicijative „Očuvanje kvaliteta života: sigurnost hrane, voda i priroda“. Indikator se može smatrati istovjetnim globalnom indikatoru 15.1.1: „Šumska površina kao udio ukupne kopnene površine“.
+15-11-intention_national: >-
+  Indikator pruža informacije o udjelu površine pod šumom i promjenama tog udjela tokom vremena. Važan je za praćenje stanja šumskih resursa, očuvanje šumskih ekosistema i održivo upravljanje šumama.
 15-11-methodology: >-
-  Cilj održivog razvoja 15 nastoji zaštititi, obnoviti i promovisati očuvanje i održivo korištenje kopnenih, unutrašnjih vodenih i planinskih ekosistema. To uključuje napore za održivo upravljanje šumama i zaustavljanje deforestacije, borbu protiv dezertifikacije, obnovu degradiranog zemljišta i tla, zaustavljanje gubitka biodiverziteta i zaštitu ugroženih vrsta.
+  Cilj održivog razvoja 15 usmjeren je na zaštitu, obnovu i održivo korištenje kopnenih i unutrašnjih vodenih ekosistema te planinskih područja. To uključuje održivo upravljanje šumama, zaustavljanje deforestacije, borbu protiv dezertifikacije, obnovu degradiranog zemljišta i tla, zaustavljanje gubitka biodiverziteta i zaštitu ugroženih vrsta.
+15-11-methodology_national: >-
+  Prema podacima Agencije za statistiku Bosne i Hercegovine, udio površine pod šumom iznosio je 31,0% u periodu 2020–2023, dok je u 2024. godini iznosio 30,6%. To predstavlja smanjenje od 0,4 procentna poena u odnosu na period 2020–2023. Serija obuhvata samo površinu pod šumom, bez ostalog šumskog zemljišta.
 15-11-long_term_objective: >-
-  Strategija Evropske komisije za šume do 2030. godine fokusira se na sadnju najmanje 3 milijarde dodatnih stabala do 2030. godine.
+  Strategija Evropske unije za šume do 2030. godine predviđa, između ostalog, sadnju najmanje tri milijarde dodatnih stabala u EU do 2030. godine.
+15-11-long_term_objective_national: >-
+  Na nivou Bosne i Hercegovine nije utvrđen poseban kvantitativni cilj za udio površine pod šumom. Dugoročni prioriteti odnose se na očuvanje šumskih resursa, zaštitu šumskih ekosistema i održivo upravljanje šumama u skladu s relevantnim strateškim dokumentima.
 15-20-title: Zaštićena kopnena područja
 15-20-definition: >-
   Ovaj indikator mjeri obim i udio kopnenih zaštićenih područja, koja obuhvataju nacionalno određena zaštićena područja i područja Natura 2000. Nacionalno određeno područje je područje zaštićeno nacionalnim zakonodavstvom.
