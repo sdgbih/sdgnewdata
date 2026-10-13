@@ -3,7 +3,18 @@ reporting_status: complete
 published: true
 sdg_goal: '9'
 data_non_statistical: false
-graph_type: bar
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_09_30
+    unit: PC_ACT_FTE
+    unit_column: UNIT_MEASURE
+    disaggregation:
+      - field: SEX
+        value: BOTHSEX
+      - field: SECTPERF
+        value: TOTAL
+    direction: positive
+graph_type: line
 indicator_sort_order: '09-30'
 indicator_name: global_indicators.9-30-title
 source_active_1: true
