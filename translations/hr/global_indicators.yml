@@ -1163,15 +1163,21 @@ metadata-footer-label: Referentni metapodaci
   Na razini Bosne i Hercegovine nije utvrđen poseban kvantitativni cilj za udio površine pod šumom. Dugoročni prioriteti odnose se na očuvanje šumskih resursa, zaštitu šumskih ekosustava i održivo gospodarenje šumama u skladu s relevantnim strateškim dokumentima.
 15-20-title: Kopnena zaštićena područja
 15-20-definition: >-
-  Ovaj pokazatelj mjeri opseg i udio kopnenih zaštićenih područja, koja uključuju nacionalno određena zaštićena područja i područja Natura 2000. Nacionalno određeno područje je područje zaštićeno nacionalnim zakonodavstvom.
-  Područja Natura 2000 određena su radi zaštite europskih vrsta i staništa, kako je navedeno u direktivama EU o staništima i pticama.
+  Pokazatelj mjeri površinu i udio zaštićenih kopnenih područja u ukupnoj kopnenoj površini. Obuhvaća područja zaštićena na nacionalnoj razini i područja mreže Natura 2000.
+15-20-definition_national: >-
+  Pokazatelj prikazuje udio teritorija Bosne i Hercegovine obuhvaćen zaštićenim kopnenim područjima, prema podacima Europske agencije za okoliš (EEA).
 15-20-intention: >-
-  Pokazatelj se koristi za praćenje napretka prema Cilju održivog razvoja 15 o zaštiti, obnovi i promicanju održivog korištenja zemljišta, koji je uključen u Prioritete Europske komisije u okviru 'Održavanja kvalitete života: sigurnost hrane, voda i priroda'.
-  Pokazatelj se može smatrati sličnim globalnim pokazateljima Ciljeva održivog razvoja 15.1.2 "Udio važnih lokacija za kopnenu i slatkovodnu bioraznolikost koje su pokrivene zaštićenim područjima, prema vrsti ekosustava" i 15.4.1 "Pokrivenost važnih lokacija za planinsku bioraznolikost zaštićenim područjima".
+  Pokazatelj se koristi za praćenje napretka prema Cilju održivog razvoja 15, koji je usmjeren na zaštitu, obnovu i održivo korištenje kopnenih, unutarnjih vodnih i planinskih ekosustava. Zaštićena područja pridonose očuvanju staništa, vrsta i bioraznolikosti.
+15-20-intention_national: >-
+  Pokazatelj pruža informacije o opsegu zaštićenih kopnenih područja i promjenama njihova udjela u ukupnom teritoriju zemlje. Važan je za praćenje zaštite bioraznolikosti, očuvanja prirodnih staništa i ostvarivanja ciljeva održivog razvoja koji se odnose na kopnene ekosustave.
 15-20-methodology: >-
-  Direktiva EU o pticama i Direktiva o staništima imaju za cilj održavanje ili obnovu povoljnog stanja zaštićenih staništa i vrsta te zaštitu njihovog održivog korištenja i upravljanja. Direktiva o pticama štiti sve vrste divljih ptica i njihova staništa. Direktiva o staništima štiti više od 1300 drugih rijetkih, ugroženih ili endemskih vrsta divljih životinja i biljaka te 233 vrste prirodnih staništa. Osim toga, mreža zaštićenih područja Natura 2000 uključuje područja koja su države članice EU odredile u skladu s Direktivama o pticama i Direktivom o staništima.
+  Pokazatelj prikazuje opseg zaštićenih kopnenih područja, uključujući područja zaštićena nacionalnim propisima i područja mreže Natura 2000. Podaci se prikupljaju i objedinjuju uz potporu Europske agencije za okoliš (EEA) i Europske komisije.
+15-20-methodology_national: >-
+  Prema podacima Europske agencije za okoliš, udio zaštićenih kopnenih područja u Bosni i Hercegovini iznosio je 8,4% u 2015. godini, dok je u 2022. godini iznosio 9,0%. To predstavlja povećanje od 0,6 postotnih bodova. Podaci su prikazani prema obuhvatu i metodologiji korištenima za ovaj pokazatelj.
 15-20-long_term_objective: >-
-  Strategija EU-a za biološku raznolikost ima za cilj zaštititi najmanje 30 % europskog kopna i mora, uključujući nacionalno određena područja i područja Natura 2000.
+  Strategija EU-a za bioraznolikost do 2030. godine predviđa zaštitu najmanje 30% kopnenih i morskih područja u Europi, uključujući nacionalno proglašena zaštićena područja i područja mreže Natura 2000.
+15-20-long_term_objective_national: >-
+  Na razini Bosne i Hercegovine nije utvrđen jedinstven kvantitativni cilj za udio zaštićenih kopnenih područja. Dugoročni prioriteti odnose se na proširenje i unaprjeđenje sustava zaštite prirode, očuvanje bioraznolikosti i učinkovito upravljanje zaštićenim područjima u skladu s relevantnim strateškim i planskim dokumentima.
 15-42-title: Utjecaj suše na ekosustave
 15-42-definition: >-
   Ovaj pokazatelj prikazuje područje pogođeno sušom praćenjem negativnih anomalija u produktivnosti vegetacije u područjima s jakim deficitom vlage u tlu tijekom vegetacijske sezone (više od jedne standardne devijacije od dugogodišnjeg prosjeka - promatrano putem podataka daljinskog istraživanja u rezoluciji od 500 × 500 metara iz Copernicus EMS Europskog opservatorija za sušu Zajedničkog istraživačkog centra Europske komisije.
