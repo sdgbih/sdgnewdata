@@ -3,20 +3,33 @@ reporting_status: complete
 published: true
 sdg_goal: '16'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_16_50
+    unit: SCORE
+    direction: positive
+    base_year: 2016
+    target_year: 2030
+    limit: 100
 graph_type: line
 indicator_sort_order: '16-50'
 indicator_name: global_indicators.16-50-title
 source_active_1: true
 source_organisation_1: Transparency International
-source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_16_50/default/table'
+source_url_1: 'https://ti-bih.org/indeks-percepcije-korupcije-cpi-2025/'
+source_active_2: true
+source_organisation_2: Eurostat
+source_url_2: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_16_50/default/table'
 graph_titles:
-- series: SERIES.sdg_16_50
-  title: SERIES.sdg_16_50
-national_indicator_definition: global_indicators.16-50-definition
-national_rationale: global_indicators.16-50-intention
-national_methodology_characteristics: global_indicators.16-50-methodology
-national_long_objective: global_indicators.16-50-long_term_objective
+  - series: SERIES.sdg_16_50
+    title: SERIES.sdg_16_50
+national_indicator_definition: global_indicators.16-50-definition_national
+national_rationale: global_indicators.16-50-intention_national
+national_methodology_characteristics: global_indicators.16-50-methodology_national
+national_long_objective: global_indicators.16-50-long_term_objective_national
 eu_indicator_definition: global_indicators.16-50-definition
 eu_rationale: global_indicators.16-50-intention
 eu_methodology_characteristics: global_indicators.16-50-methodology
 eu_long_objective: global_indicators.16-50-long_term_objective
+
+
