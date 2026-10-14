@@ -21,7 +21,7 @@ source_organisation_1: 'World Health Organization (WHO)'
 source_url_1: 'https://data.who.int/indicators/i/60A0E76/361734E?m49=070'
 footer_fields:
   - label: global_indicators.metadata-footer-label
-    value: '&lt;a href="https://data.who.int/indicators/i/60A0E76/361734E?m49=070"&gt;World Health Organization&lt;/a&gt;'
+    value: '<a href="https://data.who.int/indicators/i/60A0E76/361734E?m49=070">World Health Organization</a>'
 graph_titles:
   - series: SERIES.sdg_16_10
     title: SERIES.sdg_16_10
