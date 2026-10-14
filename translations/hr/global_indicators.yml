@@ -1229,16 +1229,25 @@ metadata-footer-label: Referentni metapodaci
   Nema opisa
 16-10-title: Standardizirana stopa smrtnosti zbog ubojstava
 16-10-definition: >-
-  Pokazatelj mjeri standardiziranu stopu smrtnosti od ubojstava i ozljeda koje je nanijela druga osoba s namjerom da na bilo koji način ozlijedi ili ubije, uključujući „kasne posljedice“ napada (kodovi Međunarodne klasifikacije bolesti (MKB) X85 do Y09 i Y87.1). Ne uključuje smrti uzrokovane pravnim intervencijama ili ratom (kodovi MKB Y35 i Y36).
-  Podaci o uzroku smrti (UZS) odnose se na temeljni uzrok, koji je - prema Svjetskoj zdravstvenoj organizaciji (WHO) - „bolest ili ozljeda koja je pokrenula niz morbidnih događaja koji su izravno doveli do smrti ili okolnosti nesreće ili nasilja koje je uzrokovalo smrtonosnu ozljedu“. Podaci o UZS-u izvedeni su iz smrtnih listova.
+  Pokazatelj mjeri standardiziranu stopu smrtnosti uslijed ubojstava i ozljeda koje je druga osoba nanijela s namjerom da ozlijedi ili usmrti, neovisno o načinu počinjenja. Uključene su i kasne posljedice napada (šifre Međunarodne klasifikacije bolesti – MKB X85–Y09 i Y87.1). Ne uključuju se smrtni slučajevi nastali uslijed pravnih intervencija ili rata (šifre MKB Y35 i Y36). Podaci o uzrocima smrti odnose se na osnovni uzrok smrti, odnosno bolest ili ozljedu koja je pokrenula niz događaja koji su izravno doveli do smrti ili okolnosti nesreće odnosno nasilja koje su prouzročile smrtonosnu ozljedu. Podaci se izvode iz potvrda o smrti.
+  Stopa je standardizirana prema standardnoj europskoj populaciji, čime se uzimaju u obzir razlike u dobnoj strukturi stanovništva te omogućuje bolja usporedivost između zemalja i tijekom vremena.
+16-10-definition_national: >-
+  Za Bosnu i Hercegovinu prikazana je stopa smrtnosti uslijed ubojstava na 100.000 stanovnika, prema podacima Svjetske zdravstvene organizacije (WHO), razvrstana prema spolu. Niža stopa upućuje na smanjenje smrtnosti uslijed ubojstava.
 16-10-intention: >-
-  Pokazatelj se koristi za praćenje napretka prema Cilju održivog razvoja 16 o miru, pravdi i jakim institucijama, koji je ugrađen u prioritete Europske komisije u okviru „Nove ere za europsku obranu i sigurnost“ i „Zaštite naših demokracija, održavanja naših vrijednosti“.
-  Pokazatelj se može smatrati dijelom globalnog pokazatelja Cilja održivog razvoja 16.1.2 „Smrti povezane sa sukobima na 100.000 stanovnika, prema spolu, dobi i uzroku“.
+  Pokazatelj se koristi za praćenje napretka prema Cilju održivog razvoja 16 – Mir, pravda i snažne institucije. Povezan je s prioritetima Europske komisije u području sigurnosti, sprečavanja kriminala i zaštite demokratskih vrijednosti.
+  Fizička sigurnost važan je aspekt kvalitete života. Kaznena djela koja ugrožavaju život i tjelesni integritet jedan su od pokazatelja sigurnosti društva. Pokazatelj pridonosi razumijevanju i praćenju tog aspekta sigurnosti.
+16-10-intention_national: >-
+  Smanjenje smrtnosti uslijed ubojstava povezano je s unapređenjem sigurnosti stanovništva, zaštitom prava na život i smanjenjem nasilja. Pokazatelj pridonosi praćenju Cilja održivog razvoja 16, koji se odnosi na mir, pravdu i snažne institucije.
 16-10-methodology: >-
-  Dana 24. srpnja 2020. Europska komisija usvojila je Strategiju sigurnosne unije EU-a za razdoblje 2020.-2025. Kao ključnu komponentu strategije, Komisija je definirala novi put naprijed u području unutarnje sigurnosti s djelovanjem u ključnim područjima: organizirani kriminal; terorizam i sprječavanje nasilne radikalizacije; otpornost naše kritične infrastrukture i javnih prostora; kibernetički kriminal, uključujući borbu protiv seksualnog zlostavljanja djece; suradnja u provedbi zakona i razmjena informacija; te istraživanje i inovacije.
-  Sigurnost je ključni aspekt života ljudi. Nesigurnost bilo koje vrste izvor je straha i brige, što negativno utječe na kvalitetu života. Fizička nesigurnost uključuje sve vanjske čimbenike koji bi potencijalno mogli ugroziti fizički integritet pojedinca. Kaznena djela jedna su od najočitijih zlouporaba nesigurnosti. Analize fizičke nesigurnosti obično kombiniraju i subjektivne i objektivne aspekte - subjektivnu percepciju nesigurnosti i objektivni nedostatak sigurnosti mjeren statistikama kriminala. Kao takav, ovaj pokazatelj doprinosi razumijevanju sigurnosti društva.
+  Europska komisija predstavila je 24. srpnja 2020. Strategiju sigurnosne unije EU-a za razdoblje 2020.–2025. Strategija je obuhvaćala mjere u područjima organiziranog kriminala, terorizma i nasilne radikalizacije, zaštite kritične infrastrukture i javnih prostora, kibernetičkog kriminala, suradnje u provedbi zakona, razmjene informacija te istraživanja i inovacija.
+  Sigurnost je važan preduvjet kvalitete života. Pokazatelj pruža objektivnu mjeru smrtnosti uslijed ubojstava te dopunjuje druge pokazatelje koji se odnose na osjećaj sigurnosti i kriminal.
+16-10-methodology_national: >-
+  Podaci WHO-a pokazuju smanjenje ukupne stope smrtnosti uslijed ubojstava s 1,8 na 100.000 stanovnika u 2012. godini na 1,4 u 2020. i 2021. godini. U istom razdoblju smanjila se stopa za muškarce, dok je stopa za žene ostala relativno stabilna. Ti podaci upućuju na povoljan trend, a status napretka izračunava se primjenom utvrđene metodologije za automatski izračun.
+  Eurostatov pokazatelj 16.10 temelji se na standardiziranoj stopi smrtnosti uslijed ubojstava, koja uzima u obzir dobnu strukturu stanovništva. Podatke WHO-a prikazane na nacionalnoj razini ne treba automatski smatrati metodološki istovjetnima Eurostatovoj standardiziranoj stopi.
 16-10-long_term_objective: >-
-  Dugoročni cilj za ovaj pokazatelj je vrijednost od 0,3.
+  Dugoročna referentna vrijednost za ovaj pokazatelj iznosi 0,3 smrtna slučaja na 100.000 stanovnika i temelji se na prosjeku rezultata globalno najuspješnijih zemalja. Ta se vrijednost koristi u okviru praćenja održivog razvoja i ne predstavlja formalno usvojeni cilj Europske unije.
+16-10-long_term_objective_national: >-
+  Za seriju podataka prikazanu za Bosnu i Hercegovinu nije utvrđen metodološki usporediv nacionalni cilj za praćenje dugoročnog napretka ovog pokazatelja.
 16-20-title: Stanovništvo koje prijavljuje kriminal, nasilje ili vandalizam u svojoj zajednici
 16-20-definition: >-
   Pokazatelj prikazuje udio stanovništva koji je prijavio problem s kriminalom, nasiljem ili vandalizmom u svom lokalnom području. Ovo opisuje situaciju u kojoj ispitanik vjeruje da su kriminal, nasilje ili vandalizam u tom području problem za kućanstvo, iako ta percepcija nije nužno utemeljena na osobnom iskustvu.
