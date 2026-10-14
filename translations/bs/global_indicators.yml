@@ -1248,7 +1248,7 @@ metadata-footer-label: Referentni metapodaci
   Eurostatov indikator 16.10 zasniva se na standardizovanoj stopi smrtnosti usljed ubistava, koja uzima u obzir dobnu strukturu stanovništva. Podatke WHO-a prikazane na nacionalnom nivou ne treba automatski smatrati metodološki identičnim Eurostatovoj standardizovanoj stopi.
 16-10-long_term_objective: >-
   Dugoročna referentna vrijednost za ovaj indikator iznosi 0,3 smrtna slučaja na 100.000 stanovnika i zasniva se na prosjeku rezultata globalno najuspješnijih zemalja. Ova vrijednost koristi se u okviru praćenja održivog razvoja i ne predstavlja formalno usvojeni cilj Evropske unije.
-16-10-long_term_objective: >-
+16-10-long_term_objective_national: >-
   Za seriju podataka prikazanu za Bosnu i Hercegovinu nije utvrđen metodološki uporediv nacionalni cilj za praćenje dugoročnog napretka ovog indikatora.
 16-20-title: Stanovništvo koje prijavljuje kriminal, nasilje ili vandalizam u svojoj zajednici
 16-20-definition: >-
