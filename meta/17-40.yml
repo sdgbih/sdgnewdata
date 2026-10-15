@@ -3,12 +3,22 @@ reporting_status: complete
 published: true
 sdg_goal: '17'
 data_non_statistical: false
+auto_progress_calculation: true
+progress_calculation_options:
+  - series: sdg_17_40
+    unit: PC_BDP
+    direction: negative
+    base_year: 2016
+    target_year: 2030
 graph_type: line
 indicator_sort_order: '17-40'
 indicator_name: global_indicators.17-40-title
 source_active_1: true
-source_organisation_1: CBBiH, IMF
-source_url_1: 'https://www.imf.org/external/datamapper/GG_DEBT_GDP@GDD/SWE/BIH'
+source_organisation_1: CBBiH
+source_url_1: 'https://www.cbbh.ba/Content/Read/1286?lang=en'
+footer_fields:
+  - label: global_indicators.metadata-footer-label
+    value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_17_40_esmsip2.htm" target="_blank" rel="noopener noreferrer">Eurostat – metodologija indikatora SDG 17.40</a>'
 graph_titles:
   - series: SERIES.sdg_17_40
     title: SERIES.sdg_17_40
