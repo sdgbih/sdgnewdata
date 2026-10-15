@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Službena razvojna pomoć",
+                "Neto primljena ODA (% BND-a)",
                 ""
               ]
             },
