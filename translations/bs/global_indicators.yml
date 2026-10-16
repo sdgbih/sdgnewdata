@@ -1391,9 +1391,17 @@ metadata-footer-label: Referentni metapodaci
 17-60-title: Pokrivenost brzim internetom, po vrsti područja
 17-60-definition: >-
   Indikator mjeri udio domaćinstava pokrivenih fiksnom mrežom vrlo visokog kapaciteta (VHCN), uključujući optičke mreže FTTP i odgovarajuće kablovske mreže DOCSIS 3.1. Podaci se mogu razvrstati prema vrsti područja.
+17-60-definition_national: >-
+  Indikator mjeri udio domaćinstava pokrivenih fiksnom mrežom vrlo visokog kapaciteta (VHCN). Ove mreže obuhvataju optičke mreže do prostora korisnika (FTTP) i odgovarajuće kablovske mreže koje ispunjavaju tehničke zahtjeve za vrlo visok kapacitet. Pokrivenost se može pratiti ukupno i prema vrsti područja.
 17-60-intention: >-
   Dostupnost mreža vrlo visokog kapaciteta podržava digitalnu transformaciju, konkurentnost i pristup digitalnim uslugama te doprinosi ostvarivanju ciljeva održivog razvoja 9 i 17.
+17-60-intention_national: >-
+  Dostupnost brzog i pouzdanog interneta važna je za digitalnu povezanost stanovništva, pristup javnim i obrazovnim uslugama, poslovanje i razvoj digitalne infrastrukture. Praćenje pokrivenosti omogućava uvid u dostupnost savremenih komunikacijskih mreža i razlike između područja.
 17-60-methodology: >-
   EU prati razvoj pokrivenosti mrežama vrlo visokog kapaciteta i razlike između područja. Evropski ciljevi digitalne povezanosti usmjereni su na dostupnost gigabitnih mreža domaćinstvima do 2030. godine
+17-60-methodology_national: >-
+  Za Bosnu i Hercegovinu trenutno je raspoloživa procjena od 75,0% za 2025. godinu, preuzeta sa stranice StateGlobe za pokrivenost optičkim internetom. Usklađenost ove procjene s definicijom Eurostatovog indikatora pokrivenosti fiksnom VHCN mrežom i njena referentna godina nisu nezavisno potvrđene.
 17-60-long_term_objective: >-
   Do 2030. godine sva domaćinstva u EU trebaju biti pokrivena gigabitnom mrežom, a sva naseljena područja 5G mrežom.
+17-60-long_term_objective_national: >-
+  Za ovaj indikator nije utvrđen poseban kvantitativni nacionalni cilj Bosne i Hercegovine. Cilj EU za 2030. godinu, prema kojem sva evropska domaćinstva trebaju biti pokrivena gigabitnom mrežom, predstavlja evropski strateški cilj i ne treba ga tumačiti kao zvanični nacionalni cilj BiH.
