@@ -2,24 +2,24 @@
 national_rationale-label: NAMJERA
 national_methodology-label: SADRŽAJ I NAPREDAK
 national_indicator_definition-label: OPIS
-national_indicator_definition: OPIS
-national_rationale: OBRAZLOŽENJE
-national_methodology_characteristics: SADRŽAJ I NAPREDAK
-national_long_objective: DUGOROČNI CILJ
-national_long_term_objective-label: DUGOROČNI CILJ
+national_indicator_definition: Statistički pokazatelj
+national_rationale: Prikupljanje/obrada podataka
+national_methodology_characteristics: Napredak i ograničenja (Usporedivost)
+national_long_objective: Ciljevi
+national_long_term_objective-label: Ciljevi
 intention-label: NAMJERA
 rationale-label: NAMJERA
 methodology-label: SADRŽAJ I NAPREDAK
 long_term_objective-label: DUGOROČNI CILJ
 eu_definition-label: OPIS
 eu_indicator_definition-label: OPIS
-eu_indicator_definition: OPIS
-eu_rationale: OBRAZLOŽENJE
+eu_indicator_definition: Statistički pokazatelj
+eu_rationale: Prikupljanje/obrada podataka
 eu_intention-label: NAMJERA
 eu_intention: NAMJERA
-eu_methodology_characteristics: SADRŽAJ I NAPREDAK
-eu_long_objective: DUGOROČNI CILJ
-eu_long_term_objective-label: DUGOROČNI CILJ
+eu_methodology_characteristics: Napredak i ograničenja (Usporedivost)
+eu_long_objective: Ciljevi
+eu_long_term_objective-label: Ciljevi
 metadata-footer-label: Referentni metapodaci
 
 1-10-title: "Udio stanovništva ispod linije siromaštva od 8,30 USD dnevno (PKM iz 2021.) (% stanovništva) - zamjenski pokazatelj"
@@ -218,13 +218,21 @@ metadata-footer-label: Referentni metapodaci
   Dugoročni cilj za Bosnu i Hercegovinu u okviru pokazatelja SDG_02_60 je smanjenje emisija amonijaka (NH₃) iz poljoprivrede po hektaru korištene poljoprivredne površine, uz unaprjeđenje održivih poljoprivrednih praksi i učinkovitije upravljanje dušikom, stajskim gnojem i mineralnim gnojivima.
 3-12-title: Očekivano trajanje života u dobrom zdravlju na temelju samoprocjene zdravlja
 3-12-definition: >-
-  Ovaj pokazatelj procjenjuje broj godina koliko se očekuje da će osoba živjeti u dobrom percipiranom zdravlju. Temelji se na podacima o smrtnosti u kombinaciji s podacima o samoprocjeni zdravlja kako je navedeno u Statistici EU o dohotku i životnim uvjetima (EU-SILC).
+  Ovaj pokazatelj procjenjuje broj godina tijekom kojih se očekuje da će osoba živjeti u dobrom percipiranom zdravlju. Temelji se na podacima o smrtnosti u kombinaciji s podacima o samoprocjeni zdravlja iz Statistike EU-a o prihodima i životnim uvjetima (EU-SILC).
+3-12-definition_national: >-
+  Ovaj pokazatelj prikazuje očekivani broj godina koje novorođena osoba može provesti u punom zdravlju, uzimajući u obzir zdravstvena stanja koja dovode do godina života provedenih u narušenom zdravlju. Podaci se preuzimaju iz procjena Svjetske zdravstvene organizacije (WHO) o očekivanom trajanju života u zdravlju pri rođenju (HALE), razvrstanih prema spolu.
 3-12-intention: >-
-  Pokazatelj je dio skupa pokazatelja Ciljeva održivog razvoja EU (SDG). Koristi se za praćenje napretka prema cilju 3 o dobrom zdravlju i blagostanju te cilju 1 o uklanjanju siromaštva kao višenamjenski pokazatelj (MPI); koji su ugrađeni u prioritete Europske komisije za razdoblje 2024.-2029. u okviru „Potpora ljudima, jačanje naših društava i našeg socijalnog modela“.
+  Ovaj je pokazatelj dio skupa pokazatelja ciljeva održivog razvoja EU-a (SDG). Koristi se za praćenje napretka u ostvarivanju cilja 3 – Dobro zdravlje i blagostanje te cilja 1 – Svijet bez siromaštva, kao višestruko primjenjiv pokazatelj (MPI). Ti su ciljevi povezani s prioritetima Europske komisije za razdoblje 2024.–2029., osobito s prioritetom „Podrška ljudima, jačanje naših društava i našeg socijalnog modela“.
+3-12-intention_national: >-
+  Očekivano trajanje života u zdravlju dopunjuje podatke o očekivanom trajanju života informacijama o zdravstvenom stanju stanovništva. Budući da podaci iz ankete EU-SILC nisu dostupni za Bosnu i Hercegovinu, za ovaj pokazatelj koriste se podaci Svjetske zdravstvene organizacije (WHO) o očekivanom trajanju života u zdravlju pri rođenju (HALE). Ovaj pokazatelj omogućuje praćenje promjena tijekom vremena i razlika između muškaraca i žena. Zbog razlika u metodologiji, rezultati nisu izravno usporedivi s izvornim pokazateljem EU-a, koji se temelji na samoprocjeni zdravlja.
 3-12-methodology: >-
-  Dobro zdravlje nije vrijedno samo za pojedinca kao glavna odrednica kvalitete života, blagostanja i društvenog sudjelovanja, već je i osnovni preduvjet za opći gospodarski rast. Praćenje cilja održivog razvoja 3 u kontekstu EU usmjereno je na teme zdravog života, odrednica zdravlja, uzroka smrti i zdravstvene skrbi.
+  Dobro zdravlje važno je za kvalitetu života, blagostanje i društveno sudjelovanje pojedinaca, a istodobno predstavlja važan preduvjet gospodarskog razvoja. Praćenje cilja održivog razvoja 3 u kontekstu EU-a obuhvaća zdrav život, odrednice zdravlja, uzroke smrti i zdravstvenu zaštitu.
+3-12-methodology_national: >-
+  Prema podacima WHO-a, očekivano trajanje života u zdravlju pri rođenju za oba spola u Bosni i Hercegovini iznosilo je 65,6 godina 2000. godine i 67,2 godine 2018. godine. Nakon toga smanjilo se na 67,0 godina 2019. godine, 65,9 godina 2020. godine i 65,0 godina 2021. godine. U 2021. godini vrijednost je iznosila 63,9 godina za muškarce i 66,1 godinu za žene. Ove vrijednosti predstavljaju procjenu očekivanog trajanja života u punom zdravlju i ne mjere izravno samoprocijenjeno zdravlje prema metodologiji EU-SILC.
 3-12-long_term_objective: >-
-  Nema opisa
+  Nije utvrđen poseban kvantitativni dugoročni cilj za ovaj pokazatelj.
+3-12-long_term_objective_national: >-
+  Dugoročni je cilj unapređenje zdravstvenog stanja stanovništva i povećanje očekivanog trajanja života u zdravlju. Za ovaj pokazatelj nije utvrđen poseban kvantitativni nacionalni cilj.
 3-20-title: Udio ljudi sa dobrim ili vrlo dobrim percipiranim zdravljem prema spolu
 3-20-definition: >-
   Pokazatelj je subjektivna mjera o tome kako ljudi procjenjuju svoje zdravlje općenito na ljestvici od "vrlo dobro" do "vrlo loše". Izražava se kao udio populacije u dobi od 16 ili više godina koja sebe doživljava kao "dobro" ili "vrlo dobro" zdravlje.
