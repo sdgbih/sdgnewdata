@@ -4,7 +4,7 @@ national_methodology-label: Content and progress
 national_indicator_definition-label: Indicator description
 national_indicator_definition: Statistical indicator
 national_rationale: Collecting/Processing data
-national_methodology_characteristics: Progress and limits (Comparability)
+national_methodology_characteristics: Comparability
 national_long_objective: Goals
 national_long_term_objective-label: Long-term objective
 rationale-label: Intention
@@ -17,7 +17,7 @@ eu_indicator_definition-label: Description
 eu_rationale: Collecting/Processing data
 eu_intention-label: Intention
 eu_intention: Intention
-eu_methodology_characteristics: Progress and limits (Comparability)
+eu_methodology_characteristics: Comparability
 eu_long_objective: Goals
 eu_long_term_objective-label: Long-term objective
 metadata-footer-label: Reference metadata
