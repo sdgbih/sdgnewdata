@@ -4,7 +4,7 @@ national_methodology-label: САДРЖАЈ И НАПРЕДАК
 national_indicator_definition-label: ОПИС
 national_indicator_definition: Статистички индикатор
 national_rationale: Прикупљање/Обрада података
-national_methodology_characteristics: Напредак и ограничења (Упоредивост)
+national_methodology_characteristics: Упоредивост
 national_long_objective: Циљеви
 national_long_term_objective-label: ДУГОРОЧНИ ЦИЉ
 intention-label: НАМЈЕРА
@@ -17,7 +17,7 @@ eu_indicator_definition-label: ОПИС
 eu_rationale: Прикупљање/Обрада података
 eu_intention-label: НАМЈЕРА
 eu_intention: НАМЈЕРА
-eu_methodology_characteristics: Напредак и ограничења (Упоредивост)
+eu_methodology_characteristics: Упоредивост
 eu_long_objective: Циљеви
 eu_long_term_objective-label: ДУГОРОЧНИ ЦИЉ
 metadata-footer-label: Референтни метаподаци
