@@ -1,7 +1,7 @@
 series_help: Choose categories from the dropdowns below to see different breakdowns of the data
-national_metadata: National Indicator INFO
+national_metadata: National SDG indicator
 national_metadata_blurb:
-global_metadata: EU SDG Indicator INFO
+global_metadata: EU SDG indicator
 
 previous: Previous indicator
 next: Next indicator
