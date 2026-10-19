@@ -219,12 +219,20 @@ metadata-footer-label: Referentni metapodaci
 3-12-title: Očekivani životni vijek u dobrom zdravlju na osnovu samoprocjene zdravstvenog stanja
 3-12-definition: >-
   Ovaj indikator procjenjuje broj godina koliko se očekuje da će osoba živjeti u dobrom percipiranom zdravlju. Zasnovan je na podacima o smrtnosti u kombinaciji s podacima o samoprocjeni zdravlja, kako je navedeno u Statistici EU o prihodima i životnim uslovima (EU-SILC).
+3-12-definition_national: >-
+  Ovaj indikator prikazuje očekivani broj godina koje novorođena osoba može provesti u punom zdravlju, uzimajući u obzir zdravstvena stanja koja dovode do godina života provedenih u narušenom zdravlju. Podaci se preuzimaju iz procjena Svjetske zdravstvene organizacije (WHO) za očekivano trajanje života u zdravlju pri rođenju (HALE), razvrstanih prema spolu. 
 3-12-intention: >-
-  Ovaj indikator je dio skupa indikatora Ciljeva održivog razvoja EU (SDG). Koristi se za praćenje napretka prema cilju 3 o dobrom zdravlju i blagostanju i cilju 1 o eliminaciji siromaštva kao višenamjenski indikator (MPI); koji su ugrađeni u prioritete Evropske komisije za period 2024-2029 u okviru „Podrška ljudima, jačanje naših društava i našeg socijalnog modela“.
+  Ovaj indikator dio je skupa indikatora Ciljeva održivog razvoja EU (SDG). Koristi se za praćenje napretka u ostvarivanju cilja 3 – Dobro zdravlje i blagostanje, kao i cilja 1 – Svijet bez siromaštva, kao višestruko primjenjiv indikator (MPI). Ovi ciljevi povezani su s prioritetima Evropske komisije za period 2024–2029, posebno s prioritetom „Podrška ljudima, jačanje naših društava i našeg socijalnog modela“.
+3-12-intention_national: >-
+  Očekivano trajanje života u zdravlju dopunjuje podatke o očekivanom trajanju života informacijama o zdravstvenom stanju stanovništva. Budući da podaci iz ankete EU-SILC nisu dostupni za Bosnu i Hercegovinu, za ovaj indikator koriste se podaci Svjetske zdravstvene organizacije (WHO) o očekivanom trajanju života u zdravlju pri rođenju (HALE). Ovaj indikator omogućava praćenje promjena tokom vremena i razlika između muškaraca i žena. Zbog razlika u metodologiji, rezultati nisu neposredno uporedivi s izvornim indikatorom EU, koji se zasniva na samoprocjeni zdravlja. 
 3-12-methodology: >-
   Dobro zdravlje nije vrijedno samo za pojedinca kao glavni faktor kvalitete života, blagostanja i društvenog sudjelovanja, već je i osnovni preduslov za opšti ekonomski rast. Praćenje Cilja održivog razvoja 3 u kontekstu EU fokusira se na teme zdravog života, determinanti zdravlja, uzroka smrti i zdravstvene zaštite.
+3-12-methodology_national: >-
+  Prema podacima WHO-a, očekivano trajanje života u zdravlju pri rođenju za oba spola u Bosni i Hercegovini iznosilo je 65,6 godina 2000. godine i 67,2 godine 2018. godine. Nakon toga smanjilo se na 67,0 godina 2019. godine, 65,9 godina 2020. godine i 65,0 godina 2021. godine. U 2021. godini vrijednost je iznosila 63,9 godina za muškarce i 66,1 godinu za žene. Ove vrijednosti predstavljaju procjenu očekivanog trajanja života u punom zdravlju i ne mjere direktno samoprocijenjeno zdravlje prema metodologiji EU-SILC.
 3-12-long_term_objective: >-
-  Nema opisa
+  Nije utvrđen poseban kvantitativni dugoročni cilj za ovaj indikator.
+3-12-long_term_objective_national: >-
+  Dugoročni cilj je unapređenje zdravstvenog stanja stanovništva i povećanje očekivanog trajanja života u zdravlju. Za ovaj indikator nije utvrđen poseban kvantitativni nacionalni cilj.
 3-20-title: Udio ljudi sa dobrim ili vrlo dobrim percipiranim zdravljem prema spolu
 3-20-definition: >-
   Indikator je subjektivna mjera o tome kako ljudi generalno procjenjuju svoje zdravlje na skali od "vrlo dobro" do "vrlo loše". Izražava se kao udio populacije u dobi od 16 ili više godina koja sebe doživljava kao "dobro" ili "vrlo dobro" zdravlje.
