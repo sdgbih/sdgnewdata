@@ -214,13 +214,21 @@ metadata-footer-label: Reference metadata
   The long-term objective for Bosnia and Herzegovina under indicator SDG_02_60 is to reduce ammonia (NH₃) emissions from agriculture per hectare of utilised agricultural area, while improving sustainable agricultural practices and more efficient management of nitrogen, manure and mineral fertilisers.
 3-12-title: Healthy life expectancy based on self-perceived health
 3-12-definition: >-
-  This indicator estimates the number of years a person is expected to live in good perceived health. It is based on mortality data combined with data on self-perceived health as reported in the EU Statistics on Income and Living Conditions (EU-SILC).
+  This indicator estimates the number of years a person is expected to live in good self-perceived health. It is based on mortality data combined with data on self-perceived health from the EU Statistics on Income and Living Conditions (EU-SILC).
+3-12-definition_national: >-
+  This indicator presents the expected number of years a newborn can expect to live in full health, taking into account health conditions that result in years lived in less than full health. The data are taken from World Health Organization (WHO) estimates of healthy life expectancy at birth (HALE), disaggregated by sex.
 3-12-intention: >-
-  The indicator is part of the EU Sustainable Development Goals (SDG) indicator set. It is used to monitor progress towards SDG 3 on good health and well-being and SDG 1 on no poverty as a multi-purpose indicator (MPI); which are embedded in the European Commission’s 2024-2029 Priorities under 'Supporting people, strenghtening our societes and our social model'.
+  This indicator is part of the EU Sustainable Development Goal (SDG) indicator set. It is used to monitor progress towards SDG 3 – Good Health and Well-being and SDG 1 – No Poverty, as a multi-purpose indicator (MPI). These goals are linked to the European Commission’s 2024–2029 priorities, particularly “Supporting people, strengthening our societies and our social model”.
+3-12-intention_national: >-
+  Healthy life expectancy complements life expectancy data by providing information on the health status of the population. As EU-SILC survey data are not available for Bosnia and Herzegovina, data from the World Health Organization (WHO) on healthy life expectancy at birth (HALE) are used for this indicator. This indicator makes it possible to monitor changes over time and differences between males and females. Due to methodological differences, the results are not directly comparable with the original EU indicator, which is based on self-perceived health.
 3-12-methodology: >-
-  Good health is not only of value to the individual as a major determinant of quality of life, well being and social participation, it is also a basic precondition for general economic growth. Monitoring SDG 3 in an EU context focuses on the topics of healthy lives, determinants of health, causes of death and health care.
+  Good health is important for quality of life, well-being and social participation, and is also an important prerequisite for economic development. Monitoring SDG 3 in the EU context covers healthy lives, health determinants, causes of death and healthcare.
+3-12-methodology_national: >-
+  According to WHO data, healthy life expectancy at birth in Bosnia and Herzegovina for both sexes was 65.6 years in 2000 and 67.2 years in 2018. It subsequently declined to 67.0 years in 2019, 65.9 years in 2020 and 65.0 years in 2021. In 2021, the value was 63.9 years for males and 66.1 years for females. These values estimate life expectancy in full health and do not directly measure self-perceived health according to the EU-SILC methodology. 
 3-12-long_term_objective: >-
-  No description
+  No specific quantitative long-term target has been established for this indicator.
+3-12-long_term_objective_national: >-
+  The long-term objective is to improve the health status of the population and increase healthy life expectancy. No specific quantitative national target has been established for this indicator.
 3-20-title: Share of people with good or very good perceived health by sex
 3-20-definition: >-
   The indicator is a subjective measure on how people judge their health in general on a scale from "very good" to "very bad". It is expressed as the share of the population aged 16 or over perceiving itself to be in "good" or "very good" health.
