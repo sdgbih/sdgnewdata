@@ -32,7 +32,7 @@ national_rationale: global_indicators.10-41-intention_national
 national_methodology_characteristics: global_indicators.10-41-methodology_national
 national_long_objective: global_indicators.10-41-long_term_objective_national
 
-eu_indicator_definition: global_indicators.10-41-definition
-eu_rationale: global_indicators.10-41-intention
-eu_methodology_characteristics: global_indicators.10-41-methodology
-eu_long_objective: global_indicators.10-41-long_term_objective
+eu_indicator_definition: global_indicators.10-41-definition_no
+eu_rationale: global_indicators.10-41-intention_no
+eu_methodology_characteristics: global_indicators.10-41-methodology_no
+eu_long_objective: global_indicators.10-41-long_term_objective_no
