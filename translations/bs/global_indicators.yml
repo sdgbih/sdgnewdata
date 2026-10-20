@@ -2,23 +2,23 @@
 national_rationale-label: NAMJERA
 national_methodology-label: SADRŽAJ I NAPREDAK
 national_indicator_definition-label: OPIS
-national_indicator_definition: Statistički indikator
-national_rationale: Prikupljanje/Obrada podataka
-national_methodology_characteristics: Uporedivost
-national_long_objective: Ciljevi
+national_indicator_definition: Opis indikaora
+national_rationale: Izvor i metodologija podataka
+national_methodology_characteristics: Obuhvat i uporedivost
+national_long_objective: Nacionalni kontekst i ciljevi
 national_long_term_objective-label: DUGOROČNI CILJ
 rationale-label: NAMJERA
 intention-label: NAMJERA
 methodology-label: SADRŽAJ I NAPREDAK
 long_term_objective-label: DUGOROČNI CILJ
 eu_definition-label: OPIS
-eu_indicator_definition: Statistički indikator
+eu_indicator_definition: Opis indikaora
 eu_indicator_definition-label: OPIS
-eu_rationale: Prikupljanje/Obrada podataka
+eu_rationale: Izvor i metodologija podataka
 eu_intention-label: NAMJERA
-eu_intention: NAMJERA
-eu_methodology_characteristics: Uporedivost
-eu_long_objective: Ciljevi
+eu_intention: NAMJERA                  
+eu_methodology_characteristics: Obuhvat i uporedivost
+eu_long_objective: EU kontekst i ciljevi
 eu_long_term_objective-label: DUGOROČNI CILJ
 metadata-footer-label: Referentni metapodaci
 
