@@ -13,6 +13,8 @@ progress_calculation_options:
       - field: SEX
         value: BOTHSEX
     direction: negative
+    base_year: 2015
+    target_year: 2030
 graph_type: line
 indicator_sort_order: '03-30'
 indicator_name: global_indicators.3-30-title
