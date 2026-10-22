@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Državna potpora poljoprivrednom istraživanju i razvoju",
+                "Izdvajanja iz državnog proračuna za istraživanje i razvoj u području poljoprivrede",
                 ""
               ]
             },
