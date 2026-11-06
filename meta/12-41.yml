@@ -3,16 +3,17 @@ reporting_status: complete
 published: true
 sdg_goal: '12'
 data_non_statistical: false
-graph_type: line
+graph_type: bar
 indicator_sort_order: '12-41'
-
 source_active_1: true
-source_organisation_1: Eurostat
-source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_12_41/default/table'
+source_organisation_1: BHAS
+source_url_1:
 footer_fields:
   - label: global_indicators.metadata-footer-label
     value: '<a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_12_41_esmsip2.htm" target="_blank">Eurostat Metadata Report (sdg_12_41)</a>'
-
+graph_titles:
+- series: SERIES.sdg_12_41
+  title: SERIES.sdg_12_41
 national_indicator_definition: global_indicators.12-41-definition
 national_rationale: global_indicators.12-41-intention
 national_methodology_characteristics: global_indicators.12-41-methodology
