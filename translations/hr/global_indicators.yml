@@ -957,9 +957,9 @@ metadata-footer-label: Referentni metapodaci
   Nema opisa
 12-41-title: Stopa kružne upotrebe materijala
 12-41-definition: >-
- Stopa kružne uporabe materijala, poznata i kao stopa kružnosti, mjeri udio materijala koji je recikliran i vraćen u gospodarstvo u ukupnoj uporabi materijala. Izračunava se kao omjer kružne uporabe materijala i ukupne uporabe materijala. Veća vrijednost pokazatelja znači da se veći udio sekundarnih sirovina koristi kao zamjena za primarne sirovine, čime se smanjuje potreba za iskorištavanjem prirodnih resursa.
+  Stopa kružne uporabe materijala, poznata i kao stopa kružnosti, mjeri udio materijala koji je recikliran i vraćen u gospodarstvo u ukupnoj uporabi materijala. Izračunava se kao omjer kružne uporabe materijala i ukupne uporabe materijala. Veća vrijednost pokazatelja znači da se veći udio sekundarnih sirovina koristi kao zamjena za primarne sirovine, čime se smanjuje potreba za iskorištavanjem prirodnih resursa.
 12-41-definition_national: >-
- Stopa kružne uporabe materijala, poznata i kao stopa kružnosti, mjeri udio materijala koji je recikliran i vraćen u gospodarstvo u ukupnoj uporabi materijala. Pokazuje u kojoj mjeri sekundarne sirovine zamjenjuju primarne sirovine, čime se smanjuje potreba za iskorištavanjem prirodnih resursa. Izračunava se kao omjer kružne uporabe materijala i ukupne uporabe materijala.
+  Stopa kružne uporabe materijala, poznata i kao stopa kružnosti, mjeri udio materijala koji je recikliran i vraćen u gospodarstvo u ukupnoj uporabi materijala. Pokazuje u kojoj mjeri sekundarne sirovine zamjenjuju primarne sirovine, čime se smanjuje potreba za iskorištavanjem prirodnih resursa. Izračunava se kao omjer kružne uporabe materijala i ukupne uporabe materijala.
 12-41-intention: >-
   Pokazatelj se izrađuje u skladu sa standardima kvalitete europske statistike. Izvor podataka je Europski statistički sustav (ESS), a izvorna Eurostatova tablica je ENV_AC_CUR. Eurostat objavljuje pokazatelj na temelju podataka koje dostavljaju države.
   Kružna uporaba materijala procjenjuje se na temelju količine otpada recikliranog u domaćim postrojenjima za oporabu, uz korekcije za uvoz i izvoz otpada namijenjenog oporabi. Ukupna uporaba materijala izračunava se kao zbroj domaće potrošnje materijala (DMC) i kružne uporabe materijala. Pokazatelj se ažurira na godišnjoj razini.
