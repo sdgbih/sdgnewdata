@@ -16,6 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Circular material use rate",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of total population",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

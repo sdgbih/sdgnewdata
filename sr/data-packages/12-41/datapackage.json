@@ -16,6 +16,28 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Степен кружне употребе материјала",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

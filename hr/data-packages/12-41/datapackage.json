@@ -16,6 +16,28 @@
             "title": "Godina"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stopa kružne upotrebe materijala",
+                ""
+              ]
+            },
+            "title": "SDG Varijable"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Postotak ukupnog stanovništva",
+                ""
+              ]
+            },
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

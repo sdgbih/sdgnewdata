@@ -3,581 +3,6 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "1-50/data.csv",
-      "name": "1-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Приступачно становање - замјенски индикатор",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Однос цjене и прихода",
-                "Индекс приступачности",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Приступачно становање - замјенски индикатор"
-    },
-    {
-      "path": "2-30/data.csv",
-      "name": "2-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Издвајања из државног буџета за истраживање и развој у области пољопривреде",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Милион евра",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Издвајања из државног буџета за истраживање и развој у области пољопривреде"
-    },
-    {
-      "path": "14-30/data.csv",
-      "name": "14-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "14-30"
-    },
-    {
-      "path": "8-10/data.csv",
-      "name": "8-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Реални БДП по глави становника",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ланчано повезани обими (2020), евро по глави становника",
-                "Ланчано повезани обими, процентуална промјена у относу на претходни период, по глави становника",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Реални БДП по глави становника"
-    },
-    {
-      "path": "16-20/data.csv",
-      "name": "16-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "16-20"
-    },
-    {
-      "path": "7-11/data.csv",
-      "name": "7-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Финална потрошња енергије",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Милион тона еквивалента nafte",
-                "Тоне еквивалента нафте (TOE) по глави становника",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Финална потрошња енергије"
-    },
-    {
-      "path": "9-70/data.csv",
-      "name": "9-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "9-70"
-    },
-    {
-      "path": "11-11/data.csv",
-      "name": "11-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "11-11"
-    },
-    {
-      "path": "15-61/data.csv",
-      "name": "15-61",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "15-61"
-    },
-    {
-      "path": "13-10/data.csv",
-      "name": "13-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Нето домаће емисије гасова са ефектом стаклене баште",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Милион тона еквивалента CO2",
-                "Тоне по глави становника",
-                "Индекс, 1990=100",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Нето домаће емисије гасова са ефектом стаклене баште"
-    },
-    {
-      "path": "8-60/data.csv",
-      "name": "8-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Смртоносне несреће на раду на 100 000 радника",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Стопа инциденције",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Смртоноснe несрећe на раду на 100 000 радника"
-    },
-    {
-      "path": "7-60/data.csv",
-      "name": "7-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Популација која није у могућности да обезбиједи адекватно загријaвање дома"
-    },
-    {
-      "path": "5-50/data.csv",
-      "name": "5-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Мjеста која жене заузимају у националним парламентима и владама",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "ORG_INST",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Национални парламент",
-                "Национална влада",
-                ""
-              ]
-            },
-            "title": "Националне и међународне организације и институције"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат жена",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Мjеста која жене заузимају у националним парламентима и владама"
-    },
-    {
-      "path": "2-40/data.csv",
-      "name": "2-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Површина под органском пољопривредом",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "AGPRDMET",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Укупне сертификоване површине и површине у прелазном периоду на органску производњу",
-                ""
-              ]
-            },
-            "title": "Методе пољопривредне производње"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Удио у укупној коришћеној пољопривредној површини",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Површина под органском пољопривредом"
-    },
-    {
-      "path": "10-20/data.csv",
-      "name": "10-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "10-20"
-    },
-    {
       "path": "6-40/data.csv",
       "name": "6-40",
       "profile": "tabular-data-resource",
@@ -602,8 +27,8 @@
       "title": "Нитрати у подземним водама"
     },
     {
-      "path": "17-40/data.csv",
-      "name": "17-40",
+      "path": "15-50/data.csv",
+      "name": "15-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -615,29 +40,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Бруто дуг опште државе",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат бруто домаћег производа (БДП)",
-                "у милионима KM",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
           },
           {
             "name": "Value",
@@ -646,11 +48,35 @@
           }
         ]
       },
-      "title": "Бруто дуг опште државе"
+      "title": "15-50"
     },
     {
-      "path": "8-30/data.csv",
-      "name": "8-30",
+      "path": "12-61/data.csv",
+      "name": "12-61",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "12-61"
+    },
+    {
+      "path": "9-30/data.csv",
+      "name": "9-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -668,7 +94,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Стопа запослености",
+                "Особље за истраживање и развој",
                 ""
               ]
             },
@@ -680,30 +106,32 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "Мушкарци",
-                "Жене",
                 ""
               ]
             },
             "title": "Пол"
           },
           {
-            "name": "AGE",
+            "name": "SECTPERF",
             "type": "string",
             "constraints": {
               "enum": [
-                "од 20 до 64 године",
+                "Сви сектори",
+                "Сектор предузећа",
+                "Владини сектор",
+                "Сектор високог образовања",
+                "Приватни непрофитни сектор",
                 ""
               ]
             },
-            "title": "Године"
+            "title": "Сектор учинка"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Проценат укупног становништва",
+                "Проценат становништва у радној снази - бројилац у еквиваленту пуног радног времена (FTE)",
                 ""
               ]
             },
@@ -716,11 +144,35 @@
           }
         ]
       },
-      "title": "Стопа запослености"
+      "title": "Особље за истраживање и развој"
     },
     {
-      "path": "1-20/data.csv",
-      "name": "1-20",
+      "path": "3-20/data.csv",
+      "name": "3-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "3-20"
+    },
+    {
+      "path": "9-40/data.csv",
+      "name": "9-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -738,18 +190,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Јаз сиромаштва на 8,30 USD дневно (ПКМ за 2021. годину) (%) - замјенски индикатор",
+                "Пријаве патената Европском патентном бироу",
                 ""
               ]
             },
             "title": "SDG Варијабле"
           },
           {
+            "name": "COOP_PTN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проналазач",
+                "Подносилац захтева",
+                ""
+              ]
+            },
+            "title": "Партнери за сарадњу"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Проценат",
+                "Број",
+                "На милион становника",
                 ""
               ]
             },
@@ -762,7 +227,31 @@
           }
         ]
       },
-      "title": "Јаз сиромаштва на 8,30 USD дневно (ПКМ за 2021. годину) (%) – замјенски индикатор"
+      "title": "Пријаве патената Европском патентном бироу"
+    },
+    {
+      "path": "16-30/data.csv",
+      "name": "16-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "16-30"
     },
     {
       "path": "7-50/data.csv",
@@ -825,8 +314,8 @@
       "title": "Завиност од увоза енергије"
     },
     {
-      "path": "4-31/data.csv",
-      "name": "4-31",
+      "path": "7-30/data.csv",
+      "name": "7-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -844,7 +333,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Учешће у образовању у раном дјетињству по полу (дјеца узраста 3 године и више)",
+                "Енергетска продуктивност",
                 ""
               ]
             },
@@ -855,7 +344,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Проценат",
+                "Евро по килограму еквивалента нафте (KGOE)",
+                "Стандард куповне моћи (PPS) по килограму еквивалента нафте",
                 ""
               ]
             },
@@ -868,454 +358,7 @@
           }
         ]
       },
-      "title": "Учешће у образовању у раном дјетињству по полу (дјеца узраста 3 године и више)"
-    },
-    {
-      "path": "17-60/data.csv",
-      "name": "17-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Покривеност брзим интернетом према врсти подручја",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Сва подручја",
-                ""
-              ]
-            },
-            "title": "Степен урбанизације"
-          },
-          {
-            "name": "INET_TEC",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Фиксне мреже веома великог капацитета (VHCN)",
-                ""
-              ]
-            },
-            "title": "Интернет технологије"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат домаћинстава",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Покривеност брзим интернетом према врсти подручја"
-    },
-    {
-      "path": "13-21/data.csv",
-      "name": "13-21",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Нето емисије гасова стаклене баште у сектору LULUCF",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Хиљаду тона еквивалента CO2",
-                "Тоне по глави становника",
-                "T_KM2",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Нето емисије гасова са ефектом стаклене баште сектора Коришћење земљишта, промене коришћења земљишта и шумарство (LULUCF)"
-    },
-    {
-      "path": "16-50/data.csv",
-      "name": "16-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Индекс перцепције корупције",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Резултат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Индекс перцепције корупције"
-    },
-    {
-      "path": "16-70/data.csv",
-      "name": "16-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Жртве трговине људима по полу",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Број",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Жртве трговине људима по полу"
-    },
-    {
-      "path": "12-61/data.csv",
-      "name": "12-61",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "12-61"
-    },
-    {
-      "path": "11-52/data.csv",
-      "name": "11-52",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Преране смртности због изложености финим честицама (PM2,5)",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Број",
-                "Стопа",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Преране смрти због изложености финим честицама (PM2.5)"
-    },
-    {
-      "path": "14-21/data.csv",
-      "name": "14-21",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "14-21"
-    },
-    {
-      "path": "2-10/data.csv",
-      "name": "2-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Стопа гојазности према индексу тjелесне масе (BMI)",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Body_Mass_Index",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Прекомјерна тежина",
-                "Предгојазност",
-                "Гојазност",
-                ""
-              ]
-            },
-            "title": "Индекс тjелесне масе"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Стопа гојазности према индексу тjелесне масе (BMI)"
-    },
-    {
-      "path": "9-60/data.csv",
-      "name": "9-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "9-60"
-    },
-    {
-      "path": "16-40/data.csv",
-      "name": "16-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "16-40"
-    },
-    {
-      "path": "12-31/data.csv",
-      "name": "12-31",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "12-31"
+      "title": "Енергетска продуктивност"
     },
     {
       "path": "15-60/data.csv",
@@ -1342,8 +385,80 @@
       "title": "15-60"
     },
     {
-      "path": "4-40/data.csv",
-      "name": "4-40",
+      "path": "6-50/data.csv",
+      "name": "6-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Фосфат у ријекама"
+    },
+    {
+      "path": "2-53/data.csv",
+      "name": "2-53",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "2-53"
+    },
+    {
+      "path": "13-50/data.csv",
+      "name": "13-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "13-50"
+    },
+    {
+      "path": "2-30/data.csv",
+      "name": "2-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1361,42 +476,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Петнаестогодишњаци са слабим успјехом  у читању, математици или природним наукама",
+                "Издвајања из државног буџета за истраживање и развој у области пољопривреде",
                 ""
               ]
             },
             "title": "SDG Варијабле"
           },
           {
-            "name": "EDUCATIONAL_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Читање",
-                "Математика",
-                "Природне науке",
-                ""
-              ]
-            },
-            "title": "ОБЛАСТ ОБРАЗОВАЊА"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Проценат укупног становништва",
+                "Милион евра",
                 ""
               ]
             },
@@ -1409,11 +500,11 @@
           }
         ]
       },
-      "title": "Петнаестогодишњаци са слабим успјехом у читању, математици или природним наукама"
+      "title": "Издвајања из државног буџета за истраживање и развој у области пољопривреде"
     },
     {
-      "path": "1-40/data.csv",
-      "name": "1-40",
+      "path": "14-21/data.csv",
+      "name": "14-21",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1433,81 +524,11 @@
           }
         ]
       },
-      "title": "1-40"
+      "title": "14-21"
     },
     {
-      "path": "4-60/data.csv",
-      "name": "4-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Учешће одраслих у учењу у посљедње четири недеље по полу",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "од 25 до 64 године",
-                ""
-              ]
-            },
-            "title": "Године"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Учешће одраслих у учењу по полу"
-    },
-    {
-      "path": "12-21/data.csv",
-      "name": "12-21",
+      "path": "5-20/data.csv",
+      "name": "5-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1527,117 +548,11 @@
           }
         ]
       },
-      "title": "12-21"
+      "title": "5-20"
     },
     {
-      "path": "7-10/data.csv",
-      "name": "7-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Примарна потрошња енергије",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Милион тона еквивалента nafte",
-                "Тоне еквивалента нафте (TOE) по глави становника",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Примарна потрошња енергије"
-    },
-    {
-      "path": "3-12/data.csv",
-      "name": "3-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Очекивани животни вијек у добром здрављу на основу самопроцјене здравственог стања",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Година",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Очекивани животни вијек у добром здрављу на основу самопроцјене здравственог стања"
-    },
-    {
-      "path": "14-50/data.csv",
-      "name": "14-50",
+      "path": "11-20/data.csv",
+      "name": "11-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1657,77 +572,7 @@
           }
         ]
       },
-      "title": "14-50"
-    },
-    {
-      "path": "10-41/data.csv",
-      "name": "10-41",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Џинијев индекс - замјенски индикатор",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Џинијев индекс - замјенски индикатор"
-    },
-    {
-      "path": "13-70/data.csv",
-      "name": "13-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "13-70"
+      "title": "11-20"
     },
     {
       "path": "3-70/data.csv",
@@ -1774,6 +619,303 @@
         ]
       },
       "title": "Потрошња антибиотика у заједници и болничком сектору – дефинисане дневне дозе (ДДД) дневно"
+    },
+    {
+      "path": "17-40/data.csv",
+      "name": "17-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Бруто дуг опште државе",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат бруто домаћег производа (БДП)",
+                "у милионима KM",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Бруто дуг опште државе"
+    },
+    {
+      "path": "13-10/data.csv",
+      "name": "13-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Нето домаће емисије гасова са ефектом стаклене баште",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Милион тона еквивалента CO2",
+                "Тоне по глави становника",
+                "Индекс, 1990=100",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Нето домаће емисије гасова са ефектом стаклене баште"
+    },
+    {
+      "path": "16-40/data.csv",
+      "name": "16-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "16-40"
+    },
+    {
+      "path": "3-30/data.csv",
+      "name": "3-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Преваленција пушења према полу",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 година и више",
+                ""
+              ]
+            },
+            "title": "Године"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Преваленција пушења према полу"
+    },
+    {
+      "path": "6-70/data.csv",
+      "name": "6-70",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Пестициди у ријекама"
+    },
+    {
+      "path": "7-40/data.csv",
+      "name": "7-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Удио обновљиве енергије у укупној коначној потрошњи енергије",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Energy_balance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Обновљива енергија, укупно",
+                "Обновљива енергија, транспорт",
+                "Обновљива енергија, електрична енергија",
+                "Обновљива енергија, гријање и хлађење",
+                ""
+              ]
+            },
+            "title": "Енергетски биланс"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Удио обновљиве енергије у укупној коначној потрошњи енергије"
+    },
+    {
+      "path": "11-11/data.csv",
+      "name": "11-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "11-11"
     },
     {
       "path": "4-70/data.csv",
@@ -1857,113 +999,8 @@
       "title": "Удио појединаца који посједују барем основне дигиталне вјештине, по полу"
     },
     {
-      "path": "9-40/data.csv",
-      "name": "9-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Пријаве патената Европском патентном бироу",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "COOP_PTN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проналазач",
-                "Подносилац захтева",
-                ""
-              ]
-            },
-            "title": "Партнери за сарадњу"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Број",
-                "На милион становника",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Пријаве патената Европском патентном бироу"
-    },
-    {
-      "path": "7-20/data.csv",
-      "name": "7-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Коначна потрошња енергије у домаћинствима по глави становника",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Килограм еквивалента нафте",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Коначна потрошња енергије у домаћинствима по глави становника"
-    },
-    {
-      "path": "3-20/data.csv",
-      "name": "3-20",
+      "path": "14-30/data.csv",
+      "name": "14-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1983,986 +1020,7 @@
           }
         ]
       },
-      "title": "3-20"
-    },
-    {
-      "path": "13-40/data.csv",
-      "name": "13-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Економски губици повезани са климатским промjенама",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "STATINFO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Годишња вриједност",
-                "Тридесетогодишњи просjек",
-                ""
-              ]
-            },
-            "title": "Статистичке информације"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Милион евра по константним цијенама",
-                "Евро по становнику (по константним цијенама)",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Економски губици због екстремних временских услова и климе"
-    },
-    {
-      "path": "10-10/data.csv",
-      "name": "10-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "БДП по глави становника прилагођен куповној моћи",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "INDIC_PPP",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Реални расходи по глави становника (у PPS_EU27_2020)",
-                "Индекси обима реалних расхода по глави становника (у PPS_EU27_2020=100)",
-                ""
-              ]
-            },
-            "title": "Индикатор паритета куповне моћи"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "БДП по глави становника прилагођен куповној моћи"
-    },
-    {
-      "path": "6-60/data.csv",
-      "name": "6-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Индекс експлоатације воде, плус (WEI+)",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "STATINFO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Годишња вриједност",
-                "Четворогодишњи просjек",
-                ""
-              ]
-            },
-            "title": "Статистичке информације"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Индекс експлоатације воде, плус (WEI+)"
-    },
-    {
-      "path": "5-11/data.csv",
-      "name": "5-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Физичко и сексуално насиље над женама по старосним групама",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Од 18 до 74 године",
-                ""
-              ]
-            },
-            "title": "Године"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Физичко и сексуално насиље над женама по старосним групама"
-    },
-    {
-      "path": "11-60/data.csv",
-      "name": "11-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Стопа рециклирања комуналног отпада",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Стопа рециклирања комуналног отпада"
-    },
-    {
-      "path": "6-30/data.csv",
-      "name": "6-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Удио водних тијела са добром квалитетом површинских и подземних вода - замјенски индикатор",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Удио водних тијела са добром квалитетом површинских и подземних вода - замјенски индикатор"
-    },
-    {
-      "path": "3-30/data.csv",
-      "name": "3-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Преваленција пушења према полу",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 година и више",
-                ""
-              ]
-            },
-            "title": "Године"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат укупног становништва",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Преваленција пушења према полу"
-    },
-    {
-      "path": "1-31/data.csv",
-      "name": "1-31",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "1-31"
-    },
-    {
-      "path": "6-20/data.csv",
-      "name": "6-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Становништво повезано на најмање секундарни третман отпадних вода",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "WW_TP",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Пречишћавање градских, независних и других отпадних вода - најмање секундарни третман",
-                ""
-              ]
-            },
-            "title": "Постројења за пречишћавање отпадних вода"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Становништво повезано на најмање секундарни третман отпадних вода"
-    },
-    {
-      "path": "9-10/data.csv",
-      "name": "9-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Бруто домаћа потрошња за истраживање и развој по секторима",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "SECTPERF",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Сви сектори",
-                "Сектор предузећа",
-                "Владини сектор",
-                "Сектор високог образовања",
-                "Приватни непрофитни сектор",
-                ""
-              ]
-            },
-            "title": "Сектор учинка"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат бруто домаћег производа (БДП)",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Бруто домаћа потрошња за истраживање и развој"
-    },
-    {
-      "path": "14-60/data.csv",
-      "name": "14-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "14-60"
-    },
-    {
-      "path": "1-10/data.csv",
-      "name": "1-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Стопа сиромаштва према прагу од 8,30 USD дневно (ПКМ за 2021. годину) (% становништва) - замјенски индикатор",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат укупног становништва",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Стопа сиромаштва према прагу од 8,30 USD дневно (ПКМ за 2021. годину) (% становништва) - замјенски индикатор"
-    },
-    {
-      "path": "17-50/data.csv",
-      "name": "17-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Удио еколошких пореза у укупним пореским приходима",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат од укупних прихода од пореза и социјалних доприноса (искључујући импутиране социјалне доприносе)",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Удио еколошких пореза у укупним пореским приходима"
-    },
-    {
-      "path": "7-30/data.csv",
-      "name": "7-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Енергетска продуктивност",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Евро по килограму еквивалента нафте (KGOE)",
-                "Стандард куповне моћи (PPS) по килограму еквивалента нафте",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Енергетска продуктивност"
-    },
-    {
-      "path": "14-40/data.csv",
-      "name": "14-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "14-40"
-    },
-    {
-      "path": "8-20/data.csv",
-      "name": "8-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Млади који нису запослени и нису у образовању или обуци",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Од 15 до 29 година",
-                ""
-              ]
-            },
-            "title": "Године"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат укупног становништва",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Млади који нису запослени и нису у образовању или обуци"
-    },
-    {
-      "path": "9-30/data.csv",
-      "name": "9-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Особље за истраживање и развој",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "SECTPERF",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Сви сектори",
-                "Сектор предузећа",
-                "Владини сектор",
-                "Сектор високог образовања",
-                "Приватни непрофитни сектор",
-                ""
-              ]
-            },
-            "title": "Сектор учинка"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат становништва у радној снази - бројилац у еквиваленту пуног радног времена (FTE)",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Особље за истраживање и развој"
-    },
-    {
-      "path": "11-40/data.csv",
-      "name": "11-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Смртни случајеви у друмском саобраћају",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Број",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Смртни случајеви у друмском саобраћају"
-    },
-    {
-      "path": "8-40/data.csv",
-      "name": "8-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Стопа дуготрајне незапослености по полу",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Од 15 до 74 године",
-                ""
-              ]
-            },
-            "title": "Године"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат становништва у радној снази",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Стопа дуготрајне незапослености"
+      "title": "14-30"
     },
     {
       "path": "5-61/data.csv",
@@ -3034,8 +1092,32 @@
       "title": "Позиције које заузимају жене на вишим руководећим позицијама"
     },
     {
-      "path": "15-42/data.csv",
-      "name": "15-42",
+      "path": "17-31/data.csv",
+      "name": "17-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "17-31"
+    },
+    {
+      "path": "17-10/data.csv",
+      "name": "17-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3053,31 +1135,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Утицај суше на екосистеме",
+                "Нето примљена ODA (% БНД-а)",
                 ""
               ]
             },
             "title": "SDG Варијабле"
           },
           {
-            "name": "STATINFO",
+            "name": "PARTNER",
             "type": "string",
             "constraints": {
               "enum": [
-                "Годишња вриједност",
-                "Десетогодишњи просjек",
+                "Примаоци службене развојне помоћи (ОДА) од Одбора за развојну помоћ (ДАЦ)",
                 ""
               ]
             },
-            "title": "Статистичке информације"
+            "title": "Геополитички субјект (партнер)"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Квадратних километара",
-                "Проценат",
+                "Проценат бруто националног дохотка (БНД)",
                 ""
               ]
             },
@@ -3090,83 +1170,11 @@
           }
         ]
       },
-      "title": "Утицај суше на екосистеме"
+      "title": "Службена развојна помоћ као удио у бруто националном дохотку"
     },
     {
-      "path": "12-10/data.csv",
-      "name": "12-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "12-10"
-    },
-    {
-      "path": "15-50/data.csv",
-      "name": "15-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "15-50"
-    },
-    {
-      "path": "2-20/data.csv",
-      "name": "2-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "2-20"
-    },
-    {
-      "path": "7-40/data.csv",
-      "name": "7-40",
+      "path": "2-60/data.csv",
+      "name": "2-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3184,7 +1192,53 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Удио обновљиве енергије у укупној коначној потрошњи енергије",
+                "Емисије амонијака из пољопривреде",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "OOOт",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Емисије амонијака из пољопривреде"
+    },
+    {
+      "path": "11-60/data.csv",
+      "name": "11-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа рециклирања комуналног отпада",
                 ""
               ]
             },
@@ -3202,27 +1256,13 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Energy_balance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Обновљива енергија, укупно",
-                "Обновљива енергија, транспорт",
-                "Обновљива енергија, електрична енергија",
-                "Обновљива енергија, гријање и хлађење",
-                ""
-              ]
-            },
-            "title": "Енергетски биланс"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
           }
         ]
       },
-      "title": "Удио обновљиве енергије у укупној коначној потрошњи енергије"
+      "title": "Стопа рециклирања комуналног отпада"
     },
     {
       "path": "5-30/data.csv",
@@ -3296,104 +1336,8 @@
       "title": "Разлика у запослености међу половима, према врсти запослења"
     },
     {
-      "path": "17-31/data.csv",
-      "name": "17-31",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "17-31"
-    },
-    {
-      "path": "13-31/data.csv",
-      "name": "13-31",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "13-31"
-    },
-    {
-      "path": "2-53/data.csv",
-      "name": "2-53",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "2-53"
-    },
-    {
-      "path": "16-30/data.csv",
-      "name": "16-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "16-30"
-    },
-    {
-      "path": "10-60/data.csv",
-      "name": "10-60",
+      "path": "8-20/data.csv",
+      "name": "8-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3411,30 +1355,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Захтjеви за азил",
+                "Млади који нису запослени и нису у образовању или обуци",
                 ""
               ]
             },
             "title": "SDG Варијабле"
           },
           {
-            "name": "APPLICANT",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Подносилац који први пут подноси захтјев",
-                "Позитивна првостепена одлука",
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
                 ""
               ]
             },
-            "title": "Врста подносиоца"
+            "title": "Пол"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Од 15 до 29 година",
+                ""
+              ]
+            },
+            "title": "Године"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "На милион становника",
+                "Проценат укупног становништва",
                 ""
               ]
             },
@@ -3442,16 +1398,16 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Вриједност"
           }
         ]
       },
-      "title": "Захтjеви за азил"
+      "title": "Млади који нису запослени и нису у образовању или обуци"
     },
     {
-      "path": "11-32/data.csv",
-      "name": "11-32",
+      "path": "6-20/data.csv",
+      "name": "6-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3469,18 +1425,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Индекс прекривања тла",
+                "Становништво повезано на најмање секундарни третман отпадних вода",
                 ""
               ]
             },
             "title": "SDG Варијабле"
           },
           {
+            "name": "WW_TP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Пречишћавање градских, независних и других отпадних вода - најмање секундарни третман",
+                ""
+              ]
+            },
+            "title": "Постројења за пречишћавање отпадних вода"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Квадратни метри по глави становника",
+                "Проценат",
                 ""
               ]
             },
@@ -3493,11 +1460,11 @@
           }
         ]
       },
-      "title": "Индекс прекривања тла"
+      "title": "Становништво повезано на најмање секундарни третман отпадних вода"
     },
     {
-      "path": "17-10/data.csv",
-      "name": "17-10",
+      "path": "16-70/data.csv",
+      "name": "16-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3515,29 +1482,77 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Нето примљена ODA (% БНД-а)",
+                "Жртве трговине људима по полу",
                 ""
               ]
             },
             "title": "SDG Варијабле"
           },
           {
-            "name": "PARTNER",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Примаоци службене развојне помоћи (ОДА) од Одбора за развојну помоћ (ДАЦ)",
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
                 ""
               ]
             },
-            "title": "Геополитички субјект (партнер)"
+            "title": "Пол"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Проценат бруто националног дохотка (БНД)",
+                "Број",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Жртве трговине људима по полу"
+    },
+    {
+      "path": "8-60/data.csv",
+      "name": "8-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Смртоносне несреће на раду на 100 000 радника",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа инциденције",
                 ""
               ]
             },
@@ -3550,11 +1565,11 @@
           }
         ]
       },
-      "title": "Службена развојна помоћ као удио у бруто националном дохотку"
+      "title": "Смртоноснe несрећe на раду на 100 000 радника"
     },
     {
-      "path": "12-41/data.csv",
-      "name": "12-41",
+      "path": "12-31/data.csv",
+      "name": "12-31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3574,7 +1589,99 @@
           }
         ]
       },
-      "title": "12-41"
+      "title": "12-31"
+    },
+    {
+      "path": "17-60/data.csv",
+      "name": "17-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Покривеност брзим интернетом према врсти подручја",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Сва подручја",
+                ""
+              ]
+            },
+            "title": "Степен урбанизације"
+          },
+          {
+            "name": "INET_TEC",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Фиксне мреже веома великог капацитета (VHCN)",
+                ""
+              ]
+            },
+            "title": "Интернет технологије"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат домаћинстава",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Покривеност брзим интернетом према врсти подручја"
+    },
+    {
+      "path": "10-50/data.csv",
+      "name": "10-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "10-50"
     },
     {
       "path": "14-10/data.csv",
@@ -3601,8 +1708,8 @@
       "title": "14-10"
     },
     {
-      "path": "2-60/data.csv",
-      "name": "2-60",
+      "path": "5-50/data.csv",
+      "name": "5-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3620,18 +1727,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Емисије амонијака из пољопривреде",
+                "Мjеста која жене заузимају у националним парламентима и владама",
                 ""
               ]
             },
             "title": "SDG Варијабле"
           },
           {
+            "name": "ORG_INST",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Национални парламент",
+                "Национална влада",
+                ""
+              ]
+            },
+            "title": "Националне и међународне организације и институције"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "OOOт",
+                "Проценат жена",
                 ""
               ]
             },
@@ -3644,11 +1774,11 @@
           }
         ]
       },
-      "title": "Емисије амонијака из пољопривреде"
+      "title": "Мjеста која жене заузимају у националним парламентима и владама"
     },
     {
-      "path": "4-20/data.csv",
-      "name": "4-20",
+      "path": "8-10/data.csv",
+      "name": "8-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3666,46 +1796,58 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Високо образовање према полу, особе старости од 25 до 34 године са високошколском дипломом",
+                "Реални БДП по глави становника",
                 ""
               ]
             },
             "title": "SDG Варијабле"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Високо образовање (нивои 5-8)",
+                "Ланчано повезани обими (2020), евро по глави становника",
+                "Ланчано повезани обими, процентуална промјена у относу на претходни период, по глави становника",
                 ""
               ]
             },
-            "title": "Ниво образовања"
+            "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "Мушкарци",
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Реални БДП по глави становника"
+    },
+    {
+      "path": "6-30/data.csv",
+      "name": "6-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
           },
           {
-            "name": "AGE",
+            "name": "SERIES",
             "type": "string",
             "constraints": {
               "enum": [
-                "од 25 до 34 године",
+                "Удио водних тијела са добром квалитетом површинских и подземних вода - замјенски индикатор",
                 ""
               ]
             },
-            "title": "Године"
+            "title": "SDG Варијабле"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3725,35 +1867,11 @@
           }
         ]
       },
-      "title": "Високо образовање према полу"
+      "title": "Удио водних тијела са добром квалитетом површинских и подземних вода - замјенски индикатор"
     },
     {
-      "path": "5-20/data.csv",
-      "name": "5-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "5-20"
-    },
-    {
-      "path": "5-40/data.csv",
-      "name": "5-40",
+      "path": "13-40/data.csv",
+      "name": "13-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3771,53 +1889,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Лица ван радне снаге због обавеза бриге о другима по полу",
+                "Економски губици повезани са климатским промjенама",
                 ""
               ]
             },
             "title": "SDG Варијабле"
           },
           {
-            "name": "Reason",
+            "name": "STATINFO",
             "type": "string",
             "constraints": {
               "enum": [
-                "Брига о одраслима са инвалидитетом или дјеци",
+                "Годишња вриједност",
+                "Тридесетогодишњи просjек",
                 ""
               ]
             },
-            "title": "Разлог"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "од 20 до 64 године",
-                ""
-              ]
-            },
-            "title": "Године"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "Жене",
-                ""
-              ]
-            },
-            "title": "Пол"
+            "title": "Статистичке информације"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Проценат укупног становништва",
-                "Проценат становништва ван радне снаге која жели да ради",
+                "Милион евра по константним цијенама",
+                "Евро по становнику (по константним цијенама)",
                 ""
               ]
             },
@@ -3830,7 +1926,112 @@
           }
         ]
       },
-      "title": "Лица ван радне снаге због обавеза бриге о другима по полу"
+      "title": "Економски губици због екстремних временских услова и климе"
+    },
+    {
+      "path": "3-12/data.csv",
+      "name": "3-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Очекивани животни вијек у добром здрављу на основу самопроцјене здравственог стања",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Година",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Очекивани животни вијек у добром здрављу на основу самопроцјене здравственог стања"
+    },
+    {
+      "path": "1-20/data.csv",
+      "name": "1-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Јаз сиромаштва на 8,30 USD дневно (ПКМ за 2021. годину) (%) - замјенски индикатор",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Јаз сиромаштва на 8,30 USD дневно (ПКМ за 2021. годину) (%) – замјенски индикатор"
     },
     {
       "path": "3-42/data.csv",
@@ -3857,8 +2058,8 @@
       "title": "3-42"
     },
     {
-      "path": "8-11/data.csv",
-      "name": "8-11",
+      "path": "16-20/data.csv",
+      "name": "16-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3878,11 +2079,11 @@
           }
         ]
       },
-      "title": "8-11"
+      "title": "16-20"
     },
     {
-      "path": "15-20/data.csv",
-      "name": "15-20",
+      "path": "13-70/data.csv",
+      "name": "13-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3896,35 +2097,13 @@
             "title": "Година"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Земљишта под заштитом",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
           }
         ]
       },
-      "title": "Заштићена копнена подручја"
+      "title": "13-70"
     },
     {
       "path": "12-51/data.csv",
@@ -3984,6 +2163,969 @@
         ]
       },
       "title": "Настанак отпада према опасности"
+    },
+    {
+      "path": "8-30/data.csv",
+      "name": "8-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа запослености",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "од 20 до 64 године",
+                ""
+              ]
+            },
+            "title": "Године"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Стопа запослености"
+    },
+    {
+      "path": "13-21/data.csv",
+      "name": "13-21",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Нето емисије гасова стаклене баште у сектору LULUCF",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Хиљаду тона еквивалента CO2",
+                "Тоне по глави становника",
+                "T_KM2",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Нето емисије гасова са ефектом стаклене баште сектора Коришћење земљишта, промене коришћења земљишта и шумарство (LULUCF)"
+    },
+    {
+      "path": "10-30/data.csv",
+      "name": "10-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "10-30"
+    },
+    {
+      "path": "7-20/data.csv",
+      "name": "7-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Коначна потрошња енергије у домаћинствима по глави становника",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Килограм еквивалента нафте",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Коначна потрошња енергије у домаћинствима по глави становника"
+    },
+    {
+      "path": "1-31/data.csv",
+      "name": "1-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "1-31"
+    },
+    {
+      "path": "13-31/data.csv",
+      "name": "13-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "13-31"
+    },
+    {
+      "path": "10-41/data.csv",
+      "name": "10-41",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Џинијев индекс - замјенски индикатор",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Џинијев индекс - замјенски индикатор"
+    },
+    {
+      "path": "2-40/data.csv",
+      "name": "2-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Површина под органском пољопривредом",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "AGPRDMET",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупне сертификоване површине и површине у прелазном периоду на органску производњу",
+                ""
+              ]
+            },
+            "title": "Методе пољопривредне производње"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Удио у укупној коришћеној пољопривредној површини",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Површина под органском пољопривредом"
+    },
+    {
+      "path": "12-10/data.csv",
+      "name": "12-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "12-10"
+    },
+    {
+      "path": "14-50/data.csv",
+      "name": "14-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "14-50"
+    },
+    {
+      "path": "1-41/data.csv",
+      "name": "1-41",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "1-41"
+    },
+    {
+      "path": "3-60/data.csv",
+      "name": "3-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "3-60"
+    },
+    {
+      "path": "9-70/data.csv",
+      "name": "9-70",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "9-70"
+    },
+    {
+      "path": "1-40/data.csv",
+      "name": "1-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "1-40"
+    },
+    {
+      "path": "4-31/data.csv",
+      "name": "4-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Учешће у образовању у раном дјетињству по полу (дјеца узраста 3 године и више)",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Учешће у образовању у раном дјетињству по полу (дјеца узраста 3 године и више)"
+    },
+    {
+      "path": "15-11/data.csv",
+      "name": "15-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Шумска површина",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Шумска површина"
+    },
+    {
+      "path": "10-20/data.csv",
+      "name": "10-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "10-20"
+    },
+    {
+      "path": "14-40/data.csv",
+      "name": "14-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "14-40"
+    },
+    {
+      "path": "11-52/data.csv",
+      "name": "11-52",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Преране смртности због изложености финим честицама (PM2,5)",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Број",
+                "Стопа",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Преране смрти због изложености финим честицама (PM2.5)"
+    },
+    {
+      "path": "7-60/data.csv",
+      "name": "7-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Популација која није у могућности да обезбиједи адекватно загријaвање дома"
+    },
+    {
+      "path": "9-60/data.csv",
+      "name": "9-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "9-60"
+    },
+    {
+      "path": "17-20/data.csv",
+      "name": "17-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "17-20"
+    },
+    {
+      "path": "1-10/data.csv",
+      "name": "1-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа сиромаштва према прагу од 8,30 USD дневно (ПКМ за 2021. годину) (% становништва) - замјенски индикатор",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Стопа сиромаштва према прагу од 8,30 USD дневно (ПКМ за 2021. годину) (% становништва) - замјенски индикатор"
+    },
+    {
+      "path": "16-50/data.csv",
+      "name": "16-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Индекс перцепције корупције",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Резултат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Индекс перцепције корупције"
+    },
+    {
+      "path": "6-60/data.csv",
+      "name": "6-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Индекс експлоатације воде, плус (WEI+)",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "STATINFO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Годишња вриједност",
+                "Четворогодишњи просjек",
+                ""
+              ]
+            },
+            "title": "Статистичке информације"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Индекс експлоатације воде, плус (WEI+)"
+    },
+    {
+      "path": "1-50/data.csv",
+      "name": "1-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Приступачно становање - замјенски индикатор",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Однос цjене и прихода",
+                "Индекс приступачности",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Приступачно становање - замјенски индикатор"
+    },
+    {
+      "path": "15-61/data.csv",
+      "name": "15-61",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "15-61"
     },
     {
       "path": "4-10/data.csv",
@@ -4067,8 +3209,8 @@
       "title": "Рано напуштање образовања и обуке по полу"
     },
     {
-      "path": "11-20/data.csv",
-      "name": "11-20",
+      "path": "8-40/data.csv",
+      "name": "8-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4082,17 +3224,107 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа дуготрајне незапослености по полу",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Од 15 до 74 године",
+                ""
+              ]
+            },
+            "title": "Године"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат становништва у радној снази",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
           }
         ]
       },
-      "title": "11-20"
+      "title": "Стопа дуготрајне незапослености"
     },
     {
-      "path": "17-20/data.csv",
-      "name": "17-20",
+      "path": "15-20/data.csv",
+      "name": "15-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Земљишта под заштитом",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Заштићена копнена подручја"
+    },
+    {
+      "path": "2-20/data.csv",
+      "name": "2-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4112,7 +3344,730 @@
           }
         ]
       },
-      "title": "17-20"
+      "title": "2-20"
+    },
+    {
+      "path": "17-50/data.csv",
+      "name": "17-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Удио еколошких пореза у укупним пореским приходима",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат од укупних прихода од пореза и социјалних доприноса (искључујући импутиране социјалне доприносе)",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Удио еколошких пореза у укупним пореским приходима"
+    },
+    {
+      "path": "12-41/data.csv",
+      "name": "12-41",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Степен кружне употребе материјала",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "12-41"
+    },
+    {
+      "path": "7-11/data.csv",
+      "name": "7-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Финална потрошња енергије",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Милион тона еквивалента nafte",
+                "Тоне еквивалента нафте (TOE) по глави становника",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Финална потрошња енергије"
+    },
+    {
+      "path": "9-10/data.csv",
+      "name": "9-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Бруто домаћа потрошња за истраживање и развој по секторима",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "SECTPERF",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Сви сектори",
+                "Сектор предузећа",
+                "Владини сектор",
+                "Сектор високог образовања",
+                "Приватни непрофитни сектор",
+                ""
+              ]
+            },
+            "title": "Сектор учинка"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат бруто домаћег производа (БДП)",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Бруто домаћа потрошња за истраживање и развој"
+    },
+    {
+      "path": "4-60/data.csv",
+      "name": "4-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Учешће одраслих у учењу у посљедње четири недеље по полу",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "од 25 до 64 године",
+                ""
+              ]
+            },
+            "title": "Године"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Учешће одраслих у учењу по полу"
+    },
+    {
+      "path": "11-40/data.csv",
+      "name": "11-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Смртни случајеви у друмском саобраћају",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Број",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Смртни случајеви у друмском саобраћају"
+    },
+    {
+      "path": "14-60/data.csv",
+      "name": "14-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "14-60"
+    },
+    {
+      "path": "4-20/data.csv",
+      "name": "4-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Високо образовање према полу, особе старости од 25 до 34 године са високошколском дипломом",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Високо образовање (нивои 5-8)",
+                ""
+              ]
+            },
+            "title": "Ниво образовања"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Мушкарци",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "од 25 до 34 године",
+                ""
+              ]
+            },
+            "title": "Године"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Високо образовање према полу"
+    },
+    {
+      "path": "15-42/data.csv",
+      "name": "15-42",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Утицај суше на екосистеме",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "STATINFO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Годишња вриједност",
+                "Десетогодишњи просjек",
+                ""
+              ]
+            },
+            "title": "Статистичке информације"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Квадратних километара",
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Утицај суше на екосистеме"
+    },
+    {
+      "path": "10-60/data.csv",
+      "name": "10-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Захтjеви за азил",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "APPLICANT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Подносилац који први пут подноси захтјев",
+                "Позитивна првостепена одлука",
+                ""
+              ]
+            },
+            "title": "Врста подносиоца"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "На милион становника",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Захтjеви за азил"
+    },
+    {
+      "path": "5-40/data.csv",
+      "name": "5-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Лица ван радне снаге због обавеза бриге о другима по полу",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "Reason",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Брига о одраслима са инвалидитетом или дјеци",
+                ""
+              ]
+            },
+            "title": "Разлог"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "од 20 до 64 године",
+                ""
+              ]
+            },
+            "title": "Године"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Жене",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                "Проценат становништва ван радне снаге која жели да ради",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Лица ван радне снаге због обавеза бриге о другима по полу"
+    },
+    {
+      "path": "5-11/data.csv",
+      "name": "5-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Физичко и сексуално насиље над женама по старосним групама",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Од 18 до 74 године",
+                ""
+              ]
+            },
+            "title": "Године"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Физичко и сексуално насиље над женама по старосним групама"
+    },
+    {
+      "path": "7-10/data.csv",
+      "name": "7-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Примарна потрошња енергије",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Милион тона еквивалента nafte",
+                "Тоне еквивалента нафте (TOE) по глави становника",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Примарна потрошња енергије"
     },
     {
       "path": "9-50/data.csv",
@@ -4137,100 +4092,6 @@
         ]
       },
       "title": "9-50"
-    },
-    {
-      "path": "15-11/data.csv",
-      "name": "15-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Шумска површина",
-                ""
-              ]
-            },
-            "title": "SDG Варијабле"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Проценат",
-                ""
-              ]
-            },
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Шумска површина"
-    },
-    {
-      "path": "6-70/data.csv",
-      "name": "6-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Пестициди у ријекама"
-    },
-    {
-      "path": "10-50/data.csv",
-      "name": "10-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "10-50"
     },
     {
       "path": "16-10/data.csv",
@@ -4292,8 +4153,8 @@
       "title": "Стандардизована стопа смртности због убистава"
     },
     {
-      "path": "1-41/data.csv",
-      "name": "1-41",
+      "path": "11-32/data.csv",
+      "name": "11-32",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4307,17 +4168,39 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Индекс прекривања тла",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Квадратни метри по глави становника",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
           }
         ]
       },
-      "title": "1-41"
+      "title": "Индекс прекривања тла"
     },
     {
-      "path": "10-30/data.csv",
-      "name": "10-30",
+      "path": "2-10/data.csv",
+      "name": "2-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4331,17 +4214,52 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Стопа гојазности према индексу тjелесне масе (BMI)",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Body_Mass_Index",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Прекомјерна тежина",
+                "Предгојазност",
+                "Гојазност",
+                ""
+              ]
+            },
+            "title": "Индекс тjелесне масе"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
           }
         ]
       },
-      "title": "10-30"
+      "title": "Стопа гојазности према индексу тjелесне масе (BMI)"
     },
     {
-      "path": "3-60/data.csv",
-      "name": "3-60",
+      "path": "12-21/data.csv",
+      "name": "12-21",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4361,11 +4279,11 @@
           }
         ]
       },
-      "title": "3-60"
+      "title": "12-21"
     },
     {
-      "path": "6-50/data.csv",
-      "name": "6-50",
+      "path": "8-11/data.csv",
+      "name": "8-11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4385,11 +4303,11 @@
           }
         ]
       },
-      "title": "Фосфат у ријекама"
+      "title": "8-11"
     },
     {
-      "path": "13-50/data.csv",
-      "name": "13-50",
+      "path": "10-10/data.csv",
+      "name": "10-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4403,13 +4321,117 @@
             "title": "Година"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "БДП по глави становника прилагођен куповној моћи",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "INDIC_PPP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Реални расходи по глави становника (у PPS_EU27_2020)",
+                "Индекси обима реалних расхода по глави становника (у PPS_EU27_2020=100)",
+                ""
+              ]
+            },
+            "title": "Индикатор паритета куповне моћи"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
           }
         ]
       },
-      "title": "13-50"
+      "title": "БДП по глави становника прилагођен куповној моћи"
+    },
+    {
+      "path": "4-40/data.csv",
+      "name": "4-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Петнаестогодишњаци са слабим успјехом  у читању, математици или природним наукама",
+                ""
+              ]
+            },
+            "title": "SDG Варијабле"
+          },
+          {
+            "name": "EDUCATIONAL_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Читање",
+                "Математика",
+                "Природне науке",
+                ""
+              ]
+            },
+            "title": "ОБЛАСТ ОБРАЗОВАЊА"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Проценат укупног становништва",
+                ""
+              ]
+            },
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Петнаестогодишњаци са слабим успјехом у читању, математици или природним наукама"
     }
   ]
 }

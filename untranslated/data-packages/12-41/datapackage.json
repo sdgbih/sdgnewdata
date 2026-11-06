@@ -15,6 +15,26 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sdg_12_41",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PC",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
