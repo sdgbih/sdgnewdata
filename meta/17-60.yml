@@ -7,8 +7,8 @@ graph_type: bar
 indicator_sort_order: '17-60'
 indicator_name: global_indicators.17-60-title
 source_active_1: true
-source_organisation_1: 'StateGlobe Research'
-source_url_1: 'https://data.stateglobe.com/bosnia-and-herzegovina/fiber-optic-coverage-statistics'
+source_organisation_1: RAK, BHAS
+source_url_1:
 graph_titles:
 - series: SERIES.sdg_17_60
   title: SERIES.sdg_17_60  
