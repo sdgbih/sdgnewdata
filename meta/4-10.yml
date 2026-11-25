@@ -19,7 +19,7 @@ progress_calculation_options:
         value: Y18_24
     direction: negative
 source_active_1: true
-source_organisation_1: BHAS, EUROSTAT (EU-LFS)
+source_organisation_1: BHAS
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_04_10/default/table'
 footer_fields:
   - label: global_indicators.metadata-footer-label
