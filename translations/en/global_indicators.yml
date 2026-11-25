@@ -239,13 +239,23 @@ metadata-footer-label: Reference metadata
 3-30-title: Smoking prevalence by sex
 3-30-definition: >-
   This indicator measures the percentage of the population aged 15 years and over who report they currently smoke boxed cigarettes, cigars, cigarillos or a pipe. It does not include the use of other tobacco and related products such as electronic cigarettes and snuff. The data are collected through a Eurobarometer survey and are based on self-reported use during face-to-face interviews in people’s homes.
+3-30-definition_national: >-
+  This indicator measures the age-standardized prevalence of current tobacco use among the population of Bosnia and Herzegovina aged 15 years and over. It covers people who use tobacco products on a daily or non-daily basis, including both smoked and smokeless tobacco products. The indicator provides insight into the prevalence of tobacco use in the population and enables changes to be monitored over time.
 3-30-intention: >-
   It is used to monitor progress towards SDG 3 on good health and well-being which is embedded in the European Commission’s 2024-2029 Priorities under 'Supporting people, strenghtening our societes and our social model'.
+3-30-intention_national: >-
+  The data source is the World Health Organization (WHO), which publishes estimates of the prevalence of tobacco use among the population aged 15 years and over. The estimates are based on available data from national surveys and statistical modelling of time trends, with age-standardization applied to enable international comparability. Due to the use of modelling, the published values for individual years may not represent direct results from a survey conducted in that particular year.
+  Progress is calculated automatically by comparing the indicator values with the 2015 base year, using 2030 as the target year. Given the negative direction of the indicator, a decrease in the value compared with the base year is interpreted as progress. The displayed progress status is the result of an automatic calculation based on available data and the defined parameters; it does not represent an assessment of achievement against a specific national target.
 3-30-methodology: >-
   The indicator can be considered as similar to global SDG indicator 3.a.1 "Age-standardized prevalence of current tobacco use among persons aged 15 years and older".
   Several EU Directives aim to protect citizens from the hazardous effects of smoking, including the Tobacco Products Directive, the Tobacco Advertising Directive and the Tobacco Taxation Directive.
+3-30-methodology_national: >-
+  The indicator covers the population aged 15 years and over and is methodologically aligned with global SDG indicator 3.a.1 – Age-standardized prevalence of current tobacco use among persons aged 15 years and older. It covers the use of both smoked and smokeless tobacco products, while electronic cigarettes and similar non-tobacco products are excluded. WHO estimates enable international comparisons and the monitoring of changes over time.
 3-30-long_term_objective: >-
   The long-term objective for this indicator is a value of 12
+3-30-long_term_objective_national: >-
+  Tobacco use represents a significant public health challenge in Bosnia and Herzegovina due to its association with an increased risk of non-communicable diseases.
+  Reducing tobacco use is an important public health commitment, in line with the objectives of the World Health Organization and the global Sustainable Development Goals. However, available sources do not confirm a specific quantitative national target for reducing the prevalence of tobacco use by 2030. Monitoring this indicator enables changes in prevalence to be assessed and progress in reducing tobacco use in Bosnia and Herzegovina to be monitored.
 3-42-title: Standardised preventable and treatable mortality
 3-42-definition: >-
   Avoidable mortality covers both preventable and treatable causes of mortality. Preventable mortality refers to mortality that can mainly be avoided through effective public health and primary prevention interventions (carried out before the onset of diseases/injuries to reduce incidence). Treatable mortality can mainly be avoided through timely and effective health care interventions, including secondary prevention and treatment (after the onset of diseas.
