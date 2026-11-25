@@ -19,7 +19,7 @@ graph_type: line
 indicator_sort_order: '03-30'
 indicator_name: global_indicators.3-30-title
 source_active_1: true
-source_organisation_1: DG SANTE (Eurobarometer)
+source_organisation_1: WHO, DG SANTE (Eurobarometer)
 source_url_1: 'https://statbase.org/data/bih-percentage-of-people-who-smoke-by-gender/'
 graph_titles:
 - series: SERIES.sdg_03_30
