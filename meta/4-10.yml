@@ -27,10 +27,10 @@ footer_fields:
 graph_titles:
 - series: SERIES.sdg_04_10
   title: SERIES.sdg_04_10
-national_indicator_definition: global_indicators.4-10-definition
-national_rationale: global_indicators.4-10-intention
-national_methodology_characteristics: global_indicators.4-10-methodology
-national_long_objective: global_indicators.4-10-long_term_objective
+national_indicator_definition: global_indicators.4-10-definition_national
+national_rationale: global_indicators.4-10-intention_national
+national_methodology_characteristics: global_indicators.4-10-methodology_national
+national_long_objective: global_indicators.4-10-long_term_objective_national
 eu_indicator_definition: global_indicators.4-10-definition
 eu_rationale: global_indicators.4-10-intention
 eu_methodology_characteristics: global_indicators.4-10-methodology
