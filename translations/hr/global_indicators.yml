@@ -241,13 +241,23 @@ metadata-footer-label: Referentni metapodaci
 3-30-title: Prevalencija pušenja prema spolu
 3-30-definition: >-
   Ovaj pokazatelj mjeri postotak stanovništva starijeg od 15 godina koje izvještava da trenutno puši cigarete, cigare, cigarilose ili lulu. Ne uključuje uporabu drugih duhanskih i srodnih proizvoda kao što su elektroničke cigarete i snuf. Podaci se prikupljaju putem istraživanja Eurobarometra i temelje se na osobnoj upotrebi tijekom razgovora uživo u domovima ljudi.
+3-30-definition_national: >-
+  Ovaj pokazatelj mjeri dobno standardiziranu prevalenciju trenutačne uporabe duhanskih proizvoda među stanovništvom Bosne i Hercegovine starijim od 15 godina. Obuhvaća osobe koje svakodnevno ili povremeno koriste duhanske proizvode, uključujući proizvode koji se puše i one koji se ne puše. Pokazatelj pruža uvid u raširenost uporabe duhana u stanovništvu i omogućuje praćenje promjena tijekom vremena.
 3-30-intention: >-
   Koristi se za praćenje napretka prema cilju održivog razvoja 3 o dobrom zdravlju i dobrobiti koji je ugrađen u prioritete Europske komisije za razdoblje 2024.-2029. pod naslovom „Podrška ljudima, jačanje našeg društva i našeg socijalnog modela”.
+3-30-intention_national: >-
+  Izvor podataka je Svjetska zdravstvena organizacija (WHO), koja objavljuje procjene prevalencije uporabe duhanskih proizvoda među stanovništvom starijim od 15 godina. Procjene se temelje na raspoloživim podacima nacionalnih istraživanja i statističkom modeliranju vremenskih trendova, uz primjenu dobne standardizacije radi omogućavanja međunarodne usporedivosti. Zbog primjene modeliranja, objavljene vrijednosti za pojedine godine ne moraju predstavljati neposredne rezultate istraživanja provedenog upravo u toj godini.
+  Napredak se automatski izračunava usporedbom vrijednosti pokazatelja s baznom 2015. godinom, uz 2030. godinu kao ciljano razdoblje. S obzirom na negativan smjer pokazatelja, smanjenje vrijednosti u odnosu na baznu godinu tumači se kao napredak. Prikazani status napretka rezultat je automatskog izračuna na temelju raspoloživih podataka i definiranih parametara, a ne ocjena ostvarivanja posebne nacionalne ciljne vrijednosti.
 3-30-methodology: >-
   Pokazatelj se može smatrati sličnim globalnom pokazatelju ciljeva održivog razvoja 3.a.1 „Starosno standardizirana prevalencija trenutne uporabe duhana kod osoba u dobi od 15 godina i starijih“.
   Nekoliko direktiva EU-a ima za cilj zaštititi građane od opasnih učinaka pušenja, uključujući Direktivu o duhanskim proizvodima, Direktivu o oglašavanju duhana i Direktivu o oporezivanju duhana.
+3-30-methodology_national: >-
+  Pokazatelj obuhvaća stanovništvo starije od 15 godina i metodološki je usklađen s globalnim pokazateljem SDG 3.a.1 – Dobno standardizirana prevalencija trenutačne uporabe duhana među osobama u dobi od 15 godina i starijima. Obuhvaća uporabu duhanskih proizvoda koji se puše i onih koji se ne puše, dok elektroničke cigarete i slični proizvodi bez duhana nisu uključeni. Procjene WHO-a omogućuju međunarodnu usporedbu i praćenje promjena tijekom vremena.
 3-30-long_term_objective: >-
   Dugoročni cilj za ovaj pokazatelj je vrijednost od 12
+3-30-long_term_objective_national: >-
+  Uporaba duhana predstavlja značajan javnozdravstveni izazov u Bosni i Hercegovini zbog njezine povezanosti s povećanim rizikom od kroničnih nezaraznih bolesti.
+  Smanjenje uporabe duhanskih proizvoda predstavlja važno javnozdravstveno opredjeljenje, u skladu s ciljevima Svjetske zdravstvene organizacije i globalnim ciljevima održivog razvoja. Međutim, u dostupnim izvorima nije potvrđena posebna kvantitativna nacionalna ciljna vrijednost za smanjenje prevalencije uporabe duhana do 2030. godine. Praćenje ovog pokazatelja omogućuje sagledavanje kretanja prevalencije i procjenu napretka u smanjenju uporabe duhanskih proizvoda u Bosni i Hercegovini.
 3-42-title: Standardizirani mortalitet koji se može spriječiti i liječiti
 3-42-definition: >-
   Smrtnost koja se može izbjeći obuhvaća uzroke smrtnosti koji se mogu spriječiti i liječiti. Smrtnost koja se može spriječiti odnosi se na smrtnost koja se uglavnom može izbjeći učinkovitim javnozdravstvenim i primarnim preventivnim intervencijama (koje se provode prije pojave bolesti/ozljeda kako bi se smanjila incidencija). Smrtnost koja se može liječiti uglavnom se može izbjeći pravovremenim i učinkovitim zdravstvenim intervencijama, uključujući sekundarnu prevenciju i liječenje (nakon pojave bolesti).
