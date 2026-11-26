@@ -7,8 +7,6 @@ auto_progress_calculation: true
 progress_calculation_options:
   - series: sdg_04_31
     unit: PT
-    target: 96
-    target_year: 2030
     direction: positive
 graph_type: line
 indicator_sort_order: '04-31'
