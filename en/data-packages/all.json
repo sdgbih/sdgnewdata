@@ -3,8 +3,32 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "9-30/data.csv",
-      "name": "9-30",
+      "path": "12-21/data.csv",
+      "name": "12-21",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-21"
+    },
+    {
+      "path": "12-51/data.csv",
+      "name": "12-51",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -22,44 +46,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "R&D personnel",
+                "Generation of waste by hazardousness",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
-            "name": "SEX",
+            "name": "HAZARD_WASTE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Both sexes",
+                "Hazardous and non-hazardous waste, total",
+                "Hazardous waste",
+                "Non-hazardous waste",
                 ""
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "SECTPERF",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All sectors",
-                "Business enterprise sector",
-                "Government sector",
-                "Higher education sector",
-                "Private non-profit sector",
-                ""
-              ]
-            },
-            "title": "Sector of performance"
+            "title": "Hazard waste class"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of population in the labour force - numerator in full - time equivalent (FTE)",
+                "Kilograms per capita",
                 ""
               ]
             },
@@ -67,16 +78,16 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
       },
-      "title": "R&D personnel"
+      "title": "Generation of waste by hazardousness"
     },
     {
-      "path": "17-20/data.csv",
-      "name": "17-20",
+      "path": "5-20/data.csv",
+      "name": "5-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -96,230 +107,7 @@
           }
         ]
       },
-      "title": "17-20"
-    },
-    {
-      "path": "3-42/data.csv",
-      "name": "3-42",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-42"
-    },
-    {
-      "path": "14-30/data.csv",
-      "name": "14-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "14-30"
-    },
-    {
-      "path": "12-61/data.csv",
-      "name": "12-61",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-61"
-    },
-    {
-      "path": "4-70/data.csv",
-      "name": "4-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Share of individuals having at least basic digital skills, by sex",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of individuals",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Type_of_skill",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Individuals with basic or above basic overall digital skills (all five component indicators are at basic or above basic level)",
-                ""
-              ]
-            },
-            "title": "Type of skill"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 to 74 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Share of individuals having at least basic digital skills, by sex"
-    },
-    {
-      "path": "13-70/data.csv",
-      "name": "13-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "13-70"
-    },
-    {
-      "path": "8-60/data.csv",
-      "name": "8-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fatal accidents at work per 100 000 workers",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Incidence rate",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Fatal accidents at work per 100 000 workers"
+      "title": "5-20"
     },
     {
       "path": "6-30/data.csv",
@@ -368,8 +156,8 @@
       "title": "Proportion of bodies of water with good ambient water quality - proxy indicator"
     },
     {
-      "path": "17-10/data.csv",
-      "name": "17-10",
+      "path": "17-60/data.csv",
+      "name": "17-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -387,29 +175,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Net ODA received (% of GNI)",
+                "High-speed internet coverage, by type of area",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
-            "name": "PARTNER",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC)",
+                "All areas",
                 ""
               ]
             },
-            "title": "Geopolitical entity (partner)"
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "INET_TEC",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed very high capacity networks (VHCN)",
+                ""
+              ]
+            },
+            "title": "Internet technologies"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of gross national income (GNI)",
+                "Percentage of households",
                 ""
               ]
             },
@@ -422,7 +221,172 @@
           }
         ]
       },
-      "title": "Official development assistance as share of gross national income"
+      "title": "High-speed internet coverage, by type of area"
+    },
+    {
+      "path": "14-50/data.csv",
+      "name": "14-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "14-50"
+    },
+    {
+      "path": "1-50/data.csv",
+      "name": "1-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Affordable Housing - proxy indicator",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Price-to-income ratio",
+                "Affordability index",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Affordable Housing - proxy indicator"
+    },
+    {
+      "path": "13-31/data.csv",
+      "name": "13-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "13-31"
+    },
+    {
+      "path": "1-40/data.csv",
+      "name": "1-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1-40"
+    },
+    {
+      "path": "7-20/data.csv",
+      "name": "7-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Final energy consumption in households per capita",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilogram of oil equivalent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Final energy consumption in households per capita"
     },
     {
       "path": "9-70/data.csv",
@@ -449,56 +413,8 @@
       "title": "9-70"
     },
     {
-      "path": "16-30/data.csv",
-      "name": "16-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-30"
-    },
-    {
-      "path": "12-21/data.csv",
-      "name": "12-21",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-21"
-    },
-    {
-      "path": "16-70/data.csv",
-      "name": "16-70",
+      "path": "11-40/data.csv",
+      "name": "11-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -516,24 +432,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of trafficking in human beings by sex",
+                "Road traffic deaths",
                 ""
               ]
             },
             "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -553,7 +456,75 @@
           }
         ]
       },
-      "title": "Victims of trafficking in human beings by sex"
+      "title": "Road traffic deaths"
+    },
+    {
+      "path": "8-40/data.csv",
+      "name": "8-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Long-term unemployment rate by sex",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 74 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of population in the labour force",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Long - term unemployment rate"
     },
     {
       "path": "3-60/data.csv",
@@ -580,8 +551,67 @@
       "title": "3-60"
     },
     {
-      "path": "16-20/data.csv",
-      "name": "16-20",
+      "path": "3-12/data.csv",
+      "name": "3-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Healthy life expectancy based on self-perceived health",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Year",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Healthy life expectancy - proxy indicator"
+    },
+    {
+      "path": "14-21/data.csv",
+      "name": "14-21",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -601,11 +631,11 @@
           }
         ]
       },
-      "title": "16-20"
+      "title": "14-21"
     },
     {
-      "path": "5-11/data.csv",
-      "name": "5-11",
+      "path": "7-50/data.csv",
+      "name": "7-50",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -623,18 +653,201 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Physical and sexual violence to women by age group",
+                "Energy import dependency",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
+            "name": "Standard_international_energy_product_classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Solid fossil fuels",
+                "Oil and petroleum products (excluding biofuel portion)",
+                "Natural gas",
+                ""
+              ]
+            },
+            "title": "Standard international energy product classification"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Energy import dependency"
+    },
+    {
+      "path": "9-10/data.csv",
+      "name": "9-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross domestic expenditure on R&D by sector",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SECTPERF",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All sectors",
+                "Business enterprise sector",
+                "Government sector",
+                "Higher education sector",
+                "Private non-profit sector",
+                ""
+              ]
+            },
+            "title": "Sector of performance"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of gross domestic product (GDP)",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Gross domestic expenditure on R&D"
+    },
+    {
+      "path": "3-42/data.csv",
+      "name": "3-42",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-42"
+    },
+    {
+      "path": "17-31/data.csv",
+      "name": "17-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-31"
+    },
+    {
+      "path": "5-30/data.csv",
+      "name": "5-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gender employment gap, by type of employment",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Labour_force_and_employment_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Employed persons",
+                "Employed persons working part-time",
+                "Employed persons with temporary contract",
+                "Underemployed persons working part-time",
+                ""
+              ]
+            },
+            "title": "Labour force and employment status"
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "18 to 74 years old",
+                "20 to 64 years old",
                 ""
               ]
             },
@@ -658,11 +871,11 @@
           }
         ]
       },
-      "title": "Physical and sexual violence to women by age group"
+      "title": "Gender employment gap, by type of employment"
     },
     {
-      "path": "13-10/data.csv",
-      "name": "13-10",
+      "path": "11-52/data.csv",
+      "name": "11-52",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -680,7 +893,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Net greenhouse gas emissions",
+                "Premature deaths due to exposure to fine particulate matter (PM2.5)",
                 ""
               ]
             },
@@ -691,9 +904,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million tons of CO2 equivalent",
-                "Tonnes per capita",
-                "Index, 1990=100",
+                "Number",
+                "Rate",
                 ""
               ]
             },
@@ -701,16 +913,16 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
       },
-      "title": "Domestic net greenhouse gas emissions"
+      "title": "Premature deaths due to exposure to fine particulate matter (PM2.5)"
     },
     {
-      "path": "11-32/data.csv",
-      "name": "11-32",
+      "path": "8-60/data.csv",
+      "name": "8-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -728,7 +940,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Soil sealing index",
+                "Fatal accidents at work per 100 000 workers",
                 ""
               ]
             },
@@ -739,7 +951,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Square metres per capita",
+                "Incidence rate",
                 ""
               ]
             },
@@ -752,11 +964,81 @@
           }
         ]
       },
-      "title": "Soil sealing index"
+      "title": "Fatal accidents at work per 100 000 workers"
     },
     {
-      "path": "16-40/data.csv",
-      "name": "16-40",
+      "path": "4-60/data.csv",
+      "name": "4-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adult participation in learning in the past four weeks by sex",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "25 to 64 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Adult participation in learning by sex"
+    },
+    {
+      "path": "15-61/data.csv",
+      "name": "15-61",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -776,7 +1058,173 @@
           }
         ]
       },
-      "title": "16-40"
+      "title": "15-61"
+    },
+    {
+      "path": "14-40/data.csv",
+      "name": "14-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "14-40"
+    },
+    {
+      "path": "2-53/data.csv",
+      "name": "2-53",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "2-53"
+    },
+    {
+      "path": "11-60/data.csv",
+      "name": "11-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Recycling rate of municipal waste",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Recycling rate of municipal waste"
+    },
+    {
+      "path": "11-20/data.csv",
+      "name": "11-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-20"
+    },
+    {
+      "path": "12-61/data.csv",
+      "name": "12-61",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-61"
+    },
+    {
+      "path": "9-50/data.csv",
+      "name": "9-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-50"
     },
     {
       "path": "7-40/data.csv",
@@ -839,6 +1287,251 @@
       "title": "Share of renewable energy in gross final energy consumption"
     },
     {
+      "path": "16-40/data.csv",
+      "name": "16-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-40"
+    },
+    {
+      "path": "10-41/data.csv",
+      "name": "10-41",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gini index - proxy indicator",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Gini index - proxy indicator"
+    },
+    {
+      "path": "14-60/data.csv",
+      "name": "14-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "14-60"
+    },
+    {
+      "path": "10-20/data.csv",
+      "name": "10-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-20"
+    },
+    {
+      "path": "16-30/data.csv",
+      "name": "16-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-30"
+    },
+    {
+      "path": "2-40/data.csv",
+      "name": "2-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area under organic farming",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "AGPRDMET",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total fully converted and under conversion to organic farming",
+                ""
+              ]
+            },
+            "title": "Agricultural production methods"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of total utilised agricultural area",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Area under organic farming"
+    },
+    {
+      "path": "12-41/data.csv",
+      "name": "12-41",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Circular material use rate",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-41"
+    },
+    {
       "path": "13-50/data.csv",
       "name": "13-50",
       "profile": "tabular-data-resource",
@@ -863,8 +1556,8 @@
       "title": "13-50"
     },
     {
-      "path": "10-10/data.csv",
-      "name": "10-10",
+      "path": "6-60/data.csv",
+      "name": "6-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -882,23 +1575,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Purchasing power adjusted GDP per capita",
+                "Water exploitation index, plus (WEI+)",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
-            "name": "INDIC_PPP",
+            "name": "STATINFO",
             "type": "string",
             "constraints": {
               "enum": [
-                "Real expenditure per capita (in PPS_EU27_2020)",
-                "Volume indices of real expenditure per capita (in PPS_EU27_2020=100)",
+                "Annual value",
+                "Four-year average",
                 ""
               ]
             },
-            "title": "Purchasing power parities indicator"
+            "title": "Statistical information"
           },
           {
             "name": "UNIT_MEASURE",
@@ -918,77 +1611,7 @@
           }
         ]
       },
-      "title": "Purchasing power adjusted GDP per capita"
-    },
-    {
-      "path": "15-11/data.csv",
-      "name": "15-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Forest area",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Forest area"
-    },
-    {
-      "path": "1-41/data.csv",
-      "name": "1-41",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "1-41"
+      "title": "Water exploitation index, plus (WEI+)"
     },
     {
       "path": "5-40/data.csv",
@@ -1072,8 +1695,8 @@
       "title": "Persons outside the labour force due to caring responsibilities by sex"
     },
     {
-      "path": "6-40/data.csv",
-      "name": "6-40",
+      "path": "7-60/data.csv",
+      "name": "7-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1093,11 +1716,11 @@
           }
         ]
       },
-      "title": "Nitrate in groundwater"
+      "title": "Population unable to keep home adequately warm"
     },
     {
-      "path": "8-30/data.csv",
-      "name": "8-30",
+      "path": "7-11/data.csv",
+      "name": "7-11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1115,42 +1738,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Employment rate",
+                "Final energy consumption",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "20 to 64 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of total population",
+                "Million tonnes of oil equivalent",
+                "Tonnes of oil equivalent (TOE) per capita",
                 ""
               ]
             },
@@ -1163,11 +1763,11 @@
           }
         ]
       },
-      "title": "Employment rate"
+      "title": "Final energy consumption"
     },
     {
-      "path": "4-40/data.csv",
-      "name": "4-40",
+      "path": "13-10/data.csv",
+      "name": "13-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1185,42 +1785,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Low achieving 15-year-olds in reading, mathematics or science",
+                "Net greenhouse gas emissions",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
-            "name": "EDUCATIONAL_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Reading",
-                "Mathematics",
-                "Science",
-                ""
-              ]
-            },
-            "title": "EDUCATIONAL AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of total population",
+                "Million tons of CO2 equivalent",
+                "Tonnes per capita",
+                "Index, 1990=100",
                 ""
               ]
             },
@@ -1233,116 +1811,11 @@
           }
         ]
       },
-      "title": "Low achieving 15-year-olds in reading, mathematics or science"
+      "title": "Domestic net greenhouse gas emissions"
     },
     {
-      "path": "9-40/data.csv",
-      "name": "9-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Patent applications to the European Patent Office",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "COOP_PTN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Inventor",
-                "Applicant",
-                ""
-              ]
-            },
-            "title": "Cooperation partners"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Per million population",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Patent applications to the European Patent Office"
-    },
-    {
-      "path": "3-70/data.csv",
-      "name": "3-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Defined daily doses (DDD) per thousand inhabitants per day",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day"
-    },
-    {
-      "path": "10-50/data.csv",
-      "name": "10-50",
+      "path": "8-11/data.csv",
+      "name": "8-11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1362,11 +1835,11 @@
           }
         ]
       },
-      "title": "10-50"
+      "title": "8-11"
     },
     {
-      "path": "5-61/data.csv",
-      "name": "5-61",
+      "path": "6-20/data.csv",
+      "name": "6-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1384,34 +1857,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Positions held by women in senior management positions",
+                "Population connected to at least secondary wastewater treatment",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
-            "name": "PROF_POS",
+            "name": "WW_TP",
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-executive directors",
-                "Non-executives and executive directors",
+                "Urban, independent and other wastewater treatment - at least secondary treatment",
                 ""
               ]
             },
-            "title": "Professional position"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
+            "title": "Wastewater treatment plants"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1431,35 +1892,11 @@
           }
         ]
       },
-      "title": "Positions held by women in senior management positions"
+      "title": "Population connected to at least secondary wastewater treatment"
     },
     {
-      "path": "14-10/data.csv",
-      "name": "14-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "14-10"
-    },
-    {
-      "path": "1-50/data.csv",
-      "name": "1-50",
+      "path": "10-60/data.csv",
+      "name": "10-60",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1477,66 +1914,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Affordable Housing - proxy indicator",
+                "Asylum applications",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "APPLICANT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Price-to-income ratio",
-                "Affordability index",
+                "First-time applicant",
+                "Positive first instance decision",
                 ""
               ]
             },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Affordable Housing - proxy indicator"
-    },
-    {
-      "path": "11-52/data.csv",
-      "name": "11-52",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Premature deaths due to exposure to fine particulate matter (PM2.5)",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Applicant type"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
-                "Rate",
+                "Per million inhabitants",
                 ""
               ]
             },
@@ -1549,80 +1950,11 @@
           }
         ]
       },
-      "title": "Premature deaths due to exposure to fine particulate matter (PM2.5)"
+      "title": "Asylum applications"
     },
     {
-      "path": "5-50/data.csv",
-      "name": "5-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Seats held by women in national parliaments and governments",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "ORG_INST",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National parliament",
-                "National government",
-                ""
-              ]
-            },
-            "title": "National and international organizations and institutions"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of women",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Seats held by women in national parliaments and governments"
-    },
-    {
-      "path": "1-31/data.csv",
-      "name": "1-31",
+      "path": "1-41/data.csv",
+      "name": "1-41",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1642,221 +1974,7 @@
           }
         ]
       },
-      "title": "1-31"
-    },
-    {
-      "path": "12-10/data.csv",
-      "name": "12-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-10"
-    },
-    {
-      "path": "13-31/data.csv",
-      "name": "13-31",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "13-31"
-    },
-    {
-      "path": "14-60/data.csv",
-      "name": "14-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "14-60"
-    },
-    {
-      "path": "4-60/data.csv",
-      "name": "4-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Adult participation in learning in the past four weeks by sex",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25 to 64 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Adult participation in learning by sex"
-    },
-    {
-      "path": "9-60/data.csv",
-      "name": "9-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-60"
-    },
-    {
-      "path": "11-11/data.csv",
-      "name": "11-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-11"
-    },
-    {
-      "path": "2-20/data.csv",
-      "name": "2-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "2-20"
+      "title": "1-41"
     },
     {
       "path": "8-20/data.csv",
@@ -1929,32 +2047,8 @@
       "title": "Young people neither in employment nor in education and training"
     },
     {
-      "path": "17-31/data.csv",
-      "name": "17-31",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "17-31"
-    },
-    {
-      "path": "16-10/data.csv",
-      "name": "16-10",
+      "path": "15-11/data.csv",
+      "name": "15-11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1972,113 +2066,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Standardised death rate due to homicide",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rate per 100,000 population",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Standardised death rate due to homicid"
-    },
-    {
-      "path": "7-11/data.csv",
-      "name": "7-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Final energy consumption",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million tonnes of oil equivalent",
-                "Tonnes of oil equivalent (TOE) per capita",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Final energy consumption"
-    },
-    {
-      "path": "11-60/data.csv",
-      "name": "11-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Recycling rate of municipal waste",
+                "Forest area",
                 ""
               ]
             },
@@ -2102,799 +2090,7 @@
           }
         ]
       },
-      "title": "Recycling rate of municipal waste"
-    },
-    {
-      "path": "15-42/data.csv",
-      "name": "15-42",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Drought impact on ecosystems",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "STATINFO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual value",
-                "Ten-year average",
-                ""
-              ]
-            },
-            "title": "Statistical information"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Square kilometers",
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Drought impact area on ecosystems"
-    },
-    {
-      "path": "10-60/data.csv",
-      "name": "10-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Asylum applications",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "APPLICANT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "First-time applicant",
-                "Positive first instance decision",
-                ""
-              ]
-            },
-            "title": "Applicant type"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per million inhabitants",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Asylum applications"
-    },
-    {
-      "path": "7-60/data.csv",
-      "name": "7-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Population unable to keep home adequately warm"
-    },
-    {
-      "path": "1-10/data.csv",
-      "name": "1-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of total population",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator"
-    },
-    {
-      "path": "2-60/data.csv",
-      "name": "2-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ammonia emissions from agriculture",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "OOOt",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ammonia emissions from agriculture"
-    },
-    {
-      "path": "10-20/data.csv",
-      "name": "10-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "10-20"
-    },
-    {
-      "path": "6-20/data.csv",
-      "name": "6-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population connected to at least secondary wastewater treatment",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "WW_TP",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban, independent and other wastewater treatment - at least secondary treatment",
-                ""
-              ]
-            },
-            "title": "Wastewater treatment plants"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Population connected to at least secondary wastewater treatment"
-    },
-    {
-      "path": "13-40/data.csv",
-      "name": "13-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Climate-related economic losses",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "STATINFO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual value",
-                "Thirty-year average",
-                ""
-              ]
-            },
-            "title": "Statistical information"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million euro at constant prices",
-                "Euro per inhabitant (at constant prices)",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Economic losses from weather - and climate - related extremes"
-    },
-    {
-      "path": "8-10/data.csv",
-      "name": "8-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Real GDP per capita",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Chain linked volumes (2020), euro per capita",
-                "Chain linked volumes, percentage change on previous period, per capita",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Real GDP per capita"
-    },
-    {
-      "path": "3-30/data.csv",
-      "name": "3-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Smoking prevalence by sex",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 years old and over",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of total population",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Smoking prevalence by sex"
-    },
-    {
-      "path": "12-51/data.csv",
-      "name": "12-51",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Generation of waste by hazardousness",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "HAZARD_WASTE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hazardous and non-hazardous waste, total",
-                "Hazardous waste",
-                "Non-hazardous waste",
-                ""
-              ]
-            },
-            "title": "Hazard waste class"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kilograms per capita",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Generation of waste by hazardousness"
-    },
-    {
-      "path": "4-20/data.csv",
-      "name": "4-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tertiary educational attainment by sex, Persons aged 25-34 with a tertiary educational attainment level",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tertiary education (levels 5-8)",
-                ""
-              ]
-            },
-            "title": "Education level"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25 to 34 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tertiary educational attainment by sex"
-    },
-    {
-      "path": "1-20/data.csv",
-      "name": "1-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Poverty gap at $8.30 a day (2021 PPP) (%) - proxy indicator",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Poverty gap at USD 8.30 a day (2021 PPP) (%) - proxy indicator"
-    },
-    {
-      "path": "11-40/data.csv",
-      "name": "11-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Road traffic deaths",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Road traffic deaths"
-    },
-    {
-      "path": "10-41/data.csv",
-      "name": "10-41",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gini index - proxy indicator",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gini index - proxy indicator"
-    },
-    {
-      "path": "5-20/data.csv",
-      "name": "5-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-20"
+      "title": "Forest area"
     },
     {
       "path": "7-10/data.csv",
@@ -2944,32 +2140,8 @@
       "title": "Primary energy consumption"
     },
     {
-      "path": "9-50/data.csv",
-      "name": "9-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-50"
-    },
-    {
-      "path": "13-21/data.csv",
-      "name": "13-21",
+      "path": "9-30/data.csv",
+      "name": "9-30",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2987,20 +2159,44 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Net greenhouse gas emissions of the LULUCF sector",
+                "R&D personnel",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "SECTPERF",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All sectors",
+                "Business enterprise sector",
+                "Government sector",
+                "Higher education sector",
+                "Private non-profit sector",
+                ""
+              ]
+            },
+            "title": "Sector of performance"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Thousand tonnes of CO2 equivalent",
-                "Tonnes per capita",
-                "Tonnes per square kilometre",
+                "Percentage of population in the labour force - numerator in full - time equivalent (FTE)",
                 ""
               ]
             },
@@ -3013,7 +2209,7 @@
           }
         ]
       },
-      "title": "Net greenhouse gas emissions of the Land use, Land use change and Forestry (LULUCF) sector"
+      "title": "R&D personnel"
     },
     {
       "path": "7-30/data.csv",
@@ -3061,74 +2257,6 @@
         ]
       },
       "title": "Energy productivity"
-    },
-    {
-      "path": "8-40/data.csv",
-      "name": "8-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Long-term unemployment rate by sex",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both sexes",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 to 74 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of population in the labour force",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Long - term unemployment rate"
     },
     {
       "path": "4-10/data.csv",
@@ -3212,56 +2340,8 @@
       "title": "Early leavers from education and training by sex"
     },
     {
-      "path": "14-50/data.csv",
-      "name": "14-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "14-50"
-    },
-    {
-      "path": "15-50/data.csv",
-      "name": "15-50",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "15-50"
-    },
-    {
-      "path": "17-40/data.csv",
-      "name": "17-40",
+      "path": "9-40/data.csv",
+      "name": "9-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3279,19 +2359,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "General government gross debt",
+                "Patent applications to the European Patent Office",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
+            "name": "COOP_PTN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inventor",
+                "Applicant",
+                ""
+              ]
+            },
+            "title": "Cooperation partners"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of gross domestic product (GDP)",
-                "in millions of BAM",
+                "Number",
+                "Per million population",
                 ""
               ]
             },
@@ -3304,185 +2396,7 @@
           }
         ]
       },
-      "title": "General government gross debt"
-    },
-    {
-      "path": "6-60/data.csv",
-      "name": "6-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Water exploitation index, plus (WEI+)",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "STATINFO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual value",
-                "Four-year average",
-                ""
-              ]
-            },
-            "title": "Statistical information"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Water exploitation index, plus (WEI+)"
-    },
-    {
-      "path": "15-61/data.csv",
-      "name": "15-61",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "15-61"
-    },
-    {
-      "path": "1-40/data.csv",
-      "name": "1-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "1-40"
-    },
-    {
-      "path": "14-40/data.csv",
-      "name": "14-40",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "14-40"
-    },
-    {
-      "path": "15-60/data.csv",
-      "name": "15-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "15-60"
-    },
-    {
-      "path": "11-20/data.csv",
-      "name": "11-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-20"
+      "title": "Patent applications to the European Patent Office"
     },
     {
       "path": "6-50/data.csv",
@@ -3509,8 +2423,8 @@
       "title": "Phosphate in rivers"
     },
     {
-      "path": "2-53/data.csv",
-      "name": "2-53",
+      "path": "1-31/data.csv",
+      "name": "1-31",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3530,11 +2444,11 @@
           }
         ]
       },
-      "title": "2-53"
+      "title": "1-31"
     },
     {
-      "path": "9-10/data.csv",
-      "name": "9-10",
+      "path": "13-21/data.csv",
+      "name": "13-21",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3552,33 +2466,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gross domestic expenditure on R&D by sector",
+                "Net greenhouse gas emissions of the LULUCF sector",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
-            "name": "SECTPERF",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All sectors",
-                "Business enterprise sector",
-                "Government sector",
-                "Higher education sector",
-                "Private non-profit sector",
-                ""
-              ]
-            },
-            "title": "Sector of performance"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of gross domestic product (GDP)",
+                "Thousand tonnes of CO2 equivalent",
+                "Tonnes per capita",
+                "Tonnes per square kilometre",
                 ""
               ]
             },
@@ -3591,404 +2492,7 @@
           }
         ]
       },
-      "title": "Gross domestic expenditure on R&D"
-    },
-    {
-      "path": "5-30/data.csv",
-      "name": "5-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gender employment gap, by type of employment",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "Labour_force_and_employment_status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Employed persons",
-                "Employed persons working part-time",
-                "Employed persons with temporary contract",
-                "Underemployed persons working part-time",
-                ""
-              ]
-            },
-            "title": "Labour force and employment status"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "20 to 64 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gender employment gap, by type of employment"
-    },
-    {
-      "path": "12-41/data.csv",
-      "name": "12-41",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Circular material use rate",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-41"
-    },
-    {
-      "path": "2-30/data.csv",
-      "name": "2-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Government support to agricultural research and development",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million euro",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Government support to agricultural research and development"
-    },
-    {
-      "path": "8-11/data.csv",
-      "name": "8-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-11"
-    },
-    {
-      "path": "6-70/data.csv",
-      "name": "6-70",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Pesticides in rivers (NEW)"
-    },
-    {
-      "path": "14-21/data.csv",
-      "name": "14-21",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "14-21"
-    },
-    {
-      "path": "3-20/data.csv",
-      "name": "3-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-20"
-    },
-    {
-      "path": "15-20/data.csv",
-      "name": "15-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Terrestrial protected areas",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Terrestrial protected areas"
-    },
-    {
-      "path": "17-60/data.csv",
-      "name": "17-60",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "High-speed internet coverage, by type of area",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All areas",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
-            "name": "INET_TEC",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fixed very high capacity networks (VHCN)",
-                ""
-              ]
-            },
-            "title": "Internet technologies"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of households",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "High-speed internet coverage, by type of area"
-    },
-    {
-      "path": "10-30/data.csv",
-      "name": "10-30",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "10-30"
+      "title": "Net greenhouse gas emissions of the Land use, Land use change and Forestry (LULUCF) sector"
     },
     {
       "path": "17-50/data.csv",
@@ -4037,8 +2541,32 @@
       "title": "Shares of environmental taxes in total tax revenues"
     },
     {
-      "path": "4-31/data.csv",
-      "name": "4-31",
+      "path": "11-11/data.csv",
+      "name": "11-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-11"
+    },
+    {
+      "path": "4-40/data.csv",
+      "name": "4-40",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4056,17 +2584,193 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Participation in early childhood education by sex (children aged 3 and over)",
+                "Low achieving 15-year-olds in reading, mathematics or science",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
+            "name": "EDUCATIONAL_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reading",
+                "Mathematics",
+                "Science",
+                ""
+              ]
+            },
+            "title": "EDUCATIONAL AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
+                "Percentage of total population",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Low achieving 15-year-olds in reading, mathematics or science"
+    },
+    {
+      "path": "6-70/data.csv",
+      "name": "6-70",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Pesticides in rivers (NEW)"
+    },
+    {
+      "path": "5-50/data.csv",
+      "name": "5-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Seats held by women in national parliaments and governments",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "ORG_INST",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National parliament",
+                "National government",
+                ""
+              ]
+            },
+            "title": "National and international organizations and institutions"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of women",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Seats held by women in national parliaments and governments"
+    },
+    {
+      "path": "15-42/data.csv",
+      "name": "15-42",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Drought impact on ecosystems",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "STATINFO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual value",
+                "Ten-year average",
+                ""
+              ]
+            },
+            "title": "Statistical information"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Square kilometers",
                 "Percent",
                 ""
               ]
@@ -4080,11 +2784,58 @@
           }
         ]
       },
-      "title": "Participation in early childhood education by sex (children aged 3 and over)"
+      "title": "Drought impact area on ecosystems"
     },
     {
-      "path": "12-31/data.csv",
-      "name": "12-31",
+      "path": "8-10/data.csv",
+      "name": "8-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Real GDP per capita",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chain linked volumes (2020), euro per capita",
+                "Chain linked volumes, percentage change on previous period, per capita",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Real GDP per capita"
+    },
+    {
+      "path": "13-70/data.csv",
+      "name": "13-70",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4104,11 +2855,11 @@
           }
         ]
       },
-      "title": "12-31"
+      "title": "13-70"
     },
     {
-      "path": "3-12/data.csv",
-      "name": "3-12",
+      "path": "11-32/data.csv",
+      "name": "11-32",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4126,7 +2877,160 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Healthy life expectancy based on self-perceived health",
+                "Soil sealing index",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Square metres per capita",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Soil sealing index"
+    },
+    {
+      "path": "2-20/data.csv",
+      "name": "2-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "2-20"
+    },
+    {
+      "path": "13-40/data.csv",
+      "name": "13-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Climate-related economic losses",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "STATINFO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual value",
+                "Thirty-year average",
+                ""
+              ]
+            },
+            "title": "Statistical information"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million euro at constant prices",
+                "Euro per inhabitant (at constant prices)",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Economic losses from weather - and climate - related extremes"
+    },
+    {
+      "path": "10-50/data.csv",
+      "name": "10-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-50"
+    },
+    {
+      "path": "16-10/data.csv",
+      "name": "16-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Standardised death rate due to homicide",
                 ""
               ]
             },
@@ -4150,7 +3054,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Year",
+                "Rate per 100,000 population",
                 ""
               ]
             },
@@ -4163,7 +3067,64 @@
           }
         ]
       },
-      "title": "Healthy life expectancy - proxy indicator"
+      "title": "Standardised death rate due to homicid"
+    },
+    {
+      "path": "5-11/data.csv",
+      "name": "5-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Physical and sexual violence to women by age group",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 to 74 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Physical and sexual violence to women by age group"
     },
     {
       "path": "16-50/data.csv",
@@ -4212,8 +3173,8 @@
       "title": "Corruption Perceptions Index"
     },
     {
-      "path": "7-20/data.csv",
-      "name": "7-20",
+      "path": "12-10/data.csv",
+      "name": "12-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4227,39 +3188,41 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Final energy consumption in households per capita",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kilogram of oil equivalent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Final energy consumption in households per capita"
+      "title": "12-10"
     },
     {
-      "path": "7-50/data.csv",
-      "name": "7-50",
+      "path": "14-30/data.csv",
+      "name": "14-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "14-30"
+    },
+    {
+      "path": "15-20/data.csv",
+      "name": "15-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4277,25 +3240,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Energy import dependency",
+                "Terrestrial protected areas",
                 ""
               ]
             },
             "title": "SDG Series"
-          },
-          {
-            "name": "Standard_international_energy_product_classification",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Solid fossil fuels",
-                "Oil and petroleum products (excluding biofuel portion)",
-                "Natural gas",
-                ""
-              ]
-            },
-            "title": "Standard international energy product classification"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4315,7 +3264,721 @@
           }
         ]
       },
-      "title": "Energy import dependency"
+      "title": "Terrestrial protected areas"
+    },
+    {
+      "path": "16-20/data.csv",
+      "name": "16-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-20"
+    },
+    {
+      "path": "15-60/data.csv",
+      "name": "15-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-60"
+    },
+    {
+      "path": "14-10/data.csv",
+      "name": "14-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "14-10"
+    },
+    {
+      "path": "16-70/data.csv",
+      "name": "16-70",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Victims of trafficking in human beings by sex",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Victims of trafficking in human beings by sex"
+    },
+    {
+      "path": "3-20/data.csv",
+      "name": "3-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-20"
+    },
+    {
+      "path": "9-60/data.csv",
+      "name": "9-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-60"
+    },
+    {
+      "path": "6-40/data.csv",
+      "name": "6-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Nitrate in groundwater"
+    },
+    {
+      "path": "17-10/data.csv",
+      "name": "17-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net ODA received (% of GNI)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "PARTNER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official Development Assistance (ODA) recipients from the Development Assistance Committee (DAC)",
+                ""
+              ]
+            },
+            "title": "Geopolitical entity (partner)"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of gross national income (GNI)",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Official development assistance as share of gross national income"
+    },
+    {
+      "path": "15-50/data.csv",
+      "name": "15-50",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-50"
+    },
+    {
+      "path": "12-31/data.csv",
+      "name": "12-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-31"
+    },
+    {
+      "path": "1-20/data.csv",
+      "name": "1-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poverty gap at $8.30 a day (2021 PPP) (%) - proxy indicator",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Poverty gap at USD 8.30 a day (2021 PPP) (%) - proxy indicator"
+    },
+    {
+      "path": "4-31/data.csv",
+      "name": "4-31",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Participation in early childhood education by sex (children aged 3 and over)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Participation in early childhood education by sex (children aged 3 and over)"
+    },
+    {
+      "path": "3-30/data.csv",
+      "name": "3-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Smoking prevalence by sex",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years old and over",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of total population",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Smoking prevalence by sex"
+    },
+    {
+      "path": "3-70/data.csv",
+      "name": "3-70",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Defined daily doses (DDD) per thousand inhabitants per day",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day"
+    },
+    {
+      "path": "10-30/data.csv",
+      "name": "10-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-30"
+    },
+    {
+      "path": "8-30/data.csv",
+      "name": "8-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Employment rate",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20 to 64 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of total population",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Employment rate"
+    },
+    {
+      "path": "10-10/data.csv",
+      "name": "10-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Purchasing power adjusted GDP per capita",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "INDIC_PPP",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Real expenditure per capita (in PPS_EU27_2020)",
+                "Volume indices of real expenditure per capita (in PPS_EU27_2020=100)",
+                ""
+              ]
+            },
+            "title": "Purchasing power parities indicator"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Purchasing power adjusted GDP per capita"
+    },
+    {
+      "path": "1-10/data.csv",
+      "name": "1-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of total population",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population) - proxy indicator"
     },
     {
       "path": "2-10/data.csv",
@@ -4377,8 +4040,8 @@
       "title": "Obesity rate by body mass index (BMI)"
     },
     {
-      "path": "2-40/data.csv",
-      "name": "2-40",
+      "path": "5-61/data.csv",
+      "name": "5-61",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4396,29 +4059,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Area under organic farming",
+                "Positions held by women in senior management positions",
                 ""
               ]
             },
             "title": "SDG Series"
           },
           {
-            "name": "AGPRDMET",
+            "name": "PROF_POS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total fully converted and under conversion to organic farming",
+                "Non-executive directors",
+                "Non-executives and executive directors",
                 ""
               ]
             },
-            "title": "Agricultural production methods"
+            "title": "Professional position"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of total utilised agricultural area",
+                "Percent",
                 ""
               ]
             },
@@ -4431,7 +4106,332 @@
           }
         ]
       },
-      "title": "Area under organic farming"
+      "title": "Positions held by women in senior management positions"
+    },
+    {
+      "path": "4-20/data.csv",
+      "name": "4-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tertiary educational attainment by sex, Persons aged 25-34 with a tertiary educational attainment level",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tertiary education (levels 5-8)",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "25 to 34 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tertiary educational attainment by sex"
+    },
+    {
+      "path": "2-30/data.csv",
+      "name": "2-30",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Government support to agricultural research and development",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million euro",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Government support to agricultural research and development"
+    },
+    {
+      "path": "17-20/data.csv",
+      "name": "17-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-20"
+    },
+    {
+      "path": "17-40/data.csv",
+      "name": "17-40",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "General government gross debt",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of gross domestic product (GDP)",
+                "in millions of BAM",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "General government gross debt"
+    },
+    {
+      "path": "4-70/data.csv",
+      "name": "4-70",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share of individuals having at least basic digital skills, by sex",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of individuals",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Type_of_skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Individuals with basic or above basic overall digital skills (all five component indicators are at basic or above basic level)",
+                ""
+              ]
+            },
+            "title": "Type of skill"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to 74 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Share of individuals having at least basic digital skills, by sex"
+    },
+    {
+      "path": "2-60/data.csv",
+      "name": "2-60",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ammonia emissions from agriculture",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "OOOt",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ammonia emissions from agriculture"
     }
   ]
 }
