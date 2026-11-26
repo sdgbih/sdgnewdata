@@ -13,13 +13,12 @@ progress_calculation_options:
       - field: AGE
         value: Y25_64
     target: 28
-    target_year: 2030
     direction: positive
 graph_type: line
 indicator_sort_order: '04-60'
 indicator_name: global_indicators.4-60-title
 source_active_1: true
-source_organisation_1: ESS (EU-LFS)
+source_organisation_1: BHAS
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_04_60/default/table'
 footer_fields:
   - label: global_indicators.metadata-footer-label
@@ -27,10 +26,10 @@ footer_fields:
 graph_titles:
 - series: SERIES.sdg_04_60
   title: SERIES.sdg_04_60
-indicator_definition: global_indicators.4-60-definition
-rationale: global_indicators.4-60-intention
-methodology_characteristics: global_indicators.4-60-methodology
-long_objective: global_indicators.4-60-long_term_objective
+national_indicator_definition: global_indicators.4-60-definition_national
+national_rationale: global_indicators.4-60-intention_national
+national_methodology_characteristics: global_indicators.4-60-methodology_national
+national_long_objective: global_indicators.4-60-long_term_objective_national
 eu_indicator_definition: global_indicators.4-60-definition
 eu_rationale: global_indicators.4-60-intention
 eu_methodology_characteristics: global_indicators.4-60-methodology
