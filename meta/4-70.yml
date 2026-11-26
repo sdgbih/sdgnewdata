@@ -21,7 +21,7 @@ graph_type: line
 indicator_sort_order: '04-70'
 indicator_name: global_indicators.4-70-title
 source_active_1: true
-source_organisation_1: ESS (ICT survey)
+source_organisation_1: BHAS
 source_url_1: 'https://ec.europa.eu/eurostat/databrowser/view/sdg_04_70/default/table'
 footer_fields:
   - label: global_indicators.metadata-footer-label
