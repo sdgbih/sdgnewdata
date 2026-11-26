@@ -15,7 +15,7 @@ graph_type: line
 indicator_sort_order: '03-12'
 indicator_name: global_indicators.3-12-title
 source_active_1: true
-source_organisation_1: WHO 
+source_organisation_1: BHAS, WHO 
 source_url_1: 'https://data.who.int/countries/070'
 footer_fields:
   - label: global_indicators.metadata-footer-label
